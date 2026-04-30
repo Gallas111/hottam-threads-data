@@ -1,0 +1,50 @@
+name: collect-threads-trending
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # 매 6시간 (UTC 0/6/12/18 = KST 9/15/21/3)
+  workflow_dispatch:        # 수동 트리거 (test 용)
+    inputs:
+      presets:
+        description: "Comma-separated preset names (empty = all 19)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write  # data/* 커밋 권한
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with: { node-version: "20" }
+
+      - name: Install deps
+        run: npm ci || npm install
+
+      - name: Install Playwright Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: Collect
+        env:
+          THREADS_TOKEN: ${{ secrets.THREADS_TOKEN }}
+          PRESETS: ${{ github.event.inputs.presets || '' }}
+          PER_KEYWORD: "8"
+          MAX_ENRICH_PER_CAT: "15"
+          ENRICH_CONCURRENCY: "3"
+        run: node scripts/collect.mjs
+
+      - name: Commit data
+        run: |
+          git config user.name "hottam-threads-collector[bot]"
+          git config user.email "actions@github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "chore: refresh trending data $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
