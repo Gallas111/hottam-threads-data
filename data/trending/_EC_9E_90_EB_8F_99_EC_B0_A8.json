@@ -1,0 +1,17 @@
+{
+  "preset": "자동차",
+  "keywords": [
+    "자동차",
+    "신차",
+    "전기차",
+    "리뷰",
+    "시승기"
+  ],
+  "fetchedAt": "2026-04-30T13:45:25.266Z",
+  "items": [],
+  "summary": {
+    "total": 0,
+    "enriched": 0,
+    "failed": 0
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "preset": "반려동물",
+  "keywords": [
+    "강아지",
+    "고양이",
+    "댕댕이",
+    "반려묘",
+    "펫"
+  ],
+  "fetchedAt": "2026-04-30T13:45:24.715Z",
+  "items": [],
+  "summary": {
+    "total": 0,
+    "enriched": 0,
+    "failed": 0
+  }
+}

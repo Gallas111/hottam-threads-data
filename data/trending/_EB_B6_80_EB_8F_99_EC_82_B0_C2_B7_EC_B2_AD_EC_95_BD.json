@@ -1,0 +1,17 @@
+{
+  "preset": "부동산·청약",
+  "keywords": [
+    "청약",
+    "부동산",
+    "전세",
+    "월세",
+    "분양"
+  ],
+  "fetchedAt": "2026-04-30T13:45:19.122Z",
+  "items": [],
+  "summary": {
+    "total": 0,
+    "enriched": 0,
+    "failed": 0
+  }
+}
