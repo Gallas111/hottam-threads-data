@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T10:21:49.872Z",
+  "generatedAt": "2026-04-30T13:28:11.315Z",
   "categories": [
     {
       "preset": "IT·테크·AI",
@@ -8,7 +8,25 @@
       "total": 0,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-04-30T10:21:50.433Z"
+      "fetchedAt": "2026-04-30T13:28:12.715Z"
+    },
+    {
+      "preset": "코인·재테크·투자",
+      "slug": "_EC_BD_94_EC_9D_B8_C2_B7_EC_9E_AC_ED_85_8C_ED_81_AC_C2_B7_ED_88_AC_EC_9E_90",
+      "path": "data/trending/_EC_BD_94_EC_9D_B8_C2_B7_EC_9E_AC_ED_85_8C_ED_81_AC_C2_B7_ED_88_AC_EC_9E_90.json",
+      "total": 0,
+      "enriched": 0,
+      "failed": 0,
+      "fetchedAt": "2026-04-30T13:28:13.223Z"
+    },
+    {
+      "preset": "쇼핑·살림·자취",
+      "slug": "_EC_87_BC_ED_95_91_C2_B7_EC_82_B4_EB_A6_BC_C2_B7_EC_9E_90_EC_B7_A8",
+      "path": "data/trending/_EC_87_BC_ED_95_91_C2_B7_EC_82_B4_EB_A6_BC_C2_B7_EC_9E_90_EC_B7_A8.json",
+      "total": 0,
+      "enriched": 0,
+      "failed": 0,
+      "fetchedAt": "2026-04-30T13:28:13.904Z"
     }
   ]
 }
