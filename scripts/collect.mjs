@@ -21,7 +21,8 @@ console.log(`Collecting ${SELECTED.length} categories: ${SELECTED.join(", ")}`);
 
 // ==================== Meta API: keyword search ====================
 async function searchKeyword(keyword, type = "TOP", limit = 10) {
-  const url = new URL("https://graph.threads.net/v1.0/me/threads_keyword_search");
+  // 정확한 endpoint: /keyword_search (없는 /me 버전 X). docs 2026-04-30 확인.
+  const url = new URL("https://graph.threads.net/v1.0/keyword_search");
   url.searchParams.set("q", keyword);
   url.searchParams.set("search_type", type);
   url.searchParams.set("fields", "id,text,username,timestamp,permalink,media_type,media_url,thumbnail_url,shortcode,is_quote_post,is_reply,has_replies,alt_text");
