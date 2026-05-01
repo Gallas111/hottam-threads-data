@@ -1,43 +1,71 @@
 // hottam-threads-data collector
-// 6h cron — 19 카테고리 trending → playwright enrich → JSON commit
+// 6h cron — 19 카테고리 검색 → playwright DOM scrape → JSON commit
+// Meta keyword_search 가 dev mode 에서 빈 결과 반환 → threads.net 공개 검색 페이지 직접 scrape 로 전환 (2026-05-01)
 
 import { chromium } from "playwright";
 import { writeFile, mkdir } from "node:fs/promises";
 import { dirname } from "node:path";
 import { KEYWORD_PRESETS, PRESET_NAMES } from "./keywords.mjs";
 
-const TOKEN = process.env.THREADS_TOKEN;
-if (!TOKEN) { console.error("THREADS_TOKEN env required"); process.exit(1); }
-
-// Subset for cost control. 일부 카테고리만 매 cron, 다른 cron 에서 다른 묶음 가능.
 // 환경변수 PRESETS="A,B,C" 로 override, 없으면 전체.
 const ARG_PRESETS = process.env.PRESETS?.split(",").map(s => s.trim()).filter(Boolean);
 const SELECTED = ARG_PRESETS?.length ? ARG_PRESETS : PRESET_NAMES;
 const PER_KEYWORD = Number(process.env.PER_KEYWORD || "10");
-const MAX_ENRICH_PER_CAT = Number(process.env.MAX_ENRICH_PER_CAT || "20");
+const ENRICH = process.env.ENRICH === "1";  // 좋아요/댓글 정확 메트릭 — 시간 많이 듦, 기본 OFF
+const MAX_ENRICH_PER_CAT = Number(process.env.MAX_ENRICH_PER_CAT || "10");
 const ENRICH_CONCURRENCY = Number(process.env.ENRICH_CONCURRENCY || "3");
+const SEARCH_DELAY_MS = Number(process.env.SEARCH_DELAY_MS || "2000");  // 키워드 간 간격
+
+const MOBILE_UA = "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1";
 
 console.log(`Collecting ${SELECTED.length} categories: ${SELECTED.join(", ")}`);
+console.log(`PER_KEYWORD=${PER_KEYWORD}, ENRICH=${ENRICH}, SEARCH_DELAY_MS=${SEARCH_DELAY_MS}`);
 
-// ==================== Meta API: keyword search ====================
-async function searchKeyword(keyword, type = "TOP", limit = 10) {
-  // 정확한 endpoint: /keyword_search (없는 /me 버전 X). docs 2026-04-30 확인.
-  const url = new URL("https://graph.threads.net/v1.0/keyword_search");
-  url.searchParams.set("q", keyword);
-  url.searchParams.set("search_type", type);
-  url.searchParams.set("fields", "id,text,username,timestamp,permalink,media_type,media_url,thumbnail_url,shortcode,is_quote_post,is_reply,has_replies,alt_text");
-  url.searchParams.set("limit", String(limit));
-  url.searchParams.set("access_token", TOKEN);
-  const r = await fetch(url);
-  if (!r.ok) {
-    const text = await r.text();
-    throw new Error(`keyword_search ${keyword} failed (${r.status}): ${text.slice(0, 200)}`);
+// ==================== threads.net 검색 페이지 직접 scrape ====================
+async function searchKeyword(browser, keyword, type = "TOP", limit = 10) {
+  const sortParam = type === "RECENT" ? "&sort_type=recent" : "";
+  const url = `https://www.threads.net/search?q=${encodeURIComponent(keyword)}&serp_type=default${sortParam}`;
+  const page = await browser.newPage({ userAgent: MOBILE_UA, viewport: { width: 390, height: 844 } });
+  try {
+    await page.goto(url, { waitUntil: "networkidle", timeout: 25000 });
+    try { await page.waitForSelector('a[href*="/post/"]', { timeout: 5000 }); } catch {}
+    const posts = await page.evaluate(() => {
+      const out = [];
+      const seen = new Set();
+      const anchors = document.querySelectorAll('a[href*="/post/"]');
+      for (const a of anchors) {
+        const href = a.href;
+        const m = href.match(/threads\.(?:net|com)\/(@[^\/]+)\/post\/([A-Za-z0-9_-]+)/);
+        if (!m) continue;
+        const username = m[1], code = m[2];
+        if (seen.has(code)) continue;
+        seen.add(code);
+        let card = a;
+        for (let i = 0; i < 8 && card; i++) {
+          if (card.matches && card.matches('div[role="article"], article, div[data-pressable-container]')) break;
+          card = card.parentElement;
+        }
+        const container = card || a.parentElement;
+        const text = ((container && container.innerText) || "").replace(/\s+/g, " ").trim().slice(0, 800);
+        const img = container && container.querySelector('img[srcset], img[src*="cdninstagram"], img[src*="fbcdn"]');
+        out.push({
+          id: code, username,
+          permalink: href.split('?')[0],
+          text,
+          has_image: !!img,
+          has_video: !!(container && container.querySelector('video')),
+          thumbnail_url: (img && img.src) || null,
+        });
+      }
+      return out;
+    });
+    return posts.slice(0, limit);
+  } finally {
+    await page.close();
   }
-  const json = await r.json();
-  return json.data || [];
 }
 
-// ==================== Playwright: enrich ====================
+// ==================== Enrich (옵션) — 게시물 페이지 SSR 메트릭 추출 ====================
 function findMetrics(obj, target) {
   if (!obj || typeof obj !== "object") return;
   if (Array.isArray(obj)) { for (const v of obj) findMetrics(v, target); return; }
@@ -60,9 +88,7 @@ function findMetrics(obj, target) {
 }
 
 async function enrichOne(browser, post) {
-  const page = await browser.newPage({
-    userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
-  });
+  const page = await browser.newPage({ userAgent: MOBILE_UA });
   try {
     await page.goto(post.permalink, { waitUntil: "networkidle", timeout: 20000 });
     const blobs = await page.$$eval("script[data-sjs]", (els) => els.map(el => el.textContent || ""));
@@ -97,40 +123,52 @@ async function enrichBatch(browser, posts, concurrency = 3) {
   return out;
 }
 
+const sleep = (ms) => new Promise(r => setTimeout(r, ms));
+
 // ==================== Per-category collect ====================
 async function collectCategory(browser, presetName) {
   const keywords = KEYWORD_PRESETS[presetName];
   if (!keywords) { console.warn(`unknown preset: ${presetName}`); return null; }
   const seen = new Set();
   const all = [];
-  for (const kw of keywords) {
+  for (let i = 0; i < keywords.length; i++) {
+    const kw = keywords[i];
     try {
-      const posts = await searchKeyword(kw, "TOP", PER_KEYWORD);
+      const posts = await searchKeyword(browser, kw, "TOP", PER_KEYWORD);
+      let added = 0;
       for (const p of posts) {
         if (seen.has(p.id)) continue;
         seen.add(p.id);
         all.push({ ...p, _keyword: kw });
+        added++;
       }
+      console.log(`    '${kw}' → ${posts.length} found, ${added} new`);
     } catch (e) {
-      console.warn(`  keyword '${kw}' failed: ${e.message}`);
+      console.warn(`    keyword '${kw}' failed: ${e.message}`);
     }
+    if (i < keywords.length - 1) await sleep(SEARCH_DELAY_MS);
   }
   console.log(`  [${presetName}] ${all.length} unique posts collected`);
-  // permalink 있는 글만 enrich, 상위 N 개
-  const enrichable = all.filter(p => p.permalink).slice(0, MAX_ENRICH_PER_CAT);
-  const metrics = await enrichBatch(browser, enrichable, ENRICH_CONCURRENCY);
-  const byId = Object.fromEntries(metrics.map(m => [m.id, m]));
-  const enriched = all.map(p => byId[p.id] ? { ...p, _metrics: byId[p.id] } : p);
+
+  let enriched = all;
+  let summary = { total: all.length, enriched: 0, failed: 0 };
+  if (ENRICH) {
+    const enrichable = all.filter(p => p.permalink).slice(0, MAX_ENRICH_PER_CAT);
+    const metrics = await enrichBatch(browser, enrichable, ENRICH_CONCURRENCY);
+    const byId = Object.fromEntries(metrics.map(m => [m.id, m]));
+    enriched = all.map(p => byId[p.id] ? { ...p, _metrics: byId[p.id] } : p);
+    summary = {
+      total: enriched.length,
+      enriched: metrics.filter(m => m.source === "scraped").length,
+      failed: metrics.filter(m => m.source === "failed").length,
+    };
+  }
   return {
     preset: presetName,
     keywords,
     fetchedAt: new Date().toISOString(),
     items: enriched,
-    summary: {
-      total: enriched.length,
-      enriched: metrics.filter(m => m.source === "scraped").length,
-      failed: metrics.filter(m => m.source === "failed").length,
-    },
+    summary,
   };
 }
 
