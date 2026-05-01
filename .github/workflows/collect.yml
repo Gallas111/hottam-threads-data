@@ -1,7 +1,7 @@
 name: collect-threads-trending
 on:
   schedule:
-    - cron: "0 */6 * * *"  # 매 6시간 (UTC 0/6/12/18 = KST 9/15/21/3)
+    - cron: "5 * * * *"  # 매 시각 5분 (UTC) — PUBLIC repo 무제한이라 비용 0
   workflow_dispatch:        # 수동 트리거 (test 용)
     inputs:
       presets:
