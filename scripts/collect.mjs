@@ -29,6 +29,8 @@ async function searchKeyword(browser, keyword, type = "TOP", limit = 10) {
   try {
     await page.goto(url, { waitUntil: "networkidle", timeout: 25000 });
     try { await page.waitForSelector('a[href*="/post/"]', { timeout: 5000 }); } catch {}
+    try { await page.evaluate(() => window.scrollBy(0, 800)); } catch {}
+    await page.waitForTimeout(800);
     const posts = await page.evaluate(() => {
       const out = [];
       const seen = new Set();
@@ -47,14 +49,28 @@ async function searchKeyword(browser, keyword, type = "TOP", limit = 10) {
         }
         const container = card || a.parentElement;
         const text = ((container && container.innerText) || "").replace(/\s+/g, " ").trim().slice(0, 800);
-        const img = container && container.querySelector('img[srcset], img[src*="cdninstagram"], img[src*="fbcdn"]');
+        // 프로필 사진 vs 첨부 이미지 분리
+        const allImgs = Array.from(container?.querySelectorAll('img') || []);
+        let profilePic = null;
+        const mediaImages = [];
+        for (const img of allImgs) {
+          const src = img.src || img.getAttribute('data-src') || '';
+          if (!src) continue;
+          const isProfile = /\/t51\.\d+-19\//.test(src) || /profile_pic/.test(src) || /_s150x150/.test(src) || /_s320x320/.test(src);
+          if (isProfile && !profilePic) profilePic = src;
+          else if (!isProfile) mediaImages.push(src);
+        }
+        const videos = Array.from(container?.querySelectorAll('video') || []);
         out.push({
           id: code, username,
           permalink: href.split('?')[0],
           text,
-          has_image: !!img,
-          has_video: !!(container && container.querySelector('video')),
-          thumbnail_url: (img && img.src) || null,
+          has_image: mediaImages.length > 0,
+          has_video: videos.length > 0,
+          thumbnail_url: profilePic,
+          media_images: mediaImages.slice(0, 4),
+          video_url: videos[0]?.src || null,
+          video_poster: videos[0]?.poster || null,
         });
       }
       return out;
