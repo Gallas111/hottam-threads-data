@@ -56,9 +56,15 @@ async function searchKeyword(browser, keyword, type = "TOP", limit = 10) {
         for (const img of allImgs) {
           const src = img.src || img.getAttribute('data-src') || '';
           if (!src) continue;
-          const isProfile = /\/t51\.\d+-19\//.test(src) || /profile_pic/.test(src) || /_s150x150/.test(src) || /_s320x320/.test(src);
-          if (isProfile && !profilePic) profilePic = src;
-          else if (!isProfile) mediaImages.push(src);
+          const isNotMedia =
+            /\/t51\.\d+-19\//.test(src) ||
+            /profile_pic/.test(src) ||
+            /_s150x150/.test(src) || /_s320x320/.test(src) ||
+            /\/rsrc\.php\//.test(src) ||
+            /static\.cdninstagram\.com\/rsrc/.test(src) ||
+            /static\.threads\.(net|com)/.test(src);
+          if (isNotMedia && !profilePic && /\/t51\.\d+-19\//.test(src)) profilePic = src;
+          else if (!isNotMedia) mediaImages.push(src);
         }
         const videos = Array.from(container?.querySelectorAll('video') || []);
         out.push({
