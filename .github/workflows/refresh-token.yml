@@ -1,0 +1,21 @@
+name: refresh-threads-token
+on:
+  schedule:
+    - cron: "0 3 * * 0"  # 매주 일요일 12 KST
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: "20" }
+      - name: Refresh if near expiry
+        env:
+          THREADS_TOKEN: ${{ secrets.THREADS_TOKEN }}
+          GH_TOKEN: ${{ secrets.PAT_FOR_SECRET_UPDATE || secrets.GITHUB_TOKEN }}
+        run: node scripts/refresh-token.mjs
