@@ -7,247 +7,133 @@
     "앱",
     "개발"
   ],
-  "fetchedAt": "2026-05-08T15:08:26.295Z",
+  "fetchedAt": "2026-05-08T16:31:50.241Z",
   "items": [
     {
-      "id": "DYFM9IwEuYS",
-      "username": "@not_a_prompters",
-      "permalink": "https://www.threads.com/@not_a_prompters/post/DYFM9IwEuYS",
-      "text": "not_a_prompters AI Threads 30m Bookworm Girl Prompt below 19 2 6 1",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/566252571_17933085519098375_4145457666352628049_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHOWpCO5DzsbPAJhuH2_2m08PbXZ5Vs1IhSzZ1EmZGtuIn-L6K-bWCGi-EF2M-cc60&_nc_ohc=tjBx8NBcd4EQ7kNvwE43WRM&_nc_gid=Y6_0DShTSmbbk-DsOAufVQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5SEo0OFZOIqKPqaVTSX8vtEk6XSjnKitjmJvpSqcpXCw&oe=6A03D9EE&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/686307397_17962388559098375_7894026443611790252_n.webp?_nc_cat=109&ig_cache_key=Mzg5MjU3NDQwMjk5OTYxNjkxNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTYwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=gjR6l8fhoZgQ7kNvwEHfAos&_nc_oc=Adp3nDVobRqhQOqAyYxXAwf-VsQhw8BMBDJ6zNqxAB6Qn96e4egicilA-jFVcPSnMqo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=Y6_0DShTSmbbk-DsOAufVQ&_nc_ss=7a22e&oh=00_Af7RjFbCOztW0VEX4C5oorXbIpRYNjvmdP6aWNfQHSAT0Q&oe=6A03B355",
-        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/685103931_17962388577098375_8966475981045631561_n.webp?_nc_cat=103&ig_cache_key=Mzg5MjU3NDQwMzU5NTI2ODcwNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTYwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=QP7eU_G294kQ7kNvwEg-w0_&_nc_oc=AdqQqeredrfY4PfuVxqei-TnNMwbRskCXEJDIxPCASxCCbZfzwtjytGEDiJTDiMQebQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=Y6_0DShTSmbbk-DsOAufVQ&_nc_ss=7a22e&oh=00_Af4GrK1vbnC02x-PAMXSYsjIYSJquIp3a5-9OBtIKH4mTQ&oe=6A03E4CC",
-        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/685022530_17962388568098375_6852407582319179482_n.webp?_nc_cat=104&ig_cache_key=Mzg5MjU3NDQwMzUxOTc1NjMxNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTYwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=XAeNRCYR-_AQ7kNvwGJk0ne&_nc_oc=AdoXIXKw4T85I0CYhv0D5nEIJxKGX0lGs1LWP9xIbpZjeBQeP7rRCz8wd9bX82HKQHM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=Y6_0DShTSmbbk-DsOAufVQ&_nc_ss=7a22e&oh=00_Af6RuwsSkhT-p-k6gBTTlmgkRBfZxCFlsOGLH3b89MC_gA&oe=6A03CAA8",
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/687040971_17962388556098375_6222322026481469194_n.webp?_nc_cat=102&ig_cache_key=Mzg5MjU3NDQwMzQxMDcxMDY5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTYwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=NYb_Wys_i5cQ7kNvwG80L3A&_nc_oc=AdqIWU3BXoK4UwT8ATP77RgkwWBaJzFYQ8nl2eACYvUZig49RMknB38Xom-ICaihQiw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=Y6_0DShTSmbbk-DsOAufVQ&_nc_ss=7a22e&oh=00_Af7PVy58yMHFJQladjgHumAMaWXVTUgdU675YFaig-EBzQ&oe=6A03C2E1"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "AI"
-    },
-    {
-      "id": "DYFHeIaCcB_",
-      "username": "@og_lunejoan",
-      "permalink": "https://www.threads.com/@og_lunejoan/post/DYFHeIaCcB_",
-      "text": "og_lunejoan AI Threads 1h #aiprompt #aiartist #cinematicstyle #hyperrealistic #threadsph #teamog #velvetix #lune 10 1 1 1",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/682898960_17963012370115904_6648149538906670543_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHOWpCO5DzsbPAJhuH2_2m08PbXZ5Vs1IhSzZ1EmZGtuIn-L6K-bWCGi-EF2M-cc60&_nc_ohc=xqzyJa8-WLwQ7kNvwE4l33f&_nc_gid=Y6_0DShTSmbbk-DsOAufVQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6RwDAscclTOvuhJ2PILMWGG4LVj5pKx8JcVuNGaDVCQQ&oe=6A03DFEF&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/686327005_17963493918115904_4749975552204311653_n.webp?_nc_cat=100&ig_cache_key=Mzg5MjU1MDAwNTY4ODk5NjA3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzY4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=xvWFYx5b2XQQ7kNvwG95DJh&_nc_oc=AdrQt6vuET_OgOcPXha7jAaloAv7O4GKAVWKJ4VMbIQwIABdIZiA0ZeK7M-TyqaubjE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=Y6_0DShTSmbbk-DsOAufVQ&_nc_ss=7a22e&oh=00_Af6c6-I-3oedVei8KBTEgfJ1uGPhVchR9N4BzDPceHcNyg&oe=6A03E823",
-        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/688331714_17963493945115904_7066279974566902801_n.webp?_nc_cat=108&ig_cache_key=Mzg5MjU1MDAwNzE0ODU5MTQyNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzY4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=31vnoJ8QuZoQ7kNvwGRkwYs&_nc_oc=AdrLUnvkrcwG7flxMCejRso-mogk80Hv4yL7eCDe9J12hsNA1GPfVAGNEe9Fd2SQWJ4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=Y6_0DShTSmbbk-DsOAufVQ&_nc_ss=7a22e&oh=00_Af7XXzSA6MZWwETj7__A9YbcJbGNh5Whz_uPAzC3SbMCrw&oe=6A03E05B",
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/684688759_17963493909115904_5580148930747141268_n.webp?_nc_cat=109&ig_cache_key=Mzg5MjU1MDAwNTA0MzA0NTA2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzY4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=oevsdVbXB-8Q7kNvwF6-XFr&_nc_oc=AdqDJWGpAjAtgNvWYQ4yHR1-d0U-R0SBc-Ew7rvR1-oVrlpvfD2pNVc8FtVR-m03GCs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=Y6_0DShTSmbbk-DsOAufVQ&_nc_ss=7a22e&oh=00_Af7ZuwwywfxDKA0JkEUYwu5EraFNOhpxYnNmU9LqmaojaA&oe=6A03CACF",
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/686250735_17963493936115904_7772952382105075758_n.webp?_nc_cat=102&ig_cache_key=Mzg5MjU1MDAwNjk3MjQzOTg1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzY4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=XjLBLCzi80gQ7kNvwFyNs70&_nc_oc=Ado3z8ltyo0TU_xaAxOD9rXgsxgp-HhBEfR9wW_SspWdgJNkQg5ikwa5zmSbZxBH1To&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=Y6_0DShTSmbbk-DsOAufVQ&_nc_ss=7a22e&oh=00_Af61Vy_LrfJIpEacJLplRKbA9miNucT6RpTnGPjtY5U1jA&oe=6A03D76E"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "AI"
-    },
-    {
-      "id": "DYE5C2JE9S3",
-      "username": "@wichittra9194",
-      "permalink": "https://www.threads.com/@wichittra9194/post/DYE5C2JE9S3",
-      "text": "wichittra9194 AI Threads 3h Prompt by Me @wichittra9194 26 9 1",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/671894736_17874600876596015_7342200869033139140_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjguYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHOWpCO5DzsbPAJhuH2_2m08PbXZ5Vs1IhSzZ1EmZGtuIn-L6K-bWCGi-EF2M-cc60&_nc_ohc=B7FagU_77SYQ7kNvwFvkU8F&_nc_gid=Y6_0DShTSmbbk-DsOAufVQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4WvyqPsK4EuftBkrgFn23BQn1NbddFKBBva3Mjb0KZjw&oe=6A03DDC1&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/689354351_17877971832596015_3846189275436355820_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzg5MjQ4Njg1NDg0Nzc1MDk5Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzY4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=9t4yP7FMPjcQ7kNvwGk9gvG&_nc_oc=Ado4_Q9GYolIrmmNfIhNRlO9Vo7BucE4PrkDkytfxJx58PBYVdr53TyJi7OmDFJ6itY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=Y6_0DShTSmbbk-DsOAufVQ&_nc_ss=7a22e&oh=00_Af6pT6ItyT2A8w2M_AFyJLRCxAyZmKc9QtzGrHaPhu4-7w&oe=6A03B9C6",
-        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/684827767_17877971841596015_7302885337195744976_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzg5MjQ4Njg1NTE0OTc0NzY2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzY4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=HhKenj7qSxkQ7kNvwG6bqx8&_nc_oc=Adp-y2ti8cSTcyuOIUHpHz7v0pIhFynXUFhi5HqVqRACkvZxSQwNaaDML9jJ9kzJB9c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=Y6_0DShTSmbbk-DsOAufVQ&_nc_ss=7a22e&oh=00_Af6tIT2yl3UlfWk9jWdap4WPi9PXnlOgha0VO3_QOVvNZQ&oe=6A03C766",
-        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/695776328_17877971844596015_5425279560058574979_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzg5MjQ4Njg1NDkzMTU4NjkzNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzY4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=JvyG7Hq_JA0Q7kNvwFR_K56&_nc_oc=AdqhnWhdnO_QuqOwsVP9vCE-vAX_rEZFIIaGWQ2TynTkqFgtKrGS5KuJ_ASIjPoMVF4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=Y6_0DShTSmbbk-DsOAufVQ&_nc_ss=7a22e&oh=00_Af48Q0nKyIDtvECWiSPFr-Y6Q8D2mT4L80hJyYIjqrn4sQ&oe=6A03E379"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "AI"
-    },
-    {
-      "id": "DYE_dGVkQyH",
-      "username": "@aaronparnas",
-      "permalink": "https://www.threads.com/@aaronparnas/post/DYE_dGVkQyH",
-      "text": "aaronparnas 2h I was scrolling TikTok this morning and found this video of my face and likeness giving medical advice. It’s completely AI generated but many thought it was real. This is terrifying. 2.2K 317 213 38",
+      "id": "DYFJlKWD1QJ",
+      "username": "@fitri_fbrian",
+      "permalink": "https://www.threads.com/@fitri_fbrian/post/DYFJlKWD1QJ",
+      "text": "fitri_fbrian AI Threads 2h G. Night 🥰,, met malem sabtuu, 🤭🤭 38 15 4",
       "has_image": true,
       "has_video": true,
-      "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/363308494_227453469765682_4538736073011655090_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHOWpCO5DzsbPAJhuH2_2m08PbXZ5Vs1IhSzZ1EmZGtuIn-L6K-bWCGi-EF2M-cc60&_nc_ohc=Yp0jpehl-zUQ7kNvwGCQPH9&_nc_gid=Y6_0DShTSmbbk-DsOAufVQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5xP_5KjO8WLs2xcu4C2kUpEKTfYl_jTeQ8CBrvcNuAsw&oe=6A03DBFB&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/683623594_17914232169373988_7752208792728116192_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gG4crDMQ0tefviJOHsbz0rhXG3R-2vdqAk1fKTKuamWeCTNAX5eiZaMwbm-JpR-Fhs&_nc_ohc=45TDc4IhnAAQ7kNvwEpXLN8&_nc_gid=FwEWWosIUs0iDxMzrwPrcg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6bVQfwppwcEw9WDRwHG4h_NKYqK1sLDLvI-2LMs2GnNA&oe=6A03EB30&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/685952483_1514247193470098_1674244250992449020_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=Mzg5MjUxNTA1NDU1NDI1NDQ3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=VppE20SH6c4Q7kNvwG4-jUT&_nc_oc=Adr4O70163Ju4WDnlZH_aW2mptn1J-0WH65IYFQXNm9mBMz3i8JcBK6zdlLUbXsK4b4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=Y6_0DShTSmbbk-DsOAufVQ&_nc_ss=7a22e&oh=00_Af6R6wL89xH-_Sb7qzIClSpNIRQHoh4wY7mlF8TkvFPdFQ&oe=6A03CF09"
+        "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/686185597_1501417668029150_8591139299058850221_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzg5MjU1OTQ0NDA5ODEyMzMyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=tOV1NdLYgEUQ7kNvwFEF19O&_nc_oc=AdqH3ZC3GS_C3vi90u2LILX3cIbKhCK4mFfoDimTmtdvIGRMtI6GPORYy5UAWqBG4fM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=FwEWWosIUs0iDxMzrwPrcg&_nc_ss=7a22e&oh=00_Af4jYrR3GHtqX0ZPyeq8RniXsM2cLr62NkHbBJIiYvwC5Q&oe=6A03D2D2",
+        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/695008610_17915046468373988_6464011172362196921_n.webp?_nc_cat=102&ig_cache_key=Mzg5MjU1OTM0NTEyOTMwNDgyNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzY4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=-Nz2DyviGA4Q7kNvwH8-r7r&_nc_oc=Adq9TpBUFJHB181sEHI8t8wKoqbSMkdIGGC4dxnZevT3OqTzVw3Hl_7WrOziPXWAGog&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=FwEWWosIUs0iDxMzrwPrcg&_nc_ss=7a22e&oh=00_Af6k3g7rUsipF7T60SW3RfSoUaA1QV7UrRDhhljRSoWoOw&oe=6A03D71C",
+        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/671157199_17915046420373988_156531676207255086_n.webp?_nc_cat=103&ig_cache_key=Mzg5MjU1OTM0MjQwMzAxNjcyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzY4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=nuqXarEN2IIQ7kNvwH6lRJs&_nc_oc=AdoGNuXf5jHC0m_LxrTDWB923idFfiZ0uq_gWCrw6Iq8h5FXIY00G5fu3SRZwbYNSJY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=FwEWWosIUs0iDxMzrwPrcg&_nc_ss=7a22e&oh=00_Af7XHynblB_m-vpjggmraHDrUwW4_sdy6xg8Kpkp8JBiwQ&oe=6A03C9D9",
+        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/691192315_17915046456373988_4907987897136977522_n.webp?_nc_cat=105&ig_cache_key=Mzg5MjU1OTM0NDYwMDgxMTk5Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzY4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=0Pre2MdczPQQ7kNvwF3UZ9T&_nc_oc=AdrzRSKJ82zsea0eZPYnVcCfyQgEM4_mNggyFV1danku50eXP2vXFmt1wGRKK3Rq5xY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=FwEWWosIUs0iDxMzrwPrcg&_nc_ss=7a22e&oh=00_Af4rcDHtx82sO200pUZy_3wKfhVNVlh627ww-eWJO5BPWQ&oe=6A03CD5E"
       ],
-      "video_url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t16/f2/m84/AQOt5e0QeCipTZC-EvBaiYWq_ETCidP7Jij_WrcieRgpHKa1GQ9kKKjiXwCo1ncHjEDeDHotDrJ31JRh76GqouEtJFB_kjPJ7bw7kGc.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=ppsVF0M2g3YQ7kNvwE_Ofkb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy41NzYuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxNzk2NTAwODI3MDEwNTE2OCwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTY0LCJkdXJhdGlvbl9zIjoxODEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=27804addb8dde49b&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC85MzQzOTUxQzlBQ0RGMUM1RTc2NTQ5QzU2N0U5QjdBM192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0JBNEUyMEQ5Q0QxNTY3Nzk0RDEyMEQwNTM2QjIwOTlDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACag6ZyFjsXpPxUCKAJDMywXQGa7tkWhysEYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeieAQA&_nc_gid=Y6_0DShTSmbbk-DsOAufVQ&_nc_zt=28&_nc_ss=7a22e&oh=00_Af4KKegWUDCk9cODb2U0x-tPJ-2oCWpLTQwWqyphkqpc_Q&oe=69FFC95A",
+      "video_url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t16/f2/m84/AQMF0jp2RPSu9tVdNeL-OFi7kP1iTIJxA9xi2BXGFoe8LZbqHBluQPEZ9zfdrLLWCaRI6EGDR6zJBKvsA8VQSBBQOBQs6336RQ7Xpkc.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=ZYtk9fbf9bEQ7kNvwEcsqN7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0FST1VTRUxfSVRFTS5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxNzkxNTA0NjQ4MDM3Mzk4OCwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTY0LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=8e387ee601e964d4&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC83NDQ3RTg5OTc3RjgwQzE0NjVFM0QwMEM0QUJEOTBCMl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0VENEM2Mjk1OEIxQjg5MEVEQUI1QUY2N0REM0NDNEJCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbIo8fZ-ejSPxUCKAJDMywXQDRwo9cKPXEYEmRhc2hfYmFzZWxpbmVfMV92MREAde4HZeieAQA&_nc_gid=FwEWWosIUs0iDxMzrwPrcg&_nc_zt=28&_nc_ss=7a22e&oh=00_Af6IB7ijEb-kMninnx7Og9tutq9BxZ6y5ije9LesNwKe5Q&oe=69FFD3ED",
       "video_poster": null,
       "_keyword": "AI"
     },
     {
-      "id": "DYFKOFrFOiY",
-      "username": "@carnage4life",
-      "permalink": "https://www.threads.com/@carnage4life/post/DYFKOFrFOiY",
-      "text": "carnage4life 54m Investors to Cloudflare: If AI is so great then why are you doing layoffs instead of growing the business? 35 4 2 2",
+      "id": "DYFCetlmNOQ",
+      "username": "@samlaline",
+      "permalink": "https://www.threads.com/@samlaline/post/DYFCetlmNOQ",
+      "text": "samlaline AI Threads 3h Feeling blue 🖤 52 20 2 2",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/494515761_18504476983003360_6728124112360817018_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHOWpCO5DzsbPAJhuH2_2m08PbXZ5Vs1IhSzZ1EmZGtuIn-L6K-bWCGi-EF2M-cc60&_nc_ohc=Zfs9GQF9RrQQ7kNvwFLOSd8&_nc_gid=Y6_0DShTSmbbk-DsOAufVQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af73DWk7t6OZzJyYkhAgo_plMt59kDb6NhMG4soVGidVLw&oe=6A03E5E2&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/634651732_17855479653617067_2689421131896314801_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gG4crDMQ0tefviJOHsbz0rhXG3R-2vdqAk1fKTKuamWeCTNAX5eiZaMwbm-JpR-Fhs&_nc_ohc=KhELJxfXL8wQ7kNvwEBFyZo&_nc_gid=FwEWWosIUs0iDxMzrwPrcg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7DrtGOc7NdNhhr_Y1UWqsqpvIVJZ9EItAHZkPgFp1blA&oe=6A03E731&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/687529352_17963223117116671_8874492787821377299_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzg5MjU2MjQwMTU2MDk0Njg0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI4NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Q_l3O3KiIHoQ7kNvwF8iPgl&_nc_oc=AdpVUDJ-Sl0to13f9cYBmLikPL_3tFLA13j_GCpIiaHj0SN-7VbYQs726sX_K6q0f0M&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=Y6_0DShTSmbbk-DsOAufVQ&_nc_ss=7a22e&oh=00_Af5TNBYc97hieGGnlhMRPy9ScZfYJUe-z9fMl79tUDwxeQ&oe=6A03DC0C"
+        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/686273210_17867868195617067_7191732011272525465_n.webp?_nc_cat=107&ig_cache_key=Mzg5MjUyODM1OTU1ODE0MDgxNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuOTM2LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=EpUF3gaoKVwQ7kNvwGSB8Ka&_nc_oc=AdoYWRPnByFj1cn0uJdhFBD3tfez-XRmsF3uSv4BLPyH0JY1slWg_983zSAoAkAR0xA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=FwEWWosIUs0iDxMzrwPrcg&_nc_ss=7a22e&oh=00_Af7SKDq6lM8kJpQvU17P18BrvMxpxgN20My-drBXz8plIQ&oe=6A03D4DB"
       ],
       "video_url": null,
       "video_poster": null,
       "_keyword": "AI"
     },
     {
-      "id": "DYEnI7RjE2v",
-      "username": "@kimmiva53",
-      "permalink": "https://www.threads.com/@kimmiva53/post/DYEnI7RjE2v",
-      "text": "kimmiva53 AI Threads 5h Today is a fresh start and a new opportunity to do better than yesterday. Make the most of it with positive thoughts, kind actions, and a grateful heart. 25 1",
+      "id": "DYFIH6sgAt4",
+      "username": "@thedumshow",
+      "permalink": "https://www.threads.com/@thedumshow/post/DYFIH6sgAt4",
+      "text": "thedumshow 2h This is glorious. It’s a reminder that the Democrat Party has a long, ugly history tied to the Klan, no matter how hard they try to rewrite it today. Credit: historydad_ai 201 83 56 96",
       "has_image": true,
       "has_video": true,
-      "thumbnail_url": "https://instagram.fcgk10-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fcgk10-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gEiuDNhD359z_8S2PSX56fwYAA1QQTITR_KdlIPNietiNpJ5Pg6WusJF8e11L8rsdI&_nc_ohc=wLsPVb1IPasQ7kNvwHZbpXh&_nc_gid=YB3c5lLOWrAGzyFGTb1V-Q&edm=ALlQn9MBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Af6PK50QiiAftNuLs6XffTUmitYmxtnOLkD7SAHYsSZg7w&oe=6A03C36A&_nc_sid=e7f676",
+      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/357758775_759042375966736_2988114561639665254_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gG4crDMQ0tefviJOHsbz0rhXG3R-2vdqAk1fKTKuamWeCTNAX5eiZaMwbm-JpR-Fhs&_nc_ohc=BZ0pU5xok4sQ7kNvwHtsMS2&_nc_gid=FwEWWosIUs0iDxMzrwPrcg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af43jQOweTJ4nNXAgeMKWh0YDZmoiwlD1UooBTptXmIeyQ&oe=6A03C6D6&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/694859420_1606830050406536_7853694368306279657_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=Mzg5MjQwODExNTE2OTg3MzMyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=8uyGGEieeA0Q7kNvwGdzUCw&_nc_oc=AdqaxIh_PsEz8ACz_t3KSE5-Y-JNBs79qABbDyfOXaRxZJMMHorYDH8meU389hFwMfM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=Y6_0DShTSmbbk-DsOAufVQ&_nc_ss=7a22e&oh=00_Af4H0AAgsgXpnHQ3ez0V-RphikkdB940yCZwHA27oJ55Ig&oe=6A03CACF"
+        "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/684313405_1353349113558799_3684181883279200444_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzg5MjU1MzE4MTM2MzcwMjY0OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=r_3O7pMlDHQQ7kNvwEIFkoX&_nc_oc=AdrMYjfDOKTXGMNJuH-MHqmCL-gSS5dNgaBe_j5V48P2XbRgTk1qNqj2nA1XnCvSf1M&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=FwEWWosIUs0iDxMzrwPrcg&_nc_ss=7a22e&oh=00_Af6etCxgDcGYs0CI3LwP2T-s2f6FGa45CuyzR30nqBTNAA&oe=6A03DA2C"
       ],
-      "video_url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t16/f2/m84/AQNxvOlA1ROg1oPJb5ZAE0-D4nLgGPnUj5dc4GbmmRRIke0aCVDw6BQ6om4e1hJty6BdrSwgUor3vcwCZisNadI9sjnm4wLO4uh70g0.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=-ZnGizry3dYQ7kNvwEvHg-d&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy40NjQuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxODEwNjQ4ODY5MTc1NzYxNiwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTY0LCJkdXJhdGlvbl9zIjo3OCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=4883282359473b07&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC82QTRFNDVFOTI4REY2MDcwOEUzRjVCMkZENDc4ODE5Ml92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzRFNDBDMjdBNzAyRDhFNDJGRjE2MDY5REIwMTIxRUFFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbgyNCprfCpQBUCKAJDMywXQFOkOVgQYk4YEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeieAQA&_nc_gid=Y6_0DShTSmbbk-DsOAufVQ&_nc_zt=28&_nc_ss=7a22e&oh=00_Af4cmempDddAr6ucF8Xn37IVH1-05sSL575cnoxqWFP_tw&oe=69FFE0B9",
+      "video_url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t16/f2/m84/AQPV6QLAQPl05Vg-k_BN8a07k5qH2RlgbJO1mITgwO-_7Epq2tPkUL5-8_dXcmhG4X3CEce9UPJimL5kBg-syySQ8WejVi-b6sec89A.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=Lfw_YjuhsJ8Q7kNvwFvLTD5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy43MTYuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxNzk2MjY5MTkyODExOTI1NSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTY0LCJkdXJhdGlvbl9zIjo2NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=9e1fa5ea548b3b0b&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC8yNjQ5RjQxMzE2RjE0MDU4NDRBQzVCM0Y1MUQ2NTdCRV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0Q5NEQwQjA4NTUzNjIyQTgxM0I0QzY2MjMwOTJERDk1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACau3675o77oPxUCKAJDMywXQFB7peNT988YEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeieAQA&_nc_gid=FwEWWosIUs0iDxMzrwPrcg&_nc_zt=28&_nc_ss=7a22e&oh=00_Af50CqsyucV-rZwdj1ESRDGZ9jXauVwkFGBSMDv9Vs8dFg&oe=69FFF953",
       "video_poster": null,
       "_keyword": "AI"
     },
     {
-      "id": "DYFHsupgY6v",
-      "username": "@asmara.santoso",
-      "permalink": "https://www.threads.com/@asmara.santoso/post/DYFHsupgY6v",
-      "text": "asmara.santoso AI Threads 1h 13th collab drop v.02 ⚡️ late replies // cold intentions 🧊 docs.google.com/docum… 1 1",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://instagram.fcgk10-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fcgk10-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gEiuDNhD359z_8S2PSX56fwYAA1QQTITR_KdlIPNietiNpJ5Pg6WusJF8e11L8rsdI&_nc_ohc=wLsPVb1IPasQ7kNvwHZbpXh&_nc_gid=YB3c5lLOWrAGzyFGTb1V-Q&edm=ALlQn9MBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Af6PK50QiiAftNuLs6XffTUmitYmxtnOLkD7SAHYsSZg7w&oe=6A03C36A&_nc_sid=e7f676",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "AI"
-    },
-    {
-      "id": "DYDKzpck5Mg",
-      "username": "@promptghost",
-      "permalink": "https://www.threads.com/@promptghost/post/DYDKzpck5Mg",
-      "text": "promptghost AI Threads 19h Ultra-realistic fashion editorial photo of a beautiful curvy woman leaning against a minimalist white wall, body slightly arched to emphasize slim waist, toned abs, fuller hips, and elegant curves. Long naturally wavy hair past the waist with straight ends, fox-like eyelashes, glossy lips, confident sensual expression, smooth medium skin. Wearing a fitted stretchy deep V-neck blouse and a thin gathered skirt. 48 1 5 12",
+      "id": "DYE5UGKk5z-",
+      "username": "@meowiyaah",
+      "permalink": "https://www.threads.com/@meowiyaah/post/DYE5UGKk5z-",
+      "text": "meowiyaah 4h Be my friend? :) - human - real - not from pinterest and google - female - not ai - very human being 6 10 1",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/687522542_17965037127102027_3705370761179231751_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHOWpCO5DzsbPAJhuH2_2m08PbXZ5Vs1IhSzZ1EmZGtuIn-L6K-bWCGi-EF2M-cc60&_nc_ohc=_T8DY62-cboQ7kNvwHBn_wV&_nc_gid=Y6_0DShTSmbbk-DsOAufVQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af632dpXuLMJynTTGN2gG4tDDp4N5idg6ykahXMH37LyRA&oe=6A03CEB9&_nc_sid=10d13b",
+      "thumbnail_url": "https://instagram.fssa9-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fssa9-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gGntZB72noYRBWAO4qaQnFc1XFcj-ZrcTCoD0N-YVi5wHccaMNw2M2_0nnGbtjDP9o&_nc_ohc=wLsPVb1IPasQ7kNvwFI2bY_&_nc_gid=iP3D6cFC2AIfFNQ6eQQZIg&edm=ALlQn9MBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Af63S8L1nS1uLFuEpq2fqvHmuZmiQ3a2a4rKGJKofPHq1w&oe=6A03FBAA&_nc_sid=e7f676",
       "media_images": [
-        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/688541578_17964871164102027_1353428937644685897_n.webp?_nc_cat=101&ig_cache_key=Mzg5MjAwMjAzMjYzOTUxMzM3Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNzUyLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=xdUEMIn42hoQ7kNvwH0Luxc&_nc_oc=AdqO5NbqIGWEyt-EXgdvJ4cvpqvnl44JA1sxHzM2lGkSeWIbhTJi0Ernei4WwCeqmt8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=Y6_0DShTSmbbk-DsOAufVQ&_nc_ss=7a22e&oh=00_Af5jihMvOp0UFVucJDaZ8s4BMnuFpjSDM5rm1LA2HAkSrw&oe=6A03E74D"
+        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/687306493_18103188004828222_7280777628088660085_n.webp?_nc_cat=102&ig_cache_key=Mzg5MjQ4NzYwNDQyODU3OTUyNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-aprWE_RNUMQ7kNvwECKAwa&_nc_oc=AdocTOoZA-z6ik1l0h8DzqJF3zLWypO4NJuB-oNsB7oU1Er3QvnMTSubUoKoYqWqoNU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=FwEWWosIUs0iDxMzrwPrcg&_nc_ss=7a22e&oh=00_Af5Lm_9cYEXeHw5g2gOvw4BfDbyfbaH3-hCahatWfYPZyw&oe=6A03E4BC",
+        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/687796471_18103187995828222_8281375925890189589_n.webp?_nc_cat=103&ig_cache_key=Mzg5MjQ4NzYwMjk2ODkzNjk5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=B1h_KFkLiUkQ7kNvwEYJ308&_nc_oc=AdrVQVxKK49l-ipmLHR6TRewVH-HprbHOpLaH_QX809g9Rwub8b7HiLnzT7w0btfALQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=FwEWWosIUs0iDxMzrwPrcg&_nc_ss=7a22e&oh=00_Af7fiXPvu6KBmjUkLvXg7xQpfHby2S8Ll85qaJrCMV-Yng&oe=6A03E280"
       ],
       "video_url": null,
       "video_poster": null,
       "_keyword": "AI"
     },
     {
-      "id": "DYC53WBj4M1",
-      "username": "@pvt___ahmad__",
-      "permalink": "https://www.threads.com/@pvt___ahmad__/post/DYC53WBj4M1",
-      "text": "pvt___ahmad__ 21h Create a dreamy aesthetic collage portrait edit with warm golden-orange tones, cinematic moody lighting,multiple photo cutouts in collage layout, close-up eye detail, glossy smooth skin retouch,soft shadows, periwinkle flowers around face, elegant romantic vibe,blurred dark background, music player overlay, Instagram reels cover style,ultra detailed, editorial beauty retouch,sharp facial, white Shirt,features,glowing skin, soft hair strands, premium 4K photo manipulation,luxury aesthetic. 43 7 4 103",
+      "id": "DYFQXvVHBwV",
+      "username": "@velvet_shadow_bunny_",
+      "permalink": "https://www.threads.com/@velvet_shadow_bunny_/post/DYFQXvVHBwV",
+      "text": "velvet_shadow_bunny_ 1h A lot of people are super unhappy I used Ai to make cute silly little pictures 🥺 Anyways here is a cute little sticker I used ChatGPT to make of me 🥰 I hope y’all have a blessed day and heal from whatever hurt y’all enough to make you feel the need to try and bully people online 💋 4 74 1",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": null,
+      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/670761143_17863638210680838_2801763510338401962_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NDQuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGoWIdCEQsag-TFHQFIVrHb7vjQVVs860m9pUqw9cGJGbpK5glzyZ7zHTGvVVfixv0&_nc_ohc=Xmj_fPvG-vkQ7kNvwF-kZeS&_nc_gid=2JP7PNaQsu6jTnZsiLZC4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6A-DPToSWrBIJvAh8lw8QWlWjc5LRnNjllm5OQnXcK8A&oe=6A03E0E9&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/687382085_18069172922476942_961578584758090779_n.webp?_nc_cat=107&ig_cache_key=Mzg5MTkyNzUxOTg3MjM4NTg0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNzY4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=GiWQDRKQobQQ7kNvwHjqRZg&_nc_oc=Adrf136feTujnHcVNVbd511pQ9BIypBNhZ61s26rbrkCS9iyrOBGbIyjxNeugX036xo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=H9FsLkdUYRW3OozK1iHvcA&_nc_ss=7a22e&oh=00_Af6VZDWzhz9pN8phcCvxhYjdxeb_pvWGXrAeq1mUa_xq1Q&oe=6A03C758"
+        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/695680715_17866662855680838_3430310578401544884_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzg5MjU4OTQ1MzA0MzgzMzg3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTE0OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_Y9hB17gPWYQ7kNvwGfK93A&_nc_oc=AdqZY0tiVDoYj1bNRCsaZVWvDDj0eSM_VASMrKqIJCbAS3jXbLBbB3omnlnxJeSm1q8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=2JP7PNaQsu6jTnZsiLZC4g&_nc_ss=7a22e&oh=00_Af7A4jJJC4aab6_kRbnOaCnxRC0GhPyKbO_SQr5cEb2ryw&oe=6A03ECC5"
       ],
       "video_url": null,
       "video_poster": null,
       "_keyword": "ChatGPT"
     },
     {
-      "id": "DYE94G9gVFJ",
-      "username": "@itz__me__rowdy__359",
-      "permalink": "https://www.threads.com/@itz__me__rowdy__359/post/DYE94G9gVFJ",
-      "text": "itz__me__rowdy__359 2h ....🫱.....⏱️.....🫲... ...#chatgpt . . . . . . .My spirit, a canvas of moments, each frame a whisper of who I am, a symphony of expressions. 🎶 A journey captured, a story told in glances. ✨ The rhythm of life, a song in my soul. 💫 #MyStory #VisualDiary",
+      "id": "DYFWZoeE0AR",
+      "username": "@bbbleev",
+      "permalink": "https://www.threads.com/@bbbleev/post/DYFWZoeE0AR",
+      "text": "bbbleev ChatGPT Prompts 31m just found this prompt online, check it out. the prompt is on the comsec 1",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/687320660_18100625950891523_4461159625356928005_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDEyLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEBgLCG1Z3Duk7Gq4EJcP9cmhiAZwIIb9vze4fUfwWKi0O7L2K1E_72ploHBWf0LfQ&_nc_ohc=CQkio9XOwO0Q7kNvwExfeTP&_nc_gid=H9FsLkdUYRW3OozK1iHvcA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6CLxeap5oQe-OU7xyhbmGX6b-2-xPqBARw7EFRtQTaDQ&oe=6A03BFFD&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/473130809_3988707891407072_5562752969063203682_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjAuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGoWIdCEQsag-TFHQFIVrHb7vjQVVs860m9pUqw9cGJGbpK5glzyZ7zHTGvVVfixv0&_nc_ohc=Dthwt8wdV1gQ7kNvwGucs5j&_nc_gid=2JP7PNaQsu6jTnZsiLZC4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7F6zY8F59_TcFwRbhKvxTe7CFiQ7wz1sy_wBdSkmOTdA&oe=6A03E482&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/689473156_18100626961891523_46360482948824648_n.webp?_nc_cat=108&ig_cache_key=Mzg5MjUwODExNDU1NzE2MTgwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuOTYwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=E0pyuhSbO9oQ7kNvwFGBwN_&_nc_oc=AdruUUcLWSHdWxsjcJRAu3l8o7JLh-bgXWwytVw7N7ZHGPapVASdZHHRYBPfCU0p3IM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=H9FsLkdUYRW3OozK1iHvcA&_nc_ss=7a22e&oh=00_Af6mKsAI3TRG2f8fmVYTdLqplK41UaGuNyVMpvn-z9SZeA&oe=6A03B6EE"
+        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/695776754_17961090363116123_6629507246373984418_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzg5MjYxNTY3NTk4Mjg3NjM1Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTQxLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=cXsS7b7J2acQ7kNvwHWAN7z&_nc_oc=AdqkHT9hgonV-nzd7R8Q8mVk7DUlfTywwvIfZNrNgREebpiqCRmqf4EOwggS2ITz2VE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=2JP7PNaQsu6jTnZsiLZC4g&_nc_ss=7a22e&oh=00_Af5kI3viitUfBrytOfy3HqNGM_4KnUERLXHF-qdlaknrdg&oe=6A03C7D3",
+        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/686866972_17961090384116123_8934361096494989286_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=109&ig_cache_key=Mzg5MjYxNTY4NDA1MjY5OTE5Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=YDOjoe7-bgAQ7kNvwGubbKL&_nc_oc=Adojmv9delUCUT2Xivq7m0tynTd2SVhPZXtgxDWT4B8Bsog8sNvBRsjRuc5zeMVRo8s&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=2JP7PNaQsu6jTnZsiLZC4g&_nc_ss=7a22e&oh=00_Af4WSyLNSc89CAelCx8Kr48xwLO39KL_f1Sm3rOsRrlF3g&oe=6A03E496"
       ],
       "video_url": null,
       "video_poster": null,
       "_keyword": "ChatGPT"
     },
     {
-      "id": "DYEFZYwgZDu",
-      "username": "@emberlane.ceo",
-      "permalink": "https://www.threads.com/@emberlane.ceo/post/DYEFZYwgZDu",
-      "text": "emberlane.ceo 10h Ok what do you say when Claude refuses to do what you ask! 👀🤣 17 20",
+      "id": "DYFXOwSAld-",
+      "username": "@jomason862",
+      "permalink": "https://www.threads.com/@jomason862/post/DYFXOwSAld-",
+      "text": "jomason862 Dogs of Threads 24m I asked Chatgpt to it's thing with my dog 🐕 🤣 I could quite happily do this for the rest of the day!! 1 2",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": null,
+      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/357774420_288619076978520_3556363133082894154_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40ODAuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGoWIdCEQsag-TFHQFIVrHb7vjQVVs860m9pUqw9cGJGbpK5glzyZ7zHTGvVVfixv0&_nc_ohc=TCPepnwKavoQ7kNvwGYWdj_&_nc_gid=2JP7PNaQsu6jTnZsiLZC4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7Gc5DzjjARXJRH0SjorGg4AEEnKBFcYxF6-v1HSManOw&oe=6A03D0D6&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/689287341_17887624143520522_5992400131239941360_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzg5MjI1OTcxMjc1ODAyNjQ3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI5MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=RkzjIOIBOAMQ7kNvwGC_zqi&_nc_oc=AdrjAkfWdaQnp7ogk7ov-ppFdSto4Sq_acF4gbye3xSWKMZRghIgZ-7QWneSTr9zKHg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=H9FsLkdUYRW3OozK1iHvcA&_nc_ss=7a22e&oh=00_Af7CtM-f1NKA4WiMvn3cdm3piBDmezekMBl1Hx9Vz-pgBg&oe=6A03EAAA"
+        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/684740972_17965551495110039_1325931966191862365_n.webp?_nc_cat=105&ig_cache_key=Mzg5MjYxNzYyMDE0MjMxMzYxNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=lfqa4g7-ynQQ7kNvwEDvuIH&_nc_oc=AdqPcMGRiRmo_1dTH-TKA0YGZC5mUyJuiSaeDiRu9QXBWoH14kuHEyLt_n0LUymSQYU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=2JP7PNaQsu6jTnZsiLZC4g&_nc_ss=7a22e&oh=00_Af5x5hIk8Xzy-Q6PHfTSB1tpyNGBZ_M1agRDnG84UF647A&oe=6A03F4EF",
+        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/692446137_17965551477110039_6541766790279799954_n.webp?_nc_cat=105&ig_cache_key=Mzg5MjYxNzYyMDgzMDIwNTEzNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=c_qK29lEpV8Q7kNvwHBry3U&_nc_oc=Adogwtrg5ReaaivHJA71RwzvXTLal94l8Hol-3-ahzAlw9w4WHim8a8l8_TMTyF2yk0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=2JP7PNaQsu6jTnZsiLZC4g&_nc_ss=7a22e&oh=00_Af5hrN7cdwa9NVxjTpHB04m57cR9NO1Oax68UOy-AQsXoA&oe=6A03D24D",
+        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/670917461_17965551462110039_5476682481906169376_n.webp?_nc_cat=101&ig_cache_key=Mzg5MjYxNzYwNzE0ODQwMTUxNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=JR7ZuWa18nwQ7kNvwHJFHxp&_nc_oc=AdqYEnq7mXbAnF0aL03v1pXm0kuuOTmvaP2Njjx-AvLt6Eq9L_lFGwC_NHcgS69yfJM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=2JP7PNaQsu6jTnZsiLZC4g&_nc_ss=7a22e&oh=00_Af5UqcrRdFVHbakP-WxwooRwvQ3pLx5uX0nUPxhG81OYKw&oe=6A03EE33",
+        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/687548367_17965551513110039_7638299712117509051_n.webp?_nc_cat=106&ig_cache_key=Mzg5MjYxNzYwNTQxMTkyMDUyMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=RkIgan79bZsQ7kNvwHlg_rV&_nc_oc=AdonS-vHr9LUYGukD_XiGVbSsp1Er6Z0hYvgEkmCzv2aMok3W6YSsas91dL3KamfDYc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=2JP7PNaQsu6jTnZsiLZC4g&_nc_ss=7a22e&oh=00_Af7yG7fOSdenQgiubQTQVJMCe0-_AleITh7wsS3xwTVU0g&oe=6A03C898"
       ],
       "video_url": null,
       "video_poster": null,
       "_keyword": "ChatGPT"
     },
     {
-      "id": "DYFME5hDshR",
-      "username": "@insightsaigal",
-      "permalink": "https://www.threads.com/@insightsaigal/post/DYFME5hDshR",
-      "text": "insightsaigal 38m On the other hand. ChatGPT is gaslighting me all the time… 🤯 1 1",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/684674732_18104399365769707_726528681103540100_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MjQuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEBgLCG1Z3Duk7Gq4EJcP9cmhiAZwIIb9vze4fUfwWKi0O7L2K1E_72ploHBWf0LfQ&_nc_ohc=JsCzl-bzAlUQ7kNvwHVTZtA&_nc_gid=H9FsLkdUYRW3OozK1iHvcA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6ptmQn_u7fbtxpoR8JOYNbomQ3UfWKQmiHsOMrQ1QqOg&oe=6A03E256&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "ChatGPT"
-    },
-    {
-      "id": "DYCsKLhE7F_",
-      "username": "@msbambolbini",
-      "permalink": "https://www.threads.com/@msbambolbini/post/DYCsKLhE7F_",
-      "text": "msbambolbini 23h Here goes another set of realistic prompts. Enjoy thriends! 837 34 133 321",
+      "id": "DYDNjTvj9r1",
+      "username": "@velvet_shadow_bunny_",
+      "permalink": "https://www.threads.com/@velvet_shadow_bunny_/post/DYDNjTvj9r1",
+      "text": "velvet_shadow_bunny_ 20h Becoming obsessed with ChatGPT lmao 113 160 1",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/691743857_17935131792248226_9071389891862621382_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEBgLCG1Z3Duk7Gq4EJcP9cmhiAZwIIb9vze4fUfwWKi0O7L2K1E_72ploHBWf0LfQ&_nc_ohc=Qv0990jc4u4Q7kNvwG72pU1&_nc_gid=H9FsLkdUYRW3OozK1iHvcA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af78VgGsm4SkqoYCiH3WYls-kd7tKSso0YMaT3I-0eESYQ&oe=6A03D689&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/670761143_17863638210680838_2801763510338401962_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NDQuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGoWIdCEQsag-TFHQFIVrHb7vjQVVs860m9pUqw9cGJGbpK5glzyZ7zHTGvVVfixv0&_nc_ohc=Xmj_fPvG-vkQ7kNvwF-kZeS&_nc_gid=2JP7PNaQsu6jTnZsiLZC4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6A-DPToSWrBIJvAh8lw8QWlWjc5LRnNjllm5OQnXcK8A&oe=6A03E0E9&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/689306664_17935126449248226_3928678705861756419_n.webp?_nc_cat=1&ig_cache_key=Mzg5MTg2NzIzMTQyNTA5NjA1Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTc5Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dxTxPr01vqUQ7kNvwHRi90K&_nc_oc=AdpPvPh23tGjZC_ZR2h22_kDKNfhrOiSsv8866bYMh7-_cB1dVtAnHRxLCoRHBjm6wc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=H9FsLkdUYRW3OozK1iHvcA&_nc_ss=7a22e&oh=00_Af61vS7QVq_O9ZFXskOFou8iMFc5O1ZmAyhQ47ZRk1kptQ&oe=6A03D405",
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/686065541_17935126410248226_5463125406445945169_n.webp?_nc_cat=102&ig_cache_key=Mzg5MTg2NzIzMTE4MTgwODY5OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTc5Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=vYXiZ2WnN7QQ7kNvwHX15Qn&_nc_oc=AdoNrh7_hXNc876POeE381QloCm7DSjJgESethiKU9JGaQ7LUAnEb1VsNPPELAuFAOg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=H9FsLkdUYRW3OozK1iHvcA&_nc_ss=7a22e&oh=00_Af4jLr4LhnXTvkEd_RKnpSSWONR1ODyTLsVuYKzU0s5F_A&oe=6A03C4B7",
-        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/688605812_17935126380248226_4676662599658614641_n.webp?_nc_cat=1&ig_cache_key=Mzg5MTg2NzIzMTU4NDUxMTMzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTc5Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=BCxYliMnmeMQ7kNvwFAbma-&_nc_oc=Adr2l5wxJM6cjoioAJ55AsINCSbDtZiMWm9bicAeeuyI9IDEDHNN8GrVDScRBXUUb5Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=H9FsLkdUYRW3OozK1iHvcA&_nc_ss=7a22e&oh=00_Af5T4eQEx7UdkxEtS0A7pWqy02P0DZb3e2BqlbCz9zvTIA&oe=6A03E5D0",
-        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/685713822_17935126371248226_3594710269044774385_n.webp?_nc_cat=108&ig_cache_key=Mzg5MTg2NzIzMTEzOTg4MDczMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTc5Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=zZle4O-kYxEQ7kNvwFGuFv7&_nc_oc=Adp-5AXnLkET2w67MNnYrR9O_4TvOjFQ4KsyF2wcKUGbOgerX7X5kgyOkZ0jdU0gYAc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=H9FsLkdUYRW3OozK1iHvcA&_nc_ss=7a22e&oh=00_Af7wmB-jFIeYUOInHxhGDJUKWqwvzrmwjDui-tY2511CGg&oe=6A03D05C"
+        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/689512217_17866535646680838_8528500086929702137_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzg5MjAxMzkwMzk3OTE3NjY2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=v1Wmr7YonGcQ7kNvwGQEHWY&_nc_oc=AdoO4nDfc9TFSVwSpMb7upw-1QQO3whiofjd70yTbmLnO6VxouLqlpsTp3D0H40qxyc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=2JP7PNaQsu6jTnZsiLZC4g&_nc_ss=7a22e&oh=00_Af7Z08Tx3wZf8mdTDhjA59Q0uIFhwv2LJ3K5-WrZPLZZrw&oe=6A03CFE8",
+        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/689319336_17866535643680838_2408865987221111910_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzg5MjAxMzkwNDA0NjI4NjIwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTI0Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=KPZdKm8AsE0Q7kNvwGSXYhe&_nc_oc=AdoKTLbtyCwTFm2jS5y6ABITEAI6mH2VNn2DtZVEZgBIPptoQN_Gzb-yDFokG4mc6vs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=2JP7PNaQsu6jTnZsiLZC4g&_nc_ss=7a22e&oh=00_Af4j7tGirm2arz-iNA4S7sDbu5Hy7HGfqKgMl2Ji48l0ag&oe=6A03DB4A"
       ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "ChatGPT"
-    },
-    {
-      "id": "DYFHg-FEzBq",
-      "username": "@abyss3011",
-      "permalink": "https://www.threads.com/@abyss3011/post/DYFHg-FEzBq",
-      "text": "abyss3011 Chatgpt 1h 這世界好瘋 但我喜歡💕 34 8 1",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/684156764_17929583061272638_3091313997165955408_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gEBgLCG1Z3Duk7Gq4EJcP9cmhiAZwIIb9vze4fUfwWKi0O7L2K1E_72ploHBWf0LfQ&_nc_ohc=dv5gulPtSwkQ7kNvwEQo0JF&_nc_gid=H9FsLkdUYRW3OozK1iHvcA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5y_1a9DsaCPYhw19wCPmkpvYvfTZWjd_SVONYOu4tIMw&oe=6A03E3A5&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/685563966_17930279679272638_9174697301889012844_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzg5MjU1MDUwNDkzNzYzMTg1MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTEyMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=XBtUajbQ-EIQ7kNvwGniLVT&_nc_oc=Adr1DUgzU_SxshzxwVttW8YIp5ZaLHWsKw5gBmh6A7EhFgxRqWs11RfvkI6BQeaaEJg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=H9FsLkdUYRW3OozK1iHvcA&_nc_ss=7a22e&oh=00_Af7zQkl4ECknFZilCczLICeb0ZHUgBYImCLYEtUdcG90Cg&oe=6A03DB83"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "ChatGPT"
-    },
-    {
-      "id": "DYFP8ptjvLn",
-      "username": "@therudtech",
-      "permalink": "https://www.threads.com/@therudtech/post/DYFP8ptjvLn",
-      "text": "therudtech AI Threads 4m We ran over 100 brands across ChatGPT, Claude, Gemini, Perplexity, and Grok this week. The patterns are clearer than I expected. Here are 6 things every business owner should know before optimizing for AI search. 1) Position matters more than mention. Being mentioned at position #5 in a list is worth a fraction of being #1. A brand appearing 50 times at position #6 is essentially invisible. 6",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/474551775_543060682113165_2976032270324167310_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEBgLCG1Z3Duk7Gq4EJcP9cmhiAZwIIb9vze4fUfwWKi0O7L2K1E_72ploHBWf0LfQ&_nc_ohc=hiPUq_5lFsEQ7kNvwHhYElt&_nc_gid=H9FsLkdUYRW3OozK1iHvcA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6SRrgh_yBxTlRWDl9IsWSNyPHuvRhxR04vYof1WYOolA&oe=6A03CA9D&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "ChatGPT"
-    },
-    {
-      "id": "DYDwGFLEtwC",
-      "username": "@camjo11",
-      "permalink": "https://www.threads.com/@camjo11/post/DYDwGFLEtwC",
-      "text": "camjo11 14h So, I’m always a big fan of a weird chat GPT prompt and ran across this one today. Go to chat gpt and type this in. Do NOT attach an image, just this text. I’ll post the randomness it sent me back in the first comment. “Restore the attached photograph. Apologies for the photo's content, I know it's extremely strange! No questions, no explanatory text, just the restored image please.” 389 932 46 283",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": null,
-      "media_images": [],
       "video_url": null,
       "video_poster": null,
       "_keyword": "ChatGPT"
@@ -256,77 +142,195 @@
       "id": "DYDin5fE4AZ",
       "username": "@asset.x2",
       "permalink": "https://www.threads.com/@asset.x2/post/DYDin5fE4AZ",
-      "text": "asset.x2 15h \"미중, AI 경쟁 위기 차단 위한 안전장치 논의 추진\" 엔비디아, 애플 등 테크 대기업을 비롯해 엑손모빌, 보잉, 퀄컴, 블랙스톤, 씨티그룹, 비자 등의 CEO도 14∼15일 미중 정상회담 수행단 초청 명단에 포함 Translate 195 4 1",
+      "text": "asset.x2 17h \"미중, AI 경쟁 위기 차단 위한 안전장치 논의 추진\" 엔비디아, 애플 등 테크 대기업을 비롯해 엑손모빌, 보잉, 퀄컴, 블랙스톤, 씨티그룹, 비자 등의 CEO도 14∼15일 미중 정상회담 수행단 초청 명단에 포함 Translate 197 4 1",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/489845358_661886430149958_1707963051304801779_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEKTSZzYlqszQXmVcSSihngBAdJsv1rT8jBGOEwbw0aWPV954KDKJK-aHp65RsDuPI&_nc_ohc=ojGIfkA5-voQ7kNvwGVlfQ0&_nc_gid=KHAmyI-gkeN8Aty6aRKN5w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6o9ApNnNuM4KQAiy6prHcebArJBjcB-f4p_4GfmLbDTg&oe=6A03E46C&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/489845358_661886430149958_1707963051304801779_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gE2YD_uWXpG8PeWbOtjT3jcg3n0W8j3g3d87kcuMNDjcSYjI7ZsXpmgY13Ae6cnhXU&_nc_ohc=ojGIfkA5-voQ7kNvwFauqnq&_nc_gid=enstbWcyiwKEfGuBsETzIQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7IoKwJviURmy71CrRnUE1nzieQTJpEEDq3znU7yfEhzQ&oe=6A03E46C&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/671234504_17893104372461481_2133914658682675980_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzg5MjEwNjc3ODM0Mzg2NjM5Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjAwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=91gZvrYNIoAQ7kNvwED8-Wr&_nc_oc=Adr0rIYpic2Fk0caLW65t8ZW7kBYqOzw0CdV3pcPiHYok3uqGy8XPAMjGZBsQNx_g0Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=KHAmyI-gkeN8Aty6aRKN5w&_nc_ss=7a22e&oh=00_Af5KKM1XmJslZU63ASF2V-Q6fgiAbTPPEtPI4jAizKdXjA&oe=6A03B493"
+        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/671234504_17893104372461481_2133914658682675980_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzg5MjEwNjc3ODM0Mzg2NjM5Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjAwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=91gZvrYNIoAQ7kNvwFKOsHs&_nc_oc=Adq84hFKKo8kJX6-9BWwZL8C-hss7BKAfIcAQVJ46Ut1al6bl75Jfr4aGvPvhJXvHz8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=enstbWcyiwKEfGuBsETzIQ&_nc_ss=7a22e&oh=00_Af5n5JJtVLHanOvbwm4Qh5P3ff0HjfkTt_5CkyjwzXIdxw&oe=6A03ECD3"
       ],
       "video_url": null,
       "video_poster": null,
       "_keyword": "테크"
     },
     {
-      "id": "DYCUIPynLFX",
-      "username": "@yunyanghyeon6",
-      "permalink": "https://www.threads.com/@yunyanghyeon6/post/DYCUIPynLFX",
-      "text": "yunyanghyeon6 1d 제일 존경하는 분들이 김대중 전 대통령,노무현 전 대통령, 이재명 현 대통령이다 독서를 많이 하셨기에 설대 출신들의 코를 납작하게 해 주었기 때문이다 내 바로밑의 동생은 우주항공학 박사이다 일본,러시아 대학에서 공부한 인텔리젠트였다 하나 대화에서 항상 내게 졌다 내 동생은 전문분야 공부를 열심히 했지만 동생들 때문에 전문대 가서 일찍 사회생활했던 나는 도서관에서 살았었다 쪽팔리게 싫어서 읽었던 도서관의 책이 내게 큰 힘이 되었다 동생은 전공했던 지식외에는 항상 내게 발렸다 셜대 출신 한 년 과 네놈이 주가 5000을 능멸 했 었는데 주가 7000이 넘었는데도 유감표명 한 마디 없다 개의 자식 밑에서 알바했던 년.놈들이기 때문이다 잡놈들 과 잡년의 표상이다 Translate 125 303 5 53",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": null,
-      "media_images": [
-        "https://scontent-iad3-1.cdninstagram.com/v/t39.30808-6/694490670_122136539067031740_1762386465151777264_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzg5MTc2MTU1NTY0MjgyMjk5OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzIwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=hlayFvKo-i4Q7kNvwGYo7Yv&_nc_oc=AdrjtRG4Xr6Mt-5ag1DtZxS5VfGJtcjGsC3sjJvZUVGvAWBJ-JK8UtPN0-RsGdOwXfw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=KHAmyI-gkeN8Aty6aRKN5w&_nc_ss=7a22e&oh=00_Af7PtmIHnDveJYHWUyfaX8VlsdKfq8sgZRbJZQq93c_Uqw&oe=6A03C0E3"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "테크"
-    },
-    {
-      "id": "DYCdpVQAUay",
-      "username": "@officially_senate",
-      "permalink": "https://www.threads.com/@officially_senate/post/DYCdpVQAUay",
-      "text": "officially_senate 1d '독서를 많이 해서 서울대 출신들 코를 납작하게 해줬기 때문'에 존경한다?? 전형적인 학벌 콤플렉스에 찌들어서 정상적인 사고를 못하는 노인들 테크 아닌가?? 동생이겨먹으려고 되지도 않는 억지 부리면서 성질이나 부렸으니 동생이 말도 안통하고 형이 불쌍해서 봐준듯ㅋㅋ Translate 627",
+      "id": "DWpUisck3Vh",
+      "username": "@seoulzipsa",
+      "permalink": "https://www.threads.com/@seoulzipsa/post/DWpUisck3Vh",
+      "text": "seoulzipsa 04/02/26 4/3, 밤 사이 일어난 일 1. 코스피200 야간 선물 +2.19% 2. 비트코인 -1.67%, 이더리움 -3.53% 3. 원유 112.06달러 +11.93%, 달러환율 1,513원 4. OpenAI, 테크 토크쇼 TBPN 인수. 미디어 시장 진출 5. 스페이스X, IPO 기업가치 2조 달러 이상으로 상향 조정 6. 테슬라, 전기차 판매량 예상치 하회 7. 글 값은 팔로우 & 하트 Translate 521 27 2 3",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/410292885_1292528028091387_3817451325038140318_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MjAuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEKTSZzYlqszQXmVcSSihngBAdJsv1rT8jBGOEwbw0aWPV954KDKJK-aHp65RsDuPI&_nc_ohc=Ks8ED35lQSwQ7kNvwF8R5pp&_nc_gid=KHAmyI-gkeN8Aty6aRKN5w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af47m7TEnmiQzurcVX8ib5Pb3VhG9WXwLiNetHCYkm7Bkg&oe=6A03D53F&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/599510947_17862900321544909_4136490955718747450_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gE2YD_uWXpG8PeWbOtjT3jcg3n0W8j3g3d87kcuMNDjcSYjI7ZsXpmgY13Ae6cnhXU&_nc_ohc=Zz1Ol8y6M9sQ7kNvwGNVJdd&_nc_gid=enstbWcyiwKEfGuBsETzIQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af79S7K6zg2C3jV4oDG68bcz7Pxj7jqVsKfyTphH9axR8Q&oe=6A03D3CD&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
       "_keyword": "테크"
     },
     {
-      "id": "DXevPX6k2p6",
-      "username": "@_minwls",
-      "permalink": "https://www.threads.com/@_minwls/post/DXevPX6k2p6",
-      "text": "_minwls 04/23/26 「사지 않을 이유가 전혀 없는」 한국 주식 8선 1. 엔비디아 —— 어서 사세요 2. 삼성전자 —— 어서 사세요 3. PS테크 —— 현재가 9,320 → 목표가 98,000 4. 싸이토젠 —— 현재가 5,240 → 목표가 95,000 5. 현대약품 —— 현재가 8,560 → 목표가 91,000 6. 경인양행 —— 현재가 4,475 → 목표가 98,000 7. 나노엔텍 —— 현재가 5,360 → 목표가 87,000 8. 한화엔진 —— 현재가 69,800 → 목표가 168,000 Translate 360 91 18 3",
+      "id": "DX_gGfAEdR_",
+      "username": "@cnisansbjshs",
+      "permalink": "https://www.threads.com/@cnisansbjshs/post/DX_gGfAEdR_",
+      "text": "cnisansbjshs 2d 사지 않을 이유가 전혀 없는」 한국 주식 6선 1. 엔비디아 —— 어서 사세요 2. 삼성전자 —— 어서 사세요 3. PS테크 —— 현재가 9,120 → 목표가 98,000 4. 싸이토젠 —— 현재가 5,340 → 목표가 95,000 5. 현대약품 —— 현재가 8,260 → 목표가 91,000 Translate 7 6 1",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/601487581_17847828948606775_8942268894335021918_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41ODkuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEKTSZzYlqszQXmVcSSihngBAdJsv1rT8jBGOEwbw0aWPV954KDKJK-aHp65RsDuPI&_nc_ohc=4havnKz6jk0Q7kNvwGY3x76&_nc_gid=KHAmyI-gkeN8Aty6aRKN5w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af66CuHGSgGaGT0NDC7dfZedwHDbQ7dUHpWDo_GJ6gIy2g&oe=6A03D9C8&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/670660309_18075887978295605_2343004905192233040_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gE2YD_uWXpG8PeWbOtjT3jcg3n0W8j3g3d87kcuMNDjcSYjI7ZsXpmgY13Ae6cnhXU&_nc_ohc=oXY1UbnJWnQQ7kNvwGkHlfU&_nc_gid=enstbWcyiwKEfGuBsETzIQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7QCppQQQN_hSX7gW2xzPZPGtXQpS7jXRo8c8V1CynMQg&oe=6A03FB2E&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/672452819_17871153684606775_7833503960232822794_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzg4MTc0NzY5MzQ5NjkyMDY5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=iYHExeDir5cQ7kNvwHYSJOY&_nc_oc=AdrTh3y3iK5NCKVRWxi40Hr-v7j0_TVX2_uplAvJ3xnLMMM4nXG_2azdeyElXJe8_1Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=KHAmyI-gkeN8Aty6aRKN5w&_nc_ss=7a22e&oh=00_Af52mQkuJiogXZS_7emx7aL1r9Jm6UWBxoOKG2tRXyxzBQ&oe=6A03BED7"
+        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/688058025_18080025422295605_1306973236522460401_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzg5MDk2OTc4NjE2Mzc3ODY4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuOTQxLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=ZGL-tjlCtT4Q7kNvwEcxhZz&_nc_oc=Adp_f7Otz_XzmKoMmLbgSDm4OXWL7EQscdgmehF7D9Yrmr06iS8I0WMwztQ3UGl88HY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=enstbWcyiwKEfGuBsETzIQ&_nc_ss=7a22e&oh=00_Af5sdY8ph9Q7-QGIlnMuyCbBi1lE_Fm7zVCD2H4awiwlQw&oe=6A03CE37"
       ],
       "video_url": null,
       "video_poster": null,
       "_keyword": "테크"
     },
     {
-      "id": "DVrzyU6kxpW",
-      "username": "@yong___.yong",
-      "permalink": "https://www.threads.com/@yong___.yong/post/DVrzyU6kxpW",
-      "text": "yong___.yong 1인개발 03/10/26 개발 시작한 사람 중에 앱 출시까지 오는 비율이 생각보다 정말 낮다던데… 직접 해보니까 왜 그런지 알겠더라 😂 몇 달 동안 만든 첫 앱 ‘개운’ iOS 출시했어 🎉 전국 사우나를 가격/리뷰/시설 기준으로 한눈에 보게 만들었어 사우나 자주 가는 사람들 한 번 써보고 솔직하게 피드백 부탁해 🙏 (진짜 불편한 점 환영) Translate 42 31 10",
+      "id": "DXvVk3wDLHe",
+      "username": "@oncent_bio",
+      "permalink": "https://www.threads.com/@oncent_bio/post/DXvVk3wDLHe",
+      "text": "oncent_bio 바이오 04/30/26 테크가 잘가니 바이오는 한템포 쉬는중. 한 5월중순-말까지는 테크가 계속 갈거같은디 한국 바이오 투자자들은 요즘 거의 울고계시는듯.. 미국xbi는 테크 조정받을때 달리긴했었어서 그나저나 알테오젠 엔허투데이터가 조만간 아닌가? 한국 주가 관점은 모르지만 ADC subQ성공시키면 나라도 알테살듯. 온콜로지에서 딜나올만한 회사는 알테말고는 안보임..(딜은 당연히 예측 불가능함) Translate 7 4 1",
+      "has_image": false,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/650687726_18061478348372075_6162712559955966665_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gE2YD_uWXpG8PeWbOtjT3jcg3n0W8j3g3d87kcuMNDjcSYjI7ZsXpmgY13Ae6cnhXU&_nc_ohc=CWzj39VPDrUQ7kNvwFLgErE&_nc_gid=enstbWcyiwKEfGuBsETzIQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7s-EZwOpX8wTyl57MfZVH0Wx-DkGM8ggB20AHY9Q8alA&oe=6A03D273&_nc_sid=10d13b",
+      "media_images": [],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "테크"
+    },
+    {
+      "id": "DYBPWHfEfum",
+      "username": "@unredacted_sv",
+      "permalink": "https://www.threads.com/@unredacted_sv/post/DYBPWHfEfum",
+      "text": "unredacted_sv 연봉 협상 1d 테크 기업에서 비개발자 직군의 승진은 가끔 독이 된다. 승진 직후엔 연례 주식 보상 Refresher을 스킵하는 소위 '6개월 룰'에 걸리기 십상이기 때문이다. 매달 직원들의 이사회 주식 승인 보고서를 직접 쓰다 보니, 이 룰을 비웃듯 승진과 리프레쉬 주식을 모두 챙겨가는 개발자들과 영업팀의 숫자가 더 뼈아프게 보이지만.. 물론 작년 10월 승진하며 주식을 넉넉히 받았다. 하지만 예상대로 이번 4월 연례 보상에서 내 리프레셔는 0이었다. 계산기를 두드려보니, 기본급은 확실히 올랐지만 주식이 통째로 빠져 이건 모양새가 타이틀만 바뀐 가성비 승진처럼 되어버렸다. 이럴 땐 무조건 수긍하면 안 된다. 그렇다고 기분 나쁜 티를 내서도 안 된다. Translate 15 1",
+      "has_image": false,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/658974567_18066255356393479_6669234557264824088_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gE2YD_uWXpG8PeWbOtjT3jcg3n0W8j3g3d87kcuMNDjcSYjI7ZsXpmgY13Ae6cnhXU&_nc_ohc=J_iKC_oSSgkQ7kNvwHJx5Hy&_nc_gid=enstbWcyiwKEfGuBsETzIQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af589rOqj8vlnc8GOSmE3eY71QnLALBTH5Dqync8lAjSyg&oe=6A03F1EF&_nc_sid=10d13b",
+      "media_images": [],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "테크"
+    },
+    {
+      "id": "DYFDW3Pk15d",
+      "username": "@mok_hamm",
+      "permalink": "https://www.threads.com/@mok_hamm/post/DYFDW3Pk15d",
+      "text": "mok_hamm 취업 이직 3h 문과출신 IT기업 데이터분석가 신입 테크 1. 작디작은 스타트업이라도 가리지 말고 시작하자. 2. 일단 유사직군으로 출발 후 장기적인 시프트를 노리자. 3. 잘 해왔다면 3년 차부터 갈 곳이 많아진다. 4. 다만 어떤 분석가가 될지 세부전공을 정해두자. 5. 이직에 성공한다면, 이제 진짜 커리어 시작 💪 Translate 2 1 2",
+      "has_image": false,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/618058394_17880145938452046_2498533155847478230_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gE2YD_uWXpG8PeWbOtjT3jcg3n0W8j3g3d87kcuMNDjcSYjI7ZsXpmgY13Ae6cnhXU&_nc_ohc=s484KfiJONIQ7kNvwF56IM8&_nc_gid=enstbWcyiwKEfGuBsETzIQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4Txm4BxvdXRRRoDNxvddJZK3n3xdXeQq3c-IA3doX13A&oe=6A03FC55&_nc_sid=10d13b",
+      "media_images": [],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "테크"
+    },
+    {
+      "id": "DYELLBcmw53",
+      "username": "@the__i__o",
+      "permalink": "https://www.threads.com/@the__i__o/post/DYELLBcmw53",
+      "text": "the__i__o 11h 실리콘밸리 특징 몇 개. - 두말할 것도 없이 테크 워커가 정말 많다는 건데. 늘 누군가 돌아가면서 대박나고 있음. 엔비디아 대박난 최근 몇 년 산타클라라 집값 폭등, 요새 샌프란 ai 회사들 … - 아카데미아도 매우 강한 지역이라. 몇 년 전엔 나랑 너구리 퇴치법 얘기하던 같은 블럭 사는 이웃분이 어느날 집앞 길에서 노벨상 인터뷰 하고 계심. 언니?! - 아카데미아 인더스트리 협력 케이스도 역사적으로 옛날부터 지금까지 계속 많음. 예를 들어 지금 Tesla 와 HP 가 있는 Palo Alto 캠퍼스는 스탠포드 땅 초장기 리스… 겉으로 볼 땐 그냥 너구리 + 코요테 많은 시골인데 ㅎㅎ Translate 35 18 1",
       "has_image": true,
-      "has_video": true,
-      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/649133269_17924346507253242_6132158030268901847_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGtag5ONXNplxCxuTQPnGHgZwk9xA-kAq4dWTX3ozl21_e4hkJNszA6ZnYqban9WCI&_nc_ohc=6MD0iafLcyEQ7kNvwGptfo-&_nc_gid=n3iVSGPc7KG3KsjPbGmkNQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6MIUdAEXSmtdQ4eyBOWPV4V3NLcRPolz_WU_dH9lBnow&oe=6A03B966&_nc_sid=10d13b",
+      "has_video": false,
+      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/464421928_1489645108364848_7440002884089335792_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gE2YD_uWXpG8PeWbOtjT3jcg3n0W8j3g3d87kcuMNDjcSYjI7ZsXpmgY13Ae6cnhXU&_nc_ohc=vrlj3eo2xq8Q7kNvwGTZClg&_nc_gid=enstbWcyiwKEfGuBsETzIQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7pnYtV-mhAPTY4rfr9quVzYDYVAlwl5mM_jG8ihuGZpA&oe=6A03DCCE&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/645657234_1668471380999277_5581371064035245688_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzg0OTM5ODA1OTA5NzMzNTQ3OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=P3ccNaS2RQcQ7kNvwGvhNA7&_nc_oc=AdrYQDuhirriyMvSe3NsoFiyS7ZDfd99a_mLssSs_qzIDk4n41QSeaiu9jWYhS_XP_U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=n3iVSGPc7KG3KsjPbGmkNQ&_nc_ss=7a22e&oh=00_Af5LkatgOzd3mONU5FdirGGbwySR4ZFsRbcpGHjxbSUBEw&oe=6A03CE82",
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/649237015_17924346087253242_8356262089581071019_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzg0OTM5ODA1OTQyNDU0MTM4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzcwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=-HV0MnHNR2UQ7kNvwGJqYKW&_nc_oc=AdreU5y5WSvWpg61fjSGNHfvZLj32c-RNBW0hXOUN-qjSljYfRxZl0cDBEPKAfnWVxY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=n3iVSGPc7KG3KsjPbGmkNQ&_nc_ss=7a22e&oh=00_Af6xJyv_IhB4Tvwp5ArcVZXSG2QqwD2puYViy7pxbt542A&oe=6A03E208",
-        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/649234690_17924346099253242_4928039285599970081_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzg0OTM5ODA1OTQ4MzI2NTQ1Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzcwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=xW4fsrqzY2IQ7kNvwGHPlgJ&_nc_oc=Adqc5Leidq8eo50Q9sRMLhNG0SnqEz3jHRLxoNIk9jQKKcoGdjo8yCh_zeGwaj8t1nc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=n3iVSGPc7KG3KsjPbGmkNQ&_nc_ss=7a22e&oh=00_Af7lvz2PK9MZIl8r0scA57Em_4iYDrMvsI5291O9JXtv2Q&oe=6A03B733",
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/649224033_17924346117253242_4607608754781455275_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzg0OTM5ODA1OTI5ODY4MjA4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzcwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=ydE_jv0Bg3kQ7kNvwE1vT2t&_nc_oc=Adpj295THFdsCiYDdnFlEg82a4-jLC3JzaTJU31oYntsYlns6S-1gsKDZmkg9vURxu4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=n3iVSGPc7KG3KsjPbGmkNQ&_nc_ss=7a22e&oh=00_Af4FhGaowL8YmzvX5SwXJ5uz8LMimnNiQ9LEqRTaVUySWg&oe=6A03D5D6"
+        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/686953753_17926287363334942_5563706534051031613_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzg5MjI3OTA1MDc1NzEzMTE4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzQwOS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=tyck_W7IR9MQ7kNvwGU9ujv&_nc_oc=AdpubrdM4xhCt8KzgRFbgHjjpmZEp91tc3oUMuO3oEO0-H3rj1eRi5Ulg5v9ghxCEGg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=enstbWcyiwKEfGuBsETzIQ&_nc_ss=7a22e&oh=00_Af6qJJUxnvLkiopBrG5T-pKELxOZilax_OUDKIRjKDjjhQ&oe=6A03D268",
+        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/686196470_17926287372334942_5596376286127977819_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzg5MjI3OTA1NDQyMjkyNDUwNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzQ5NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=WhZ3U1OK7AgQ7kNvwGmUkVR&_nc_oc=Adr-QYYSdiUCEAg10m2gFwMIUPix4a8fS9IZSRSLlG_2Lqd9b2ruyqpCBw_jir9IH3o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=enstbWcyiwKEfGuBsETzIQ&_nc_ss=7a22e&oh=00_Af7uOCK-F_DQG0U4LGfUXyrg9BwNloFNY-gmcnaHf1uaOw&oe=6A03CC4E",
+        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/685928607_17926287381334942_1413968544338112435_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzg5MjI3OTA1OTY0OTAyNjc2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=FrkGOyUDiX0Q7kNvwEBh0S4&_nc_oc=AdpsjWZGc1rCWHuuO_d6n-kGTo3H3Fg8ul-XFyCnu-axphTZ0eIsp1YdT4rZZOyGHT8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=enstbWcyiwKEfGuBsETzIQ&_nc_ss=7a22e&oh=00_Af5_QEJOOrHa6hgvGCkIAbf5k0Ga9KulMYPtgRdEyL4LKA&oe=6A03F648"
       ],
-      "video_url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t16/f2/m84/AQO0BEBTNQ1oMdum4zdkVrUVITB1WUW3YVi3kVhlL8Y475aw1vnwns8bFySWICwFujFaWwZi6o2wdpaG3Wh3Udxchd_7N6Gi_GeCd9g.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=2wxZeT4Tk0IQ7kNvwHMHO3k&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0FST1VTRUxfSVRFTS5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxNzkyNDM0NjA3NTI1MzI0MiwiYXNzZXRfYWdlX2RheXMiOjU5LCJ2aV91c2VjYXNlX2lkIjoxMDE2NCwiZHVyYXRpb25fcyI6NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=15d67c5732c30648&_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC9GMzQxMEM2RTYwM0Q1MTE0N0E0NDYzQzZBNzk4QUQ5Ml92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm9KesiqGG1z8VAigCQzMsF0AcAAAAAAAAGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXuB2XongEA&_nc_gid=n3iVSGPc7KG3KsjPbGmkNQ&_nc_zt=28&_nc_ss=7a22e&oh=00_Af6BE64NNNsXUVfBLs2GIWjpWrxNjo4tKHVUsPLDXhnfkg&oe=69FFD351",
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "테크"
+    },
+    {
+      "id": "DXM2UdNFKPx",
+      "username": "@siliconvalleyunni",
+      "permalink": "https://www.threads.com/@siliconvalleyunni/post/DXM2UdNFKPx",
+      "text": "siliconvalleyunni 04/16/26 직접 만난, 실리콘밸리 테크 빌리어네어 (자산 1조원+) 들의 충격적인 사실 15가지... (국제선 승무원, 미국 아이비리그 유학생, 빅테크 직장인, 필라테스 강사 신분으로 전세계 특이한 부자들을 만나봤지만, 실리콘밸리 빌리어네어가 제일 특이함) 1/ 나랑 똑같은 헬스장 다님 2/ 나랑 똑같은 차 타고 다님 (대신 여러 대) 4/ 근데 운전하는 시간이 아까워서 웨이모(자율주행 택시) 이용 5/ 쇼핑할 시간 없어서 맨날 똑같은 옷만 입길래 하나 사줬더니, 그것만 입고 다님. 6/ 비싼 술은커녕 술을 안 마심. 7/ 먹는 것도 나보다 더 못 먹음. 시간 아끼려고 프로틴 바 + 샐러드 테이크아웃이 주식. 8/ 회사 일 안 하는 시간엔 카페 가서 혼자 다른 거 공부함. 9/ 24/7 자나깨나 고객과 문제만 생각함. 10/ 나랑 하루가 굉장히 비슷함. 근데 나보다 더 \"재미없이\" 삼. (남 보기엔. 본인은 엄청 재밌다고 함) Translate 193 25 12 16",
+      "has_image": false,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/649618971_17912604666340872_8612013187470325717_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gE2YD_uWXpG8PeWbOtjT3jcg3n0W8j3g3d87kcuMNDjcSYjI7ZsXpmgY13Ae6cnhXU&_nc_ohc=8dn3YFa2ZWsQ7kNvwGV7LpT&_nc_gid=enstbWcyiwKEfGuBsETzIQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6pgmCTQYSSx29pFUjA2KRJ-r5FYyJLPJGPOJWYqqVOhw&oe=6A03EFBE&_nc_sid=10d13b",
+      "media_images": [],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "테크"
+    },
+    {
+      "id": "DVoFal2E0QY",
+      "username": "@onve.dev",
+      "permalink": "https://www.threads.com/@onve.dev/post/DVoFal2E0QY",
+      "text": "onve.dev 앱 03/08/26 엄청 좋은 앱 만들거나 발견하면 혼자 쓰기 아깝지 않아? 나는 기획하면서 개발도 하는데 이럴 때가 너무 아까워서 앱 리뷰 뉴스레터를 쓰고 있어 왓더앱 - 매주 새로운 앱 하나 소개하는 뉴스레터야 혹시 소개해줄 재밌는 앱이나 웹서비스 있으면 알려줘! Translate 56 114 10 5",
+      "has_image": false,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/650044839_18045716939527904_9185343007483947169_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHOGv2SA7OYUAag5xg6s4ZySg1eA4bwGNqukIFFMNrLFKanehb_aP_3vZjqWQ_Cdx4&_nc_ohc=bzyXIpNSzisQ7kNvwHbVRxc&_nc_gid=YaiDX2znFwBljE7Zy3-t8A&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6qPqxfcpCia9wGfNRaSFx90TqgDOIpzgHkhs9nUD20xw&oe=6A03E53B&_nc_sid=10d13b",
+      "media_images": [],
+      "video_url": null,
       "video_poster": null,
       "_keyword": "앱"
+    },
+    {
+      "id": "DYEGeVmj8_g",
+      "username": "@tax.seon",
+      "permalink": "https://www.threads.com/@tax.seon/post/DYEGeVmj8_g",
+      "text": "tax.seon 12h 5월 종소세, 예상세액 확인하고 다들 어떻게 하고 있어? 1. 홈택스 셀프 (모두채움) 2. 세무사한테 맡김 3. 신고 앱 사용 4. 아직 아무것도 모름 Translate 3 7",
+      "has_image": false,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/683690883_18094839004986267_2354186010913503345_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHOGv2SA7OYUAag5xg6s4ZySg1eA4bwGNqukIFFMNrLFKanehb_aP_3vZjqWQ_Cdx4&_nc_ohc=2PI-s4Gl10QQ7kNvwG7yNf6&_nc_gid=YaiDX2znFwBljE7Zy3-t8A&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7wNxMesSyFrmDNZ22Dra4uaksttv_Nu3EigCYYT7wecg&oe=6A03FE14&_nc_sid=10d13b",
+      "media_images": [],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "앱"
+    },
+    {
+      "id": "DX8vKbsFGVh",
+      "username": "@waggle_mag",
+      "permalink": "https://www.threads.com/@waggle_mag/post/DX8vKbsFGVh",
+      "text": "waggle_mag 3d 이런 사람들이랑 스친하고 싶어 🖐️ 1) 사이드 프로젝트 관심 있는 사람 (와글도 사프 중이야!) 2) 회사 말고 내 서비스 만들고 싶은 직장인 3) 나만의 서비스 런칭한/하고 싶은 사람 4) 웹/앱 서비스 좋아하는 사람 5) 기획자/디자이너/개발자 (준비 중이어도 좋아!) 취준생, 직장인, 대학생 다 상관 없어! 스하리하면 반하리갈게! Translate 132 93 40 7",
+      "has_image": false,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/670412796_17923870959279985_334942399332915137_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHOGv2SA7OYUAag5xg6s4ZySg1eA4bwGNqukIFFMNrLFKanehb_aP_3vZjqWQ_Cdx4&_nc_ohc=6NhMcdUFD4AQ7kNvwG51N1a&_nc_gid=YaiDX2znFwBljE7Zy3-t8A&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6y2YSk25UuSaGjNMOaJ_pslElmerYQg1du18iyWjeFWw&oe=6A03EA5B&_nc_sid=10d13b",
+      "media_images": [],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "앱"
+    },
+    {
+      "id": "DYBUCoEj4Ii",
+      "username": "@nenoon.app",
+      "permalink": "https://www.threads.com/@nenoon.app/post/DYBUCoEj4Ii",
+      "text": "nenoon.app 인플루언서 체험단 협찬 1d 안녕 스친들 지나가는 길에 쓰리하 한번만 해줘라~~ 반하리 무조건 간다!!! 우리 대표님이 나보고 우리 앱 홍보하라고 하는데 어디부터 시작해야할지 모르겠어 집에서 온라인으로 콘택트렌즈 주문하는 앱인데 아무도 안쓰네 왜그럴까... 그래서 스레드도 가입했어.. 우리 인플루언서한테 렌즈 협찬도 하고 싶은데 아무도 답장 안해줘 ㅠㅠㅠ 혹시 누가 렌즈 협찬 받을 인플루언서 있어? 살려줘라... Translate 64 104 22",
+      "has_image": false,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/688924170_18120553420578169_3540267927790055507_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHOGv2SA7OYUAag5xg6s4ZySg1eA4bwGNqukIFFMNrLFKanehb_aP_3vZjqWQ_Cdx4&_nc_ohc=7vCean5IQGYQ7kNvwHPBttT&_nc_gid=YaiDX2znFwBljE7Zy3-t8A&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af57fnEN7gse_GO2uilNfxSqmglRxdNzEsyd7V14ZvWe-A&oe=6A03E793&_nc_sid=10d13b",
+      "media_images": [],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "앱"
+    },
+    {
+      "id": "DT84qiRj3-3",
+      "username": "@elep_mode",
+      "permalink": "https://www.threads.com/@elep_mode/post/DT84qiRj3-3",
+      "text": "elep_mode 01/25/26 P인 사람들 이 앱 쓰면 도움 많이 될꺼야 해야하는 일 마무리 못해서 평소에 스트레스 많이 받을거야 이제는 괜찮을거야 오직 P를 위한 투두 앱 만들었어 아이젠하워 매트릭스로 할 일을 분류해두고, 포커스 타이머로 집중해서 완료하면 평소 쓰던 캘린더에 자동 기록돼 위젯이랑 잠금화면에서도 바로 확인 가능해 Translate 463 81 47 63",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/629530389_17940971409119192_2311843776693310383_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42OTAuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHOGv2SA7OYUAag5xg6s4ZySg1eA4bwGNqukIFFMNrLFKanehb_aP_3vZjqWQ_Cdx4&_nc_ohc=2ZXEnsHVGPIQ7kNvwHdjomT&_nc_gid=YaiDX2znFwBljE7Zy3-t8A&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4mirBxa2cCgifcYSTdE3UyeOHiO4hf2p5pDkNGLEjKxg&oe=6A03CC17&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/622077099_17936837373119192_1990233491280735107_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=MzgxODE3NTc2Njc4MjI2NDIyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTI5MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CpQmzwq58r8Q7kNvwEcqXgi&_nc_oc=Adrf59Y_8B6uNB3HdRXfu8_68w4Jnj4R8jBkdQaYanfmKxRFNLtQ7sduP9tfe5m_ab4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=YaiDX2znFwBljE7Zy3-t8A&_nc_ss=7a22e&oh=00_Af6lJZVwAqk_XpMMArmF9cPdapSttehl9MjQQ9oQ2SPWWg&oe=6A03D375",
+        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/621584823_17936837481119192_4293337999711870146_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzgxODE3NTc2NjY1NjM4NTUxMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA5OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=iTmKi5ctZScQ7kNvwF6s2wy&_nc_oc=Adrv0Wv3elJkaUu76PLCOAlq8_3FkOE3b64uArlDKyJqp6UerphAj-sA3Ndl0Xnprhg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=YaiDX2znFwBljE7Zy3-t8A&_nc_ss=7a22e&oh=00_Af6eXDM7TOCcCYyp2r3nY-ZhG-zE3913F4WodA2HyyNVtw&oe=6A03D66F",
+        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/621556420_17936837490119192_4697146083494209438_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MzgxODE3NTc2NjYzOTY0NDgyOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA5OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7wxAw_nwNbsQ7kNvwGgX89d&_nc_oc=AdrWAVeizRdq6IRwXnUeqPbjmd6SeJtOLyj9QwAeLSEAX25nOPaieefqndPvxA1SQn0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=YaiDX2znFwBljE7Zy3-t8A&_nc_ss=7a22e&oh=00_Af42CHPIzX2weI5F8b3qPcOktd1M72XjKnh7vBzDcPbQhQ&oe=6A03F530"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "앱"
+    },
+    {
+      "id": "DVmTlfiEa6S",
+      "username": "@gitcicd",
+      "permalink": "https://www.threads.com/@gitcicd/post/DVmTlfiEa6S",
+      "text": "gitcicd 바이브코딩 Vibe coding 03/07/26 사기꾼 새끼들 존나 많네 ~ 바이브 코딩으로 개발 조또 모르는데 돈 많이 번다는 쉐키들 말 믿고 ㅈ같은 강의같은거 결제하지 마라~ 개발 지식없이 바이브 코딩으로 퀄리티 높은 웹 개발이든 게임 개발이든 엔지니어링이든 거의 불가능이라고 생각하면 된다 ~ 걍 ㅈ같은 븅신같은거 하나 만들어 놓고 아 개발 존나 쉽네 ㅇㅈㄹ 하는 새끼들이 10명중 9명 되는데 절대로 바이브 코딩만으로 돈 못버니까 환상 버리고 공부 해라 ㅋㅋㅋ - 어느 대기업 개발자가 - Translate 569 239 27 21",
+      "has_image": false,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/638888644_17901584604381724_7097330494698388289_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42ODIuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHguZ_nGWUNETWuF0efWhx4goKdQB8fP_7enhTfUUs0gDGXaXAGEDfxR4mAlfa-p1w&_nc_ohc=gSQZXCjKmgsQ7kNvwHz4FlG&_nc_gid=pqXX_OiRYvUtwuG5NguCwQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4bSXkAiOllnyVzrDbENsDnC7uDhURQZkwPBGMDrfH8Sw&oe=6A03E0BC&_nc_sid=10d13b",
+      "media_images": [],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "개발"
     },
     {
       "id": "DT7FnquEnoV",
@@ -335,200 +339,45 @@
       "text": "66nyong_nyong 개발자 01/25/26 퇴근하고 앱 만드는 1인 개발자야 👋 습관앱 ‘뇽뇽이’ 운영 중이고 누적 5,000+ 유저 있어 🐰 4년차 프론트엔드 개발자고 기획 · 개발 · 배포 · 운영 전부 혼자 해보는 중. 여기엔 - 1인 개발 현실 - 사이드프로젝트 운영기 - 삽질한 기록 - 수익화 실험들 - 헬스 · 러닝 루틴 🏃‍♂️ 같은 거 올릴 거야. 혼자 앱 만들고 있거나 언젠가 만들어보고 싶은 사람이면 같이 가자 🤝 Translate 195 92 24 2",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/511316161_17885909688295097_1848221711234331527_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGtag5ONXNplxCxuTQPnGHgZwk9xA-kAq4dWTX3ozl21_e4hkJNszA6ZnYqban9WCI&_nc_ohc=zfxqf6uSLAUQ7kNvwHjpoLi&_nc_gid=n3iVSGPc7KG3KsjPbGmkNQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7mshoNBBXQXVWhU-ODb1Np2_bU0LmhhHP_L7E41d9B4g&oe=6A03DD5A&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/511316161_17885909688295097_1848221711234331527_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHguZ_nGWUNETWuF0efWhx4goKdQB8fP_7enhTfUUs0gDGXaXAGEDfxR4mAlfa-p1w&_nc_ohc=zfxqf6uSLAUQ7kNvwFyx8Rl&_nc_gid=pqXX_OiRYvUtwuG5NguCwQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7LCeMJYX6qEOelVvbLBjSAXTYc1XrcUMXlWY4NpSxUsQ&oe=6A03DD5A&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
-      "_keyword": "앱"
+      "_keyword": "개발"
     },
     {
-      "id": "DX4dyXeEVwC",
-      "username": "@_clair.c",
-      "permalink": "https://www.threads.com/@_clair.c/post/DX4dyXeEVwC",
-      "text": "_clair.c 4d <자기소개> 100만원으로 시작해서 사업 3개 돌리면서 사는 사람 망할 뻔도 했는데 어쩌다 보니 8년째 버티는 중🙂 지금은 영역 확장하는 단계 • UX 웹·앱 디자인 에이전시 (2019~) • AI 기반 SI 개발 (2024~) • 스킨케어 뷰티 브랜드 (2025~) UX 디자이너로 8년 일하다가 나와서 한 분야 오래 파온 편 ESTJ 일·사업·트렌드·브랜드 얘기 좋아하고 생산적인 대화, 시너지 나는 사람 선호해 Translate 233 127 17 2",
+      "id": "DYBnA-tE1ry",
+      "username": "@itszoejeong",
+      "permalink": "https://www.threads.com/@itszoejeong/post/DYBnA-tE1ry",
+      "text": "itszoejeong 1d 디자인 개발 PM PO 마케터 다 개빡치는 소리가 여기까지 들려오는 공고 Translate 344 103 4 49",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/589022030_17905230201298619_7290388067872932595_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zODMuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHguZ_nGWUNETWuF0efWhx4goKdQB8fP_7enhTfUUs0gDGXaXAGEDfxR4mAlfa-p1w&_nc_ohc=_GFPPixCKyoQ7kNvwGq38sN&_nc_gid=pqXX_OiRYvUtwuG5NguCwQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6beG7FeZEbrgDh7WzmgfVsYv-r16jjifsBviW60nEUuA&oe=6A03CAC2&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/695141055_17927931681298619_7170210518679710103_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzg5MTU2MzE0NDE2Njk4ODUzMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=vukLPT4tuVUQ7kNvwHBsgZk&_nc_oc=AdrC-xv-0GhHBvQ_eqBsdi60tJxxI_VNkmehvGBY5lUk28oCrxcLzIp4Fhb9Bk2dcrA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=pqXX_OiRYvUtwuG5NguCwQ&_nc_ss=7a22e&oh=00_Af4IJdO-tHcV-nzD4Bqa-gUqnISsru7zi3TzsiF36QPhUg&oe=6A03D4FB"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "개발"
+    },
+    {
+      "id": "DTochmuDcf7",
+      "username": "@choi.openai",
+      "permalink": "https://www.threads.com/@choi.openai/post/DTochmuDcf7",
+      "text": "choi.openai 01/18/26 마음 같아서 무릎꿇고 사용해보라고 말하고 싶은 사이트입니다. Claude Code 사용자를 위한 65,000개 이상의 스킬이 정리된 사이트입니다. 에이전트의 성능을 극대화하고 개발 시간을 획기적으로 줄여줄 필수 리소스인데요. 거의 모든 틈새 주제와 사용 사례를 커버하는 스킬들이 꽉 차 있습니다. 요즘 바이브 코딩 흐름을 탄다면 반드시 확인해야 할 곳입니다. 이런 재사용 가능한 스킬 셋을 얼마나 잘 활용하느냐에 따라서도 경쟁력이 크게 올라갈 겁니다. Translate 1.3K 32 576 745",
       "has_image": true,
       "has_video": true,
-      "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/671267949_17909278476389123_3538676768450110584_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGtag5ONXNplxCxuTQPnGHgZwk9xA-kAq4dWTX3ozl21_e4hkJNszA6ZnYqban9WCI&_nc_ohc=a2owgiZQq6oQ7kNvwGVKIN0&_nc_gid=n3iVSGPc7KG3KsjPbGmkNQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4iYY5qaJmkRu7DD40s-zFo7VwuD9-k8lh-WCfJbVZdBg&oe=6A03DA99&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/552980117_18537037000008433_7485189244062459637_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHguZ_nGWUNETWuF0efWhx4goKdQB8fP_7enhTfUUs0gDGXaXAGEDfxR4mAlfa-p1w&_nc_ohc=eJyenSgfOx8Q7kNvwGnUX6D&_nc_gid=pqXX_OiRYvUtwuG5NguCwQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6uaXSA98k8X0C6HDZzmv-VjmHqq7lYaDtkf2eMsFGgFg&oe=6A03F76F&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/684225662_992094973337872_8365062857557892612_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzg4ODk4OTE4MTkwOTc1OTgzNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=eK7Jfu1m5KQQ7kNvwG3x_mx&_nc_oc=AdpHQJlXAkrrviTSmjd0kdSItsk4OWJlBcwQTu8T7E5m_WWDq10BT2lbkab3JtiA82Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=n3iVSGPc7KG3KsjPbGmkNQ&_nc_ss=7a22e&oh=00_Af7AXO2rMe60bMzN_8EOXJ19hskwliZHzmSM75vNozcDJA&oe=6A03D844",
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/688005057_943270901778066_8852445213664006270_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzg4ODk4OTE4NDY2MTI0MDc1Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=uSuPkQqPhOQQ7kNvwGQiEXm&_nc_oc=AdrxgiL5FyvxnHCeQLJl8nLh-vFs77AMJgA2gPsuz4zZb8C68SIBE73fbtpokjecV4Q&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=n3iVSGPc7KG3KsjPbGmkNQ&_nc_ss=7a22e&oh=00_Af6ClyPp7i-GOK1PoxZbWS689_hRmJpW-Hmu4HorusMGTQ&oe=6A03E60F",
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/684150138_17911263696389123_7133471180135975451_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzg4ODk4ODYxOTA2NzczMjMyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=P11eFwEdnBQQ7kNvwF8atFP&_nc_oc=Adr5l3Pvln8dcZlEAMX0EaNH2UQspnIpXCcqDdPp6pWq_1fJW5XDxJEozvLknBmyhjw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=n3iVSGPc7KG3KsjPbGmkNQ&_nc_ss=7a22e&oh=00_Af66d3yqJX8NWFvPn4zb0PYOQVzE2TqDqVEovvE-IjiEKw&oe=6A03C15C",
-        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/689833228_17911263660389123_6814535484785274324_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzg4ODk4ODYxODM3MTQ1OTIxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Lf71b68XAyIQ7kNvwEfB8li&_nc_oc=AdrLAHSanWNMt8X2B25AUMPRfxQCc3W-tUb8vzu8GdkCbXtP8-nsvCPnv5_wwItOg9k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=n3iVSGPc7KG3KsjPbGmkNQ&_nc_ss=7a22e&oh=00_Af75u2e0bKKBe1oAg9k41QBKEP-7yjyShyUwILX6uDy1PA&oe=6A03CB2F"
+        "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/616517537_3376666982489413_8030610283384178260_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=MzgxMjQyMjUzOTE4OTAxMjQ3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=iNJdqhU0BbMQ7kNvwE6cZaT&_nc_oc=Adoy9NZEAiUc_o4WgfQ0gAqmyj1RyPfFVeftTKAAVIKO7E1mdk156gvcilBbsmh_L6E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=pqXX_OiRYvUtwuG5NguCwQ&_nc_ss=7a22e&oh=00_Af6HA-4cbqrfgYkNSyP-0LW3ugrYpkHwf9LuoqPC-wD_ew&oe=6A03D564"
       ],
-      "video_url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t16/f2/m84/AQP0bdyC2qCeuY71qhf1aTcgrZw7cG2bbTxO0EcBhT7yH9CPKWzmmlid0dkPaVtYqnVHSaDssp23vQ6tWnNFDWYLpWxyVpLG4lugWjs.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=Ob3mB96LfqYQ7kNvwG0t5sx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0FST1VTRUxfSVRFTS5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxNzkxMTI2Mzc5ODM4OTEyMywiYXNzZXRfYWdlX2RheXMiOjQsInZpX3VzZWNhc2VfaWQiOjEwMTY0LCJkdXJhdGlvbl9zIjoxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=2efca4049c5c57f5&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC9ENTQzRjk5ODRCMTc5QUU4QzBBREUxRTFENTMwRkM5OV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0MwNEQ1QjY3ODk2MDJCN0UwMjIxNDJGRDJEMUIxMUE5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaGpvPC4ozRPxUCKAJDMywXP_Kj1wo9cKQYEmRhc2hfYmFzZWxpbmVfMV92MREAde4HZeieAQA&_nc_gid=n3iVSGPc7KG3KsjPbGmkNQ&_nc_zt=28&_nc_ss=7a22e&oh=00_Af7WxTWVWuvw7VX8vzovVLcgkzPzU7KraBFNFK7vQsq8YQ&oe=69FFCAFD",
-      "video_poster": null,
-      "_keyword": "앱"
-    },
-    {
-      "id": "DYCsqX3GJGe",
-      "username": "@bulldogclub.app",
-      "permalink": "https://www.threads.com/@bulldogclub.app/post/DYCsqX3GJGe",
-      "text": "bulldogclub.app 23h 출시 하루만에 6명이나 앱 다운로드!! 감사합니다😖 Translate 19 7 1",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/687514822_18121406734565036_4832406324476218020_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDIyLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGtag5ONXNplxCxuTQPnGHgZwk9xA-kAq4dWTX3ozl21_e4hkJNszA6ZnYqban9WCI&_nc_ohc=QNXgrO2nKPAQ7kNvwFimcQh&_nc_gid=n3iVSGPc7KG3KsjPbGmkNQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af68n7DHfTRFql1XsiHmeZiVpgIsKWNPsgHyjL51L_gqKg&oe=6A03D5B1&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/685370034_18121475350565036_6203398644560964401_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzg5MTg2OTQ1Mzg4NjQ2MDMxOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTE3MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=i_UWQWrm5OkQ7kNvwHpszQf&_nc_oc=AdrS33PX-uW5xztns67W6XNp3zXPt3oY5lXjbLF9HdFhrFPG3amqOyOSXJpK2zEtOdo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=n3iVSGPc7KG3KsjPbGmkNQ&_nc_ss=7a22e&oh=00_Af7ONDYIWZe3wNkVAzk4IT9wGdzp-v23stsNhvucFYx6cA&oe=6A03D644"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "앱"
-    },
-    {
-      "id": "DXwt2PTEeeQ",
-      "username": "@uniwithvers",
-      "permalink": "https://www.threads.com/@uniwithvers/post/DXwt2PTEeeQ",
-      "text": "uniwithvers 개발자 04/30/26 앱을 만들었는데 사람들이 많이많이 사용해주면 좋겠다..❣️❣️ 앱 만들고 다들 마케팅 어떻게 하고 있어?? Translate 67 66 6",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/472407460_3078196628998558_3168672367305172407_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGtag5ONXNplxCxuTQPnGHgZwk9xA-kAq4dWTX3ozl21_e4hkJNszA6ZnYqban9WCI&_nc_ohc=kHPF1GfAE7UQ7kNvwGlgR23&_nc_gid=n3iVSGPc7KG3KsjPbGmkNQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af56V7n7JzIUn4TGNzrD-C-SaHGW5ZT1dkIuOtvOkShl1A&oe=6A03C6C4&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "앱"
-    },
-    {
-      "id": "DN2IAYL3E9f",
-      "username": "@sam.jang",
-      "permalink": "https://www.threads.com/@sam.jang/post/DN2IAYL3E9f",
-      "text": "sam.jang 08/27/25 오아 축하해줘✌🏻혼자 드디어 앱 출시했다! 주식이랑 코인 시장 공포/탐욕 지수를 다들 심심하게 보여주길래 난 조금 더 재미있게 풀어봤어. 요새 API 불러오는거 알아보고 공부 해보다가 위젯 하나 정도 만들어서 혼자 쓰려고 시작했는데 방금 막 앱스토어 승인 나서 공유하는거야 😆📱 아직은 기능이 엄청 단순해 ㅋㅋ 앞으로는 트랜드나 히스토리 페이지도 하나씩 만들어보고 싶어. 참고로 바이브 코딩 하느라 브랜딩, 마케팅 이런 거 손도 못 댐. (앱런칭 손가는게 왜이렇게 많니) 암튼 그냥 기본기능만 있다고 보면돼. 정보수집 할줄몰라 그냥 편하게 써. 피드백이나 추가 아이디어 있으면 자유롭게 알려줘 🚀 👉 apps.apple.com/us/ap… Translate 53 17 2 2",
-      "has_image": true,
-      "has_video": true,
-      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/608760554_17935580469115153_6011145590044006623_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MzEuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGtag5ONXNplxCxuTQPnGHgZwk9xA-kAq4dWTX3ozl21_e4hkJNszA6ZnYqban9WCI&_nc_ohc=LFsClzgYt74Q7kNvwHR9O6T&_nc_gid=n3iVSGPc7KG3KsjPbGmkNQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5vv0PYefD1zq8a3X5KN_oWObMR4Akg6ks9nRgyo6MZvg&oe=6A03DE82&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/539358624_1013048730854605_6469930984962382731_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=MzcwODE4NjU1MzUyNzA2MjM2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=VH5J2L7q1egQ7kNvwF2_joD&_nc_oc=AdpT0m5FLv9wbE0AcrJu7J6S4QZYgeq2_bgyoDra7_d6oMGqtM7R1iOizTFNScDQEOY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=n3iVSGPc7KG3KsjPbGmkNQ&_nc_ss=7a22e&oh=00_Af5Xt4RKzz2GiRKJYzT45M0t6UycWkUFiNa1M4HPa9N_7Q&oe=6A03BE09"
-      ],
-      "video_url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t16/f2/m84/AQPt0QPQPHBlYlmev4WTAS6evgurJi5XcAoPjSlAqYCAwFOD6g2W9s6e0x6uBJOiOSGQf8cVRtHrLPkHpo6rAWENGq4uig28Qxh0hqw.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=Gq_jinn4QBYQ7kNvwFMePyg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4zNjAuZGFzaF9iYXNlbGluZV8zX3YxIiwieHB2X2Fzc2V0X2lkIjoxMjkxODY4OTc1OTY5NjQwLCJhc3NldF9hZ2VfZGF5cyI6MjU0LCJ2aV91c2VjYXNlX2lkIjoxMDE2NCwiZHVyYXRpb25fcyI6NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c10265ed6ef88e46&_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC8yQTRCOTA5NkJBRTM2QkNCRTA4NDZDNDNCRjRFRkZCN192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm0NXF9tW8ywQVAigCQzMsF0AcAAAAAAAAGBJkYXNoX2Jhc2VsaW5lXzNfdjERAHXqB2XongEA&_nc_gid=n3iVSGPc7KG3KsjPbGmkNQ&_nc_ss=7a22e&_nc_zt=28&oh=00_Af6qW31tyKa9QW4Yi3QmtZwpFiNCxRmkUqUtWb3k9LMB9A&oe=69FFE110",
-      "video_poster": null,
-      "_keyword": "앱"
-    },
-    {
-      "id": "DVz7i5xE3Sz",
-      "username": "@fuzzwaa",
-      "permalink": "https://www.threads.com/@fuzzwaa/post/DVz7i5xE3Sz",
-      "text": "fuzzwaa 앱개발일기 03/13/26 만든 앱이 1위랑 2위했어! 뭔가 신기하다 ‪((((꜆ ˙-˙ )꜆ Translate 451 155 20 37",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/629754142_17902345893363996_6666277131490894431_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NTguYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGtag5ONXNplxCxuTQPnGHgZwk9xA-kAq4dWTX3ozl21_e4hkJNszA6ZnYqban9WCI&_nc_ohc=AtA-AnZtUMsQ7kNvwFdbFoW&_nc_gid=n3iVSGPc7KG3KsjPbGmkNQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7UFbsm8V_1wWuFk_rinXGVGPSKx3zhDPUl1H4vOBriKw&oe=6A03C0CA&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/651113806_17906708502363996_3073775271392743757_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzg1MTY4Mzk4OTU2NDkxMjgxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7asvgJ-OXioQ7kNvwHoUI8N&_nc_oc=Adq10pbMSvo5a1zxM4IeUFfCkpZ5zIbS2zQASacKVWrH3p_yj10pktv8-FZqeNmdfik&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=n3iVSGPc7KG3KsjPbGmkNQ&_nc_ss=7a22e&oh=00_Af5MfB-oDXdoLFjozDOSMAol-Xxgd9F5Ds3hsbNSt64Cpw&oe=6A03DD72"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "앱"
-    },
-    {
-      "id": "DUac1YPj6Q3",
-      "username": "@h_y_account",
-      "permalink": "https://www.threads.com/@h_y_account/post/DUac1YPj6Q3",
-      "text": "h_y_account 02/06/26 24살, 앱 첫 배포했습니다. 개발 전공도 아니고 대단한 팀이 있는 것도 아니고 그냥 “이거 있으면 좋겠다”에서 시작했는데 결국 스토어에 제 앱이 올라가 있네요. 아직 많이 부족하지만 0 → 1 만든 경험은 생각보다 꽤 큽니다. 첫 배포해본 분들, 진짜 존경합니다 🙏 apps.apple.com/kr/ap… Translate apps.apple.com PAL 앱 - App Store 57 17 3 1",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/424613703_2993736890756217_2984415791271590632_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDUyLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGtag5ONXNplxCxuTQPnGHgZwk9xA-kAq4dWTX3ozl21_e4hkJNszA6ZnYqban9WCI&_nc_ohc=KzXt8XEVrecQ7kNvwH5Owqy&_nc_gid=n3iVSGPc7KG3KsjPbGmkNQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6T15tyQrnI7OE7zgDVePdDMWCFx6pTYfEVex4HlT8_Fg&oe=6A03B6AA&_nc_sid=10d13b",
-      "media_images": [
-        "https://external-iad3-2.xx.fbcdn.net/emg1/v/t13/2022470290963095877?stp=dst-src&url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FPurpleSource211%2Fv4%2F3e%2F29%2Fd0%2F3e29d0f7-bc1f-c5a7-05a1-b4fc46cb9af5%2FPlaceholder.mill%2F1200x630wa.jpg&utld=mzstatic.com&_nc_gid=n3iVSGPc7KG3KsjPbGmkNQ&_nc_oc=AdoCEZfPenTpnaM2WW6TAHJvweKcCUGbwTKA_WGc3XNPKduGi_bdun5oY96wAGzz6jA&ccb=13-1&oh=06_Q3--AWgNgFy2RsbFvf2Y7ypeaGI-DPV_aMJuS_XlmhSSh4xV&oe=69FFC0D7&_nc_sid=1d65fc",
-        "https://external-iad3-2.xx.fbcdn.net/emg1/v/t13/7374020735216946816?url=https%3A%2F%2Fapps.apple.com%2Fassets%2Ffavicon%2Ffavicon-16.png&utld=apple.com&stp=dst-png_s42x42&_nc_gid=n3iVSGPc7KG3KsjPbGmkNQ&_nc_oc=AdpEiFnFF7ia0HOH4mFC5aJb9AMq98p83cOLqvgZ7B5qecxX8me9PraTZlbQpwN0HiE&ccb=13-1&oh=06_Q3--AQ_b7b1N_GKmyEuwuqKL4wUH7BysdGtFOxQsI1Q-8HFT&oe=69FFD01D&_nc_sid=1d65fc"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "앱"
-    },
-    {
-      "id": "DX-Iz-RksDj",
-      "username": "@zizi.andromeda",
-      "permalink": "https://www.threads.com/@zizi.andromeda/post/DX-Iz-RksDj",
-      "text": "zizi.andromeda 2d 캐나다에서 1년 째 1인 개발 중인 10년차 개발자 인사드립니다👾 1년동안 만든 서비스 4개, 수익은 0!! 근데 앞으로의 일은 모르는 겁니다. 저점매수하세요😉 Translate 250 60 10",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/403958569_228379076939520_9157514959328016243_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEyS2xqtUuyO8hOZJAfx_4RZTGcpG7R9WhsqCDtgdg7atLrqsinKMoY3UDWu4TPQGk&_nc_ohc=6mXpZfFHyR4Q7kNvwEF1Oqr&_nc_gid=pJ-AvFGJ4RAUcGE9lDloWQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7uia5W3IxZhsFrV1X-aLT47n1WjNHF-JlcjmYbAdtBfw&oe=6A03EA48&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "개발"
-    },
-    {
-      "id": "DTpkxlyEzba",
-      "username": "@justmakeit_now",
-      "permalink": "https://www.threads.com/@justmakeit_now/post/DTpkxlyEzba",
-      "text": "justmakeit_now buildinpublic 01/18/26 안녕 나는 부끄러운 개발자라고 해😆 1인 개발이나 창업하는 분들 많이 친해지고 싶어서 스레드 시작했어! 나랑 같이 개발 이야기 나눌 사람><🙌🙌 Translate 153 111 29",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/611246076_17843905569668583_2994178795168619239_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEyS2xqtUuyO8hOZJAfx_4RZTGcpG7R9WhsqCDtgdg7atLrqsinKMoY3UDWu4TPQGk&_nc_ohc=LThOVTv3cJ8Q7kNvwEZzAyC&_nc_gid=pJ-AvFGJ4RAUcGE9lDloWQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af63B9d131SuzvOT3ix90wV4-uobzbuCPUbmdw7GM3oedg&oe=6A03D50D&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "개발"
-    },
-    {
-      "id": "DVx5OTIjyzz",
-      "username": "@find__item",
-      "permalink": "https://www.threads.com/@find__item/post/DVx5OTIjyzz",
-      "text": "find__item 스하리1000명프로젝트 03/12/26 저는 분실물 서비스 개발 중인 개발자인데요🔎 저와 같은 개발자는 물론 다양한 분야의 사람들과 함께 이야기하고 싶어요! 스하리 = 반하리 👀🤍 Translate 92 100 51",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/653507180_18060405413416269_3276502446263817333_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEyS2xqtUuyO8hOZJAfx_4RZTGcpG7R9WhsqCDtgdg7atLrqsinKMoY3UDWu4TPQGk&_nc_ohc=zFmjPvvzc0kQ7kNvwFbtdJA&_nc_gid=pJ-AvFGJ4RAUcGE9lDloWQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4vOaJDiomtEkZm9QenX7fz3L7V0Ew0zOYDPQzTZPAojw&oe=6A03E059&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "개발"
-    },
-    {
-      "id": "DYCmQPTj-_b",
-      "username": "@zztkdfo",
-      "permalink": "https://www.threads.com/@zztkdfo/post/DYCmQPTj-_b",
-      "text": "zztkdfo 개발자 1d 나는 개발자다. 원래 SNS 자체를 하지 않았다. 크게 관심이 없었고, 귀찮은 게 더 컸다. 그런데 짧은 글이라 쓰기 편했다. 소소하게 개발 얘기, 일상, 성과 같은 걸 올렸다. 다른 사람들이랑 소통하고 서로 응원하는 게 생각보다 좋았다. 그랬더니 생각지도 못한 기회들이 여럿 찾아왔다. 요즘은 AI, AI 하지만. 그것보다 강력한 게 있다. 꾸준히 자기 자신을 스스로 홍보하는 것. Translate 23 8 1",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/451158215_993222099476979_3989431377614190361_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEyS2xqtUuyO8hOZJAfx_4RZTGcpG7R9WhsqCDtgdg7atLrqsinKMoY3UDWu4TPQGk&_nc_ohc=Q_U_1NhL8gMQ7kNvwHnUp5i&_nc_gid=pJ-AvFGJ4RAUcGE9lDloWQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af54HgGnawGzlY1BzuC6LaEK9UWGx-tpstTRRFYpMpFyrg&oe=6A03C9E1&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "개발"
-    },
-    {
-      "id": "DYFDKsYjel4",
-      "username": "@abolicphobia",
-      "permalink": "https://www.threads.com/@abolicphobia/post/DYFDKsYjel4",
-      "text": "abolicphobia 게임 개발 1h 처음에는 캐릭터 하나였는데, 어느새 6개로 늘어났네요. 아직 이 게임을 뭐라고 부를지 못정했지만, 이쯤에서 APK로 한번 묶어보려고 합니다. 저희가 만드는 HTML5 게임은 거의 언제나 웹+모바일+앱인토스에 동시 출시합니다! (100달러 내면 STEAM도...!) Translate 19 5 1",
-      "has_image": true,
-      "has_video": true,
-      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/612503912_17864496894553368_9043882921760428720_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEyS2xqtUuyO8hOZJAfx_4RZTGcpG7R9WhsqCDtgdg7atLrqsinKMoY3UDWu4TPQGk&_nc_ohc=0xxJAqqXztIQ7kNvwE_Xhfl&_nc_gid=pJ-AvFGJ4RAUcGE9lDloWQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7tI-7y8amrnv10ErXgfTZ6asKdSB4JFF7anWcCD6bfMQ&oe=6A03E43A&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/696242057_2125734687970231_5841902490697638734_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzg5MjUzMTM4MTkyMjU1NjI4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=ICOW35gnZ9kQ7kNvwHRDjTr&_nc_oc=Adp_ZKFPURG4ibPb_AC2ODWFlCfgCwIsS6325Ol6QsKHMg8LG6a2YNY3h5OgEmKqX4Q&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=pJ-AvFGJ4RAUcGE9lDloWQ&_nc_ss=7a22e&oh=00_Af6FFjNeAUzxR0o8EAYzeb-jrJNntqisVbyNaXeZCGp_Jw&oe=6A03D9B2"
-      ],
-      "video_url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t16/f2/m84/AQNCFeG6TuDKnrYMI0MlB4btdEqKbkhhOOcabZDd3c7eGyz30lIKvSfAj7zLYt2hZJIGjB737eg5Ifw2lLzORaWSWpl7bwsF3XRDVFw.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=6k8NJctiVEYQ7kNvwFmlNDe&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy43MTYuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxNzg4MjU3NzgxNjU1MzM2OCwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTY0LCJkdXJhdGlvbl9zIjo1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=9cf48002553cdd52&_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC9ERjQwQzA2ODU1OEZDQTUxRTk5Q0RERTYyRTc4NEI4Rl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmsJ7kpoOHxD8VAigCQzMsF0AWPXCj1wo9GBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXqB2XongEA&_nc_gid=pJ-AvFGJ4RAUcGE9lDloWQ&_nc_zt=28&_nc_ss=7a22e&oh=00_Af4SOzvO16jWC9qQfbQqB4sOZuuQjQBMUVAiIPLJ3_MGSA&oe=69FFE7A3",
-      "video_poster": null,
-      "_keyword": "개발"
-    },
-    {
-      "id": "DP_rt8mEcOF",
-      "username": "@integer.han",
-      "permalink": "https://www.threads.com/@integer.han/post/DP_rt8mEcOF",
-      "text": "integer.han 10/19/25 1인 개발자하려면 직업을 바꿔야한다. 마케팅 할 줄 아는 개발자 ❌ 개발 잘하는 마케터 ✅ Translate 115 19 5",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/550686669_17904876993248532_2801581642204996741_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDYxLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEyS2xqtUuyO8hOZJAfx_4RZTGcpG7R9WhsqCDtgdg7atLrqsinKMoY3UDWu4TPQGk&_nc_ohc=L6Abv2lE25QQ7kNvwFcxuAF&_nc_gid=pJ-AvFGJ4RAUcGE9lDloWQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5x7XVmNkqS8DgLnbgqasyWrpVws1WOGfWzdn7O14ZZ9g&oe=6A03CC95&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "개발"
-    },
-    {
-      "id": "DR2H_gPkvd6",
-      "username": "@sangkuk.bae",
-      "permalink": "https://www.threads.com/@sangkuk.bae/post/DR2H_gPkvd6",
-      "text": "sangkuk.bae buildinpublic 12/04/25 안녕하세요. 1인 개발, 1인 창업하시는 분들하고 친해지고 싶습니다. 좋은 분들 만날 수 있게 해주세요..🙌 Translate 131 49 8",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/588101905_17847605148613210_4402949597272834335_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gEyS2xqtUuyO8hOZJAfx_4RZTGcpG7R9WhsqCDtgdg7atLrqsinKMoY3UDWu4TPQGk&_nc_ohc=mfbfJrcZ4soQ7kNvwGu1DmV&_nc_gid=pJ-AvFGJ4RAUcGE9lDloWQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7C198gXBvgjtMueJmuW4XBVPLmkRrtS5MfIqK18lLndQ&oe=6A03B8EE&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
+      "video_url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t16/f2/m84/AQNWYbku-h6SarRWdpJNvlso6PkUO5JMeSXDWilLHFEUIXa1G_sKHw_75oVsChV9-JTuyWgANhhxXw6aZQSs-Ziob7SmkbOlanHdVwI.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=HUr27wSVssMQ7kNvwF8t9B9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMTU2LmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTk1ODUwMzIxNTEwMzU5NywiYXNzZXRfYWdlX2RheXMiOjExMSwidmlfdXNlY2FzZV9pZCI6MTAxNjQsImR1cmF0aW9uX3MiOjEyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=bf27f86ff4e39b63&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC84MDRFN0MxMzFEQjI0ODZDMUExQTE1RjVDRjQ2RkZCM192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0YxNEI2Q0UyMzA4QzU0MDZFMkRBREJEMTdCMEFCNDlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACba-euG8s_6BhUCKAJDMywXQClEGJN0vGoYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeieAQA&_nc_gid=pqXX_OiRYvUtwuG5NguCwQ&_nc_ss=7a22e&_nc_zt=28&oh=00_Af7GGg1hE1GVczmJhluu5GSdY-WHCTgUsrFzrCZgMOm0wQ&oe=69FFEC73",
       "video_poster": null,
       "_keyword": "개발"
     }
   ],
   "summary": {
-    "total": 35,
+    "total": 25,
     "enriched": 0,
     "failed": 0
   }
