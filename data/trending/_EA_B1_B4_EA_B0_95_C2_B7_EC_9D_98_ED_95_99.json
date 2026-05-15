@@ -7,128 +7,78 @@
     "수면",
     "스트레스"
   ],
-  "fetchedAt": "2026-05-15T18:54:05.717Z",
+  "fetchedAt": "2026-05-15T20:27:10.198Z",
   "items": [
     {
-      "id": "DYWGf-Xib0-",
-      "username": "@bartoligood",
-      "permalink": "https://www.threads.com/@bartoligood/post/DYWGf-Xib0-",
-      "text": "bartoligood 건강 14h 다이어트 해야하는데 많이 움직이고 운동하고 그러면 될랑가? 의사가 살 빼고 오랜다 😭😭 갱년기라 잘 될란가 모르겠다 🤔😅 오기다 꿀팁 있음 말해 주라~~ Translate 34 52 1",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/456443229_780075810995003_1760145747557912914_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDEyLmMyIn0&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHFw2rVUv64Nj3I1oMrFhq4UUSPdvGqo-M-voaISDmrO9WKRHQTzJr_DsUxHZY6ymg&_nc_ohc=GUC1Q7u3CLEQ7kNvwHZ6zDH&_nc_gid=aNlA4LdvRZ7E3rJBDX-SEg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af46O4lLPevAu4GfcdTtsVO2rr34a653O8JM4xxz4dhRkA&oe=6A0D4307&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "건강"
-    },
-    {
-      "id": "DYXNvaXka6N",
-      "username": "@dmstj10300",
-      "permalink": "https://www.threads.com/@dmstj10300/post/DYXNvaXka6N",
-      "text": "dmstj10300 베트남 라이프 4h 건강 챙기는 분들은 타파 달걀 많이 고르더라! (영상에서 오른쪽은 타파, 왼쪽은 일반 달걀ㅎㅎ 시각적 차이X) 무항생제·친환경·성장촉진제 없는 거 신경 쓰는 남편은 타파 달걀만 고집함 ㅎㅎ 가격 차이도 1만동 이내라 괜찮은 듯! Translate 13 3",
-      "has_image": true,
-      "has_video": true,
-      "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-19/684105414_18102749176793392_3483994608825015399_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHFw2rVUv64Nj3I1oMrFhq4UUSPdvGqo-M-voaISDmrO9WKRHQTzJr_DsUxHZY6ymg&_nc_ohc=dwWbzV391h0Q7kNvwHQIa9G&_nc_gid=aNlA4LdvRZ7E3rJBDX-SEg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7U9zgzAZQy3Q-a2ytNDMzeEqXHNtE78cq3Th2vn-uArA&oe=6A0D4130&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/697104479_18106826959793392_4316526897214394200_n.webp?_nc_cat=103&ig_cache_key=Mzg5NzY0MzkwODc5MjkzNTE2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OTLCGhmtIngQ7kNvwFSzMfw&_nc_oc=AdrikCECh1EECiLmp0U8PwwUYRXd7upCO5hQtjvszt_jNymexiWxYE4fsWvSekaNR-4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_gid=aNlA4LdvRZ7E3rJBDX-SEg&_nc_ss=7a22e&oh=00_Af7fXb-rjKEJ9h0V6_nFqrGsDpkouf9KxKNMGal2POSytw&oe=6A0D40E8",
-        "https://scontent-dfw5-2.cdninstagram.com/v/t51.71878-15/701206149_2065868721009752_2768949785065351044_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzg5NzY0MzkzMjQyMzY1ODY4MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=FYRlsUeuoykQ7kNvwHZyIuh&_nc_oc=AdotyKJp---P5uMeN-PjvDcp0TSVoJWfiomUf6dNjyPQPmTFb6Ku2PpL4_7TKZCzZLU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_gid=aNlA4LdvRZ7E3rJBDX-SEg&_nc_ss=7a22e&oh=00_Af7_A6wHjc5-y2m8l-MP9BiOSUXVlUmuIXvgkV8tOo7Rsg&oe=6A0D4817"
-      ],
-      "video_url": "https://scontent-dfw5-2.cdninstagram.com/o1/v/t16/f2/m84/AQPiTjMK5zdG1b9apmST0f196nUeqmlDFjUc2u_H3zcRNAPLRzPyeGo-XMIsJL5tBVZdvTjrhM6HB78Wl8Gv_i4Vtuuv04mp3IGrSEw.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_ohc=TGaAA_53O7UQ7kNvwE0wje-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0FST1VTRUxfSVRFTS5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxODEwNjgyNjk4OTc5MzM5MiwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTY0LCJkdXJhdGlvbl9zIjoyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=bc25878f8271b50d&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC8xQzQ5N0MxRjU4MjExRThBQjZFNDFBQjdBMDc1QTM5RV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzAzNDAwNjVFOTQ5Q0UxNThFNEUzNUYyMjI2NUI1OEEyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbgwePrhYSqQBUCKAJDMywXQARHrhR64UgYEmRhc2hfYmFzZWxpbmVfMV92MREAde4HZeieAQA&_nc_gid=aNlA4LdvRZ7E3rJBDX-SEg&_nc_zt=28&_nc_ss=7a22e&oh=00_Af6KJqHSDkVwsY5o45EjSDyfk7K6ZWD8WLlcuA-fO2UZUw&oe=6A095C69",
-      "video_poster": null,
-      "_keyword": "건강"
-    },
-    {
-      "id": "DYUXaIvFJOo",
-      "username": "@saeromyb",
-      "permalink": "https://www.threads.com/@saeromyb/post/DYUXaIvFJOo",
-      "text": "saeromyb 건강 1d 내가 진짜 나쁜 습관이 있는데 물을 거의 안 마심 반대로 남편은 하루에 2리터 이상 마시는 하마인데 그래서 내가 어디가 아프다고 하면 물을 안 마셔서 그렇다고 함 그게 맞을 수도 있음 하루에 몇 모금 마실까 말까니까 나름 별짓을 다 했는데(향을 더하거나 물 대용 차를 마시거나) 그래도 이 문제가 해결이 안 됨 이제 여름인데 Translate 141 338 4 11",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-19/591122103_17856654846575216_4456146816666432720_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHFw2rVUv64Nj3I1oMrFhq4UUSPdvGqo-M-voaISDmrO9WKRHQTzJr_DsUxHZY6ymg&_nc_ohc=i1my0JjZJB0Q7kNvwHXViC9&_nc_gid=aNlA4LdvRZ7E3rJBDX-SEg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7GpMBI8CWr_YpZt1Yk9mjcWrbchte0UIW3x3gz_e_Jlg&oe=6A0D4F4E&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "건강"
-    },
-    {
-      "id": "DYV23PiGUCk",
-      "username": "@rara_8285",
-      "permalink": "https://www.threads.com/@rara_8285/post/DYV23PiGUCk",
-      "text": "rara_8285 스승의날 17h 여중 시절 나의 짝사랑 체육선생님💗 180 넘는 훤칠한 키에 다부진 몸, 갱상도 남자의 츤데레까지 장착했던 선생님😊 교실 복도 창가에 앉아있으면 지나가다 창문 툭 두드리며 웃어주시고, 수돗가에서 손 씻고 있으면 다가와 내 손 위에 물을 끼얹어주시던 장난꾸러기^^ 오래달리기 꼴등으로 달리고 있을 땐 골인지점까지 같이 뛰어 주셨고, 철봉 오래 매달리기 1초컷인 나에게는 “3초만 버텨봐!” 하시며 다리도 잡아주셨다. 체육시간 아프다고 벤치에 앉아있으면 틈틈이 와서 괜찮냐고 물어봐주시던 선생님. 스승의날마다 학교 찾아가 감사 인사드리고, 성인이 되어서는 식사도 대접해드렸었다. 그때마다 선생님은 “난 괜찮으니까 너 건강 챙겨라” 늘 그 말씀만 하셨다. 그러던 어느 날, 선생님 카톡 프사에 발인 날짜가 적혀 있었다. 설마 하는 마음에 전화를 걸었는데… 사모님께서 받으셨다. “선생님 돌아가셨어요…” 그 말을 듣고 그 자리에서 목놓아 울었다.😭 Translate 231 70 22 3",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-19/681200647_17934845124236969_350904956288746297_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHFw2rVUv64Nj3I1oMrFhq4UUSPdvGqo-M-voaISDmrO9WKRHQTzJr_DsUxHZY6ymg&_nc_ohc=JO35arOHiFwQ7kNvwHVXBU4&_nc_gid=aNlA4LdvRZ7E3rJBDX-SEg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5RyGTv5oGbraMuCPh4gC-IyKko5XTAkbJknoWnJb39Jw&oe=6A0D5A44&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "건강"
-    },
-    {
-      "id": "DXB6ZylEzzd",
-      "username": "@chooper_boss",
-      "permalink": "https://www.threads.com/@chooper_boss/post/DXB6ZylEzzd",
-      "text": "chooper_boss 건강 04/12/26 암에 걸린 동생을 만났는데 진짜 평소에 건강관리 잘해야 겠다는 생각이 든다 특히 피부로 바로 스며들어가는 치약 샴푸 엄청 중요하고 자연식 아닌 과자 등에 들어간 팜유 너무 조심해야하고 잠 너무 중요하다. 스트레스 받는거라면 맑은 날 걷기나 운동 통해 해소할줄 알아야 한다. 너무 단순한데 지키기 너무 어려운 루틴. Translate 1K 116 110 130",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/671861338_18070916549350647_8187424477977595822_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHFw2rVUv64Nj3I1oMrFhq4UUSPdvGqo-M-voaISDmrO9WKRHQTzJr_DsUxHZY6ymg&_nc_ohc=nip6NOEVVe0Q7kNvwG4Vk1l&_nc_gid=aNlA4LdvRZ7E3rJBDX-SEg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6PozhVukbTtM5fnKPARnPJ7fgl8_8qPa7jYeAyh7DiKA&oe=6A0D2A58&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "건강"
-    },
-    {
-      "id": "DYMTDyziYoU",
-      "username": "@es.hello0o",
-      "permalink": "https://www.threads.com/@es.hello0o/post/DYMTDyziYoU",
-      "text": "es.hello0o 건강 4d 내 체질은 뭘까? 체질을 알면 큰 병을 미리 예방할 수 있다! 1. 태음인 : 고기, 밀가루, 술 좋아하고 과식형, 비만, 고혈압, 당뇨, 고지혈증 대사질환이 많으시다. 2. 소양인 : 화가 많은 체질, 스트레스 받으면 폭식해서 비만, 위염, 식도염이나 불면증이 많으시다. 3. 소음인 : 생각 많은 완벽, 꼼꼼주의, 위장이 약하거나 과민성대장증후군이 있거나, 불면증이 있으시다. 단거 좋아해서 밥 대신 간식만 먹다가 콜레스테롤 수치가 높은 경우도 많다. Translate 164 35 5 12",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-19/642810749_17879290041488998_1319583197484070425_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHFw2rVUv64Nj3I1oMrFhq4UUSPdvGqo-M-voaISDmrO9WKRHQTzJr_DsUxHZY6ymg&_nc_ohc=OiVbVknz0FQQ7kNvwHFeSvF&_nc_gid=aNlA4LdvRZ7E3rJBDX-SEg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4ioHty4zJ02CJ0RO_C_PHjpQONpiISvJvxJzBZXtrFUA&oe=6A0D369B&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "건강"
-    },
-    {
-      "id": "DXxWRsSExlT",
-      "username": "@000ver000",
-      "permalink": "https://www.threads.com/@000ver000/post/DXxWRsSExlT",
-      "text": "000ver000 건강 04/30/26 이닦으려고 새 치약 꺼내보니까 참 이게 시리즈가 냄새 제거 시리즈이긴 하지만 치약은 마트에서 쉽게 구할수있는 국산치약 중에서는 몇안되는 고불소치약이잖아 이런건 왜 홍보안해 엘지생건아.. Translate 4.3K 245 460 522",
+      "id": "DYTI1CmEzRe",
+      "username": "@with_me_yoga_pilates",
+      "permalink": "https://www.threads.com/@with_me_yoga_pilates/post/DYTI1CmEzRe",
+      "text": "with_me_yoga_pilates 1d 시니어수업갈준비~~ #50대운동녀 #운동 #건강 #화성봉담 Translate 118 12",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-19/651581240_17861787267664544_8218824424410132142_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHFw2rVUv64Nj3I1oMrFhq4UUSPdvGqo-M-voaISDmrO9WKRHQTzJr_DsUxHZY6ymg&_nc_ohc=u20VYrBxS3sQ7kNvwFDYX3z&_nc_gid=aNlA4LdvRZ7E3rJBDX-SEg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4qauPJnf2JlSEyCTE59KCCniKQCiwKgVC_yY53lPY3yQ&oe=6A0D4F06&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/408970501_344029241667763_6308085236940425184_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHIajnw7PmPwC9SCp4fn7D-FtSoRqG9-jIomH2AjUxCJsHgsrUqhC5qD1ujiHUThEI&_nc_ohc=rkQc6u6Hok8Q7kNvwGcPply&_nc_gid=OjBf9QbwPuIaKVkMNXQo4A&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af52cnmUQ9g3BhsMSwdWN5ylfPCIFGUjkvhzoLR54uVL3g&oe=6A0D5A0D&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/683048693_17871979419664544_3855358547226525025_n.webp?_nc_cat=100&ig_cache_key=Mzg4Njk4NDk1NDkxNjMzMDM1Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTc0NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=FxvBXtGiTygQ7kNvwHTDVr0&_nc_oc=AdpqxLWA-_CQvuEkO78tAbAlWWNpPsIk1RpDpipxQGXlVtxBI1-chulYUbs_Fp1o5qk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_gid=aNlA4LdvRZ7E3rJBDX-SEg&_nc_ss=7a22e&oh=00_Af6XfyfyXdDLEvm0DgU1uGEUOWRbUDFjzvdviEk2Vtg0qg&oe=6A0D3227",
-        "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/682544005_17871979431664544_3111776323046571993_n.webp?_nc_cat=104&ig_cache_key=Mzg4Njk4NDk1NzAzODY1NDcwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE2NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=C0HwbJZvZLQQ7kNvwEqGAp8&_nc_oc=Adp251W16bYCLqs4WEEfS-mtEMmmPt4TSldvws7uPITm3RHJvgvVagpz5eqsCbgtWSc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_gid=aNlA4LdvRZ7E3rJBDX-SEg&_nc_ss=7a22e&oh=00_Af4geKLSMwtH5pAaEikw2Hv98YImwpd-MHhlHuJc-NaPkA&oe=6A0D458F"
+        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/696963145_17959696188107090_3193420966143142673_n.webp?_nc_cat=103&ig_cache_key=Mzg5NjQ5NjkwNDM5MDAyMjY2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjIwOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CJM27EFkwG4Q7kNvwFcydeY&_nc_oc=Ado8WKw9R_bmvBKTZ9X-uY0sWWRn6OorZiCylVPYCHOWaohgcV2ExAyEfAFRsEkfSdY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=OjBf9QbwPuIaKVkMNXQo4A&_nc_ss=7a22e&oh=00_Af41PdxYO6MgX1kDVMgsJ4L6-Zuw04ZZ1vo8XDOYCpAM-A&oe=6A0D589D",
+        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/697101611_17959696197107090_4647867888828197697_n.webp?_nc_cat=111&ig_cache_key=Mzg5NjQ5NjkwNzIwODYwOTM0Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTM4MS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=sK-jEuvnoIAQ7kNvwFW_kud&_nc_oc=AdrgAoQGchzn2i7g6v_voW1W3eYEAqmuCO-7n1dFK77LpaNnSHE4E3TAfEbyg6-IBdU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=OjBf9QbwPuIaKVkMNXQo4A&_nc_ss=7a22e&oh=00_Af7rp3bfuJMYRHVRHd7lDcUQ_80cQPqEEZ08_NinUlKxug&oe=6A0D5CAD"
       ],
       "video_url": null,
       "video_poster": null,
       "_keyword": "건강"
     },
     {
-      "id": "DYS6m63k4cN",
-      "username": "@shfly2025",
-      "permalink": "https://www.threads.com/@shfly2025/post/DYS6m63k4cN",
-      "text": "shfly2025 자영업자이야기 1d 안녕 아침반 스치니들~ 오늘 부터 여름이래~ 갑자기 변하는 날씨에 건강 조심하고 오늘 하루도 열심히 달려보자. 본점에서 울 어머니가 잘 하라고 화분 주고 가셨어^^ 기운 받아서 잘 해보려고, 응원해줘! 스하리✋️하면 반하리 🙌리포🤩까지 꼭 할게. 행복한 날 보내!🥘 Translate 73 101 44",
+      "id": "DPP1idMEw48",
+      "username": "@haji0107",
+      "permalink": "https://www.threads.com/@haji0107/post/DPP1idMEw48",
+      "text": "haji0107 제주맛집 10/01/25 우리 해녀언니&요리사형님 부부가 하는 해녀 돌솥밥 식당 요새 사람이 없어서 걱정이야💦 가게 외벽도 눈에 띄게 빨간색으로 칠하구 해산물도 제주해녀가 직접 잡은거니 말모..🤭 요리사형님 실력도 좋고 정성까지 더해져서 신선+건강+맛있음! 먹으면 진짜 기분좋은 배부름인데. 오신 손님들 후기는 좋은데 오픈한지 얼마 안돼서 어떻게 홍보해야할지 모르겠어 🥲 누가 꿀팁 좀 줘..? Translate 54 44 5",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/572998279_17848097046592266_8627125952452037432_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHFw2rVUv64Nj3I1oMrFhq4UUSPdvGqo-M-voaISDmrO9WKRHQTzJr_DsUxHZY6ymg&_nc_ohc=MaP0fMi1AR4Q7kNvwFcTzEp&_nc_gid=aNlA4LdvRZ7E3rJBDX-SEg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5BS8ZW3kLhtrDeaq_jEohsvxrF4iFqa4yrlui7gdUZXw&oe=6A0D3690&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/552654547_17846446701571654_6051899834829608214_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHIajnw7PmPwC9SCp4fn7D-FtSoRqG9-jIomH2AjUxCJsHgsrUqhC5qD1ujiHUThEI&_nc_ohc=CLogc5bNOS8Q7kNvwGUs5CC&_nc_gid=OjBf9QbwPuIaKVkMNXQo4A&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5Wlb6ZjK5D9gR_R53uHs7FbpV8cu57EgSlAtx2GDj_KQ&oe=6A0D4CBC&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/696108514_17879809536592266_8309148108028714307_n.webp?_nc_cat=106&ig_cache_key=Mzg5NjQzNDM4ODg3NjEwMTM4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=iwPA9pnHRAIQ7kNvwE1jd2E&_nc_oc=Ado3-ydAtr7AGuE7NyzS1q9gcjsCoFdEZnWkY-MkagUUi3EFQNWbqQDKqumOCzH5ZMc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_gid=aNlA4LdvRZ7E3rJBDX-SEg&_nc_ss=7a22e&oh=00_Af4LBBhQzJtwF9LEfiDwnhknQV_XL-j0EZEytr4vJa70ug&oe=6A0D35AB"
+        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/556546780_17847688596571654_6202016633687329020_n.webp?_nc_cat=106&ig_cache_key=MzczMzQzODA3NDM1MDQ2Mjk3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjI1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=pfQnl2D7pnkQ7kNvwGULM_O&_nc_oc=AdoqOvPlR-OnX1N-nxDSz5Jqz2m0-6sa62-4Q8B7OBTvJnvWltccICUceD1WheM3Ie4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=OjBf9QbwPuIaKVkMNXQo4A&_nc_ss=7a22e&oh=00_Af7Tqz2TtrS29Sflqr4Fqh29y8M7X9d8DFLI4cUlZ3uQbw&oe=6A0D5129",
+        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/557711643_17847688605571654_2867123273105139632_n.webp?_nc_cat=102&ig_cache_key=MzczMzQzODA3NDY0NDA0MjAyMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=C_h22JsEa-gQ7kNvwGUIBL1&_nc_oc=Adp5ZCNlaFPA1SXyiTs22wAT9HQGzJ-B0TTxIiRrlZF2P1_70nLVPNDLDxjs3oVqPAk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=OjBf9QbwPuIaKVkMNXQo4A&_nc_ss=7a22e&oh=00_Af5YfTcOuGNzDvu72Fssn7WkDBxQ-T2XInia5qdxPHVDtg&oe=6A0D554A",
+        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/556461804_17847688584571654_984982125141118764_n.webp?_nc_cat=107&ig_cache_key=MzczMzQzODA3NDQ2Nzg2ODgzNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=H2gWnI36STcQ7kNvwFBjHBu&_nc_oc=AdqRA18HwMPXrrXAqM2KHKVTEHA3LMUXf3Nee-1kwecNmNg02blsXnceyv5Yy9iog00&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=OjBf9QbwPuIaKVkMNXQo4A&_nc_ss=7a22e&oh=00_Af7sXHVVi60KhszLWOt4mW42NBNL_RshmcR1swokeQexxg&oe=6A0D4397"
       ],
       "video_url": null,
       "video_poster": null,
       "_keyword": "건강"
     },
     {
-      "id": "DEzgga3SQq3",
-      "username": "@bb.fit_official",
-      "permalink": "https://www.threads.com/@bb.fit_official/post/DEzgga3SQq3",
-      "text": "bb.fit_official 01/14/25 장나라가 동안 비결로 언급한 꾸준히 챙겨먹는 영양제들 이거래!! 1. 오메가3 : 혈액순환 개선 2. 코큐텐 : 강력한 항산화제 3. 비오틴 : 모발과 손톱을 만드는 케라틴 생성에 필수 4. 맥주효모 : 주요 아미노산의 공급원이자 모발 건강 영양제 진짜 많이 챙겨먹는다던데 맥주효모같은 경우는 항우울제랑은 같이 먹으면 안된대🤗 나에게 맞는 영양제를 먹자구~~ Translate 318 4 36 9",
+      "id": "DX0P5ARj70v",
+      "username": "@bagyeonghwa70",
+      "permalink": "https://www.threads.com/@bagyeonghwa70/post/DX0P5ARj70v",
+      "text": "bagyeonghwa70 05/02/26 여러분 주말 건강 기쁨 잘 보내세요 ,저는 운동하러 갈게요 👍🥰🎼❤️ Translate 48 7",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/496180328_17872248780346428_7042846005380335581_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHIajnw7PmPwC9SCp4fn7D-FtSoRqG9-jIomH2AjUxCJsHgsrUqhC5qD1ujiHUThEI&_nc_ohc=kwCxMgwbCOEQ7kNvwGkG7ja&_nc_gid=OjBf9QbwPuIaKVkMNXQo4A&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6thFhQ-eoyj6pnvWks1eOW6sD21PwLb691i5pPnCRQrg&oe=6A0D5E76&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/683651441_17919068979346428_5985466777243344239_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzg4NzgwMTE2Nzc0MTE4MzUzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyMS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=JD3JmYArVskQ7kNvwEErzky&_nc_oc=AdqsCEcfAgB10hA6qV-QFyiTG0allEDI6EaihrBsmvsu1kqgDaiU9RmpM6bFbK-HHPg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=OjBf9QbwPuIaKVkMNXQo4A&_nc_ss=7a22e&oh=00_Af6vbr8nfGlGwb2dMBeTAY4tnVuEGzgL-cay75UYdUoHcw&oe=6A0D69E8",
+        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/684831587_17919068988346428_7109583193172484396_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzg4NzgwMTE3MTQ2NTcyMzY1MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE2OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=476c7tNCw_EQ7kNvwGrlIfF&_nc_oc=Adq9bVzqLorfEKtXSx6xDL_TQ0EA0wAiruZ5tso5BbV9PY4XCVYZzWT7QMX657aclEo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=OjBf9QbwPuIaKVkMNXQo4A&_nc_ss=7a22e&oh=00_Af6lbSy3xaA3gLdEP0Ctr3mf4sKbES2lMJoKsLjzNuTxtQ&oe=6A0D6519"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "건강"
+    },
+    {
+      "id": "DO2g1F8kqrc",
+      "username": "@monkey.d.health",
+      "permalink": "https://www.threads.com/@monkey.d.health/post/DO2g1F8kqrc",
+      "text": "monkey.d.health 09/21/25 '17년 아프고 깨달은 건강 50계명' 1. 배 나온 의사는 거르세요. 건강을 모릅니다. 2. 좋은 것 찾지 마세요. 안 좋은 것을 끊으세요. 3. 의사는 건강이 아니라 응급 전문가입니다. 4. 식습관이 병의 80%를 결정합니다. 5. 채우지 마세요. 비우세요. 6. 영양제 먹지 마세요. 자연식품 드세요. 7. 노화 탓 하지 마세요. 병과 큰 연관 없습니다. 8. 쿠션 신발 사지 마세요. 몸을 무너트립니다. 9. 항암은 멀리 하세요. 현대의학의 큰 오류입니다. 10. 건강 검진 줄이세요. 병을 발굴 당합니다. Translate 990 123 115 98",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/467905361_1521267285268664_6695209522400154338_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGQQicBT4m7ELrs2XZY3Q1-rccBIKKtKmQxkLV05P5X3ML-khUmh9qMSXVV23yyX2c&_nc_ohc=ClEE7KKYtmYQ7kNvwFa1IAk&_nc_gid=oaH08QgTvF27KKYEPpzVfA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5b-zPxnrvp68Q3VvNkNYz18XPcFhLkwo8WzaIkqAGjYw&oe=6A0D4431&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/642518106_18445596361107818_1417296886547767779_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHIajnw7PmPwC9SCp4fn7D-FtSoRqG9-jIomH2AjUxCJsHgsrUqhC5qD1ujiHUThEI&_nc_ohc=BN2H8LHg0OYQ7kNvwG3757Q&_nc_gid=OjBf9QbwPuIaKVkMNXQo4A&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5HSWcZ-YMunS4ktahhinW5ia37KaR6mVP8OFoj67b7zQ&oe=6A0D5AE0&_nc_sid=10d13b",
+      "media_images": [],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "건강"
+    },
+    {
+      "id": "DJSjuRCzCwb",
+      "username": "@gooditemtip777",
+      "permalink": "https://www.threads.com/@gooditemtip777/post/DJSjuRCzCwb",
+      "text": "gooditemtip777 05/05/25 의사들도 무조건 챙겨먹는 영양제 4가지🧐 1. 오메가3 – 염증 잡고, 혈관 청소까지! 두뇌 회전까지 도와주는 똑똑한 지방! 2. 비타민 D – 햇빛 못 보는 병원 안에서 필수! 면역력과 뼈 건강, 이거 하나로 챙긴다! 3. 마그네슘 – 수면, 스트레스, 근육까지 올케어! 요즘 현대인에겐 거의 다 부족해요. 4. 유산균(프로바이오틱스) – 장이 건강해야 면역이 산다! 건강라이프 추천 영양제는 고정 댓글 확인🙂 Translate 47 5 1",
+      "has_image": false,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/490191678_3065928020240498_1988915700007967640_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFqSkV7XQJsa4gJNX2_vXj5CVBkEbDO60rP2775o7EtRvKEA4SlIDtetLR9WD_SXgI&_nc_ohc=xOapDJuE4J4Q7kNvwEG28fI&_nc_gid=oqxCbnO7_MZmlqpi35aXjg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7aCfmTYMbwFGSc9xvybhkJVQbzYleLohXvZfOUHl4y5g&oe=6A0D4D61&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
@@ -141,120 +91,53 @@
       "text": "ppumunni 04/20/26 약사가 숨기는 영양제 우선순위 0순위 : 비타민D (무조건 1번) 1순위 : 오메가3 (혈행 개선) 2순위 : 마그네슘 (근육/피로) 3순위 : 유산균 (장 건강) 4순위 : 비타민B (에너지) 5순위 : 비타민C (기본값) 결국 0순위 안 먹으면 밑 빠진 독에 물 붓기임. 저장하고 우선순위 챙기자📌 Translate 429 53 74 96",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-19/658908831_17877686568556654_359661590635364732_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGQQicBT4m7ELrs2XZY3Q1-rccBIKKtKmQxkLV05P5X3ML-khUmh9qMSXVV23yyX2c&_nc_ohc=H7wpH7OQMGAQ7kNvwHu7Jnp&_nc_gid=oaH08QgTvF27KKYEPpzVfA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4TQ-0aDYmV5-enFNZRbLmM8r79VTYK6e-ibMpWfUZ1Kg&oe=6A0D2332&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/658908831_17877686568556654_359661590635364732_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFqSkV7XQJsa4gJNX2_vXj5CVBkEbDO60rP2775o7EtRvKEA4SlIDtetLR9WD_SXgI&_nc_ohc=H7wpH7OQMGAQ7kNvwFAt9Da&_nc_gid=oqxCbnO7_MZmlqpi35aXjg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5fYcu8ePUoppxJkrrUU0mvcLo2yiEZBef6ptN0-mLNtQ&oe=6A0D5B72&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
       "_keyword": "영양제"
     },
     {
-      "id": "DJ54BTwzrCj",
-      "username": "@saem2_sister",
-      "permalink": "https://www.threads.com/@saem2_sister/post/DJ54BTwzrCj",
-      "text": "saem2_sister 영양제추천 05/21/25 스치니들 ~! 요새 기본적으로 건강기능식품들 다 챙겨먹을텐데 먹어보고 몸에 확 느껴질정도로 효과있던 영양제 혹시 있었어!? 있었다면 댓글 부탁할게! 그리고 스하리 부탁해~! 반하리 무조건 갈게! 소통하쟈🙏🏻 영양제추천 Translate 39 56 21",
+      "id": "DWRDLHKDGcy",
+      "username": "@ai_ebook_maker",
+      "permalink": "https://www.threads.com/@ai_ebook_maker/post/DWRDLHKDGcy",
+      "text": "ai_ebook_maker 영양제 03/24/26 영양제? 다 사지 마. 괜히 돈만 버리는 영양제 지천이다. 진짜 필요한 건 딱 3가지로 압축 가능. 나머진 솔직히 0원 가치도 없어. [진짜 필요한 영양제 3가지] 1. 비타민D (하루 5000IU) 2. 오메가3 (EPA+DHA 2000mg 이상) 3. 마그네슘 (취침 전 400mg) 이것만 3개월 먹어봐. 몸이 직접 말해줄 걸. Translate 355 43 57 30",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/499881845_17843247708495861_9144026395138539463_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGQQicBT4m7ELrs2XZY3Q1-rccBIKKtKmQxkLV05P5X3ML-khUmh9qMSXVV23yyX2c&_nc_ohc=ccvRGv2AQxcQ7kNvwEblShN&_nc_gid=oaH08QgTvF27KKYEPpzVfA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5a0YKaZT446405I6r6AKOVioIrb7__R4lfdMpjZwjAsg&oe=6A0D37D9&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/671744615_17884822155533526_4334440225560132035_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NTMuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFqSkV7XQJsa4gJNX2_vXj5CVBkEbDO60rP2775o7EtRvKEA4SlIDtetLR9WD_SXgI&_nc_ohc=dQU8mgd5-qcQ7kNvwE-Vzh6&_nc_gid=oqxCbnO7_MZmlqpi35aXjg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6kYRrX4OiGiFnFxd_6C7F_yHDSKuH3YKbGi53Q2sphZw&oe=6A0D3845&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
       "_keyword": "영양제"
     },
     {
-      "id": "DMMLewevR2M",
-      "username": "@positive_influence_93",
-      "permalink": "https://www.threads.com/@positive_influence_93/post/DMMLewevR2M",
-      "text": "positive_influence_93 07/17/25 요새 너무 피곤한데 .. 영양제를 꾸준히 먹어볼까 .. 영양제 추천 좀 부탁해 !! Translate 13 14 2 3",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-19/520717469_17845346295531058_1017766325247195962_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGQQicBT4m7ELrs2XZY3Q1-rccBIKKtKmQxkLV05P5X3ML-khUmh9qMSXVV23yyX2c&_nc_ohc=JHweP5ypWgQQ7kNvwGrMsD8&_nc_gid=oaH08QgTvF27KKYEPpzVfA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af45nOs2EB7rZ5Gk9p6noaOt9gcGtsbAYjQWPw5OfpCu_g&oe=6A0D515D&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "영양제"
-    },
-    {
-      "id": "DHGN9MMSr4y",
-      "username": "@happy.life_yujin",
-      "permalink": "https://www.threads.com/@happy.life_yujin/post/DHGN9MMSr4y",
-      "text": "happy.life_yujin 스하리1000명프로젝트 03/12/25 다들 영양제 어떤 거 챙겨먹어?😛😛 영양제 유목민이어서.. 엄청 자주 바꾸고 또 먹다가 안 먹고… 꼭 먹어야되는 영양제랑 추천하는 제품도 있으면 알려주라‼️💗 스하리1000명프로젝트 Translate 57 36 25",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://instagram.fjpa2-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fjpa2-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gF3zEJrQpoRNhVUk7BkswAfccoYyuTZuwaTfw3OAVw_krGxFPi6XR4vugVR3D6d5U5VdEEaAaK0pjD97WoU02tU&_nc_ohc=MmLLN7F27PUQ7kNvwEj3eTi&_nc_gid=8ETBtFbVD-CUqx_JwslECQ&edm=AKRuJuEBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Af4BEAaaiZa-BI5SiJuaWpiWniVawWv5QNoRbJ8THEoZYA&oe=6A0D362A&_nc_sid=280a74",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "영양제"
-    },
-    {
-      "id": "DJiPf1tSlcu",
-      "username": "@yakstory119",
-      "permalink": "https://www.threads.com/@yakstory119/post/DJiPf1tSlcu",
-      "text": "yakstory119 05/12/25 영양제 한눈에 보기 이거하나만 잘 저장해두면 평생 써먹어유😁 Translate 632 32 105 133",
+      "id": "DP5KYwsCGl0",
+      "username": "@daily_getit",
+      "permalink": "https://www.threads.com/@daily_getit/post/DP5KYwsCGl0",
+      "text": "daily_getit 헤어 두피 영양제 10/17/25 머리카락 힘없고 숱 적은 친구들한테 찐 추천💪 나도 매일 꾸준히 3개월정도 먹으니까 확실히 머릿결 탄탄해지고 덜 빠져서 감동함😍 Translate 371 15 21 51",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-19/549231186_18282911095276775_6888666699319880920_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGQQicBT4m7ELrs2XZY3Q1-rccBIKKtKmQxkLV05P5X3ML-khUmh9qMSXVV23yyX2c&_nc_ohc=Bt5iEfG9ly4Q7kNvwGWRnNz&_nc_gid=oaH08QgTvF27KKYEPpzVfA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4h72huVs76rFHCvtIlF695bXjzGHGyTNKMNG1AnF3wBw&oe=6A0D3A7E&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/670567900_17914596036359252_3849424136666151482_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45ODkuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFqSkV7XQJsa4gJNX2_vXj5CVBkEbDO60rP2775o7EtRvKEA4SlIDtetLR9WD_SXgI&_nc_ohc=bUY764IEIPYQ7kNvwG5o9d4&_nc_gid=oqxCbnO7_MZmlqpi35aXjg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5iQUBZpuxkm9m0Gf9PCpdSbqgFCIVkoK3bDI4iPucJXQ&oe=6A0D596B&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-dfw5-1.cdninstagram.com/v/t51.75761-15/497355513_17912966544101609_1475327645456298061_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzYzMDUzMjQwMjk3MzU5MDQyNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=2Z4LMfCTVn0Q7kNvwHy3NU7&_nc_oc=Adp8NbTtMALyfdwOniPVpkiU-R2-_2A4TYWip4_OB3JtupF_kSooGu93WLN9ZT7tqqM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=oaH08QgTvF27KKYEPpzVfA&_nc_ss=7a22e&oh=00_Af6DeUj9dCItzuZpkPYtGMduR-lDRbsa8Gr6VEARGilz4w&oe=6A0D3BA5",
-        "https://scontent-dfw6-1.cdninstagram.com/v/t51.75761-15/497164994_17912966553101609_5633245585800490105_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzYzMDUzMjQwMjY4ODQ1Njc4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=jk8XDh6S5nEQ7kNvwFALBGL&_nc_oc=Adrwud2LunzRJ4sUXcEk5CjueZXp5kZwxfPsITrAP7oKK-UVyTRzkEZdNGYLLw6cD98&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_gid=oaH08QgTvF27KKYEPpzVfA&_nc_ss=7a22e&oh=00_Af5XCmQeioBbSdpPd9Fm18YoaXMHl2gYx0qX53oSU50qLg&oe=6A0D38BB"
+        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/565031162_17890548972359252_6399588677954332149_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc0NTA3MDIzODM5Njg5Nzk3NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=EkxIrUoghsgQ7kNvwFBOneS&_nc_oc=Ado3bupaO5VJ5gvKK-qLnwr1IL1RHkfgUA09_mb19wC93OEnbQxm0h6G9Zkek-wsrnA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=oqxCbnO7_MZmlqpi35aXjg&_nc_ss=7a22e&oh=00_Af4vLc_ArJnO9DAgx6styXTMhAY_NhJf1ngjhSw0taP7Dw&oe=6A0D6AFC",
+        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/565131199_17890548981359252_6639590406223096551_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc0NTA3MDIzODYxNDk4OTUwNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hs3bHCyyFgMQ7kNvwHOv-PP&_nc_oc=AdrJRDA90BpZNUpGtuLkgNYB8VS37GcAd-j_FoI1i40bjer2norREti20M1Zb5npSx0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=oqxCbnO7_MZmlqpi35aXjg&_nc_ss=7a22e&oh=00_Af6gmpS310CQRPv5RYASFsZFaLo0suPLwBRfBCyLbO5jTA&oe=6A0D59CD"
       ],
       "video_url": null,
       "video_poster": null,
       "_keyword": "영양제"
     },
     {
-      "id": "DHdkjd_Siqv",
-      "username": "@sleep_honeytip",
-      "permalink": "https://www.threads.com/@sleep_honeytip/post/DHdkjd_Siqv",
-      "text": "sleep_honeytip 수면장애 유형별 영양제 03/21/25 수면장애 유형별 도움 되는 영양제‼️ • 입면장애 : 식물성 멜라토닌,마그네슘 • 유지장애 : L-테아닌 , GABA • 과다수면 : 비타민B,비타민D • 하지불안증후군 : 마그네슘,비타민B12,철분제 제품 추천은 따로 하지 않을게! Translate 213 45 50 15",
+      "id": "DGkD8sCRzdK",
+      "username": "@teen.brain_coach",
+      "permalink": "https://www.threads.com/@teen.brain_coach/post/DGkD8sCRzdK",
+      "text": "teen.brain_coach 02/27/25 <초기 이유식 필수 식재료 10가지> 1. 배 (변비 예방) 2. 쇠고기 (철분·아연) 3. 연어 (DHA·단백질) 4. 감자 (탄수화물·비타민 C) 5. 애호박 (소화 잘되는 채소) 6. 두부 (식물성 단백질·칼슘) 7. 달걀노른자 (비타민 D·DHA) 8. 고구마 (베타카로틴·식이섬유) 9. 현미 (영양소 풍부한 탄수화물) 10. 브로콜리 (비타민 C·항산화 성분) *반드시 단일 섭취 후 반응을 살필것* Translate 102 10 18 23",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.2885-19/459002437_1060185609005941_4162492735624176564_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjYuYzIifQ&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGQQicBT4m7ELrs2XZY3Q1-rccBIKKtKmQxkLV05P5X3ML-khUmh9qMSXVV23yyX2c&_nc_ohc=1sR-p80KAqUQ7kNvwFy0Jf9&_nc_gid=oaH08QgTvF27KKYEPpzVfA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6jcXEaPo6AKqyIbKKWEsdBrSlDCbAaIDfqH_m8C_CJNw&oe=6A0D27CA&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/476864728_1603657647178529_5084784282294902027_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFqSkV7XQJsa4gJNX2_vXj5CVBkEbDO60rP2775o7EtRvKEA4SlIDtetLR9WD_SXgI&_nc_ohc=9TBEomfO3DUQ7kNvwETJfXN&_nc_gid=oqxCbnO7_MZmlqpi35aXjg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5Di7Qinw1jgV2TotFjO860UL_xzmZxMoLHVU_HrMDnQg&oe=6A0D4DD0&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
       "_keyword": "영양제"
-    },
-    {
-      "id": "DH0ITC0vELx",
-      "username": "@b_l_u_e_glow",
-      "permalink": "https://www.threads.com/@b_l_u_e_glow/post/DH0ITC0vELx",
-      "text": "b_l_u_e_glow 03/30/25 힘나는 약 있음 먹고싶다~ 먹으면 즐겁고 행복해지고 의욕이 샘솟는 약은 없을까?! 영양제라도 좋은데 Translate 28 27 3",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/504099057_17868224067388883_1115359361687590735_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGQQicBT4m7ELrs2XZY3Q1-rccBIKKtKmQxkLV05P5X3ML-khUmh9qMSXVV23yyX2c&_nc_ohc=T-E8WtHlBRMQ7kNvwGed3my&_nc_gid=oaH08QgTvF27KKYEPpzVfA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6zK28ztaKwZrixdBxCqADXwuBpg6p9znHhvdKA3RhbAQ&oe=6A0D546F&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "영양제"
-    },
-    {
-      "id": "DCIPj6Myg2j",
-      "username": "@jazchoi",
-      "permalink": "https://www.threads.com/@jazchoi/post/DCIPj6Myg2j",
-      "text": "jazchoi 엘에이 11/08/24 첫쓰레드가 실수로 지워져서 다시써🥲 나는 엘레이에서 당뇨전문 약사로 병원에서 일하고있어 당뇨환자들의 약을 처방하고 조절하고 식단도 관리해주는일을 해 당뇨뿐만아니라 혈압과 콜레스테롤 약도 처방/조절해주고있어 환자들을 건강하게 도와주는 일이라 보람차게 일할수있는것같아 나는 운동을 정말 좋아해! 일주일에 5번정도 운동을해. 주로 근력운동을 좋아하고 필라테스랑 요가도 좋아해 2년전에 바프 준비했을때부터 식단에 관심이 많아져서 평일은 최대한 클린하게 먹으려하고있어! 근데 나는 맛없는건 싫어해서 건강하지만 맛있는 식단들에 관심이 많아 ㅎㅎ 쓰레드에서 운동, 식단, 건강관리 등등 꿀팁들을 나눠보도록할게🫶🏻 혹시 당뇨, 혈압, 콜레스테롤, 건강관리, 식단등등 궁금한 것들이 있으면 알려죠! 엘에이 Translate 154 83 28 1",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-19/612476126_17905138338341263_7815488747265504128_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEvmwNlM0df9hLVIOo8bczx2jmUfVBbAXPZ7hGgfv2pMeLGVVeom0En4nGJ2dTOsZ8&_nc_ohc=Xb3lcyIXqQUQ7kNvwEpKMy9&_nc_gid=b4kD1FuCdNtuMqTtRw4tSA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af47Mti7Jlu9HpJzZ19dgm88Gn1KFsccPr33L-quMB34Aw&oe=6A0D2338&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "건강관리"
-    },
-    {
-      "id": "DYHExK_FJdN",
-      "username": "@ok_woori_mirae",
-      "permalink": "https://www.threads.com/@ok_woori_mirae/post/DYHExK_FJdN",
-      "text": "ok_woori_mirae 건강관리 6d “병원 가도 맨날 스트레스 때문이래요.” 근데 나는 그 말만 듣고 넘기기엔 몸이 보내는 신호가 너무 분명했다. 분명 계속 아픈데 검사하면 큰 이상은 없다고 하고 그냥 피곤함, 예민함, 스트레스라고 넘어가는 느낌. 근데 나는 궁금했다. 왜 내 몸은 계속 무너지고 있는 걸까? 그래서 그때부터 이혈, 아로마, 자율신경, 호르몬, 생활습관까지 하나씩 공부하기 시작했다. 그러면서 느낀 건 몸은 생각보다 솔직하다는 거였다. 어디가 먼저 지쳐있는지 어떤 부분의 밸런스가 무너졌는지 몸은 계속 신호를 보내고 있었더라. 그래서 지금 내가 중요하게 보는 건 무조건 참는 것도, 버티는 것도 아니라 급하게 무너진 부분부터 먼저 회복시키고 몸과 마음의 밸런스를 같이 맞춰가는 것. 이혈테라피는 내 몸을 더 빨리 이해하고 스스로를 돌볼 힘을 찾게 도와주는 관리다😊 Translate 13 4 1",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/670556954_17866252458614883_6978681907311434112_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEvmwNlM0df9hLVIOo8bczx2jmUfVBbAXPZ7hGgfv2pMeLGVVeom0En4nGJ2dTOsZ8&_nc_ohc=mXt3VBdwTcQQ7kNvwGGLgxo&_nc_gid=b4kD1FuCdNtuMqTtRw4tSA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4FpyvtiUs0sIJ58KbQY3bYFMp2_uxZg4Fkqx_5_Ibz0A&oe=6A0D32FD&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/694628749_17869517844614883_8725258618360501642_n.webp?_nc_cat=109&ig_cache_key=Mzg5MzEwMTM3NDEyMTIxOTkxNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTAwMy5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Pc2m-th4FboQ7kNvwEJB8Qw&_nc_oc=AdqOh-f8Mla7KJ64UsqYvZkUlLVNhi3IXX8w_zXN0mfhnShh7BmSuKmfvmU2Bb2mrjg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=b4kD1FuCdNtuMqTtRw4tSA&_nc_ss=7a22e&oh=00_Af6LQPXi7Tr0cwRLXhA3V6WUx4ecblQncrVgbZVWwxdDIg&oe=6A0D2A19"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "건강관리"
     },
     {
       "id": "DYBiXDsjjgr",
@@ -263,37 +146,82 @@
       "text": "kor525256 05/07/26 엄마 생신날 (91세) 온가족이 모여 기분좋으셔서 건강관리 잘하고 있다고 뽐내신다 ㅋ 자식위해 70년을 한길만 달려오신 위대하신 엄마 존경합니다 #거제도 #하나님사랑 #감사 Translate 1.8K 132 25 4",
       "has_image": true,
       "has_video": true,
-      "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/469484876_1023094252910764_7754100726045432384_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEvmwNlM0df9hLVIOo8bczx2jmUfVBbAXPZ7hGgfv2pMeLGVVeom0En4nGJ2dTOsZ8&_nc_ohc=iuIRSBNHEJwQ7kNvwFc6wmF&_nc_gid=b4kD1FuCdNtuMqTtRw4tSA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5gLz68MAu9Z0_UNW6bZgERz3hdq-h5XCscpZnIdi8okQ&oe=6A0D2F7B&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/469484876_1023094252910764_7754100726045432384_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHuudKzHR97W8JPO1eyZwx-Xmq0qqQIGZauk3CKTg9ITjM-mddNB-rPc49fzF_iZJQ&_nc_ohc=iuIRSBNHEJwQ7kNvwGBm8Fu&_nc_gid=ejNfT-AUjcudesrNQBY7bA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7xpo1r-m9HxGNvtwmdjsrvPA4g10quN6IYPKrpHlvAQQ&oe=6A0D67BB&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-dfw6-1.cdninstagram.com/v/t51.71878-15/686194634_1004637035333812_3132428674906058019_n.jpg?stp=dst-jpegr_e15_tt6&_nc_cat=106&ig_cache_key=Mzg5MTU0MjY3MTEyMjkwNTEzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLmhkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=6YODjsv4LjMQ7kNvwGmljb-&_nc_oc=Adpj8cTxfzBA6zdzYNTUsWB8DQPyUgWED1HpatOcy1lctHpHuKCpeTuUFtK4v2C_WhM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_gid=b4kD1FuCdNtuMqTtRw4tSA&_nc_ss=7a22e&oh=00_Af4s_KR8d6A_rMQCYWjh4jkLglwJaEH3WtfTGyhzDEUFQA&oe=6A0D36DD"
+        "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/686194634_1004637035333812_3132428674906058019_n.jpg?stp=dst-jpegr_e15_tt6&_nc_cat=106&ig_cache_key=Mzg5MTU0MjY3MTEyMjkwNTEzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLmhkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=6YODjsv4LjMQ7kNvwGVBQOy&_nc_oc=AdrbYH_EI06zN6fOK0rJDVb4PajOQfetTdjHsRED76WjQC3k-zST5roqRe61QFquDgI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=ejNfT-AUjcudesrNQBY7bA&_nc_ss=7a22e&oh=00_Af5ml9_h42_rkHjp3hzsvU58FvZZgkWo5ggKRDafV4Q2uQ&oe=6A0D6F1D"
       ],
-      "video_url": "https://scontent-dfw5-2.cdninstagram.com/o1/v/t2/f2/m86/AQNcC5-xERvG4ua6zx7juo8mTDtCpeaxTOLkG6kMQICRpIGKPUTa01t7gkOlUnS1ZetELCpIhrx2LHbxptyG8ZbHXzqYYxCvq8QojDU.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_ohc=igtFSfEcE2AQ7kNvwG8BNjG&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjo5NDEyOTIyMTg2NjY2MjgsImFzc2V0X2FnZV9kYXlzIjo4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=1707334335285e2a&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84MzQ1RDE2Rjk1OTkyQjE0QzEwNDExNzU0OEY1NjFBM192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzcxNEFEQzAwNDJGMERFOTU2MDU4OUUxMThDMjkyMTk4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaIupbFtYasAxUCKAJDMywXQC53S8an754YEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeadAQA&_nc_gid=b4kD1FuCdNtuMqTtRw4tSA&_nc_ss=7a22e&_nc_zt=28&oh=00_Af6yPSsLhvKWwwthA7QzN_rsvY3UAdOfrXrnwodHRe_loQ&oe=6A0964FD",
+      "video_url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQNcC5-xERvG4ua6zx7juo8mTDtCpeaxTOLkG6kMQICRpIGKPUTa01t7gkOlUnS1ZetELCpIhrx2LHbxptyG8ZbHXzqYYxCvq8QojDU.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=igtFSfEcE2AQ7kNvwH1bsxv&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjo5NDEyOTIyMTg2NjY2MjgsImFzc2V0X2FnZV9kYXlzIjo4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=1707334335285e2a&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84MzQ1RDE2Rjk1OTkyQjE0QzEwNDExNzU0OEY1NjFBM192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzcxNEFEQzAwNDJGMERFOTU2MDU4OUUxMThDMjkyMTk4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaIupbFtYasAxUCKAJDMywXQC53S8an754YEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeadAQA&_nc_gid=ejNfT-AUjcudesrNQBY7bA&_nc_ss=7a22e&_nc_zt=28&oh=00_Af6WbXR6sqt1DXZX35UF9ghcuOZ-MFXrniLKo93c1RfF3Q&oe=6A0964FD",
       "video_poster": null,
       "_keyword": "건강관리"
     },
     {
-      "id": "DKyqXoopwHm",
-      "username": "@simkung_tips",
-      "permalink": "https://www.threads.com/@simkung_tips/post/DKyqXoopwHm",
-      "text": "simkung_tips 건강관리 06/12/25 [비싼 고춧가루, 냉장고에 넣고 있진 않지?] 진심으로 말한다. 발암물질 만들어 먹는 중일 수도 있어. → 엄마도, 할머니도 몰랐던 진실 공개. Translate 138 77 4 74",
+      "id": "DFE7wTaJuQ_",
+      "username": "@_moremoon",
+      "permalink": "https://www.threads.com/@_moremoon/post/DFE7wTaJuQ_",
+      "text": "_moremoon 01/21/25 🍀🪄 건강한게 최고 Translate 93 6",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/358028941_1309459983000394_3283943474930555043_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MzAuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHuudKzHR97W8JPO1eyZwx-Xmq0qqQIGZauk3CKTg9ITjM-mddNB-rPc49fzF_iZJQ&_nc_ohc=VY56J44_PeMQ7kNvwHRtGoH&_nc_gid=ejNfT-AUjcudesrNQBY7bA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5pELpZ6D3is4Z5LpuJ18kIK-7o7fZPagfJzKHf5a01pg&oe=6A0D6A40&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/626804212_18200297257329542_7765110143155820918_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MzU1MDIyNTIxMDM5MzY4MzAwNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=5yib8T4DUNYQ7kNvwF7uu-h&_nc_oc=AdrZC0t07NwLcZ5AreoYXTAm8_f1_V2WMW8ogteqCvvWtgSIajFNTWeWCGAVaLrxkAA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=ejNfT-AUjcudesrNQBY7bA&_nc_ss=7a22e&oh=00_Af79mfc9vJ_zcpU8M206DXf7lkxNv0iMeDDIpPOFK7RG5g&oe=6A0D4891"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "건강관리"
+    },
+    {
+      "id": "DTu9j9Tk38d",
+      "username": "@park_king1513",
+      "permalink": "https://www.threads.com/@park_king1513/post/DTu9j9Tk38d",
+      "text": "park_king1513 건강정보, 건강관리 01/20/26 2026년 스친들 건강 잘 챙기고 있어?! 그거 알아?! 대한의사협회에서 권고하는 7가지 필수 검진 1. 복부 초음파 2. 갑상선 초음파 3. 대장 내시경 (45세 이상) 4. 경동맥 초음파 5. 심장 초음파 6. 골밀도 검사 7. 저선량 폐 CT (전자담배 포함 흡연자 필수) 올해에도 건강 꼭 챙기자! Translate 89 2 14 61",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/467744153_1077705057431002_6758495327858402448_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHuudKzHR97W8JPO1eyZwx-Xmq0qqQIGZauk3CKTg9ITjM-mddNB-rPc49fzF_iZJQ&_nc_ohc=0DG65qrNos8Q7kNvwHzDvW4&_nc_gid=ejNfT-AUjcudesrNQBY7bA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4ryaxyhbbFHA1ZbtP8YWADHjVsxlQGsQd545tm5mZZEw&oe=6A0D4CC1&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/619741060_17905742694341209_5291072133636147467_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzgxNDI1NjY4NjI3NDkzNjYwNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CDP7SSlJAMwQ7kNvwGHQvnD&_nc_oc=AdqUlPBdWkMXIWEPPLg0CrVPmo5PGOJ7zrFNvcYEaPmspdIpy_D5hqnlQH9aa0_XBfU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=ejNfT-AUjcudesrNQBY7bA&_nc_ss=7a22e&oh=00_Af5TUyiInxiJ4urDEJnwxF1eM8Ndr84Sfk9bxx-htKR0XQ&oe=6A0D3991"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "건강관리"
+    },
+    {
+      "id": "DHj2q2PzA2I",
+      "username": "@ddadok_motivation",
+      "permalink": "https://www.threads.com/@ddadok_motivation/post/DHj2q2PzA2I",
+      "text": "ddadok_motivation 건강관리 03/23/25 <저속노화식단, 의사 추천 맛집 7개> 1. 도곡 '음 이터리' : 채소 비건 식단 2. 연남 '플랜트 연남' : 후무스 템페 식단 3. 마포 '베이스 이즈 나이스' : 채식 비건 다이닝 4. 반포 '자주한상' : 한식. 굴비 5. 공덕 '베지스튜디오' : 채소밥, 통곡물 6. 수서 '청국장과 보리밥' : 건강 한정식 7. 연남 '아민연남' : 지중해식 브런치 저속노화 전도사 정희원 교수가 추천하는 식당이야. 우리 모두 건강관리는 필수잖아 Translate 214 5 31 7",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/485839281_1644369846447544_6598005619824535163_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MTkuYzIifQ&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEvmwNlM0df9hLVIOo8bczx2jmUfVBbAXPZ7hGgfv2pMeLGVVeom0En4nGJ2dTOsZ8&_nc_ohc=ot9cFv-qveAQ7kNvwGU_p5O&_nc_gid=b4kD1FuCdNtuMqTtRw4tSA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af589IfljUYXTA3Fqmkwbmgq75f4KmV0SzXglnzbBCdkeA&oe=6A0D348A&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/450460562_995781662039479_6157916972375054691_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHuudKzHR97W8JPO1eyZwx-Xmq0qqQIGZauk3CKTg9ITjM-mddNB-rPc49fzF_iZJQ&_nc_ohc=gfCy7kM39fkQ7kNvwEpFGBb&_nc_gid=ejNfT-AUjcudesrNQBY7bA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7Th_0IpwZuXcWgnyBjaG3wzA3KdM9JmHsugoLAZoq2bA&oe=6A0D4242&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
       "_keyword": "건강관리"
     },
     {
-      "id": "DTZs5mmEuPa",
-      "username": "@dj_lks0617",
-      "permalink": "https://www.threads.com/@dj_lks0617/post/DTZs5mmEuPa",
-      "text": "dj_lks0617 건강전도사 01/12/26 이 물건이 무엇인지 알고있는 스친들 \"건강관리\"잘 하세요~!! Translate 168 143 3",
+      "id": "C_iNmrESXIN",
+      "username": "@z__hy_un",
+      "permalink": "https://www.threads.com/@z__hy_un/post/C_iNmrESXIN",
+      "text": "z__hy_un 09/05/24 건강하고 또 건강하자 건강이 최고다💊 Translate 140 6 1",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-19/690318204_17934460251253048_3839213121076664005_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEvmwNlM0df9hLVIOo8bczx2jmUfVBbAXPZ7hGgfv2pMeLGVVeom0En4nGJ2dTOsZ8&_nc_ohc=NINJ339Wa5IQ7kNvwFeudZe&_nc_gid=b4kD1FuCdNtuMqTtRw4tSA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7T2JaK1vptoLoM5iMmfGffaxM4c8yBN6QGzsnz_7dEZQ&oe=6A0D2E40&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/509887689_17891642646267144_605892401366769686_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHuudKzHR97W8JPO1eyZwx-Xmq0qqQIGZauk3CKTg9ITjM-mddNB-rPc49fzF_iZJQ&_nc_ohc=jQQ9hGOBY0wQ7kNvwHnmrN6&_nc_gid=ejNfT-AUjcudesrNQBY7bA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af62HWAjBsERtVE2DGTo-ZcGMOSg9aiZWDeyYvtrKHdqqQ&oe=6A0D6AE1&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/613560447_17918011275253048_3460098319152465566_n.webp?_nc_cat=109&ig_cache_key=MzgwODI3MjQzMjQxNjA4OTA1MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=it1FCf1xDwoQ7kNvwF0x2yQ&_nc_oc=Adp4s9vcCjEDviWALj0AH0X7L2PdwziFnLuHvQE-5FZCV7drhtsPwXRHrMpL6BPs9Kg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=b4kD1FuCdNtuMqTtRw4tSA&_nc_ss=7a22e&oh=00_Af7tX3PYxoaIbKUPiKYUCsMEeYmas5MKOTO2PEOeUWpQpA&oe=6A0D39DC"
+        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/624276529_18067484378205940_2907614425478099189_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MzQ1MDM4MDA5NjcwNjgwMjE4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=WL25LYjEaVoQ7kNvwHryyTk&_nc_oc=Ado8HUR4aaERUjyoKQcddI2cqedq5dParHmpAcjps9rIbdgajQ1KJPLXLDIIzxpOxJs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=ejNfT-AUjcudesrNQBY7bA&_nc_ss=7a22e&oh=00_Af407xMpwoiHyjGNWZfBZT8sRu0YKKb6eJxzpnske9sLPQ&oe=6A0D6886"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "건강관리"
+    },
+    {
+      "id": "DYTMXIBmIlc",
+      "username": "@com2gether2",
+      "permalink": "https://www.threads.com/@com2gether2/post/DYTMXIBmIlc",
+      "text": "com2gether2 50대아저씨운동 1d 몸관리 피부관리 건강관리 멘탈관리 30대처럼 보이고 싶어서 하는 게 아니라 건강한 50대로 살려고 하는 거지 Translate 77 48 2",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/686948522_17908665060406785_611430062436443709_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NDIuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHuudKzHR97W8JPO1eyZwx-Xmq0qqQIGZauk3CKTg9ITjM-mddNB-rPc49fzF_iZJQ&_nc_ohc=ac45vEynubwQ7kNvwHX60oE&_nc_gid=ejNfT-AUjcudesrNQBY7bA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6ozWarVtKmsTwtijJYPgquoAwvttk2iksRJru67NpNVg&oe=6A0D6D1C&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/698283609_17909082528406785_6537240870881200678_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=107&ig_cache_key=Mzg5NjUxMjQ2ODMyODQxNzYyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjMxNi5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Orqb4EQilgoQ7kNvwGARobb&_nc_oc=AdqEK6WnfXf4G2e8qJ1CQjmhwY-oe5cZpV1_i5VVNPw-jOcvBymBOr873I2RqCL2eGA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=ejNfT-AUjcudesrNQBY7bA&_nc_ss=7a22e&oh=00_Af52upx_DvlwF9JjlbYaUXZfhx5lZ4cYJTjQLiQfAOcyOg&oe=6A0D48B2"
       ],
       "video_url": null,
       "video_poster": null,
@@ -306,52 +234,80 @@
       "text": "infodream_official 건강관리 04/15/26 무기력한 사람은 절대로 볼 필요가 없는 건강 관리 10가지 비법 1. 기름진 음식이 당긴다 = 레시틴 부족한 상태 》계란 노른자, 콩 제품을 섭취하기 2. 단 음식이 당긴다 = 마그네슘 부족한 상태 》아몬드, 시금치, 다크 초콜릿 섭취하기 Translate 382 42 114 48",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-19/661346299_17869662870606156_7038051607709922922_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEvmwNlM0df9hLVIOo8bczx2jmUfVBbAXPZ7hGgfv2pMeLGVVeom0En4nGJ2dTOsZ8&_nc_ohc=2ZDVYjs-hnMQ7kNvwHFlnSu&_nc_gid=b4kD1FuCdNtuMqTtRw4tSA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5v7yVSlmQ49dNP2IzuyY9KfoqAUoFa0W7Ftt-JdaPg3w&oe=6A0D4C9D&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/661346299_17869662870606156_7038051607709922922_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHuudKzHR97W8JPO1eyZwx-Xmq0qqQIGZauk3CKTg9ITjM-mddNB-rPc49fzF_iZJQ&_nc_ohc=2ZDVYjs-hnMQ7kNvwGtaxiU&_nc_gid=ejNfT-AUjcudesrNQBY7bA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4IqV8-iuAXnARoUGq3G1-dB6mTlu10rYctb9TNeC8tJQ&oe=6A0D4C9D&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
       "_keyword": "건강관리"
     },
     {
-      "id": "DX_gMFpEy_g",
-      "username": "@woongddee",
-      "permalink": "https://www.threads.com/@woongddee/post/DX_gMFpEy_g",
-      "text": "woongddee 05/06/26 장염 다 나 았 다 🥹 회복하는 마음으로 3키로만 뛰었는데 숨이 터질듯이 힘들었다 .. 건강관리 잘 해서 아프지말구 운동 꾸준히 해야지🫶🏻 (그래도 5분대는 지켰다..🥹) #런 #오운완 #러닝 #run #running Translate 456 26 5",
+      "id": "DWBQPORkSM-",
+      "username": "@lhyangui",
+      "permalink": "https://www.threads.com/@lhyangui/post/DWBQPORkSM-",
+      "text": "lhyangui 03/18/26 매일 아침 기상 후 공복에 100개만 해보세용 처음 시작하면 30개부터 천천히 시작하여 100개까지 늘려보세용 1시간 달리는거와 똑같은 운동으로 잠든 몸을 깨우는데 👍 항상 당신의 건강을 응원합니다 #운동 #기상운동 #공복 #달리기 #건강관리 Translate 1.6K 20 334 922",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/497205372_17900395146194135_7391698820621397264_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEvmwNlM0df9hLVIOo8bczx2jmUfVBbAXPZ7hGgfv2pMeLGVVeom0En4nGJ2dTOsZ8&_nc_ohc=eXS17jBvRTYQ7kNvwGdtbxp&_nc_gid=b4kD1FuCdNtuMqTtRw4tSA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af625XhbR_lDZ2Y59xHFn32jwHx1gYLt_hmveRWFNbV5fg&oe=6A0D4A34&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/612229935_17936723493113284_6277517145360325090_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHuudKzHR97W8JPO1eyZwx-Xmq0qqQIGZauk3CKTg9ITjM-mddNB-rPc49fzF_iZJQ&_nc_ohc=RmvMefgznFsQ7kNvwEFx0kj&_nc_gid=ejNfT-AUjcudesrNQBY7bA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6zBBln1bv-TorViOYo2cXZ0Bm3sj6kHzDqr3algIE1wQ&oe=6A0D5A30&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/683894135_17943772731194135_223915799848144386_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzg5MDk3MDE2MDU1NTg1ODQ3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=fyq0fON7lTIQ7kNvwGcBm5l&_nc_oc=Adoi2rClS4ADlQwr7knOt4FhRga_sGR9xiIBFawT5loueRSIVzv1n0pQ4VSDKNk-E1w&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=b4kD1FuCdNtuMqTtRw4tSA&_nc_ss=7a22e&oh=00_Af4qHLHy-jfHyFx5jlKBiyaL9cU2C8uo1z14ZVM7i5O5gg&oe=6A0D2B8D",
-        "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/684381867_17943772740194135_3505443316168018985_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=110&ig_cache_key=Mzg5MDk3MDE2MDgwNzQ4MTY3Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6VPefMosKAIQ7kNvwFfHmxP&_nc_oc=AdobLpdr9KcXimnW2Jj3WXZBQmfdRgz8j9LQ-dL-dUialHpESGVpQTlCy2ImMnEP0_0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=b4kD1FuCdNtuMqTtRw4tSA&_nc_ss=7a22e&oh=00_Af7KqikaEwa8OO_1olAne3-iJmQCIXeCMLzCC08vpu3PFA&oe=6A0D40AA",
-        "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/686065541_17943772749194135_5966646750615054516_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzg5MDk3MDE1OTIwNTI5MTU1NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=aAKS650-XpcQ7kNvwFDcgD4&_nc_oc=AdrMg8rtPnxIqgMk37OO_c9xtnkQ-WSW5tmG_qgiOSJoW0xPgieKYxYKktgbjliq8ts&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_gid=b4kD1FuCdNtuMqTtRw4tSA&_nc_ss=7a22e&oh=00_Af5ofB4GtXIbVOAssvzay2j7liVJ0UzojKSANIJFdyrUwg&oe=6A0D2F7C"
+        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/653386261_18020668976817047_7020459383376867123_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzg1NTQzNDE0OTg2NDI3MDc1Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=WHnYUPJjN00Q7kNvwG1SPp0&_nc_oc=Adod0bMfJUwbU9FXnNIyWOa0kKotpr1qLJo7PnV1GE6WcOd72gyB55bpab_PBysY3ZU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=ejNfT-AUjcudesrNQBY7bA&_nc_ss=7a22e&oh=00_Af4eH5YgypoGcZe3FyYaH2WnBf-AMVjpnS-wzfK3rab3lw&oe=6A0D3DDE",
+        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/653884790_18020668934817047_7567777805283261622_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzg1NTQzNDE0OTQzNjQwMjIxMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=1thzLlrtcwIQ7kNvwE56U3Z&_nc_oc=AdoRQRiNp8tgpUmfSvagNlSYne09QZEBRvqOjGj7ffLd51J3CFDZtAQGnJNDjx-4JX4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=ejNfT-AUjcudesrNQBY7bA&_nc_ss=7a22e&oh=00_Af6oPL2xCjM1FteIB6dfz-eoEJc43ANaNq8TwXu2T-h_Ng&oe=6A0D510A"
       ],
       "video_url": null,
       "video_poster": null,
       "_keyword": "건강관리"
     },
     {
-      "id": "DBEMaNpBzKZ",
-      "username": "@yeongho_8804",
-      "permalink": "https://www.threads.com/@yeongho_8804/post/DBEMaNpBzKZ",
-      "text": "yeongho_8804 건강관리 10/13/24 혈압 당뇨 고지혈증 3가지 질환을 앓고 있는데 관리 잘하는 방법 없을까? 건강관리 Translate 29 58 2 1",
+      "id": "DVCW4pUk3AR",
+      "username": "@the_m.j_leader",
+      "permalink": "https://www.threads.com/@the_m.j_leader/post/DVCW4pUk3AR",
+      "text": "the_m.j_leader 수면 02/21/26 통잠을 못 자ㅠ 이제 한달이 되어가는듯. 2시간마다 꺤다 깊은잠에 못이르는거겠지. 나처럼 자주깨는 사람있어? 통잠자는 꿀팁 아는 사람? (멜라토닌, 수면패치는 효과가 없더라ㅠ) Translate 17 73",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-19/540400983_17902913946249151_7235873397697369545_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEvmwNlM0df9hLVIOo8bczx2jmUfVBbAXPZ7hGgfv2pMeLGVVeom0En4nGJ2dTOsZ8&_nc_ohc=Lodhpu2FaUQQ7kNvwEDAsqp&_nc_gid=b4kD1FuCdNtuMqTtRw4tSA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6cPXb-qO0CCJMSqSa_0n6N3MbG2MBDyl-Dht8_hbjs-w&oe=6A0D3A9C&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/649828664_17850913995688142_4342078723022253063_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gE6Di58YHnGQ2tqZaXS7pleIzhL_FNm9uxx7kPtSEN0HYbCgsS3HV-WTYOug1uBPWA&_nc_ohc=BsWli-GyD5AQ7kNvwFyfZR3&_nc_gid=rTkSFspaF-hCZLHfuIKVBw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6pXtp8Kc7BxejIP720Qkq-8DlzEZ3GV0vfTSfToByziw&oe=6A0D6F38&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
-      "_keyword": "건강관리"
+      "_keyword": "수면"
     },
     {
-      "id": "DVyOXmbE1t4",
-      "username": "@ear.doctor",
-      "permalink": "https://www.threads.com/@ear.doctor/post/DVyOXmbE1t4",
-      "text": "ear.doctor 수면 03/12/26 15년차 한의사가 말합니다. 여러분 다 필요 없고, 하루 7시간 잠 푹 주무시는 거 부터 하세요. 잠 못자면 비싼 보약, 영양제 다 돈낭비입니다. “아니 나도 그러고 싶은데요?” “몰라서 못하는게 아닌데요?” ‘꿀잠자는 방법 3단계’를 알려드리겠습니다 Translate 834 41 122 156",
+      "id": "DOw3XXYk_EM",
+      "username": "@lawyer_people",
+      "permalink": "https://www.threads.com/@lawyer_people/post/DOw3XXYk_EM",
+      "text": "lawyer_people 수면 09/19/25 오늘 수면 모임에서 배운 것들 1. 기상 후 눈으로 햇빛 맞기 (15시간 뒤 멜라토닌 분비) 2. 수면 측정 웨어러블 기기(외국 제품 추천) 3. 암막 커튼, 안대 등 편안한 제품 다수 4. 알람시계 역시 자연스럽게 밝아지는 시계 추천 5. 수면 전 찬물 샤워 추천( 몸의 온도가 낮아져 수면 최적화) 6. 멜라토닌 저용량 섭취하는 방법 그냥 불평만 했지 이 영역도 노력의 영역인 것을 미처 몰랐다. Translate 113 13 12 3",
+      "has_image": false,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/559957017_17893713762339259_4291509470255178075_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NDUuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gE6Di58YHnGQ2tqZaXS7pleIzhL_FNm9uxx7kPtSEN0HYbCgsS3HV-WTYOug1uBPWA&_nc_ohc=juIgpPFdAgEQ7kNvwFUfLEC&_nc_gid=rTkSFspaF-hCZLHfuIKVBw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af73xBcu8SydXbX9s-gQDh0d_U-BhIIFJxz9BhC4NfHccg&oe=6A0D5C00&_nc_sid=10d13b",
+      "media_images": [],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "수면"
+    },
+    {
+      "id": "DRCfPiykSRi",
+      "username": "@lhyangui",
+      "permalink": "https://www.threads.com/@lhyangui/post/DRCfPiykSRi",
+      "text": "lhyangui 11/14/25 장기적인 코막힘과 코골이는 수면 무호흡증으로 발전하면 숙면을 방해하여 뇌의 핵심기능을 담당하는 전전두엽에 산소공급이 줄어 들고 이산화탄소가 증가하게 되어 뇌의 행동 억제, 감정 조절, 집행 기능을 떨어뜨릴 수 있으니 코골이는 절대 그냥 내버려두면 ❌️❌️ ❤️❤️ 매일 저녁 자기전 꼭 사랑하는 내 아이에게 ❤️❤️ 항상 당신의 건강을 응원합니다 #코골이 #코막힘 #티앤닥터 #예온치유힐링센터 Translate 266 3 38 341",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/503631515_17844102624501800_6083192483451773779_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFcodcwi5RnBiOv6XXMUbKMJrOuSEZQr-PpiYQTujR2NG13SEvFI0zqRADPRCnV30c&_nc_ohc=HhhF_jbebp8Q7kNvwF4RsUt&_nc_gid=nfI9z-FYsv-PjQf_sTdKUA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6zoIAtY0g5RNMQGdnHCLmpAR5fhTyRhGiHcANwAvBqDw&oe=6A0D5838&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/612229935_17936723493113284_6277517145360325090_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gE6Di58YHnGQ2tqZaXS7pleIzhL_FNm9uxx7kPtSEN0HYbCgsS3HV-WTYOug1uBPWA&_nc_ohc=RmvMefgznFsQ7kNvwEFx0kj&_nc_gid=rTkSFspaF-hCZLHfuIKVBw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7loRump8N6S03XOPc1N6bwSTjKI0nuCfGAwvoKSML6AA&oe=6A0D5A30&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/650707853_17879273298501800_3763487104929916979_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzg1MTIwMzgyNTgxMDc1ODUyMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=56qr_MHjqd4Q7kNvwEXxse4&_nc_oc=Adrlsd0OSz-o8oaCLB-_6wsHAs9iyaFZnyXXuRHxh4q5eKmNEHnIZCip0ZVSmXnTbZM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_gid=nfI9z-FYsv-PjQf_sTdKUA&_nc_ss=7a22e&oh=00_Af6p6jkZTSqxS5c8zRU6mmrKS3DZGz2H7pAVqgtPxKPp_A&oe=6A0D38C1"
+        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/581335055_18007113392817047_6819247507237417939_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzc2NTcwOTYyMjQ4NjMxMTM4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=HbXzsTWnBHUQ7kNvwGP1bVU&_nc_oc=Adop4NYlM5AU31tndoDwbQvj0RGX5V7UaY0o97sqm6yJlfj0bqf3uVwoYF7H61pDDQU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=rTkSFspaF-hCZLHfuIKVBw&_nc_ss=7a22e&oh=00_Af7aDJ0G6uahEhEBN-kR3GRgZo-QNSavau8JLo-lHpKuFg&oe=6A0D523E",
+        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/582087686_17930160543113284_10116424912814870_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc2NTcwOTYyMjgzMDIzOTM4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=QDv-2HNDl-cQ7kNvwEDVGQZ&_nc_oc=AdrVef6NlOJ1wyNSCpaMykDrsN-1xBbVmOYhHV8_d7wrv9HEI5BcUPt6kzM_gXACvdM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=rTkSFspaF-hCZLHfuIKVBw&_nc_ss=7a22e&oh=00_Af4Rs_Rxp3HuyX7k2_c263eGNTzrs724efE2xrrhKmeYoQ&oe=6A0D5EFF"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "수면"
+    },
+    {
+      "id": "DYRDdM5j0Sy",
+      "username": "@jun_seok1212",
+      "permalink": "https://www.threads.com/@jun_seok1212/post/DYRDdM5j0Sy",
+      "text": "jun_seok1212 2d 수젠텍 올랐으니 샷 Translate 96 17",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/591162560_17842302960662757_4356246098558129903_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gE6Di58YHnGQ2tqZaXS7pleIzhL_FNm9uxx7kPtSEN0HYbCgsS3HV-WTYOug1uBPWA&_nc_ohc=6HvY2NSbKZIQ7kNvwFNKPLb&_nc_gid=rTkSFspaF-hCZLHfuIKVBw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7wcAPoQcmcQpEOSHh8Gv7-j-CBGpPX5HCLAVHUy68wCw&oe=6A0D5C8D&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/693529730_17859582435650808_7819745260317425777_n.webp?_nc_cat=106&ig_cache_key=Mzg5NTkxMDM1MzUwNzE0MDc4Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=bUb6zXKq2y0Q7kNvwGgLy10&_nc_oc=AdqeezigPGUTDqQbgHdOJrL4IljnZHv5zb9od4l0OCFL2I9tapXkEjp39HQuXwoPTKg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=rTkSFspaF-hCZLHfuIKVBw&_nc_ss=7a22e&oh=00_Af5F_7Fqdr41pij9GSMdZbmdfWzqLGxA6p86t-TtWF3tjQ&oe=6A0D6702"
       ],
       "video_url": null,
       "video_poster": null,
@@ -364,7 +320,7 @@
       "text": "magokboy 04/14/26 인생이 쉬워지는 습관 7가지✨ 1. 7시간 이상 규칙적인 수면 2. 주 3회 이상 근력 + 유산소 운동 3. 술, 야식, 과한 도파민 줄이기 4. 완벽주의 버리고 일단 시작하기 5. 행복을 미래에서 찾지 않기 6. 기록하는 습관 만들기 7. 회사 일 말고 나만의 것 만들기 Translate 110 5 14 3",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/536527946_17866788513432710_6231430363492366599_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NDUuYzIifQ&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFcodcwi5RnBiOv6XXMUbKMJrOuSEZQr-PpiYQTujR2NG13SEvFI0zqRADPRCnV30c&_nc_ohc=-hylDS67Ql0Q7kNvwFnKkE2&_nc_gid=nfI9z-FYsv-PjQf_sTdKUA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7dOecxZIgY7ckUBTPjKDTuaz4CI1YygpmpRBfUw2fQMg&oe=6A0D5948&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/536527946_17866788513432710_6231430363492366599_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NDUuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gE6Di58YHnGQ2tqZaXS7pleIzhL_FNm9uxx7kPtSEN0HYbCgsS3HV-WTYOug1uBPWA&_nc_ohc=-hylDS67Ql0Q7kNvwE4ajGD&_nc_gid=rTkSFspaF-hCZLHfuIKVBw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4EJC7HXyZxg55VsFu820EYTb_m6BpB9SbrNTjJFlwDWQ&oe=6A0D5948&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
@@ -377,90 +333,43 @@
       "text": "tt_vessel_lab 수면 2d 17년차 심혈관조영실 방사선사입니다. \"수면부족이 혈관에 나쁜 건 알겠는데 왜 나쁜 건지는 몰랐어요.\" 오늘 제대로 알려드립니다. 알고 나면 수면 습관이 달라질 거예요. 내 친구들만 미리 알고 가세요. Translate 726 85 128 385",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-19/652536843_18061347965436496_3056208969765444976_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFcodcwi5RnBiOv6XXMUbKMJrOuSEZQr-PpiYQTujR2NG13SEvFI0zqRADPRCnV30c&_nc_ohc=mx7Fii2woxkQ7kNvwEiusQZ&_nc_gid=nfI9z-FYsv-PjQf_sTdKUA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7Y18W0r9CZ-PLQPIv-hlHCFIuFODo2LzvUH0dGvnLK6A&oe=6A0D563E&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/652536843_18061347965436496_3056208969765444976_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gE6Di58YHnGQ2tqZaXS7pleIzhL_FNm9uxx7kPtSEN0HYbCgsS3HV-WTYOug1uBPWA&_nc_ohc=mx7Fii2woxkQ7kNvwEgMzls&_nc_gid=rTkSFspaF-hCZLHfuIKVBw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4X9kHyPRbD7awLg3Gr1VC6DlLJFDUiWoN2o1AlIh1tqw&oe=6A0D563E&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
       "_keyword": "수면"
     },
     {
-      "id": "DVmfYAgEkb1",
-      "username": "@h_n_l_h_n",
-      "permalink": "https://www.threads.com/@h_n_l_h_n/post/DVmfYAgEkb1",
-      "text": "h_n_l_h_n 03/07/26 이란 해군 수장이 수장 되었다👍 Translate 881 21 35 3",
+      "id": "DVyOXmbE1t4",
+      "username": "@ear.doctor",
+      "permalink": "https://www.threads.com/@ear.doctor/post/DVyOXmbE1t4",
+      "text": "ear.doctor 수면 03/12/26 15년차 한의사가 말합니다. 여러분 다 필요 없고, 하루 7시간 잠 푹 주무시는 거 부터 하세요. 잠 못자면 비싼 보약, 영양제 다 돈낭비입니다. “아니 나도 그러고 싶은데요?” “몰라서 못하는게 아닌데요?” ‘꿀잠자는 방법 3단계’를 알려드리겠습니다 Translate 834 41 122 156",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/674447213_17893065864461382_790296844445020288_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFcodcwi5RnBiOv6XXMUbKMJrOuSEZQr-PpiYQTujR2NG13SEvFI0zqRADPRCnV30c&_nc_ohc=8QTKTM1haEkQ7kNvwG7Bixm&_nc_gid=nfI9z-FYsv-PjQf_sTdKUA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7BjGipCt2oMKP1mcl8PeDaVShK5H8oxvvV23l95HlMwQ&oe=6A0D41E9&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/503631515_17844102624501800_6083192483451773779_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gE6Di58YHnGQ2tqZaXS7pleIzhL_FNm9uxx7kPtSEN0HYbCgsS3HV-WTYOug1uBPWA&_nc_ohc=HhhF_jbebp8Q7kNvwHreG-s&_nc_gid=rTkSFspaF-hCZLHfuIKVBw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6XUUs_fnNHuEqrZXjzhiZ5y-N6CeLFxGVghfrUW2LaAg&oe=6A0D5838&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/648989861_17885496798461382_7305197906415962648_n.webp?_nc_cat=109&ig_cache_key=Mzg0NzkwMDkyMDg4MjAyMjEzMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=I7mw_ZFeI5oQ7kNvwHZdSFQ&_nc_oc=AdoOtK9Io0Ze6m9QCeGZK0I_gmfuuu6lXogw9GDBb0OzaYceFKK_ADI_XtXioyz-Hic&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=nfI9z-FYsv-PjQf_sTdKUA&_nc_ss=7a22e&oh=00_Af6hAnQYzVaM8AIRpC1_qZhSsSCxOw6Z43-6jxD5e71fYg&oe=6A0D44F5"
+        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/650707853_17879273298501800_3763487104929916979_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzg1MTIwMzgyNTgxMDc1ODUyMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=56qr_MHjqd4Q7kNvwFhxxS0&_nc_oc=AdrVomCoz1n5TLkxDugQVUOgSvf5ojUgIQX6AXCSpXx4JaMRSknoa7jRE1_KclEyaDg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=rTkSFspaF-hCZLHfuIKVBw&_nc_ss=7a22e&oh=00_Af6YgfTtFjeJuos8ukzriifEOR79HM_6kZDT9b2kFWG7Wg&oe=6A0D38C1"
       ],
       "video_url": null,
       "video_poster": null,
       "_keyword": "수면"
     },
     {
-      "id": "DLaBQcfTp4H",
-      "username": "@looooooooooocy",
-      "permalink": "https://www.threads.com/@looooooooooocy/post/DLaBQcfTp4H",
-      "text": "looooooooooocy 06/27/25 우울해서 수박빙수 시켰다 Translate 95 26 1",
+      "id": "DKrWh_tRsLo",
+      "username": "@sleep_honeytip",
+      "permalink": "https://www.threads.com/@sleep_honeytip/post/DKrWh_tRsLo",
+      "text": "sleep_honeytip 불면증 06/09/25 교감신경 과항진 신호 6가지 ✅ 심박수: 평소에도 심장이 빠르게 뛴다 ✅ 긴장 상태: 이유 없이 몸에 힘이 들어가 있고, 어깨·목 뻐근함 ✅ 스트레스 반응: 사소한 자극에도 깜짝깜짝 놀란다 ✅ 수면:누워도 쉽게 이완이 안 되고, 꿈도 많이 꾼다 ✅ 소화:위장이 자주 더부룩하거나 소화불량 ✅ 체온:손발 차가운데 얼굴은 열감(홍조) 교감신경 과항진 경우에는 입면은 잘 되는데 새벽3~4시에 도중에 깨는 증상이 대표적이야! Translate 232 46 20 25",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-webp&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFWO2prNC6gkE6xB38ysQP74tRnjTt4vvliWzNTnyg38pdk5-cFTsmMv7D64h80SMo_Y45faG08YQGKot36cbtZ&_nc_ohc=MmLLN7F27PUQ7kNvwGvaLUh&_nc_gid=4xUh7uBD5lHx8H2OuUN2dQ&edm=AL4D0a4BAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Af44aFY3OzXyv7FtZX-YlUoWHOP-Apj1S6RhPBO03h454w&oe=6A0D362A&_nc_sid=9e8221",
+      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/459002437_1060185609005941_4162492735624176564_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjYuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gF1X-q9AyZ4utXKmUC4-U5WiSTbwq2oble-F3e_Psz52LyNhjWGY1dhoUQwtZ_3UNg&_nc_ohc=1sR-p80KAqUQ7kNvwEqkm4V&_nc_gid=tMPiMwLkvRdM_0gO-nRW2g&edm=AHhEZX8BAAAA&ccb=7-5&oh=00_Af5a9T7Iv738wRhihhY7pCz2AHiWPhcGESW9GGShBM-ziQ&oe=6A0D600A&_nc_sid=e8efdc",
       "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "수면"
-    },
-    {
-      "id": "DW-nfy8gbM8",
-      "username": "@guqror0324",
-      "permalink": "https://www.threads.com/@guqror0324/post/DW-nfy8gbM8",
-      "text": "guqror0324 04/11/26 빙수개시 Translate 94 38 2",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-19/689218110_17879148660584675_6830766236174717882_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MDIuYzIifQ&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFcodcwi5RnBiOv6XXMUbKMJrOuSEZQr-PpiYQTujR2NG13SEvFI0zqRADPRCnV30c&_nc_ohc=kU2pYYmIOqkQ7kNvwEuz-Ur&_nc_gid=nfI9z-FYsv-PjQf_sTdKUA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7ZeeRKGbFtxo3MBj1g8d4gWG5rpXLrD99YWryxQJ4KLw&oe=6A0D390B&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/669769957_17873903820584675_6679183559774634594_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=108&ig_cache_key=Mzg3MjcwNjQzODQwNTE0MTMwOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTkyMC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=2Ep9pNT9Fu0Q7kNvwH2RMy9&_nc_oc=AdoHwhHydTxSpbJ4wXMySZpLHn7n4YZrkmqHez0DtXNiAm-ebqM1HV_BHmfifpBhkzc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_gid=nfI9z-FYsv-PjQf_sTdKUA&_nc_ss=7a22e&oh=00_Af6uNFD7R7h4ITM4Atj4N1wwQ03Nl-yXR12iWoDoyuDvdQ&oe=6A0D564D"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "수면"
-    },
-    {
-      "id": "DXHR9Wfk2BY",
-      "username": "@h2_seo_",
-      "permalink": "https://www.threads.com/@h2_seo_/post/DXHR9Wfk2BY",
-      "text": "h2_seo_ 분리 수면 04/14/26 분리수면 그거 어떻게 하는건데…ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 엄마 껌딱지 된 아기.. 잘때 더 나만 찾는데 너무 귀여워ㅠㅠㅠ 아기보다 내가 분리수면 못하는 엄마가됨..ㅋㅋㅋㅋㅋㅋ 잘때 나한테 파고드는데 이맛에 분리수면 못함 ㅠㅠㅠ… 다들 밤잠 어때~~~ Translate 249 99 1 1",
-      "has_image": true,
-      "has_video": true,
-      "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/648148976_17851331367671379_6713589383831061446_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFcodcwi5RnBiOv6XXMUbKMJrOuSEZQr-PpiYQTujR2NG13SEvFI0zqRADPRCnV30c&_nc_ohc=d0edd3bI7UkQ7kNvwEgRrXd&_nc_gid=nfI9z-FYsv-PjQf_sTdKUA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4ga97R_h421oE7zhVXlT9MmnlWyNs3bfnW6dXA2xKuXQ&oe=6A0D521B&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-dfw5-1.cdninstagram.com/v/t51.71878-15/670776391_1289669643281975_583804466438967872_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzg3NTE0NDk4NzIwNjQ0MzA5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=7Z3GI0uZ0KUQ7kNvwEQxFCP&_nc_oc=Adqua-ok5SWneWpFWCrZI2xD-mrdwqQg9IKRfsSDjF0CxjJAK1Wkfq-nFJztX8Yfqeg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=nfI9z-FYsv-PjQf_sTdKUA&_nc_ss=7a22e&oh=00_Af7nT-EaDa0CfxCDkjIJ9SE_nMG_kWvmve9nwaFeI9XMuw&oe=6A0D51B1"
-      ],
-      "video_url": "https://scontent-dfw6-1.cdninstagram.com/o1/v/t16/f2/m84/AQMjEQPwcZ9y4yzJpyfKXgQoBS1PhPHsoUomw9210Tr4DWX9u5yk-Zio3brxLTJ9-H5ZmxOeFjqyIi25c9X3LVL6XD0nirGm6bCFBeM.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_ohc=824I9yXA_ssQ7kNvwERb-bW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjc2LmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc4NTc3MTA3OTI2NzEzNzksImFzc2V0X2FnZV9kYXlzIjozMSwidmlfdXNlY2FzZV9pZCI6MTAxNjQsImR1cmF0aW9uX3MiOjE4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=53f355993144b51a&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC9CRDQyOTUzMzU2MzBFMjVCRUM1OERGM0Q2RUIyMkM4NF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0U3NEE3RDBDRjdFOUE5RjQ2NUY5N0EwNzMyMjVGMzlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACamguTEyd-4PxUCKAJDMywXQDKiDEm6XjUYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeieAQA&_nc_gid=nfI9z-FYsv-PjQf_sTdKUA&_nc_ss=7a22e&_nc_zt=28&oh=00_Af5sghivNw6PSbSVeFJnVitQFNhEfVtnyHOYon2kqNwpXw&oe=6A0957FB",
-      "video_poster": null,
-      "_keyword": "수면"
-    },
-    {
-      "id": "DYQxftSnXb_",
-      "username": "@gmlrudkoa",
-      "permalink": "https://www.threads.com/@gmlrudkoa/post/DYQxftSnXb_",
-      "text": "gmlrudkoa 뱀띠친구들 뱀띠맘 스친 스팔 육아소통 스하리1000명프로젝트 2d 여름용 수면 조끼 추천 좀 부탁드립니다.. 이제 더는…땀 냄새가….우리 뚜리니 땀이…. Translate 16 26 3",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/658984240_17872015338589458_4786933177934893148_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFcodcwi5RnBiOv6XXMUbKMJrOuSEZQr-PpiYQTujR2NG13SEvFI0zqRADPRCnV30c&_nc_ohc=aUBWpLSsJRIQ7kNvwEw_5Ne&_nc_gid=nfI9z-FYsv-PjQf_sTdKUA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5N1WKYSHdFmiRBk_q_V1JN1oT4vIb9C3_cKrC7Bbaw9w&oe=6A0D3603&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/696060269_17880345555589458_6166403861811241078_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=108&ig_cache_key=Mzg5NTgzMTA4MDU4MjY1MzUxNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=FNIxLwQeXGsQ7kNvwF8JqSb&_nc_oc=AdrIvePQkSFS68E8-9vQUnKPeNPbo82ihk4qJHUpCd4dd0wBvgq5xkd_YxVoEGgxfkM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_gid=nfI9z-FYsv-PjQf_sTdKUA&_nc_ss=7a22e&oh=00_Af53TyGg15f2bf5OnH4yKklJaP7cw6ECy2y4gYzTO_-Pvg&oe=6A0D26F0",
-        "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/697027999_17880345576589458_4206175020126038990_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=107&ig_cache_key=Mzg5NTgzMTEwNjIzNTA0Nzg0MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=n4Ij15GydBsQ7kNvwGG66-j&_nc_oc=Adr1LwzrU_0m71QvrUcPiJTwUL9ggljNw4CuKrMuaGgKJRbx0inyV31Ud4lU9voGVrE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_gid=nfI9z-FYsv-PjQf_sTdKUA&_nc_ss=7a22e&oh=00_Af7MjfF7nTmd4ouB9huoD1C_Se_JYpL3H7D1qdZEkiguBg&oe=6A0D3FB6",
-        "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/695008584_17880345585589458_258562992617677321_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=106&ig_cache_key=Mzg5NTgzMTExMjM0MTk0Mjg2NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5oZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=xHDVNfRdyUYQ7kNvwH8vNo-&_nc_oc=AdoiYORpjSD8y8iO_OaZkjqaoTRXRWGNxb_1lbTgnG-LsHhyXT4N5I9qmD9MbHxb51M&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_gid=nfI9z-FYsv-PjQf_sTdKUA&_nc_ss=7a22e&oh=00_Af6sQNUv4CEGvpzseaSJtpUZaiq_4UoZmegHSfeZxN9SOw&oe=6A0D30EE"
-      ],
       "video_url": null,
       "video_poster": null,
       "_keyword": "수면"
     }
   ],
   "summary": {
-    "total": 32,
+    "total": 25,
     "enriched": 0,
     "failed": 0
   }
