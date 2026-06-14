@@ -7,7 +7,7 @@
     "리뷰",
     "스팀"
   ],
-  "fetchedAt": "2026-06-14T17:47:37.255Z",
+  "fetchedAt": "2026-06-14T20:01:29.345Z",
   "items": [
     {
       "id": "DVtaxDykrjF",
@@ -16,45 +16,29 @@
       "text": "optimaarchgames 게임 03/10/26 개발 경험이 전혀 없는데 생전 처음으로 게임을 만들어봤습니다 의견 부탁드려요 혼자서 묵묵히 그냥 게임을 만들어보고 있는 사람입니다 원래는 개발자도 아니고 그냥 여러 게임을 하면서 게임을 좋아만 했었습니다 “나도 언젠가는 꼭 게임 만들어보고 싶다”는 생각이 들었었는데 ai가 좋아진 이제는 기회다 라고 생각해서 뛰어들게 되었습니다 대충 만든지 4개월 정도 됐습니다 지금 만들고 있는 게임은 슬롯머신 오토배틀러 로그라이크 디펜스 게임 입니다 슬롯머신을 돌려서 당첨되면 유닛이 전장에 뽑히게 되고 웨이브를 막는 방식 입니다 유닛은 흡수해서 성장시키고 승급을 시킬수있습니다 아이템과 유물로 빌드를 만들고 슬롯머신의 확률을 조작할수있습니다 아직 완성도는 많이 부족한데 그래도 어느 정도 게임 형태는 나온 것 같아서 한번 올려봅니다 아래는 현재 게임 스샷들 입니다 게임 이름: Slotbound 플랫폼은 스팀 입니다 Translate 394 117 35 65",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/643633360_18046356356513084_7554857353406542447_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gENuSkXXZdjuiVnKH6rDvKUFAnsH-cbipo3J8QNH3a7fM6wGQFWuahbSwYmCuayBNM&_nc_ohc=0O5I-hzccsIQ7kNvwHLWQQF&_nc_gid=Qi0R4pQYWnC5P8XahxG5tg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af96GbfhgQRBl30BswXfpW1RF0QeKfebB2SK5Yhpx0KGsA&oe=6A34ADD3&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/643633360_18046356356513084_7554857353406542447_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHlAENtLRhM6lo-tsBzRU3JytzDV-McDbw8zBjFcVy4XSON-wuk0TyXoMbdcq_7mh4&_nc_ohc=0O5I-hzccsIQ7kNvwFICle4&_nc_gid=wdlzqR4yS9MQ2ladaMLSrQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_e61lasu1fL3ITW3UC-bO-68_DHLG5ad7qUMMkF7ygsQ&oe=6A34E613&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/650204066_18047948882513084_8002824603625547602_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzg0OTg0OTM5MjUzOTUwNjI5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTkyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=UEKQuBLaZzkQ7kNvwFREqRh&_nc_oc=AdpCn9NYBHdAGyujHlwm5VCG47Yfdpw3qescF1928p6Ovhx590Fl2NnkY3A8ACIukWk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=Qi0R4pQYWnC5P8XahxG5tg&_nc_ss=7a22e&oh=00_Af_hDkDNZXtEa92kPwv0QyZQkAQsESajy-LHRn8y3OXGgg&oe=6A34B02D",
-        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/649179887_18047948897513084_4603145387033212707_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzg0OTg0OTM5NTM0OTcwNDM4Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTkyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CL-1ziY0pxUQ7kNvwH2q4DR&_nc_oc=AdoPkKZcChmDipkDvFYPw_IuCaENTfolM8L_iOnddxQnGLVXHhhuNOAJ31QX9jeteNc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=Qi0R4pQYWnC5P8XahxG5tg&_nc_ss=7a22e&oh=00_Af_IHJ5sg89MlCo4jpKr29AKoTl2XMb5KUF3Pexm7gyGtg&oe=6A34BCE7",
-        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/649845364_18047948900513084_3941557261936283474_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzg0OTg0OTM5NTUwMDcyMzA4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTkyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=f2X1ZJxizuUQ7kNvwHi2Cmu&_nc_oc=AdqPHNBzZxe1yCV96k3r2GjX4ilN39k3l-PDLfa-b5MlG9jxACOP7dG557tb04KUZBo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=Qi0R4pQYWnC5P8XahxG5tg&_nc_ss=7a22e&oh=00_Af9MIkultUP1lsGKjF3Jx3vb5KyyQGbWI3fO6K5Hm_XsRw&oe=6A34D0E1",
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/649253755_18047948909513084_7683493534574707921_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzg0OTg0OTM5NTc2MDc1MDA4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTkyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=i-CetdHhaV8Q7kNvwHIYCpq&_nc_oc=AdqrTtA95Tw4QSHfWjAuC1HLXSKw-F_tm5FJ3XiVqM-8M7yZPuXyaLH7fJZbkl88nTg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=Qi0R4pQYWnC5P8XahxG5tg&_nc_ss=7a22e&oh=00_Af_x1NCbnJ31K24jP7p4wtQXCQAN2EmzFSDyDlESOxe_TA&oe=6A34C332"
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/650204066_18047948882513084_8002824603625547602_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzg0OTg0OTM5MjUzOTUwNjI5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTkyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=UEKQuBLaZzkQ7kNvwH-mVHP&_nc_oc=AdodEPDam823NbQWDoHsoxeQfWbIaW6nSKYfwDJBnrRFaqI63uMTnDUDAxew-HIC_PQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=wdlzqR4yS9MQ2ladaMLSrQ&_nc_ss=7a22e&oh=00_Af_tbLD2i5G9xeHrtU0sRcGNcdYDnYjL1ow6NBFYr4Pydw&oe=6A34E86D",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/649179887_18047948897513084_4603145387033212707_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzg0OTg0OTM5NTM0OTcwNDM4Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTkyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CL-1ziY0pxUQ7kNvwEVeQVx&_nc_oc=Adreur5L5thR6IYdJG3Xmetj9RnpZd3BZe_o_hLE2YU_tSDjzd_KKpdVJwNKDbAtiog&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=wdlzqR4yS9MQ2ladaMLSrQ&_nc_ss=7a22e&oh=00_Af-_irEz6MbyswxEK3NCCWOdAR8BK3hbOWke4dfRuRHwCw&oe=6A34F527",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/649845364_18047948900513084_3941557261936283474_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzg0OTg0OTM5NTUwMDcyMzA4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTkyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=f2X1ZJxizuUQ7kNvwG8p7s3&_nc_oc=AdoYCudh7we8RpyNCQPcCLCVaEAnrfD6JKVq2BPnXAf4MFdNnNFfAyzOAKC84evHTHs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=wdlzqR4yS9MQ2ladaMLSrQ&_nc_ss=7a22e&oh=00_Af_mVehdBttSBZAnehN7jFrQ0RbfbYujC6pAnA4iGZ4cWg&oe=6A34D0E1",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/649253755_18047948909513084_7683493534574707921_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzg0OTg0OTM5NTc2MDc1MDA4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTkyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=huuhWqVGucYQ7kNvwGPJCob&_nc_oc=Ado-8_dEgpBQM1ioUwmAIIJ0d89bLEnhmj42_cLfbO1DJ9e85KEUvpqQx1q_N4WCjtQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=wdlzqR4yS9MQ2ladaMLSrQ&_nc_ss=7a22e&oh=00_Af8Wx2xr5qKe2qTyK5Pj1BISV0HahdBOB6lLFMN_qB1A3w&oe=6A34C332"
       ],
       "video_url": null,
       "video_poster": null,
       "_keyword": "게임"
     },
     {
-      "id": "DZjcX4TmIBp",
-      "username": "@cart.boom",
-      "permalink": "https://www.threads.com/@cart.boom/post/DZjcX4TmIBp",
-      "text": "cart.boom 12h 이 게임 해본 사람? 겁나 잼나더라구. .. 예전에는 오락실에 있었다던데? 모두들 몇판까지 가봤어? Translate 4 2",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/719851956_18100405972918772_1970655467266129178_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gENuSkXXZdjuiVnKH6rDvKUFAnsH-cbipo3J8QNH3a7fM6wGQFWuahbSwYmCuayBNM&_nc_ohc=IjdgR-u_VQIQ7kNvwGiDLgZ&_nc_gid=Qi0R4pQYWnC5P8XahxG5tg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-OadFQQ9e1yfYDR_P-g2TOGoQC0FFawuuP_U_Ky-s7sg&oe=6A34BA00&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/724251621_18100779259918772_3049554016844225175_n.webp?_nc_cat=100&ig_cache_key=MzkxOTEwMDE5NjEwNDk2MzEyNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjUyLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=qJbn9XroagoQ7kNvwG-6ulC&_nc_oc=Adp_T80D3tDn7cZBBFsLbXeoaAIa2sF_PzpHrXig2ZURMTlIK9dOj0XP-XSWEwGRT20&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=Qi0R4pQYWnC5P8XahxG5tg&_nc_ss=7a22e&oh=00_Af-N4VZrJl-b3oTCnn0am1TVN4wAWXmGWAHbzLj4ixHPuw&oe=6A34C641",
-        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/723190919_18100779268918772_174034533239815800_n.webp?_nc_cat=105&ig_cache_key=MzkxOTEwMDE5Njk2OTAzNjcyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjU2LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=wHXToepY4rcQ7kNvwECjPRV&_nc_oc=AdoN7KjCXvu9FxO_SYfnnsD6ObpknLaBq3GXim8wLX6wsDuEY0_XS2AQWMGEwhw9JPY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=Qi0R4pQYWnC5P8XahxG5tg&_nc_ss=7a22e&oh=00_Af-maFHnO4KP3tFawFo7We-bd1lSjQtDFjSyPQ0qBeS19w&oe=6A34AC96"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "게임"
-    },
-    {
-      "id": "DZjXZLkEstp",
-      "username": "@2828705.81",
-      "permalink": "https://www.threads.com/@2828705.81/post/DZjXZLkEstp",
-      "text": "2828705.81 게임개발자 13h 예전에 만든 1인 개발 게임. 1인 개발을 시작한 뒤 세 번째로 만들었던 게임으로 기억한다. 아마 7년 정도 전 이야기. 퇴근 후 틈틈이 공부하며 약 1년 동안 개발했고, 아래는 당시 제작했던 로비 연출 화면. Translate 153 10 5 2",
+      "id": "DQ0yN6HkQw5",
+      "username": "@todaynaon",
+      "permalink": "https://www.threads.com/@todaynaon/post/DQ0yN6HkQw5",
+      "text": "todaynaon 인생 11/09/25 최근에 가장 머리가 띵했던 문장. “인생이라는 게 엔딩이 정해진 게임, 어차피 죽으려고 태어나 시간 때우고 있는 거다.“ 그래서 대충 살자는 말이 아니라, 너무 모든 일에 민감하게 스트레스 받지 말고, 가볍게 살아도 된다는 말. 행복만 하기에도 시간이 부족하다. Translate 7.2K 148 723 961",
       "has_image": true,
       "has_video": true,
-      "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/708376765_18105872407847019_8510981794134705741_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43ODguYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gENuSkXXZdjuiVnKH6rDvKUFAnsH-cbipo3J8QNH3a7fM6wGQFWuahbSwYmCuayBNM&_nc_ohc=0bQa2xpfQ0YQ7kNvwGgDSZK&_nc_gid=Qi0R4pQYWnC5P8XahxG5tg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8SuQm8Ah3GxdYfhU6o-Na3XSCF_eT7tJVroGL6IVgjbw&oe=6A34A1DF&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/550833743_17877071136407856_6386536184393487179_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NTQuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHlAENtLRhM6lo-tsBzRU3JytzDV-McDbw8zBjFcVy4XSON-wuk0TyXoMbdcq_7mh4&_nc_ohc=u4Qfn3-dZrIQ7kNvwGEOOLk&_nc_gid=wdlzqR4yS9MQ2ladaMLSrQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9VI0hmwyOmATRLu6EkLXg4xbFQkpYWCPsiKpHPvndCUQ&oe=6A34EF8A&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/724407884_1352419196830567_2752756060882842735_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=MzkxOTA3ODk4NjIxNTUwODg0MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=VkMOHWVMRNgQ7kNvwEsvMc-&_nc_oc=AdpM5cgR4SBqAwUHCX8BbPXIX1mnP2rRZO8cKBN-aoM7fU3jEcY_xy0Zck4XSLK2bHk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=Qi0R4pQYWnC5P8XahxG5tg&_nc_ss=7a22e&oh=00_Af97JCHq0VdgAfEE1WTAoGMVgYaGiekA-6HoB_BXHh_qoQ&oe=6A34B9F0"
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.71878-15/575188365_1369141008130053_8000786363235968925_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzc2MTg1MjQ0Njg0MzkzMTcwNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=tKJ1w8kxoMMQ7kNvwEalv_M&_nc_oc=AdrjdQxH6fRbvN4xU4BNfDN-NlsJJ8F_HD5SNt5i1gCC4ASXTUKyUBOICAoqeZC0MIs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=wdlzqR4yS9MQ2ladaMLSrQ&_nc_ss=7a22e&oh=00_Af-njK9s_RIGVpJcHG_ah-nd7tvbKvIppsL2Nd4jZg00ng&oe=6A34C4D2"
       ],
-      "video_url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t16/f2/m84/AQN16tlQGdFt9__KZgQLpKE8mf9N30drFJjn26JcVfT1ngLIOlvnBZ6gtqrAY8tYTy6YrX64JdRZCPI3t1V87Crddz6yG5K8f04cyGU.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=CAEQ8ajqwXQQ7kNvwEU6Vs5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjc2LmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgxMDkyMDUyMjQ4NDcwMTksImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDE2NCwiZHVyYXRpb25fcyI6MTMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f536bad08256555a&_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC8wMDQwQ0U3RTgwMzQ4NDYyRTcyNzI5MzI0QTc0QTJBNV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm1tq7ib2Oq0AVAigCQzMsF0Ar6n752yLRGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXqB2XongEA&_nc_gid=Qi0R4pQYWnC5P8XahxG5tg&_nc_zt=28&_nc_ss=7a22e&oh=00_Af-ZYUmykaFCCEW0PzXd27SYMO6SMubtfcr968rc9_Wwtw&oe=6A30C740",
+      "video_url": "https://scontent-ams2-1.cdninstagram.com/o1/v/t16/f2/m69/AQOlaF3E__vseKvLHPQt7FGLuyMlAY1tmVvX6UiEk3NnIpr2aKZ-GD9yWf7Es-A2QBT1L0dK30tHL8FzrLHyiGI-.mp4?strext=1&_nc_cat=109&_nc_sid=8bf8fe&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=0Z9f4NFrh34Q7kNvwE4jQOU&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxOTAxMDI4MDI0MTI4OTI2LCJhc3NldF9hZ2VfZGF5cyI6MjE3LCJ2aV91c2VjYXNlX2lkIjoxMDE2NCwiZHVyYXRpb25fcyI6MjEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=wdlzqR4yS9MQ2ladaMLSrQ&_nc_ss=7a22e&_nc_zt=28&oh=00_Af_V3KZAjQJnW_TiAJXhjA8Dbl9N28DuKobqbSScs97E7w&oe=6A34D547",
       "video_poster": null,
       "_keyword": "게임"
     },
@@ -65,88 +49,13 @@
       "text": "adorable___yuumii 게임 4d 아이온2 하는 사람?! Translate 15 1 1",
       "has_image": true,
       "has_video": true,
-      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/638295570_17938429998141474_6104289715856253210_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gENuSkXXZdjuiVnKH6rDvKUFAnsH-cbipo3J8QNH3a7fM6wGQFWuahbSwYmCuayBNM&_nc_ohc=VuQ8X3eAc-IQ7kNvwEIleaE&_nc_gid=Qi0R4pQYWnC5P8XahxG5tg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-QvqBfUlWSJQBBVVBo84zUlLNmQ-nSabGLRgSTujPbBQ&oe=6A34A8F7&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/638295570_17938429998141474_6104289715856253210_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHlAENtLRhM6lo-tsBzRU3JytzDV-McDbw8zBjFcVy4XSON-wuk0TyXoMbdcq_7mh4&_nc_ohc=VuQ8X3eAc-IQ7kNvwEh9xjz&_nc_gid=wdlzqR4yS9MQ2ladaMLSrQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_f_6dcJgx6w9h4iDik6t7KDCw980TJ8dk1qMB15CEWZw&oe=6A34E137&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/720776353_1510507823784472_7302318767675436993_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=MzkxNjQzMjY3NTc3MDExNjczMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=iu6P_9AwZLkQ7kNvwELJuYl&_nc_oc=AdrOixSjVzw3UK9Q_UbZ-fQwwJXt0now1_Jx6VzNJNP8sHghLU89uP-K8C6TTOYHwUQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=Qi0R4pQYWnC5P8XahxG5tg&_nc_ss=7a22e&oh=00_Af-mMq5fxeaJVS2OAmRh76MSlHGs2JJuAKRbIzg1sUkQYw&oe=6A34BAE7"
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.71878-15/720776353_1510507823784472_7302318767675436993_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=MzkxNjQzMjY3NTc3MDExNjczMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=iu6P_9AwZLkQ7kNvwGaELky&_nc_oc=AdpkkG9q_skItPafFKMAhZrFQL7omF6qCXBbSY-bFovulPUAZ3pL5U721aUhfMutKWY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=wdlzqR4yS9MQ2ladaMLSrQ&_nc_ss=7a22e&oh=00_Af-A9onPpY6urt5Y8ZiC9t-r5QsiGIQDD6a9jG7DmQ3q4w&oe=6A34F327"
       ],
-      "video_url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t16/f2/m84/AQNm8N4f8cx1z5vBBPrwIJyWIG9Vc5u1-CvSmU0JFjUXKoQ6oibblbSumI8p0s0HL6-IHNZfUauLvqLtQVH_XF1z4VFcocZ8Lyv9HiU.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=qF6ZpA7Dsr4Q7kNvwEsnHjv&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxNzk1NTA1Nzg4ODE0MTQ3NCwiYXNzZXRfYWdlX2RheXMiOjQsInZpX3VzZWNhc2VfaWQiOjEwMTY0LCJkdXJhdGlvbl9zIjozLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c2cd4566ad9c73ee&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC9DRjQyNzlGRUQzOTc3Q0I0MTk4N0VDNjkwNzlCMDM4MF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0VCNDQyMjVDN0NFOTk2RjJCMzAyOEZEMzI1QTE5RUFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbEgsH19YHlPxUCKAJDMywXQAv3ztkWhysYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeieAQA&_nc_gid=Qi0R4pQYWnC5P8XahxG5tg&_nc_zt=28&_nc_ss=7a22e&oh=00_Af9SRCNGGx1PSuOSN1zgJHrCyY1YzPE-aTcCcnVVwoYUPQ&oe=6A30CD98",
+      "video_url": "https://scontent-ams2-1.cdninstagram.com/o1/v/t16/f2/m84/AQNm8N4f8cx1z5vBBPrwIJyWIG9Vc5u1-CvSmU0JFjUXKoQ6oibblbSumI8p0s0HL6-IHNZfUauLvqLtQVH_XF1z4VFcocZ8Lyv9HiU.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=qF6ZpA7Dsr4Q7kNvwFYqNUH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxNzk1NTA1Nzg4ODE0MTQ3NCwiYXNzZXRfYWdlX2RheXMiOjQsInZpX3VzZWNhc2VfaWQiOjEwMTY0LCJkdXJhdGlvbl9zIjozLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c2cd4566ad9c73ee&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC9DRjQyNzlGRUQzOTc3Q0I0MTk4N0VDNjkwNzlCMDM4MF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0VCNDQyMjVDN0NFOTk2RjJCMzAyOEZEMzI1QTE5RUFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbEgsH19YHlPxUCKAJDMywXQAv3ztkWhysYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeieAQA&_nc_gid=wdlzqR4yS9MQ2ladaMLSrQ&_nc_ss=7a22e&_nc_zt=28&oh=00_Af-rwI8v_VllGFmJ84iYY2mGEAaLWfgQ2vW4UwAkxq4o1w&oe=6A30CD98",
       "video_poster": null,
       "_keyword": "게임"
-    },
-    {
-      "id": "DZkCpmZlAg4",
-      "username": "@yuyeongmi69",
-      "permalink": "https://www.threads.com/@yuyeongmi69/post/DZkCpmZlAg4",
-      "text": "yuyeongmi69 게임 7h POE2 게임에서 이거 먹었어... 좋은거얌? Translate 2 1 1",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/721135887_17875756710610737_4186272949221146159_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gENuSkXXZdjuiVnKH6rDvKUFAnsH-cbipo3J8QNH3a7fM6wGQFWuahbSwYmCuayBNM&_nc_ohc=HvDQlM-dihkQ7kNvwFuY1GX&_nc_gid=Qi0R4pQYWnC5P8XahxG5tg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af909Dz1nHpDbT9y_Q1Hh2dAZ0TWTL0PO5JsL0RytD5CEw&oe=6A34C268&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/723988406_17876105211610737_7559251323091995254_n.webp?_nc_cat=100&ig_cache_key=MzkxOTI2ODU4NTU3NTE1ODUwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjk5Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dqlCzV05py8Q7kNvwGPoHyR&_nc_oc=AdrgK8v-4gT4afQqjmM8H6IB7p7ENbGsdeiGj4nsWP2DSAqt_eqnEhu7MSsB-qPxKR0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=Qi0R4pQYWnC5P8XahxG5tg&_nc_ss=7a22e&oh=00_Af9Fq9qIcI5vGyGGNGRm_PSyg3zlnE5cmTsGoo15T6hUsQ&oe=6A34B1D8",
-        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/722956455_17876105202610737_2978508040088430403_n.webp?_nc_cat=110&ig_cache_key=MzkxOTI2ODU4NjEyODg2MDE4MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjk5Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=rTaHUqfBb8gQ7kNvwGPrL68&_nc_oc=AdqUish3QA50-6uEOwgYWm62vU4Ja-I8O0aGHnRlUmw_jiHshY6InR3hk3684AYk0Fw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=Qi0R4pQYWnC5P8XahxG5tg&_nc_ss=7a22e&oh=00_Af9MmVYw6QKkfpYr7Vs_cd9GBBWv0xnQLFbbacIL3gTbHw&oe=6A34BF41"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "게임"
-    },
-    {
-      "id": "DX1e9OBD5-O",
-      "username": "@seol0821",
-      "permalink": "https://www.threads.com/@seol0821/post/DX1e9OBD5-O",
-      "text": "seol0821 게임 05/02/26 나는 이쁘고 가슴 큰 조녜들보다 게임을 잘한다...! 뀨 😉 (울면서 말하는 거 아님.) Translate 537 212 3 4",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/696433873_17889792060494407_6714582309568114468_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gENuSkXXZdjuiVnKH6rDvKUFAnsH-cbipo3J8QNH3a7fM6wGQFWuahbSwYmCuayBNM&_nc_ohc=RVHRJb-p_N8Q7kNvwGGPSyy&_nc_gid=Qi0R4pQYWnC5P8XahxG5tg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-UW6LzRxfCjoU7WWxDCDIaVR4O4UqeReLgYayWTMoNqQ&oe=6A34AADA&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/683910378_17888248953494407_4272273922986927077_n.webp?_nc_cat=108&ig_cache_key=Mzg4ODE1MDAwMTYzNzg5MTk4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjM1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=uZJfpPsUtYUQ7kNvwHDYVqs&_nc_oc=AdppqLgEpWIfIb4NxKBha_p0ugEnqRHLoZ_d_jSK2ADC0fGZPEeBg723q9166Omqub0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=Qi0R4pQYWnC5P8XahxG5tg&_nc_ss=7a22e&oh=00_Af8wezOSFyWIpialgfHfdmLBH2EV36DCC0kiLV7gCSMcDw&oe=6A34C242"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "게임"
-    },
-    {
-      "id": "Cu1sDVlSiIv",
-      "username": "@tendot_academy",
-      "permalink": "https://www.threads.com/@tendot_academy/post/Cu1sDVlSiIv",
-      "text": "tendot_academy 07/18/23 ✨️[밸런스게임]✨️ Translate 22 43",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/358049231_1011179940251350_5760947848928754113_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gENuSkXXZdjuiVnKH6rDvKUFAnsH-cbipo3J8QNH3a7fM6wGQFWuahbSwYmCuayBNM&_nc_ohc=JO6ZpS_u4fQQ7kNvwHLYGWL&_nc_gid=Qi0R4pQYWnC5P8XahxG5tg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-LfcBcr16TNG47Ot_FF6zE3nXTmoGCpnZ3392n5txi4w&oe=6A34BD76&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/626783052_18073604372579598_3471169344459162996_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzE0OTYxNzI1Nzc5NDY0MjQ3OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xv8uEsHcdxYQ7kNvwEAc___&_nc_oc=AdrQzckzOdH85UVHwIe2Hd8SfQqKd9J-9LQGno2-I8IIc6zJ6jWe7ecRwCo6ewsU2hc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=Qi0R4pQYWnC5P8XahxG5tg&_nc_ss=7a22e&oh=00_Af9nQEw2utORKM9w4ZgcmIZddP2pBspUf2HTbcimEpqPug&oe=6A34A24D"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "게임"
-    },
-    {
-      "id": "DZj0a72E7tR",
-      "username": "@candlestick__7",
-      "permalink": "https://www.threads.com/@candlestick__7/post/DZj0a72E7tR",
-      "text": "candlestick__7 9h 월 300 더벌고싶으면 꾹 참고 하루 1시간만 해보세요 1.보따링봇을킨다 2.성실하면 게임 끝 3.1년만에 9억벌었다 나도 4.코인이 없어지지 않으면 무한함 5.무조건 안된다는말 5년째듣습니다.. 6.그런사람은.아직 제자립니다 7.집에서 성실함만 있으면 보따링입니다 8.차트안보고 할 수있다 9.공부하다 지친다 그냥해라 10.일단 그냥 제발 실행해라 뭐라도 Translate 35 12 3 3",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/721735512_18114933289680842_4729834997716656425_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gENuSkXXZdjuiVnKH6rDvKUFAnsH-cbipo3J8QNH3a7fM6wGQFWuahbSwYmCuayBNM&_nc_ohc=J7s0vR5AsJcQ7kNvwHVAcwr&_nc_gid=Qi0R4pQYWnC5P8XahxG5tg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8VEc2DQTDf9qP2tdc69s0FBhxXhkcYOlo1puQrrtTqww&oe=6A34AC0B&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "게임"
-    },
-    {
-      "id": "DWpbwq0k8jA",
-      "username": "@she_is_like_the_wind",
-      "permalink": "https://www.threads.com/@she_is_like_the_wind/post/DWpbwq0k8jA",
-      "text": "she_is_like_the_wind 04/02/26 봉준호 감독 신작 \"Ally\" 첫 스틸 남태평양의 거의 탐사되지 않은 깊은 곳에 서식하며 수면에 도달하려는 아기 돼지 오징어 스토리 봉준호 감독의 첫 장편 애니메이션 제작비 - 700 억 Translate 541 49 10 29",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/491519744_941128864604284_141182264993490020_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGKYWZ4bkw9tcMesjf1jcaNIYdoDxFGIc1qNpejg0KGSHQ7uZnR4VOv0Jk4Nwy6yqU&_nc_ohc=4c3mby3UqcAQ7kNvwHAxjUA&_nc_gid=DTeXxUFveMt7puvnWyl6mg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_TzctM8mA0hC4maQOM7zVHyvpjrTSD7hTf6YINNgk29g&oe=6A34A570&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/657760742_17958547176102577_5988258727244774190_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzg2Njc0MzgzODU4MTQxNDQ5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNTQxLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=NTTu_R5yhtkQ7kNvwGaO0og&_nc_oc=AdpaJn-7-6DYUJYix1s9XqNlUpIIYfZh2MG09hU3k-nunjRJf_kFpJ9fG4vLmvQfbnc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=DTeXxUFveMt7puvnWyl6mg&_nc_ss=7a22e&oh=00_Af8jAGBNgGoKtOWOuq50kw52p_6hh5axa4IWbHLiuG22Hg&oe=6A34B6E5",
-        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/658114573_17958547209102577_3814965360929639007_n.webp?_nc_cat=101&ig_cache_key=Mzg2Njc0MzgzOTQyMDI5NDg2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=adPtXIsKk-wQ7kNvwEFX2Jd&_nc_oc=Adq9b4Xk4Xc6xVLdt0PQQizraDWFpcae6vOcMjd-DneknVirAr03oe2HBxG4zRsEfuM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=DTeXxUFveMt7puvnWyl6mg&_nc_ss=7a22e&oh=00_Af_S1HRDKCXOq7u_72sWRjpvVx2-5uC44tQjvpofCv0s0Q&oe=6A34C726"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "신작"
     },
     {
       "id": "DHGw8AoPC5Z",
@@ -155,70 +64,26 @@
       "text": "docent_kim 03/12/25 그런데 신천지가 뭐야? Translate 64 58 3 1",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/504641625_17910603747113644_2625777350324169237_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGKYWZ4bkw9tcMesjf1jcaNIYdoDxFGIc1qNpejg0KGSHQ7uZnR4VOv0Jk4Nwy6yqU&_nc_ohc=cv_U9Ac9FaEQ7kNvwHq3aP2&_nc_gid=DTeXxUFveMt7puvnWyl6mg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_7tw8srDwWYwurBe7KwI96SZlPJUy1gYK2am_r98bhtQ&oe=6A34AB73&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/504641625_17910603747113644_2625777350324169237_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHjN2ls_h3Dvwq3cWux6cCWsGL30qyT0OsqTYa0_1awzYDmPl4YM0-mB0UpoYivIjc&_nc_ohc=cv_U9Ac9FaEQ7kNvwFg0Ie7&_nc_gid=EnuQPnAJaauwNNQy-ltinQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-7qSiKWTO9_Jr1x_wsiGKYiuOMF0Y-rkqqBOzgYpaHCw&oe=6A34E3B3&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-iad3-2.cdninstagram.com/v/t51.75761-15/483560953_17899527336113644_3374827056097723156_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzU4Njc2OTM4MzMyMzM0ODU2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=w5LxiNpDaEUQ7kNvwFv0jK5&_nc_oc=AdrIKigGmEMFR255kMySmSXevjDMBZiLNWnIFnaYWOvsj2reUt-JkiMk9VuM-_uKzL8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=DTeXxUFveMt7puvnWyl6mg&_nc_ss=7a22e&oh=00_Af-vX4tlAKx-OEG8A5HCdZ_jilshYwTqejymCh8n3JOq0w&oe=6A34CCD2"
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.75761-15/483560953_17899527336113644_3374827056097723156_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzU4Njc2OTM4MzMyMzM0ODU2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=w5LxiNpDaEUQ7kNvwGFBJCV&_nc_oc=AdokCIDEwR0gwMpjSfC7UQ5nbmk_04QVLNsMretQtQp8tv8Vb1QTnyyINQEuPrb0FDc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=EnuQPnAJaauwNNQy-ltinQ&_nc_ss=7a22e&oh=00_Af_LzpkO100PPV7vwKfj8bMzlAMbE4N3VOZS2VT0nXXcPg&oe=6A34CCD2"
       ],
       "video_url": null,
       "video_poster": null,
       "_keyword": "신작"
     },
     {
-      "id": "DZkQ41pEq4l",
-      "username": "@pretty_woman_0714",
-      "permalink": "https://www.threads.com/@pretty_woman_0714/post/DZkQ41pEq4l",
-      "text": "pretty_woman_0714 5h 김해솔작가님 신작 <슬라임 도살자 본풀이> 선물 잘 받았습니다. 잘 읽겠습니다. 감사합니다. #배우조은정 #슬라임도살자본풀이 #김해솔작가님 @kimhaepary Translate 3",
+      "id": "DJ04JrXhuPz",
+      "username": "@haneunmee63",
+      "permalink": "https://www.threads.com/@haneunmee63/post/DJ04JrXhuPz",
+      "text": "haneunmee63 05/19/25 병신났노 Translate 1.8K 312 23 27",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/472456309_3930903013893927_8347902777950896375_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDA0LmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGKYWZ4bkw9tcMesjf1jcaNIYdoDxFGIc1qNpejg0KGSHQ7uZnR4VOv0Jk4Nwy6yqU&_nc_ohc=-4M9x_80m9IQ7kNvwEGoM8M&_nc_gid=DTeXxUFveMt7puvnWyl6mg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8c-F0r7fNWwIpsK3R9pKbmQoOgPjxz_l_mcssUVLIr2Q&oe=6A34B51C&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/613571589_17896392840378278_6351906394921801796_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjguYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHjN2ls_h3Dvwq3cWux6cCWsGL30qyT0OsqTYa0_1awzYDmPl4YM0-mB0UpoYivIjc&_nc_ohc=2QdbYNP2b30Q7kNvwFXLQVz&_nc_gid=EnuQPnAJaauwNNQy-ltinQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-4ycK0xd4EGqTaj0K53MjxLPelaurGQxD0SEuD16R8FQ&oe=6A34E262&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/724261718_18131515090608571_7250649543847143047_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=104&ig_cache_key=MzkxOTMzMTgyODAwNDE5NzM1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAwMC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6Mc3pllc_0EQ7kNvwHwGsu_&_nc_oc=Ado-pxQOxA4gl5lauAf43Nhg5C088Fc5k0Nr0w0Yy7L2bUKLKCgkdT7WrX4FpYXRgGs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=DTeXxUFveMt7puvnWyl6mg&_nc_ss=7a22e&oh=00_Af8TpnLwgPN6Sk0EqfkjrFitvj5BDKYpMRkThwvushSVkw&oe=6A34C2C9",
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/723999700_17943501399217486_488621277499953870_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzkxOTMzMTgyODgxNzg3Mzk0Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ubp7kc4qKhwQ7kNvwEo1w6E&_nc_oc=AdoYnUu-rEyGSYgJFydBIeg8KuY6PFrGV5s0E9uZwlTx_V5U368lV2LSGUmonfp-X08&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=DTeXxUFveMt7puvnWyl6mg&_nc_ss=7a22e&oh=00_Af-qqqVFdZtNpQYfwII8NjWsUPkn53185laRFufwzyCI3g&oe=6A34B095",
-        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/724282091_18131515102608571_5942117386043669960_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=101&ig_cache_key=MzkxOTMzMTgyNzQ1ODkzOTk4MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=5YqRz8qvE38Q7kNvwHRq3YK&_nc_oc=AdrZVzQRvlZJHi9vQiEx2NVUsW_ive2r1p_w_aPq_L75nbkNOPFkLIh1scBv5WUWJjQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=DTeXxUFveMt7puvnWyl6mg&_nc_ss=7a22e&oh=00_Af_gxrkPQNbvK5uNhjbEK77uUtVa897ic3WvACDQrhtaQg&oe=6A34B74B"
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.75761-15/498948007_17868084885378278_5196791017308862708_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=MzYzNTc3Nzc1NDg0MDM1OTkyMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuODI4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=9r32gpn68mYQ7kNvwHmqRIQ&_nc_oc=AdoByOTKro-31zHO6A3fm0xcOd0N0Fk0Uqu8nE1-oQCYsRqlqfh2KWSdN2u0TyzqAOI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=EnuQPnAJaauwNNQy-ltinQ&_nc_ss=7a22e&oh=00_Af81b1l-YFYeklVKs7tzk2V6gSVkeGWokC9IOkeDH7xgig&oe=6A34C463"
       ],
       "video_url": null,
-      "video_poster": null,
-      "_keyword": "신작"
-    },
-    {
-      "id": "DZkBLnpkykW",
-      "username": "@what123165",
-      "permalink": "https://www.threads.com/@what123165/post/DZkBLnpkykW",
-      "text": "what123165 7h 한강작가님~~ 지금 전국민 민주화운동이 일어나고 있는데 한말씀 해주시죠~~ 올공 소설쓰시나여? ? Translate 2.1K 49 42 2",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": null,
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "신작"
-    },
-    {
-      "id": "DZkC0g3ms-Q",
-      "username": "@megaton.man",
-      "permalink": "https://www.threads.com/@megaton.man/post/DZkC0g3ms-Q",
-      "text": "megaton.man 7h 남한강 신작 \"긁우가 온다\" Translate 214 2 1",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/708178509_18106406872864703_3116342965680089871_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGKYWZ4bkw9tcMesjf1jcaNIYdoDxFGIc1qNpejg0KGSHQ7uZnR4VOv0Jk4Nwy6yqU&_nc_ohc=YoAELKZdX1MQ7kNvwE10CF-&_nc_gid=DTeXxUFveMt7puvnWyl6mg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-ffqBwJLELVjxc-12hlkTTv6Y1SFigu4Xjs2r7Nb9xzQ&oe=6A34C570&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "신작"
-    },
-    {
-      "id": "DUC0TohEREB",
-      "username": "@inspiravela728",
-      "permalink": "https://www.threads.com/@inspiravela728/post/DUC0TohEREB",
-      "text": "inspiravela728 01/28/26 타짜 신작 주연 여배우 미요시 아야카 Translate 353 19 5 62",
-      "has_image": true,
-      "has_video": true,
-      "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/575325569_17931884232110645_3064165681000812430_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGKYWZ4bkw9tcMesjf1jcaNIYdoDxFGIc1qNpejg0KGSHQ7uZnR4VOv0Jk4Nwy6yqU&_nc_ohc=NCfotJIHs7IQ7kNvwHHUVUs&_nc_gid=DTeXxUFveMt7puvnWyl6mg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8kXmjrnghtN4bWAutmZA54Sb8lLyKfB1XLp62OAo87IA&oe=6A34AE12&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/624061410_17942706387110645_176787301638334003_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzgxOTg0NTQ3NzMyODg0MDQyNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTAwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=LjsoUduwhTAQ7kNvwEF85jw&_nc_oc=Adr1ZHD9yWS6d7fJY-heXY6TCpytbJOKpsGcqCEa5oOb96VjiNJ80JNxbjOdu5WD8Fk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=DTeXxUFveMt7puvnWyl6mg&_nc_ss=7a22e&oh=00_Af9gBXCZ_hFKF-jpXIXlbtm1MBU-5-31_TK-9bvix5doZA&oe=6A34D3E3",
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/623356581_1430694428693113_3104813924509565446_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=MzgxOTg0NTQ3NzA5Mzk1MzQ5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=mrdx-s3W4nQQ7kNvwFYORT7&_nc_oc=AdrWTfhvay-EcZcpL4KwCoGFFVj6i4IysZKLKYDTBgNOAYxQUyhoqG_Q2FzqdRHo_j8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=DTeXxUFveMt7puvnWyl6mg&_nc_ss=7a22e&oh=00_Af-S0GjkLafOvETFkECB9rhzTbGuQ9P97sHDnyD_DYsfiw&oe=6A34BF4A"
-      ],
-      "video_url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t16/f2/m84/AQPXPczblxwiFUuqVxyGHgMnOFFUQspMVnPrtg6FSlWPGmmWtEOpG4RWUKJZV4NCAXlBjeatrCq2JxlEykb_l37fK9Y-ToRSj60gXZs.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=ihBITsaAE_wQ7kNvwEKOKZd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0FST1VTRUxfSVRFTS5DMy40NjguZGFzaF9iYXNlbGluZV8zX3YxIiwieHB2X2Fzc2V0X2lkIjoxNzk0MjcwNjQyOTExMDY0NSwiYXNzZXRfYWdlX2RheXMiOjEzNywidmlfdXNlY2FzZV9pZCI6MTAxNjQsImR1cmF0aW9uX3MiOjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=1a11186c0650a22d&_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC83MjQwMTkzRURBNzA3ODk1OThFREY3OTA5NTQ1QkFCOF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm6qWhsPyy3z8VAigCQzMsF0AIAAAAAAAAGBJkYXNoX2Jhc2VsaW5lXzNfdjERAHXuB2XongEA&_nc_gid=DTeXxUFveMt7puvnWyl6mg&_nc_zt=28&_nc_ss=7a22e&oh=00_Af8G0FBIIryxhXCZtZCGv9xSi5AaSSHnvWf78O-FdJkLuA&oe=6A30C271",
       "video_poster": null,
       "_keyword": "신작"
     },
@@ -229,12 +94,12 @@
       "text": "jungminwon 독서 1d 나의검정은그랗게차갑지않은데 신작 소설✨ Translate 2",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/723100357_18108419155781297_188593610668276526_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGKYWZ4bkw9tcMesjf1jcaNIYdoDxFGIc1qNpejg0KGSHQ7uZnR4VOv0Jk4Nwy6yqU&_nc_ohc=MQSzCRUpDgUQ7kNvwHVhvoB&_nc_gid=DTeXxUFveMt7puvnWyl6mg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9-QQM00AOpfQ5LiU9vV7fQxJpwk6htRxk_tG4UD2Zahw&oe=6A34BE6F&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/723100357_18108419155781297_188593610668276526_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHjN2ls_h3Dvwq3cWux6cCWsGL30qyT0OsqTYa0_1awzYDmPl4YM0-mB0UpoYivIjc&_nc_ohc=MQSzCRUpDgUQ7kNvwFd6b6S&_nc_gid=EnuQPnAJaauwNNQy-ltinQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_8-jtYbXlUa3gBCsO-bD0LAk19K66G9z_4nrLDejpHhA&oe=6A34F6AF&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/723626492_18108419467781297_4514885382511741417_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=MzkxODc0Njg0MTMyODMyMjQ5Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=JrpTmK3TjO4Q7kNvwE7DQL6&_nc_oc=AdoSC5uw3adYU0utkkRYA7HgasoIOMch--ydlTMZaC9-Lqdle4rzQ-8Dw4kN0hG-Wlg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=DTeXxUFveMt7puvnWyl6mg&_nc_ss=7a22e&oh=00_Af_aEKPqrisXybNo8HaSV3sOJ4JKlVmCevKFP1RBAirK9A&oe=6A34BC2D",
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/723991141_18108419476781297_3163906361241420896_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=MzkxODc0Njg0NDMzMTQ4NzI0NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=2A3KOeuYAMwQ7kNvwGAn8fO&_nc_oc=Adp5pSpsCpCffSnu4le5FAiAg4mP3NnD-rM5l2BBMABbDRc1H4Kun6DjTLoQNWn1kwM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=DTeXxUFveMt7puvnWyl6mg&_nc_ss=7a22e&oh=00_Af909S53N-jJAO14poFxa6S2tGSvhI6FerkWb5PmZmlYxQ&oe=6A34C3BB",
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/724103520_18108419485781297_6935374494371952802_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=106&ig_cache_key=MzkxODc0Njg0NzE5MjAxNjE2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=qaNBlBsB3IgQ7kNvwEEA2ak&_nc_oc=Adri9RSq45Fxlh0AdIp0phW6-hn7xtZThdV5QGUDMa-QNOM-0AMzS9lhW28McE6nniI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=DTeXxUFveMt7puvnWyl6mg&_nc_ss=7a22e&oh=00_Af_UTp5NQ9kkaf9nFjBKAU0P4VVtjymSfwwVGfdCJALk4Q&oe=6A34B1F7",
-        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/723085202_18108419503781297_8499580173312714697_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=110&ig_cache_key=MzkxODc0Njg1MDEzNjM5NzAwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Gm5jFkGNoXEQ7kNvwGoUwdR&_nc_oc=Adq5iWp3LjU1L6kmf99LS5eZnT0Ts6_MhN8LUic-jJalvE8cwS0p0kb7JUnZNv4smU0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=DTeXxUFveMt7puvnWyl6mg&_nc_ss=7a22e&oh=00_Af-ldjnIlFIhyfsyf43prOohsr4oGM74c6a2Xh-4e5Pcdw&oe=6A34AB5A"
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/723626492_18108419467781297_4514885382511741417_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=MzkxODc0Njg0MTMyODMyMjQ5Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=JrpTmK3TjO4Q7kNvwFpy7hJ&_nc_oc=AdoHPTPtBqdG9v2gnDkGdffyuADppWlps_f-cvJX4IAt9gaJXPYZf_on91Xy5Fc5vcc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=EnuQPnAJaauwNNQy-ltinQ&_nc_ss=7a22e&oh=00_Af_41Jhh2veySpqahQRgPStNP-zXhyCVOgRg8HEHICvjbA&oe=6A34F46D",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/723991141_18108419476781297_3163906361241420896_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=MzkxODc0Njg0NDMzMTQ4NzI0NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=2A3KOeuYAMwQ7kNvwEXPJBX&_nc_oc=Adq_qtWN1J46Q-X-zIMKzyV0vD4OuOyNoLUkTGiBw2qQjn8EdgPgPxszoP17nAtmfDs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=EnuQPnAJaauwNNQy-ltinQ&_nc_ss=7a22e&oh=00_Af-LmvlGJt6TCIZ3yzyaV1OV7r_dz2Sdagg9Ts2e3bbUgg&oe=6A34C3BB",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/724103520_18108419485781297_6935374494371952802_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=106&ig_cache_key=MzkxODc0Njg0NzE5MjAxNjE2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=qaNBlBsB3IgQ7kNvwG_H391&_nc_oc=AdqbokhKNWbuEcuUwtZtvglt6DU_0ued0dOKyUqIBC3EMv7HgDhoX3MlNYF5tqSzAmU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=EnuQPnAJaauwNNQy-ltinQ&_nc_ss=7a22e&oh=00_Af9ANXnJ99nk9lX2vMiZ-1iwgVfrMTlO7bgHbiTvn_W0wg&oe=6A34EA37",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/723085202_18108419503781297_8499580173312714697_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=110&ig_cache_key=MzkxODc0Njg1MDEzNjM5NzAwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Gm5jFkGNoXEQ7kNvwHaej_h&_nc_oc=AdoPe6jK8DG_V3CEF7LnFRCNVVPXBXqhmfXFynPdAwOTM4r3zMNBgVXAEyVU1yW3gyI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=EnuQPnAJaauwNNQy-ltinQ&_nc_ss=7a22e&oh=00_Af-mM3E3SZ4aN91XDMGz_leCAmW3DMZ7YJ4slBQ7aZpdrw&oe=6A34E39A"
       ],
       "video_url": null,
       "video_poster": null,
@@ -247,55 +112,177 @@
       "text": "j__l_ee 05/23/25 지금 이러고있는 스치니? .👋🏼 Translate 250 39 7",
       "has_image": true,
       "has_video": true,
-      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/723137109_17966163273120541_3454752681447143786_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGKYWZ4bkw9tcMesjf1jcaNIYdoDxFGIc1qNpejg0KGSHQ7uZnR4VOv0Jk4Nwy6yqU&_nc_ohc=czKNbZDv5iAQ7kNvwFCWsrO&_nc_gid=DTeXxUFveMt7puvnWyl6mg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af82ELkJcnQ8ENsk63uFdGWETEn0gdidJ7pG4nDtvWFbFQ&oe=6A34CB62&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/723137109_17966163273120541_3454752681447143786_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHjN2ls_h3Dvwq3cWux6cCWsGL30qyT0OsqTYa0_1awzYDmPl4YM0-mB0UpoYivIjc&_nc_ohc=czKNbZDv5iAQ7kNvwEf_wJj&_nc_gid=EnuQPnAJaauwNNQy-ltinQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-UuYwgmA-DCiE88dEnqljOrkBlHFvGF9NBlEiK52uBbQ&oe=6A34CB62&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/500093654_1366820564529437_6393477157696728738_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=MzYzOTE2NjI3Mjc4MjU5OTY1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=-_1SSYfARsIQ7kNvwHQlio6&_nc_oc=Adq9m2n2eFj1C0ifc1GTUbjS-HKUHb2wsFV1a4kjpQp2mQ2n4ZNZB0OlkDkxkKDPu9E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=DTeXxUFveMt7puvnWyl6mg&_nc_ss=7a22e&oh=00_Af_wHBa95X4Gil-WT_G6Oqp6_6vLluxbeEIU8aRq48t7yQ&oe=6A34C0DF"
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.71878-15/500093654_1366820564529437_6393477157696728738_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=MzYzOTE2NjI3Mjc4MjU5OTY1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=oXo0Rvac8rYQ7kNvwHxz-C_&_nc_oc=AdotRz1Hs1ks5VxN4Xn8PQZ2U8n660kSOiWLICXAHn1cI6t74tItVCfv1TnS3cuns_U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=EnuQPnAJaauwNNQy-ltinQ&_nc_ss=7a22e&oh=00_Af-ztC1jTe3pNqFrP6_6nxaYGUqA8i2BAr7IP4UwgbwDQA&oe=6A34C0DF"
       ],
-      "video_url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t16/f2/m84/AQOfL1VsHE9PI_cT8aCN9h6Uh5J4H0Vd-bDC8Tkaw0IO9schmZhKo4b9GLJi1LKng3DE_nqT4NiWAYSHYsle0mj_n72dDlohrukd4-Y.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=mfFZyDmHX7UQ7kNvwGHm24E&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4zNjAuZGFzaF9iYXNlbGluZV8zX3YxIiwieHB2X2Fzc2V0X2lkIjoxMzcwNzc3MTQwODI3NTEwLCJhc3NldF9hZ2VfZGF5cyI6Mzg2LCJ2aV91c2VjYXNlX2lkIjoxMDE2NCwiZHVyYXRpb25fcyI6MTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=50769cd59ff3f50f&_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC82QjQ3OTMwRUQwMjk2MEExODI4M0EzRUI3MUUwQjFBM192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm7NXcyN2t7wQVAigCQzMsF0AyxBiTdLxqGBJkYXNoX2Jhc2VsaW5lXzNfdjERAHXqB2XongEA&_nc_gid=DTeXxUFveMt7puvnWyl6mg&_nc_ss=7a22e&_nc_zt=28&oh=00_Af8g8AxwDOBuTnPv7DH6v1_BCK_Qf5OyP0R2NF9oM3CvMQ&oe=6A30CB55",
+      "video_url": "https://scontent-ams2-1.cdninstagram.com/o1/v/t16/f2/m84/AQOfL1VsHE9PI_cT8aCN9h6Uh5J4H0Vd-bDC8Tkaw0IO9schmZhKo4b9GLJi1LKng3DE_nqT4NiWAYSHYsle0mj_n72dDlohrukd4-Y.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=mfFZyDmHX7UQ7kNvwGJbA6B&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4zNjAuZGFzaF9iYXNlbGluZV8zX3YxIiwieHB2X2Fzc2V0X2lkIjoxMzcwNzc3MTQwODI3NTEwLCJhc3NldF9hZ2VfZGF5cyI6Mzg2LCJ2aV91c2VjYXNlX2lkIjoxMDE2NCwiZHVyYXRpb25fcyI6MTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=50769cd59ff3f50f&_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC82QjQ3OTMwRUQwMjk2MEExODI4M0EzRUI3MUUwQjFBM192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm7NXcyN2t7wQVAigCQzMsF0AyxBiTdLxqGBJkYXNoX2Jhc2VsaW5lXzNfdjERAHXqB2XongEA&_nc_gid=EnuQPnAJaauwNNQy-ltinQ&_nc_ss=7a22e&_nc_zt=28&oh=00_Af8sS6F3XINjDQngI7Ed72ItSONLYFmrSKOzovXhSAZU5A&oe=6A30CB55",
       "video_poster": null,
       "_keyword": "신작"
     },
     {
-      "id": "DZkdFj-EkTn",
-      "username": "@sooooooooohee7",
-      "permalink": "https://www.threads.com/@sooooooooohee7/post/DZkdFj-EkTn",
-      "text": "sooooooooohee7 3h 네이버 리뷰 작성 후 유행하는 행운 거북이 3마리 분양해 가-!!! 폰꾸 또는 키링 만들면 왕 귀엽다구>< 🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🧡 Translate 1 1",
+      "id": "DZbHxWgHzYx",
+      "username": "@gadelo_coffee_roasters",
+      "permalink": "https://www.threads.com/@gadelo_coffee_roasters/post/DZbHxWgHzYx",
+      "text": "gadelo_coffee_roasters 콜오브듀티 3d 이번 신작 콜옵은 꼭 해야겠지? 다 때려잡아야지 콜옵제작팀에게 고한다 제발 한국전쟁배경좀 만들어줘라 콜옵 2부터 기다렸다 콜드워도 만들었잖아요 뱅가드도 만들었잖아요 제발 한국전쟁배경 만들어주세요 다 때려잡게 인게임에 장진호 전투 넣고 \"우리는 포위당했다 이제 우리는 모든 방향으로 공격할수 있다\" 이거 시네마틱하게 넣어주면 진짜 레전드 찍는거에요 제발 한국전쟁 배경 만들어주세요 다 때려잡게 Translate 12 8 2",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/721842146_17966669880118189_3700430949506410820_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc4LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHQY9S3c8KPMEFyR8Ix2P9fT6uu2XoEepGN_KB-5BlwBKnkHwtQrE_ul2KOdfEZ_1Q&_nc_ohc=LqcY5KUftiIQ7kNvwGt6Kzr&_nc_gid=oDq4bj8U8MXDuOPAWnN0yA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8020okwPuQVMRCyvWVLsJGH3FaVj4hzM3xBCbXRzYvFQ&oe=6A34A9D7&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/453578956_3791101747844599_6092866029974328156_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHjN2ls_h3Dvwq3cWux6cCWsGL30qyT0OsqTYa0_1awzYDmPl4YM0-mB0UpoYivIjc&_nc_ohc=1ilWqcMdmAkQ7kNvwGGoWNc&_nc_gid=EnuQPnAJaauwNNQy-ltinQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9r7qTPPpF4mroQEgWXrHo42zQRcBbeCQx0WuqawCKQkw&oe=6A34D7DA&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/724252042_17967361098118189_3986902072675599336_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MzkxOTM4NTQ0NjkyOTU1ODA0MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=5rzKvJFRD28Q7kNvwFpWZRj&_nc_oc=Adqj2gJgqI1ChKfRpFhyPHCyRiqzPhJZtzn9_PdkYTNdGbQQhX4StqZUsRgzTjOQhMs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=oDq4bj8U8MXDuOPAWnN0yA&_nc_ss=7a22e&oh=00_Af-NgfxAeBRsdP5OftmgmmwOT4pwnO9tUViJF-86vvMJ4w&oe=6A34D1BD",
-        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/724407884_17967361107118189_8690651637854206728_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzkxOTM4NTQ1NTcyOTE4OTMyNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hVba-DlET8kQ7kNvwHX_gtW&_nc_oc=AdpY3SWFybt3MPSM5uEDNNdKRMB_Hy1TXngL33mld4DlQjMIT6qRMr725MtYYlredIk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=oDq4bj8U8MXDuOPAWnN0yA&_nc_ss=7a22e&oh=00_Af9xzyW62SxQZTfSH3u0P8eNKKLfuEJIIn3dWsA0QAYpOQ&oe=6A34A199"
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/720950286_17935984158267200_2740387426296795858_n.webp?_nc_cat=106&ig_cache_key=MzkxNjc1ODQ3ODY2OTk1MjU2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzg0MC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=TqVOv3zvQ9sQ7kNvwGqtgb6&_nc_oc=AdoVPQRwRt7gShNgCbnocij1Rt0a369KYFijne2fBPq_H35ZfWKqtFe0pwQrmeDGZ4U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=EnuQPnAJaauwNNQy-ltinQ&_nc_ss=7a22e&oh=00_Af8zAwjgSsUziU5c5kC1m91MNINSYATPbFNnU8wcPCtYyg&oe=6A34CFD2"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "신작"
+    },
+    {
+      "id": "DZkBLnpkykW",
+      "username": "@what123165",
+      "permalink": "https://www.threads.com/@what123165/post/DZkBLnpkykW",
+      "text": "what123165 9h 한강작가님~~ 지금 전국민 민주화운동이 일어나고 있는데 한말씀 해주시죠~~ 올공 소설쓰시나여? ? Translate 2.3K 50 52 4",
+      "has_image": false,
+      "has_video": false,
+      "thumbnail_url": null,
+      "media_images": [],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "신작"
+    },
+    {
+      "id": "DZkC0g3ms-Q",
+      "username": "@megaton.man",
+      "permalink": "https://www.threads.com/@megaton.man/post/DZkC0g3ms-Q",
+      "text": "megaton.man 9h 남한강 신작 \"긁우가 온다\" Translate 232 2 1",
+      "has_image": false,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/708178509_18106406872864703_3116342965680089871_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHjN2ls_h3Dvwq3cWux6cCWsGL30qyT0OsqTYa0_1awzYDmPl4YM0-mB0UpoYivIjc&_nc_ohc=YoAELKZdX1MQ7kNvwE1YOIN&_nc_gid=EnuQPnAJaauwNNQy-ltinQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8kSyJKXYeq0jOhU8Xp2fi-pDxr7A5W1g1L5qlZGrp3-A&oe=6A34C570&_nc_sid=10d13b",
+      "media_images": [],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "신작"
+    },
+    {
+      "id": "DZePs0QCRq6",
+      "username": "@daniel_mhkim",
+      "permalink": "https://www.threads.com/@daniel_mhkim/post/DZePs0QCRq6",
+      "text": "daniel_mhkim 2d 무라카미 하루키의 신작 <카호 夏帆 The Tale of KAHO>가 7월 3일 발매되는데요. 디자인이 발표되었습니다. 저는 하루키의 팬이라 하루키의 모든 책을 일본어, 한국어, 영어로 그리고 영어 오디오북으로 다 가지고 있는데요. 이번에도 그렇게 모을 생각입니다. 영어 오디오북으로 진짜 몇년 간 반복해서 듣고 있어요. 책 외울 정도 ㅎㅎㅎ 원어민 영문학 교수급들이 미려한 영어 표현으로 긴 시간 동안 공들여서 번역한 거라 일본어, 한국어 판과는 아주 다른 맛이 있습니다. 저는 아예 다른 작품이라고 생각할 정도예요. (가장 기다리는 게 영어 오디오북입니다.) 하루키 좋아하시는 분??? Translate 52 17 3",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/514613472_18411503302111783_8960430881944636010_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MTIuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHjN2ls_h3Dvwq3cWux6cCWsGL30qyT0OsqTYa0_1awzYDmPl4YM0-mB0UpoYivIjc&_nc_ohc=jluwwro1r2IQ7kNvwFVU2aB&_nc_gid=EnuQPnAJaauwNNQy-ltinQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af99hocY3TRSB8rtNVXxoCBqDC5xg3Wiaq2fRjJZ9dnxyQ&oe=6A34CAF8&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/722313170_17970013050113217_2418299390366464447_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MzkxNzYzNzc3NjMxNzE2MDEyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTEwMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=JpSG_nU2Up0Q7kNvwGZrRp_&_nc_oc=AdqS4qJaYiip9WVQx-Dzu1GbUF8w-3gwUBnYVz0VCuYEkOxWigM-H8MgIcMbajmmsU8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=EnuQPnAJaauwNNQy-ltinQ&_nc_ss=7a22e&oh=00_Af-6489qIVSBwT0_5L9w972jbEqmD8iHwGoqq6awtqX0Qg&oe=6A34F5A8"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "신작"
+    },
+    {
+      "id": "DWGoi9iEytW",
+      "username": "@beyond_223_",
+      "permalink": "https://www.threads.com/@beyond_223_/post/DWGoi9iEytW",
+      "text": "beyond_223_ 03/20/26 글 하나 썼다고 이정도일줄은... 이런적 처음인데 무서울 지경이야 ㅠㅠ 상세페이지, 리뷰 전혀 없고 테스트 해본다고 오늘 막 등록했어.... 이 기회 놓치지 않고 계속 달려봐야겠다 🔥 Translate 69 33 8",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-webp&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHJpUtLb_vqdMd1JKrDCDOisljxpoCbhQolkrSYOLKrpGV3VB8KhUVXJ2iW2nU51zHbxnxyoMhbe96jDtfB0W54&_nc_ohc=VJ2Cew0vGM4Q7kNvwGDJ8p6&_nc_gid=BFhoYN-qz_fvQFlYCytF5w&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Af9VbaL72n1Nloxo4NI73aFG2gd-muUZW8fwdryau7EC-w&oe=6A34C32A&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/654533150_17889126834446378_4621177728375142250_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzg1Njk0NzQ0NDIwMzA2ODEwOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTk4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=g_HQAE8DjZ0Q7kNvwFuZ40f&_nc_oc=AdqDpCvSYY23qWzU8wLcy6AbvO65ERqSdiii25ldD5tgYyI-TMeNz_X_1KW_Jlp1WtQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Og3pLDMj5phpGJXAnoD-MA&_nc_ss=7a22e&oh=00_Af__e8u7u2OBQ9NhDyY3jTe5rwE3LZ1-TEvTCC31q1aXoA&oe=6A34E9E5",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/655512234_17889126843446378_2192862008352669673_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzg1Njk0NzQ0Nzk5NDczODkzNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuODUwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=33oI-0Ki8bkQ7kNvwH7k2DU&_nc_oc=AdqxsoC2Ryw6hgJE9sqdGWgB1nFuOyod94EuGha3yDkui8ckrvlI0Npwfh5cu5n7WMo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Og3pLDMj5phpGJXAnoD-MA&_nc_ss=7a22e&oh=00_Af_nSU-Ls3NPDxn2MR2m1V9odorcNfDolFTJFF2QUMXPMA&oe=6A34D6FE",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/655450517_17889126852446378_8088338480912660860_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzg1Njk0NzQ0OTA2MDExODYxOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuODUwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=Jbwj_hBsIyIQ7kNvwG9bUy2&_nc_oc=AdoOcNYROPFtn4VSiaR3AF0qHfH6MXy2H0RBZfJHrLrzlGSdFDcMFIRCscEYp6QvKAI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Og3pLDMj5phpGJXAnoD-MA&_nc_ss=7a22e&oh=00_Af8p9-1CID-SMbcMRLpJ7ei5e6ay40-gIkcCZSjbOMLXkA&oe=6A34C812"
       ],
       "video_url": null,
       "video_poster": null,
       "_keyword": "리뷰"
     },
     {
-      "id": "DZjGuQjjl3P",
-      "username": "@hyygia_story",
-      "permalink": "https://www.threads.com/@hyygia_story/post/DZjGuQjjl3P",
-      "text": "hyygia_story 15h 언어의 장벽을 부숴버린 우즈베키스탄 언니의 샤워 후기 인스타 릴스 넘기다가 하이지아 리뷰 영상을 봤어. 러시아어 1도 몰라서 그냥 멍하니 보고 있었는데.. 바디랭귀지만 봐도 \"머릿결과 피부에 좋아\" 라는게 느껴지더라. 역시 좋은 건 만국 공통인가 봐! 바디랭귀지로 다 이해했어.. 이 정도면 진짜 좋은거 맞지? Translate 28 21 7 1",
+      "id": "DUr0lRokdYY",
+      "username": "@yyshin0626",
+      "permalink": "https://www.threads.com/@yyshin0626/post/DUr0lRokdYY",
+      "text": "yyshin0626 02/13/26 그 과일 아줌마 리뷰. 이건 체험단 저품질 리뷰 아닌가 성의가 1도 없는데 내가 체험단 담당자였음 글 똑바로 올리고 글자수 채우고 본문에 맞는 사진쓰라고 하며 달달 볶았음 수정할 때까지 지랄함 수정완료 확인되면 두번 다시 선정 안 함 ^^ Translate 25 25 1",
       "has_image": true,
-      "has_video": true,
-      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/619000002_17910282231296688_2954791980307883185_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHQY9S3c8KPMEFyR8Ix2P9fT6uu2XoEepGN_KB-5BlwBKnkHwtQrE_ul2KOdfEZ_1Q&_nc_ohc=7sO0M9Abuv4Q7kNvwFxMPcE&_nc_gid=oDq4bj8U8MXDuOPAWnN0yA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af90oYasySvCinBkk4La2m0vj338Mp7CHcRP6eMXXIZRww&oe=6A34D666&_nc_sid=10d13b",
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/453049508_794710832876359_888115765034486868_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFB-EVzD1ntItc5TMRVJYOPxJbmsVscuf90XaQMxV8DJ3dFP_vPcjKC7zUxHrKcKOs&_nc_ohc=0069XSHMlxIQ7kNvwH6ftKt&_nc_gid=Og3pLDMj5phpGJXAnoD-MA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_ESKARwoMiaKYVmWi7ThKx7IwIGXjFENgukdbX2Js1Qw&oe=6A34DC05&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/720074162_1663539508284209_6699797158338385910_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=MzkxOTAwNTY2Nzg5Mzg2MTgzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=Egkp711SkaAQ7kNvwHY4N4q&_nc_oc=Ado3zNnz1OQcy_TGO5UWf82teumkaxoiXEr0zZbEd6xtkZXko9NwyKe1pM-AFL1nMlk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=oDq4bj8U8MXDuOPAWnN0yA&_nc_ss=7a22e&oh=00_Af9uWoZ_Pd2Aq9fOGwzjiuV0uvEp8DhlkbhAJFZ-LqsEwQ&oe=6A34C641"
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/627637115_17942323143109666_5477789678345381438_n.webp?_nc_cat=109&ig_cache_key=MzgzMTM4NzE2MzYyODUxODA2OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA2Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=1IF3rmSyVgUQ7kNvwH8m35C&_nc_oc=Adqr6BPtzXyb0pB5Lr8oZxpHBD2sP-1WKoVoNplbL7kOz73lOitVVlI5ZEfBvkLR81U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Og3pLDMj5phpGJXAnoD-MA&_nc_ss=7a22e&oh=00_Af84ZN5LectsBVxPlC-bpsSv7vw9iFJtN8GCUJDr82_D0A&oe=6A34F0B9",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/628815888_17942323140109666_4065640334416298589_n.webp?_nc_cat=104&ig_cache_key=MzgzMTM4NzE2MzU0NDYzNDgwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=XlpWX1TleO4Q7kNvwEyMeKL&_nc_oc=AdpWxl4Dp33u2a4dtkwFWhUB4FtHy7ar99nyJRXvZubNYDZ8dGnU0njWtHsSt0eJqp4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Og3pLDMj5phpGJXAnoD-MA&_nc_ss=7a22e&oh=00_Af_trD-Wdh9kkgS5FiL4RaKqwzETQNez2YTGtPg_lqthHw&oe=6A34E0EE"
       ],
-      "video_url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t16/f2/m84/AQM4ntx4QXcqWR8ONe-0w22fTCT6khXn3XaP7cWduIJDE9ytYeEZy_0fiiyPlgExyQZvILaIkcgWEq4N-7LKbRUym878xdKJb_tLUlY.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=gInnUV7-Qb4Q7kNvwFJY_Ws&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxNzkzMTcyMDQyMzI5NjY4OCwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTY0LCJkdXJhdGlvbl9zIjo3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=387e279a41967c8c&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC83MDQ5Q0M3NDEzODRFMDE3QURGNDUyMTQ2RDVDNDNBOV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzlGNEQyNjI2NDFGNEVDM0ZDMjgwN0FCQjNCRDI0MkJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbgutagwLPaPxUCKAJDMywXQB8QYk3S8aoYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeieAQA&_nc_gid=oDq4bj8U8MXDuOPAWnN0yA&_nc_ss=7a22e&_nc_zt=28&oh=00_Af-A8ngtpHXoOQ5uJxKrfc7wVy3RSswvyjhXny5C4_UfrA&oe=6A30C3B9",
+      "video_url": null,
       "video_poster": null,
       "_keyword": "리뷰"
     },
     {
-      "id": "DQwULkgEXb1",
-      "username": "@ho_94_i",
-      "permalink": "https://www.threads.com/@ho_94_i/post/DQwULkgEXb1",
-      "text": "ho_94_i 11/07/25 오픈한지 한달 조금 넘었는데 리뷰 1336개!!! 배민 땡겨요 쿠팡 다합친거지만.. ㅎ 10월 매출 1억! 빨리 2억가보자! Translate 157 18 8 2",
+      "id": "DZjYjYPkwmd",
+      "username": "@jeong_dam_luv",
+      "permalink": "https://www.threads.com/@jeong_dam_luv/post/DZjYjYPkwmd",
+      "text": "jeong_dam_luv 15h 주말은 잠시 재정비 중입니다🇰🇷 늘 좋은 리뷰 남겨주시는 모든 분들, 진심으로 감사합니다🫶 여러분 덕분에 오늘도 버팁니다. 진짜 국산 참기름이 찾으신다면 언제든 찾아주세요☺️ 그럼 저는 다시 일하러🫡 Translate 56 11 5",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/541974872_17898505467269141_8519978948313957215_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHQY9S3c8KPMEFyR8Ix2P9fT6uu2XoEepGN_KB-5BlwBKnkHwtQrE_ul2KOdfEZ_1Q&_nc_ohc=asw-3fIpLy0Q7kNvwH9-EvA&_nc_gid=oDq4bj8U8MXDuOPAWnN0yA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8oWw2rmOKoO1a1ujnaqVrk4UCoko4Inq8vP3G9oBYcnA&oe=6A34B541&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/491460185_17883858924266530_7069011085123891296_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFB-EVzD1ntItc5TMRVJYOPxJbmsVscuf90XaQMxV8DJ3dFP_vPcjKC7zUxHrKcKOs&_nc_ohc=-ZI2yf09UCUQ7kNvwGXGdnh&_nc_gid=Og3pLDMj5phpGJXAnoD-MA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8Sb85xyzE6ANSaSt9PMsc3HFTuR6oA1V_qtBrLJXAXpA&oe=6A34C0C9&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/574040867_17905116243269141_8673863060625556189_n.webp?_nc_cat=107&ig_cache_key=Mzc2MDU5NDQ0NDg5MTU1MTQ3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-XqDLBjPkygQ7kNvwGAAJW8&_nc_oc=AdpoT4HEVN-mWV5zPN-EgcvpUWZbS46K5n3uNTQ2hnEIkF5TtzV-X17xOtfNpZRks6M&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=oDq4bj8U8MXDuOPAWnN0yA&_nc_ss=7a22e&oh=00_Af9cZcTh7VCM2hJ-7jm4GnqBkI-c_DZ2B7OfY2M-9DtaZw&oe=6A34BF6F"
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.71878-15/724242353_2903573116664109_6117699775749532553_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=MzkxOTA4MjQwNzk3OTA4NjI4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=jm6LsH5RENMQ7kNvwF7d4Yb&_nc_oc=AdqucpeVMqQ5-zYgUKyXsK4_zy-Mq24y83aNSlRvibuwtM3xhhnOaqnV--0Pu9bJVTY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Og3pLDMj5phpGJXAnoD-MA&_nc_ss=7a22e&oh=00_Af8gCmuV4di7hiYxs_7fd7RECTXeQAQD_HhztBLtwQ1qWA&oe=6A34BF7F",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/723704335_17935592241266530_2799985184392754648_n.webp?_nc_cat=101&ig_cache_key=MzkxOTA4MjM4OTE5NzAxNzIzNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Ueuc5eQ7vucQ7kNvwFSccyE&_nc_oc=AdrpSrkT7jk-jkEMqvKJakKgyJUKSVsRo_Ew8Rg1VAwgyVAUhd3DKOCY4lt3fpbKO20&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Og3pLDMj5phpGJXAnoD-MA&_nc_ss=7a22e&oh=00_Af9ee7oRarx81U7oQ7q9tRHLH32fNdP9x0aanNj-6vZ_OA&oe=6A34DBAF",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/723918073_17935592223266530_6545009613306861033_n.webp?_nc_cat=102&ig_cache_key=MzkxOTA4MjM4ODk5NTY1ODE0OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=GNPuJIcCqA0Q7kNvwE9d1Pg&_nc_oc=Adr74rsBaLbEF1GD5ZVXLRc7LKPk-UGLh_UkinL8bWMb25wYNqLTjP6u_2-cddatPdU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Og3pLDMj5phpGJXAnoD-MA&_nc_ss=7a22e&oh=00_Af_tkjjT8xyvIkMrnaonWF8Nb8aX1Az7CyCtbr5Smq1hiw&oe=6A34D755",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/724019799_17935592232266530_8521795866061556577_n.webp?_nc_cat=106&ig_cache_key=MzkxOTA4MjM4ODg0NDY0MzM3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=UIcHwtIPepEQ7kNvwHGOq4K&_nc_oc=AdqPZw0reSiAQjICbAX2Z-FCO10paNbwnjM0gEDHKfI8Dn4AqbMwkb8xuacRvJtET38&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Og3pLDMj5phpGJXAnoD-MA&_nc_ss=7a22e&oh=00_Af9KBrP33N5q7C5NxPnn66SlVPZsoJeEja5yyN71DvvbPw&oe=6A34CE85"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "리뷰"
+    },
+    {
+      "id": "DZT9viVkv03",
+      "username": "@kimhwansu90",
+      "permalink": "https://www.threads.com/@kimhwansu90/post/DZT9viVkv03",
+      "text": "kimhwansu90 6d 리뷰노트 대표 김환수 입니다 통합검색 기반 노출 점수 90% 완성 했습니다 통합검색이란? - 실제 유입은 여기서 발생 - 지표 뽑기 복잡함 난이도가 너무 높다 - 조작이 불가능한 영역 방프를 1만명 써도 노출점수 0점 리뷰노트에서 방프를 쓴다? 돈만 날리는 겁니다 앞으로 방향성을 말씀드릴게요 -방프써도 소용 없는 생태계 구축 -cs시스템 전면 개편 -패널티 취소 시스템 전면 개편 시간이 걸리더라도 완성도 있게 만들겠습니다. Translate 67 32 3 5",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/542689417_17850216507550138_2757692004812367399_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43ODUuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFB-EVzD1ntItc5TMRVJYOPxJbmsVscuf90XaQMxV8DJ3dFP_vPcjKC7zUxHrKcKOs&_nc_ohc=tzZfik-pq08Q7kNvwFjdyvA&_nc_gid=Og3pLDMj5phpGJXAnoD-MA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_XPQh0LPlZXSjyzSjbQWg1u_k1fnPtcBF98OxjI9KuSg&oe=6A34CB7A&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/719782262_17889876171550138_6386853731681216176_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzkxNDc0NDA0ODYzNjg1MzU1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTc5Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=z8ytIarYgWgQ7kNvwGEcjLB&_nc_oc=Adq9bVqrsp7nkmABizw4-N_au53iQNmvZRpSXjR3mnXU6BgZ-mDa8Cbx9Uauz-p7dpM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Og3pLDMj5phpGJXAnoD-MA&_nc_ss=7a22e&oh=00_Af8mUE8b_LcnDTtxRdqU-770SpLUJw-4lcGdY9-rdTZ4BQ&oe=6A34F320"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "리뷰"
+    },
+    {
+      "id": "DWEc4A2D56t",
+      "username": "@ssei_hello",
+      "permalink": "https://www.threads.com/@ssei_hello/post/DWEc4A2D56t",
+      "text": "ssei_hello 03/19/26 배달 수수료, 리뷰, 이런걸로 이제 배달 그만할까 고민 수백번 하면서도, 배달을 그만두지 못하는 이유. Translate 32 15 3",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/640962472_18034923923589310_8130715059967670124_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MjIuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFB-EVzD1ntItc5TMRVJYOPxJbmsVscuf90XaQMxV8DJ3dFP_vPcjKC7zUxHrKcKOs&_nc_ohc=9RsaR7jqGB4Q7kNvwHs43pj&_nc_gid=Og3pLDMj5phpGJXAnoD-MA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9GbGl1GXB9S8kHq-JYKTlFlhbZJ59swj-PxCLhckETtg&oe=6A34E1F0&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/652767359_18040106036589310_8415326520822223407_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzg1NjMzNDE3NTQzNTk4ODY1Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=1Ge5SdCMrW8Q7kNvwGteeB6&_nc_oc=Adq6EQv7JT6lBvkHcEtZEyXPYwPt5a7WGWZJtb0mxnEVY1XhMHCjr-aw922YYH_w2Wk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Og3pLDMj5phpGJXAnoD-MA&_nc_ss=7a22e&oh=00_Af-AfZkK-0JzzM9YqbgivK4jJrOE0SuIull6ex-mdA7gAg&oe=6A34ECBC"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "리뷰"
+    },
+    {
+      "id": "DYBgFuPEUFo",
+      "username": "@amugaebooks",
+      "permalink": "https://www.threads.com/@amugaebooks/post/DYBgFuPEUFo",
+      "text": "amugaebooks 05/07/26 가끔씩 둘러보게 되는 남의 책 1점 리뷰. Translate 118 17 2 1",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/671746745_17908496601409626_1623326348086501499_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFB-EVzD1ntItc5TMRVJYOPxJbmsVscuf90XaQMxV8DJ3dFP_vPcjKC7zUxHrKcKOs&_nc_ohc=S-m_kWxvX5oQ7kNvwEYrbaG&_nc_gid=Og3pLDMj5phpGJXAnoD-MA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_BBlTNK8FQxFqanuoiZEq3CdxF9UUCJu4G3ZxLHkCRaw&oe=6A34CAF3&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/687214150_17907489054409626_3088621478074763795_n.webp?_nc_cat=111&ig_cache_key=Mzg5MTUzMjY4Mzc1NTQ3MTIwOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=QAWW_U90s1QQ7kNvwFhnAuL&_nc_oc=AdpB1oZzUImuBl68SGNtlCddbB7Cww7j_nS3Kmw38tckPkFeAG1ajQQ_LzMFT5oPkuI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Og3pLDMj5phpGJXAnoD-MA&_nc_ss=7a22e&oh=00_Af-AbNqalNZqGqinPpOCpKQlIEnZwZg917UZ3C5pCrxMXQ&oe=6A34D0FB"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "리뷰"
+    },
+    {
+      "id": "DZkdFj-EkTn",
+      "username": "@sooooooooohee7",
+      "permalink": "https://www.threads.com/@sooooooooohee7/post/DZkdFj-EkTn",
+      "text": "sooooooooohee7 5h 네이버 리뷰 작성 후 유행하는 행운 거북이 3마리 분양해 가-!!! 폰꾸 또는 키링 만들면 왕 귀엽다구>< 🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🧡 Translate 1 1",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/721842146_17966669880118189_3700430949506410820_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc4LmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFB-EVzD1ntItc5TMRVJYOPxJbmsVscuf90XaQMxV8DJ3dFP_vPcjKC7zUxHrKcKOs&_nc_ohc=LqcY5KUftiIQ7kNvwGygqCb&_nc_gid=Og3pLDMj5phpGJXAnoD-MA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-vAn_YKH44Ea3RehzdtVZerrtR0n2KCo8ucAs_dRyMPw&oe=6A34E217&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/724252042_17967361098118189_3986902072675599336_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MzkxOTM4NTQ0NjkyOTU1ODA0MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=5rzKvJFRD28Q7kNvwF6819D&_nc_oc=AdocZS6SFleDENskctaQjVSND-NNAI2s2s7TNM0PRAPngBPVTfQeAxOmL5CYvEdb4nU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Og3pLDMj5phpGJXAnoD-MA&_nc_ss=7a22e&oh=00_Af_3hCVgYMebk5IASy5fg69MSZ0il2fIYd5h6jVqhwQo8w&oe=6A34D1BD",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/724407884_17967361107118189_8690651637854206728_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzkxOTM4NTQ1NTcyOTE4OTMyNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hVba-DlET8kQ7kNvwF7d0Qz&_nc_oc=Ado8kxPoMhrF12UZy5VhfzPrw3epnE--ALMd4KA6-X7sCWPmqqogWVVSBuo9u469TXQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Og3pLDMj5phpGJXAnoD-MA&_nc_ss=7a22e&oh=00_Af8l5M1pKS3lrhhvBAB9y-bLKY2ZCIcUX1e7NU7HWZUaYQ&oe=6A34D9D9"
       ],
       "video_url": null,
       "video_poster": null,
@@ -308,144 +295,52 @@
       "text": "moon.ji99 04/09/26 여자 농부 어떤데…? 생각보다 괜찮은데 이거 나만 그런가 👉 시골vs도시 뭐가 좋아? #일상 #공유 #리뷰 #썰 Translate 1.5K 208 33 19",
       "has_image": true,
       "has_video": true,
-      "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/656154561_17862407157666447_2240142909004891591_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDIyLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHQY9S3c8KPMEFyR8Ix2P9fT6uu2XoEepGN_KB-5BlwBKnkHwtQrE_ul2KOdfEZ_1Q&_nc_ohc=PM53bAEuOp0Q7kNvwGj9gOX&_nc_gid=oDq4bj8U8MXDuOPAWnN0yA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9YGElC3GYeOqGS6FA7WVixyFjrtPBUazXjL7m-ijlW4Q&oe=6A34BB74&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/656154561_17862407157666447_2240142909004891591_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDIyLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFB-EVzD1ntItc5TMRVJYOPxJbmsVscuf90XaQMxV8DJ3dFP_vPcjKC7zUxHrKcKOs&_nc_ohc=PM53bAEuOp0Q7kNvwFbW-TT&_nc_gid=Og3pLDMj5phpGJXAnoD-MA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8kIYw35xSzxOMRvp-QNFxUWvmZN6g3ImaAVJtimcV11g&oe=6A34F3B4&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/669700449_1448065376788976_6321444273132204304_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=Mzg3MTQ3NTM3MzM5ODIxMjQxNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=z2HqVNII-KkQ7kNvwHg8b9j&_nc_oc=AdqM9TBhYFZB6QuIFuNcc8B5Yuu3a77J-4l8tit5jfKmyxjmZzBNeivtyMVr5K3XuJM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=oDq4bj8U8MXDuOPAWnN0yA&_nc_ss=7a22e&oh=00_Af-893UdPDzk7gA-QMtCShs3yWcZcp0Eb6K9na55FLUKZQ&oe=6A34B9E5"
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.71878-15/669700449_1448065376788976_6321444273132204304_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=Mzg3MTQ3NTM3MzM5ODIxMjQxNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=z2HqVNII-KkQ7kNvwHGnnZR&_nc_oc=Ado3uWkdW5vY-H7F3rPkdVElydd94m57DY4HASq4CQU1FUn4hjzRDoaZ05I5I6KRvXs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Og3pLDMj5phpGJXAnoD-MA&_nc_ss=7a22e&oh=00_Af94ZDfiiIabgpCTYU36vCMJrZ8stHG5lgksTjVrjTpehg&oe=6A34F225"
       ],
-      "video_url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQNvK24x5U4QR1avPDsJhyuRNnReVJy5GFADhsFtIr1gjUT6jNp903KKYWbN1ri_0DWplzCXJJGBMVR1zYEkxb5gmnirqqosWE9pB-0.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=fE-ezZK_BBkQ7kNvwFKMVpd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxNzg2NjcwMTAwNjY2NjQ0NywiYXNzZXRfYWdlX2RheXMiOjY2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6ODAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=d6f76043a18f18b8&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82RjRERUJEMEIxMThFQkEzMkZCNTU0MURDRkJCOUU5MF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0FCNEVCNEYxREY0REJFNjU3MDUxNUU4NTYwNEM2Qjg1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACae6_vs7-q8PxUCKAJDMywXQFQVT987ZFoYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeadAQA&_nc_gid=oDq4bj8U8MXDuOPAWnN0yA&_nc_ss=7a22e&_nc_zt=28&oh=00_Af8MziykrUQSD0RFbgAjdItJPKzdCbuj1zjDKbUPMAwlQQ&oe=6A30B0B0",
+      "video_url": "https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQNvK24x5U4QR1avPDsJhyuRNnReVJy5GFADhsFtIr1gjUT6jNp903KKYWbN1ri_0DWplzCXJJGBMVR1zYEkxb5gmnirqqosWE9pB-0.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=fE-ezZK_BBkQ7kNvwFPYBLp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxNzg2NjcwMTAwNjY2NjQ0NywiYXNzZXRfYWdlX2RheXMiOjY2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6ODAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=d6f76043a18f18b8&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82RjRERUJEMEIxMThFQkEzMkZCNTU0MURDRkJCOUU5MF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0FCNEVCNEYxREY0REJFNjU3MDUxNUU4NTYwNEM2Qjg1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACae6_vs7-q8PxUCKAJDMywXQFQVT987ZFoYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeadAQA&_nc_gid=Og3pLDMj5phpGJXAnoD-MA&_nc_zt=28&_nc_ss=7a22e&oh=00_Af-caBlNASErpRSL7jJmy_WSWfuqol7iJuGKW907G96fug&oe=6A30E8F0",
       "video_poster": null,
       "_keyword": "리뷰"
     },
     {
-      "id": "DYTxXF0EVpz",
-      "username": "@jy6.18",
-      "permalink": "https://www.threads.com/@jy6.18/post/DYTxXF0EVpz",
-      "text": "jy6.18 대구카페 05/14/26 손님이 남겨주신 리뷰사진이 너무 맘에들어서 가져와봤어! 오늘 평일맞지..? 우리 왜 오픈런에 만석이지.. 우리....쪼금 유명해진거야..? 🤣 Translate 111 45 9 1",
+      "id": "DLUtar1SyEU",
+      "username": "@daemia8",
+      "permalink": "https://www.threads.com/@daemia8/post/DLUtar1SyEU",
+      "text": "daemia8 스팀 06/25/25 스팀은 게임모으는 게임이라지만 가장 오래 즐긴 게임 하나씩 자랑해볼까? 난 이거 Translate 65 159 3 3",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/469561906_1231875084553388_1281151313989974090_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjMuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHQY9S3c8KPMEFyR8Ix2P9fT6uu2XoEepGN_KB-5BlwBKnkHwtQrE_ul2KOdfEZ_1Q&_nc_ohc=sRH34afXgn8Q7kNvwG1EA1A&_nc_gid=oDq4bj8U8MXDuOPAWnN0yA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-u2u709Xcymb-9FWIdN8mzE9u6WMKu5lprNpOpyR-wGw&oe=6A34D2A7&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/496616317_17851104387449017_3253826777358564549_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEHseyJ3_FZb54Hg-9mgx781fy4m0lKI2IStEEbHvz8_Y289xpCPLN81c7qwIXoj-g&_nc_ohc=Rk-kBOXkqbcQ7kNvwFkoz-1&_nc_gid=Bjg9ZkAJ3gq17XX56PoBhA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9LhzyQmtc7oJEqhmfv7tYEP-i4ij2V-5vl_5mC88K8KQ&oe=6A34D793&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/698389352_17963336907113943_2666710206258158069_n.webp?_nc_cat=109&ig_cache_key=Mzg5NjY3NDU4NzkyNTE0NzM5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTA0LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=r0nv1GMi1E0Q7kNvwGjXNhL&_nc_oc=AdqH7hxRZJHx9CiZrqA8yJtQd6PKlYFJXWoAKoRJGvcwR42V4tsYV9tGyTbMVaFUvCU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=oDq4bj8U8MXDuOPAWnN0yA&_nc_ss=7a22e&oh=00_Af8_HS329tiNjkiSd4k0GMP0OdEN7hlBUfLzwWAXksJYMg&oe=6A34D2FD",
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/700129743_17963336895113943_259304189820297769_n.webp?_nc_cat=102&ig_cache_key=Mzg5NjY3NDU4NzkxNjc0NzU0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTA0LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=t_0FxmKSLR0Q7kNvwE4pb14&_nc_oc=AdprcsQLf6BP0I-_OSIwvHqzmTFPPU9LKnhY-OhWTHgKG6q_cUsC79LAlKynzvSpUqE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=oDq4bj8U8MXDuOPAWnN0yA&_nc_ss=7a22e&oh=00_Af-7IUszOXC1mCNFYE60GwVcmgwyu3JR9I-GXIjZLb0Eyw&oe=6A34A33A",
-        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/700129635_17963336898113943_5840992067926325759_n.webp?_nc_cat=105&ig_cache_key=Mzg5NjY3NDU4Nzk2NzA3NDk0Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTA0LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=QCrKpPzMecoQ7kNvwGuIPH6&_nc_oc=AdoD5vKcVaH0dlL3OUqPoZ2qsPtIChlmuUETxVrrZllKFrmMFp5XWKJih0DIp_J8ZmE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=oDq4bj8U8MXDuOPAWnN0yA&_nc_ss=7a22e&oh=00_Af8Uw9qj5T0y_NBc9AZ4acMuhJTbLbk4SDyMng9wHinmgg&oe=6A34CD97"
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.75761-15/503505598_17857009971449017_7420398198165391194_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MzY2Mjc1MjE0MjgyMzQ2NTIzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ1MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nVXI2vl8XSwQ7kNvwFdCiC-&_nc_oc=AdpvUfIjgRPKpfBEFIfkV-fGSwbXnZxmE0SSZfAR-XUln2RLI2K7OLmWCLQCI7Nz5yQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Bjg9ZkAJ3gq17XX56PoBhA&_nc_ss=7a22e&oh=00_Af9-IQGqBE6YcuvKlrxrnV2RJZUnKV3R3axb9T6nt_lewA&oe=6A34E559"
       ],
       "video_url": null,
       "video_poster": null,
-      "_keyword": "리뷰"
+      "_keyword": "스팀"
     },
     {
-      "id": "DZkFx7amTtX",
-      "username": "@haho_sen12",
-      "permalink": "https://www.threads.com/@haho_sen12/post/DZkFx7amTtX",
-      "text": "haho_sen12 6h 손선풍기 리뷰 싹 다 털어봤는데 이게 냉각 패드 달려서 일반 선풍기랑은 차원이 다르게 시원하다 함ㅋㅋ 바람 100단계 조절에 소음까지 잡아서 카페에서 쓰기도 좋고 접고 매달고 다닐 수 있어서 넘나 편함 신세계!! Translate 2",
+      "id": "DY9c6wjk2Ve",
+      "username": "@0307___j",
+      "permalink": "https://www.threads.com/@0307___j/post/DY9c6wjk2Ve",
+      "text": "0307___j 05/30/26 게임 300개 맘에 들어 스팀 친구 할 쨔람 Translate 13 27",
       "has_image": true,
-      "has_video": true,
-      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/720695509_18112188667726519_4529128905457962824_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHQY9S3c8KPMEFyR8Ix2P9fT6uu2XoEepGN_KB-5BlwBKnkHwtQrE_ul2KOdfEZ_1Q&_nc_ohc=y0L4IzVitjQQ7kNvwGiXyTV&_nc_gid=oDq4bj8U8MXDuOPAWnN0yA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-MTlC2sLvWUeZ-JtPsWWDHQf3P6LJIp2wrXuNs4dMXLg&oe=6A34AC7A&_nc_sid=10d13b",
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/719598436_17966210730093055_8268018069043794552_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44ODUuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEHseyJ3_FZb54Hg-9mgx781fy4m0lKI2IStEEbHvz8_Y289xpCPLN81c7qwIXoj-g&_nc_ohc=x9kMJf6YfSoQ7kNvwEuTe91&_nc_gid=Bjg9ZkAJ3gq17XX56PoBhA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8GphCqDnXw7NLo_VY8r8gYRNaeRck3QUMiLd0wF9YY6Q&oe=6A34E98A&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/723999560_1274657974652568_4195869809565751231_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=MzkxOTI4MjkyNjAwODczMDk4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=QOJ_zQA1lGgQ7kNvwGwYyD6&_nc_oc=AdpV9Qx3nbxBBwXEsjcWP0UoH8GWVrZzJd2hIzqc3uVyZh1NLe1JgI6G2V_zbdrFrZY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=oDq4bj8U8MXDuOPAWnN0yA&_nc_ss=7a22e&oh=00_Af9aPw7JYXDpmHbtDCzK_1J--8auWftPyOM059CDwmGQ5g&oe=6A34A2BF",
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/724246534_18112658455726519_6457392830792410408_n.webp?_nc_cat=102&ig_cache_key=MzkxOTI4Mjg5OTg3ODI3Mjk5OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=AJOtbQgoYYwQ7kNvwHvC4gz&_nc_oc=AdpQek6Eh3xta4LMvCsueQUTbEQPZgSeJyZ4knrCHF6qL_x7T9iZtT-9hVQucCYOzQI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=oDq4bj8U8MXDuOPAWnN0yA&_nc_ss=7a22e&oh=00_Af9-He4LN_A2GvvWNXPje8eKbAhkE7QkDaxKOpg78Kzkkg&oe=6A34D4D6"
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/711269210_17964979404093055_7029384251850311599_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=MzkwODQwNzIzNDc5NTg5MDAxNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTM4OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=aIt6M48uME0Q7kNvwHQjSM-&_nc_oc=AdrzjTCX7s-LEw0LXaEb6eucBod5Dvw-nEQnAiWzVt4oD2lqd0iVqRoGGEL16YHsUKw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Bjg9ZkAJ3gq17XX56PoBhA&_nc_ss=7a22e&oh=00_Af9vGrPE2ZKTQbr9Kdu6vIicjAfXzvAO3OQcVZnpJwlSAg&oe=6A34E333"
       ],
-      "video_url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t16/f2/m84/AQP7k_xD3AuRsaTQRBuKC-FR0TVdKJFX3Hve4CDMmSPI96hxIDWRWAwoTPQofC-9zEH2oaHK843yNbZeZTWfqPpdh4nfEmiz0NUdHU8.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=vMS_qGjM1qMQ7kNvwFNLmtC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0FST1VTRUxfSVRFTS5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxODExMjY1ODQ3MDcyNjUxOSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTY0LCJkdXJhdGlvbl9zIjoxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=69b2b3922c3c1c1d&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC9GMDQ2MzVBRTUwMDg0OUI2OEFFNDgxN0E5MkIzRURCNF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzYwNDhFNjZCMTBEOTVFOEI1MkI4NUQ4MzAyOEZDRkJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbura_hvdesQBUCKAJDMywXP_tHrhR64UgYEmRhc2hfYmFzZWxpbmVfMV92MREAde4HZeieAQA&_nc_gid=oDq4bj8U8MXDuOPAWnN0yA&_nc_zt=28&_nc_ss=7a22e&oh=00_Af97R93fbpLtLRQ9Z7AewFFVjrF_T63cDxZBxWdeNhOuzw&oe=6A30B3B5",
+      "video_url": null,
       "video_poster": null,
-      "_keyword": "리뷰"
+      "_keyword": "스팀"
     },
     {
-      "id": "DMrKWlKvHoc",
-      "username": "@orina_blog",
-      "permalink": "https://www.threads.com/@orina_blog/post/DMrKWlKvHoc",
-      "text": "orina_blog 07/29/25 블로그 체험단 특징 매장에 영수증 리뷰 이벤트 있으면 \"우리도 해도 되는 건가?\" 얘기함 근데 체험 조건에 대부분 영수증 리뷰 포함인데 영수증 리뷰 이벤트 받아도 된다 VS 안된다? Translate 49 30",
+      "id": "DZj2d9uGJ7-",
+      "username": "@1005____.ruttemimi",
+      "permalink": "https://www.threads.com/@1005____.ruttemimi/post/DZj2d9uGJ7-",
+      "text": "1005____.ruttemimi 게임 11h 스팀 멀티게임 너무 하고 싶은데 겜 하는 친구가 별로 없어!!! 온라인 게임(롤, 옵치등..)은 안하고 생존게임이나 요즘 유행하는 협동게임 좋아해 겜은 한…600-700개 정도 있긴해 같이 겜 할 스친이들 구해본다!! 조건은 욕 안하는 사람 성향 갈라치기 안하는사람 승부욕 너무 강하지 않은사람! (남의 말도 수용할 줄 아는 사람) 일단은 이정도!! 스레드야 날 겜덕들에게 데려가줘🥹 Translate 7 2",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/482498144_1174752270838741_2810885283050766793_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHQY9S3c8KPMEFyR8Ix2P9fT6uu2XoEepGN_KB-5BlwBKnkHwtQrE_ul2KOdfEZ_1Q&_nc_ohc=BAf3vd5tFfMQ7kNvwHP7AAG&_nc_gid=oDq4bj8U8MXDuOPAWnN0yA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_TKPm1Hm1MNMophxC5dxlfggO7nE3rXOMJihfLswjS_A&oe=6A34ADB5&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "리뷰"
-    },
-    {
-      "id": "DZkWKfMmYEP",
-      "username": "@imdainii",
-      "permalink": "https://www.threads.com/@imdainii/post/DZkWKfMmYEP",
-      "text": "imdainii 화장품브랜드 4h 안녕! 나는 런칭 6개월 된 뷰티 브랜드 디아인 대표야◠‿◠... 첫 제품 쿠션 하나로 누적 매출 3억, 연속 완판, 리뷰 800개 이상 만들었어 광고비도 거의 안 쓰고 콘텐츠랑 제품력, 입소문으로 여기까지 왔고 지금은 태국·베트남·인도네시아까지 확장 준비 중이야!! 곧 미스트, 세럼, 파운데이션도 출시 예정! 이제 디아인이랑 같이 판 키울 공구 셀러, 라이브커머스, 수출, 온·오프라인 유통 파트너를 찾고 있어. 단순 입점 말고 같이 매출 만들고 오래 갈 수 있는 협업이면 좋겠어🥹🫶🏻 관심 있으면 편하게 DM 줘🫶🏻 디아인, 이제 진짜 제대로 키워보려고🤭🤭 24살 대표의 우당탕탕 브랜드 성장기… 디아인이 어디까지 가는지 같이 봐줘 ψ(｀∇´)ψ 🫶🏻 55 20 4",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/464235489_570098452033446_4271001235594861090_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44OTYuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHQY9S3c8KPMEFyR8Ix2P9fT6uu2XoEepGN_KB-5BlwBKnkHwtQrE_ul2KOdfEZ_1Q&_nc_ohc=esEycIu4YGMQ7kNvwEVz44l&_nc_gid=oDq4bj8U8MXDuOPAWnN0yA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-51ivmxhgZf77joAfGDvNDmBCsUH72epyG3t9j8yM-Ww&oe=6A34BB33&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "리뷰"
-    },
-    {
-      "id": "DOV3HL1ERRZ",
-      "username": "@play_branding",
-      "permalink": "https://www.threads.com/@play_branding/post/DOV3HL1ERRZ",
-      "text": "play_branding 09/08/25 스팀..게임하는 사람 있어? 초딩 아들이 꼭 하고 싶은 게임이라고 해서 구매하고 설치했는데 왜 아무리 플레이 해도 재생이 안되지? 왜 플레이 누르면 자꾸 꺼지는 거지?? ㅇㅁㅇ???? 왜??왜??? 방화벽 때문인가?? ㅇㅁㅇ?? 구매를 했는데 왜 쓰지를 못하니 ㅇㅁㅇ.. Translate 27 13 3",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/393681014_1724693198052313_4655891115356513598_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NTcuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFACtTAJY5wRxrabaLnp1eevW40Lw0o2MYS2MkVIGY8uwgzkAxPKYBS8fbOm29IQbI&_nc_ohc=qzD-O6OgpIMQ7kNvwHPhOnG&_nc_gid=29DiYZQF96XhCyyl_ByaGw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9kdpBlgX5JYQdyiXbC9faULg3HqyQAsDTH1xkerU_Kjg&oe=6A34A480&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/543821236_17929308120098711_6490448457840634681_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MzcxNzExOTQ1Mzc2MDEzMjE4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIwMS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=WKt7jKFkEX8Q7kNvwFfarfG&_nc_oc=AdqJPAThgx0ylkdg1_654r90ZyiClHTKldyDrc5LmSAXnD861Qd6m8Y2DY9cRtsXj1k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=29DiYZQF96XhCyyl_ByaGw&_nc_ss=7a22e&oh=00_Af-h3tgcywkNqAtqekiRpWNMpHyIVOfP2rX8AYTCJNeJHA&oe=6A34D25F"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "스팀"
-    },
-    {
-      "id": "DLzIDVQyX7S",
-      "username": "@soo_bb_",
-      "permalink": "https://www.threads.com/@soo_bb_/post/DLzIDVQyX7S",
-      "text": "soo_bb_ 07/07/25 스팀 라이브러리에 게임이 48개나 있는데 할 게임없어서 매일 마크하는 중.. 아닌가 48개면 게임이 없는게 맞긴해 Translate 16",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/624654567_17938379265131097_8051651208463083449_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFACtTAJY5wRxrabaLnp1eevW40Lw0o2MYS2MkVIGY8uwgzkAxPKYBS8fbOm29IQbI&_nc_ohc=B2L-c6M7Fc0Q7kNvwHA2lCt&_nc_gid=29DiYZQF96XhCyyl_ByaGw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8MUDZzTKDjLRWZi2P81swzCWDIQc0fV2tPKFaRoEI4hw&oe=6A34D4C8&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/516538562_17914793055131097_5893232097569539860_n.webp?_nc_cat=107&ig_cache_key=MzY3MTMxMzUzNDU5NzgyNDIxMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNzIwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=XwD6eZRlo60Q7kNvwHpbARc&_nc_oc=Adq0KB9sZ0NsCQryq_r8rJWA54869r8eoGmpbrRUZ0CMDFsUUj933WbtLHMv6UD5rr8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=29DiYZQF96XhCyyl_ByaGw&_nc_ss=7a22e&oh=00_Af-DywjUSzSkVTA-d_Rdw_LmhKua6g2AlF75TPPGB5rMFQ&oe=6A34AD6A"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "스팀"
-    },
-    {
-      "id": "DZggu0djzd4",
-      "username": "@love4item",
-      "permalink": "https://www.threads.com/@love4item/post/DZggu0djzd4",
-      "text": "love4item 1d ​미용실에서나 보던 스팀 클리닉 빗을 이제 집에서 쓰네 ㅋㅋㅋ 아침마다 머리 부스스해서 뻗치고 장난 아니었는데 이거 진짜 대박이다 ㅠ ​빗기만 해도 스팀 쫙 나오면서 차분해지니까 똥손도 3분 만에 칼단발, 생머리 쌉가능;; 이제 출근길 모자 탈출가능~~! Translate 1",
-      "has_image": true,
-      "has_video": true,
-      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/723238530_17931378411296688_8990738195223990440_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFACtTAJY5wRxrabaLnp1eevW40Lw0o2MYS2MkVIGY8uwgzkAxPKYBS8fbOm29IQbI&_nc_ohc=qle41F9Jpk4Q7kNvwF6Il04&_nc_gid=29DiYZQF96XhCyyl_ByaGw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8LHREsRVe1zhOw4F2gQd6fGiXWV4F4R6-HjywHXXtdkQ&oe=6A34BAE2&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/719918765_1625376431900854_8590593656602728482_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=MzkxODI3NTUzNTM0MDI4MzM1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=ZlcBSvqA6WQQ7kNvwHLJ77Y&_nc_oc=AdqZzpLHCgBVe8RIK0YjKozAcJH8sHwhU3ZsR2uRkRAUrIj_9cpwJJ7z4U51YorGG3I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=29DiYZQF96XhCyyl_ByaGw&_nc_ss=7a22e&oh=00_Af9cZr-nwCoVkAX9v0i2MJWCsy1ER4Mr_Sx_BdsX6jGZTw&oe=6A34B1DE",
-        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/721758645_17931576795296688_4213575050889588866_n.webp?_nc_cat=101&ig_cache_key=MzkxODI3NTUxMTk3ODAwNzg5OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=FfJgnQAbKOEQ7kNvwFNOW7_&_nc_oc=AdoIAU4jhSGsvMDlYg_rnjuItUvcDI7nxeTf00r0lSo7WNMMBn_XDoHg35EYueSbZf8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=29DiYZQF96XhCyyl_ByaGw&_nc_ss=7a22e&oh=00_Af9FLE4VdF2Ou3gsFZM0zQhIZiQi0mQSap17Xw19_fR5ow&oe=6A34CA4E",
-        "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/722448408_17931576792296688_1632468616463063212_n.webp?_nc_cat=104&ig_cache_key=MzkxODI3NTUxMjk3NjI1OTk0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA3OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xeHg8ZkNCgQQ7kNvwHQimkD&_nc_oc=AdoekZwypCE9yfkUhDGwQidJiUR5su3e1zyyKS5e6tqN_0i4OUSJwCCEaZTgJjGzqAo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=29DiYZQF96XhCyyl_ByaGw&_nc_ss=7a22e&oh=00_Af-V1nxWNPgpihK3_geNQJKpgLr2OOcIppL-dAZOG0iRyQ&oe=6A34CDA7"
-      ],
-      "video_url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t16/f2/m84/AQOmRRqMOGoqBmDgDf3PcqbeQw92xzl8Q4K-2IE92NSOtHAEhNDt5wkDmu59uJ9P2ghiouhu2N2KoblJVUpV8Y8FTgW2tZ193_fId5E.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=T--z0mWWbGQQ7kNvwHMPeEs&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0FST1VTRUxfSVRFTS5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxNzkzMTU3NjgwMTI5NjY4OCwiYXNzZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEwMTY0LCJkdXJhdGlvbl9zIjoxMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f498586432568b70&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC9BMTQ5NzI3NENCMUQ5NDNDRUFBN0NBMjVGQjNEM0Y5Nl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzg1NDM1RDQyN0I2MTUxQTk3NEVDRkRFRjFGQkFENzg3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbghIiYkqvaPxUCKAJDMywXQCoAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAde4HZeieAQA&_nc_gid=29DiYZQF96XhCyyl_ByaGw&_nc_ss=7a22e&_nc_zt=28&oh=00_Af-TkrloLnaQYE2h7GNOG5Y9NfDbp3HIAnfXjrsvsDqVNA&oe=6A30DAF9",
-      "video_poster": null,
-      "_keyword": "스팀"
-    },
-    {
-      "id": "DZkXiIBE3Ki",
-      "username": "@jjjjjin27",
-      "permalink": "https://www.threads.com/@jjjjjin27/post/DZkXiIBE3Ki",
-      "text": "jjjjjin27 4h 해외에서 난리 난 스팀 빗 드뎌 한국 상륙함 ;; 무선인데 스팀 뿜뿜 하면서 매직한 것처럼 머릿결 개매끄러워짐 대박ㄷㄷ 장마철에 머리 부풀어 오르는 곱슬러들 이거 가방에 무조건 분신처럼 넣고 다니삼 ㅋㅋ Translate 1",
-      "has_image": true,
-      "has_video": true,
-      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/696142015_18109463029743336_4547231600546053912_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFACtTAJY5wRxrabaLnp1eevW40Lw0o2MYS2MkVIGY8uwgzkAxPKYBS8fbOm29IQbI&_nc_ohc=bCT5c4xVH4kQ7kNvwF-VdDU&_nc_gid=29DiYZQF96XhCyyl_ByaGw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_RyAfooB82F7LF-xxIbJgVh4_I4ivA4-pT1TuvUKWF0A&oe=6A34B483&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/724010452_2859546994387521_1361128941215269017_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=MzkxOTM2MDc2MDQ2NDI3NTUzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=LuWh7RdtBdEQ7kNvwFetLGY&_nc_oc=AdqCHJ15LQzf5U7QnsjM99LBs5RsXAV_Yvo9_j0LTBR5juo3wBkNfSe_HJHxd2N_qTA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=29DiYZQF96XhCyyl_ByaGw&_nc_ss=7a22e&oh=00_Af8qhG1v6H3xOrsB6HPrENuvbTOn3ho7V3YWOEAF0jlKEA&oe=6A34D699",
-        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/722447627_18115253176743336_4281704120892278467_n.webp?_nc_cat=103&ig_cache_key=MzkxOTM2MTA2ODEzMzI0Mzg5NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=fr8u2-SMZeUQ7kNvwGOGud3&_nc_oc=AdrS3fs9WthMYZAoxVmGkHFM8ToruHz4WYaN1dORZSwInu1wHATM0MxqW_obiN8jFsQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=29DiYZQF96XhCyyl_ByaGw&_nc_ss=7a22e&oh=00_Af-5d73ZD9ILNEHHuElXZ8-9obkyPNRgU4xpYzTUEVkyaA&oe=6A34D5A9"
-      ],
-      "video_url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t16/f2/m84/AQNt3LA59ThrU39wBJDNPjdxpjYQXIn-vw9zm_tp1MJ0xuuRO7Vwp8Z5kywy-zQAy4tFd9SpJxCAu7kEF_be1c5iwVK5eWqee17-6DI.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=2c73ZXcNnbUQ7kNvwHnupty&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0FST1VTRUxfSVRFTS5DMy43MTYuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxODExNTI1MzE5MTc0MzMzNiwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTY0LCJkdXJhdGlvbl9zIjoxMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=7282f27dfa7d7a15&_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC82QTQ0MkY2RTFGNDZBNTc1QTFFODg1MjI3MEJBNkVBRF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm0N2U-MHurUAVAigCQzMsF0AkRBiTdLxqGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXuB2XongEA&_nc_gid=29DiYZQF96XhCyyl_ByaGw&_nc_zt=28&_nc_ss=7a22e&oh=00_Af8vDx2OL_pIxRTOMCeuH84MSSLXYyZM8yWIFK_DDwTm-A&oe=6A30BDDB",
-      "video_poster": null,
-      "_keyword": "스팀"
-    },
-    {
-      "id": "DGXK4KKSQp6",
-      "username": "@plife47",
-      "permalink": "https://www.threads.com/@plife47/post/DGXK4KKSQp6",
-      "text": "plife47 02/22/25 스팀 게임 재밌는 거 없을까? 가볍게 두 명이서 즐길만한 게임... 혹시 알고 있으면 알려 주라! Translate 15 10 1 3",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/474682541_926876632900726_4898946585312458081_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFACtTAJY5wRxrabaLnp1eevW40Lw0o2MYS2MkVIGY8uwgzkAxPKYBS8fbOm29IQbI&_nc_ohc=vxM0WxwapI8Q7kNvwHPizpn&_nc_gid=29DiYZQF96XhCyyl_ByaGw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_Oe_sghL7Hb5tkrt8gfNpKZ9dBACBMiYTfafAc8HoZPw&oe=6A34B81E&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/455009990_2153165858396636_447161471185227480_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEHseyJ3_FZb54Hg-9mgx781fy4m0lKI2IStEEbHvz8_Y289xpCPLN81c7qwIXoj-g&_nc_ohc=xK7yma-HLkwQ7kNvwG-vtq9&_nc_gid=Bjg9ZkAJ3gq17XX56PoBhA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_DWK4xTwXUSpayfydIOe4Jo_nY8Q5y5cPbLpS9ymNDMw&oe=6A34F513&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
@@ -455,7 +350,7 @@
       "id": "DZjibEWE2Wg",
       "username": "@parkminhsss",
       "permalink": "https://www.threads.com/@parkminhsss/post/DZjibEWE2Wg",
-      "text": "parkminhsss 11h Replying to @dongcheoli518 북한에서 유일하게 불 들어온 곳은 김정은 친형네임 집에서 게임만하고 조용히 살겠다고 빌어서 살려준거 Translate 245 1",
+      "text": "parkminhsss 14h Replying to @dongcheoli518 북한에서 유일하게 불 들어온 곳은 김정은 친형네임 집에서 게임만하고 조용히 살겠다고 빌어서 살려준거 Translate 280 1",
       "has_image": false,
       "has_video": false,
       "thumbnail_url": null,
@@ -468,26 +363,56 @@
       "id": "DZkEewbE_Tt",
       "username": "@freddie_hankyul",
       "permalink": "https://www.threads.com/@freddie_hankyul/post/DZkEewbE_Tt",
-      "text": "freddie_hankyul 6h 스팀 온라인 북한: 1 Translate 10",
+      "text": "freddie_hankyul 9h 스팀 온라인 북한: 1 Translate 16",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/634323695_17945112030102980_4054512017891269371_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFACtTAJY5wRxrabaLnp1eevW40Lw0o2MYS2MkVIGY8uwgzkAxPKYBS8fbOm29IQbI&_nc_ohc=-zhXFMzkmlwQ7kNvwHa0ZFJ&_nc_gid=29DiYZQF96XhCyyl_ByaGw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-VbPLOrsnbr2a5bDWfPKVyK0X6o_21o1rItoCSBI0sFA&oe=6A34A2D6&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/634323695_17945112030102980_4054512017891269371_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEHseyJ3_FZb54Hg-9mgx781fy4m0lKI2IStEEbHvz8_Y289xpCPLN81c7qwIXoj-g&_nc_ohc=-zhXFMzkmlwQ7kNvwFG26OV&_nc_gid=Bjg9ZkAJ3gq17XX56PoBhA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-LZJ4Lxj8PPU4vGrB6Ir8bNySFjJxWmNOqXXTZ0gBwow&oe=6A34DB16&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
       "_keyword": "스팀"
     },
     {
-      "id": "DYtIdu0E98g",
-      "username": "@mistyrusticlife",
-      "permalink": "https://www.threads.com/@mistyrusticlife/post/DYtIdu0E98g",
-      "text": "mistyrusticlife 시골로간서울여자 05/24/26 우리집 하녀가 귀염뽀짝 첫 르방바게트를 궜다. 발효천, 바게트 툴 없이, 스팀 오븐 없이 걍 구움. 발효천 대신 키친타월, 스팀오븐 대신 물그릇 바게트 툴 없이 걍 성형 제빵 하고 싶은 사람들아 걍 당근에서 5만원짜리 오븐 사서 해보다가 살림늘려라. Translate 58 32 1 1",
+      "id": "DZfL_zYCP9W",
+      "username": "@ji.lane13",
+      "permalink": "https://www.threads.com/@ji.lane13/post/DZfL_zYCP9W",
+      "text": "ji.lane13 2d 스팀 게임이 많이 있는데 뭘 할지 모르겠어... 너희도 그래 ? Translate 9 14",
+      "has_image": false,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/489337784_913540207436102_6048828031183580171_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gEHseyJ3_FZb54Hg-9mgx781fy4m0lKI2IStEEbHvz8_Y289xpCPLN81c7qwIXoj-g&_nc_ohc=UpusNqNKtogQ7kNvwEDqmI0&_nc_gid=Bjg9ZkAJ3gq17XX56PoBhA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_IQiJ-SUjcnfE1RL2l8UkHndzhbpOXNNhOPthuKHXl_A&oe=6A34C277&_nc_sid=10d13b",
+      "media_images": [],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "스팀"
+    },
+    {
+      "id": "DZkXiIBE3Ki",
+      "username": "@jjjjjin27",
+      "permalink": "https://www.threads.com/@jjjjjin27/post/DZkXiIBE3Ki",
+      "text": "jjjjjin27 6h 해외에서 난리 난 스팀 빗 드뎌 한국 상륙함 ;; 무선인데 스팀 뿜뿜 하면서 매직한 것처럼 머릿결 개매끄러워짐 대박ㄷㄷ 장마철에 머리 부풀어 오르는 곱슬러들 이거 가방에 무조건 분신처럼 넣고 다니삼 ㅋㅋ Translate 1",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/404932135_370694522008674_7229900910109515914_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFACtTAJY5wRxrabaLnp1eevW40Lw0o2MYS2MkVIGY8uwgzkAxPKYBS8fbOm29IQbI&_nc_ohc=OD7WD8_dejEQ7kNvwHyxJE1&_nc_gid=29DiYZQF96XhCyyl_ByaGw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8xVqMUwzQQ9BZQ_PyYSwfxOuZ3ISnGvGaiE-ti84dUJw&oe=6A34A207&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/696142015_18109463029743336_4547231600546053912_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEHseyJ3_FZb54Hg-9mgx781fy4m0lKI2IStEEbHvz8_Y289xpCPLN81c7qwIXoj-g&_nc_ohc=bCT5c4xVH4kQ7kNvwGGyKWI&_nc_gid=Bjg9ZkAJ3gq17XX56PoBhA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9jJk_-JuPmfT8dhPorAFi3vVD9FAEmzuuSaqbkd0_RAg&oe=6A34ECC3&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/705969007_17967768894107785_1673734453985386560_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=MzkwMzgxMzIxNjE1ODA3MzkxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDA5Ni5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=kaSUlz4AnuQQ7kNvwE-XwSn&_nc_oc=Adp5q4P0DfVLBKLun41fUarilMdCJal_OvwjBz2-QWqlh7vadX2DKk7cbFg_cqIVeTI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=29DiYZQF96XhCyyl_ByaGw&_nc_ss=7a22e&oh=00_Af-1JpYJYgjwtddDdZ2VeOO-3J1V70Hb8QDPQ5J_tqPqPg&oe=6A34AA04",
-        "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/706218898_17967768900107785_1350074843286848437_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=109&ig_cache_key=MzkwMzgxMzIyMTgxMTk4MTM3Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDA5Ni5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=q4V7l85IrcIQ7kNvwEibA8_&_nc_oc=Adpw7jl4G546HBvqgvzxxASDusmlS1NfHZ2qObg1XymgeGJBlclYINYw4L4jxmK8nzA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=29DiYZQF96XhCyyl_ByaGw&_nc_ss=7a22e&oh=00_Af_tBhLg4N_Zc9sT7DIIS-c9nbwFeDloJ4t1FTBom96Fjg&oe=6A34CA98"
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.71878-15/724010452_2859546994387521_1361128941215269017_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=MzkxOTM2MDc2MDQ2NDI3NTUzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=LuWh7RdtBdEQ7kNvwFwZFfw&_nc_oc=Adph34eVyxs-QS25vxAyhF94JcvT9zyqfyBJuUxUFaGlBh6uEKjPoPBWnikFoRCGcow&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Bjg9ZkAJ3gq17XX56PoBhA&_nc_ss=7a22e&oh=00_Af-HLhsBeQjPXvK2nhucj0MJ9HFgnpWmW0KeeWYwAOQAfA&oe=6A34D699",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/722447627_18115253176743336_4281704120892278467_n.webp?_nc_cat=103&ig_cache_key=MzkxOTM2MTA2ODEzMzI0Mzg5NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=fr8u2-SMZeUQ7kNvwEnVP6e&_nc_oc=AdoNXyi24CI7MXbfFLsL-tBuD_kU-i7ebF7-zatboJwndFncPM1zVp7tSPDuPrmxtSQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Bjg9ZkAJ3gq17XX56PoBhA&_nc_ss=7a22e&oh=00_Af9XS1bZ-6_Sw_x2HHMgPhnMr1o3X2YcrOqKvhyfQU2ZxA&oe=6A34D5A9"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "스팀"
+    },
+    {
+      "id": "DLkZi8cxYxW",
+      "username": "@jh__koh",
+      "permalink": "https://www.threads.com/@jh__koh/post/DLkZi8cxYxW",
+      "text": "jh__koh 07/01/25 런닝크루 멤버 구합니다 Translate 883 214 2 168",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://instagram.fcks4-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-webp&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fcks4-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gErsWIsYw-msO8Vt2qTqyVBiAIhYka_-Q3eSOxr52Wi4YZlzzkI2YZAxElKhwrASfVK2AC2tuSOU-BgJv4nEvHW&_nc_ohc=VJ2Cew0vGM4Q7kNvwFbhFlb&_nc_gid=4-WHryVjfaPTJF_ZDQCdNg&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Af_hXGlqlRF00CxaaEz5ZRJd65zwk2uo-swjzDBhblDjIw&oe=6A34C32A&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/515125498_17893750944255675_7171429488087408058_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=110&ig_cache_key=MzY2NzE2ODMzOTUzODg3NjA0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=izU5BW2TZAQQ7kNvwHeV7bg&_nc_oc=AdrymPl3UXoS0YXn6fEhsxBL4lGRrcTGpWc8oRzZKRQ7_RU3DeprxrKne1NcYHIORkU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Bjg9ZkAJ3gq17XX56PoBhA&_nc_ss=7a22e&oh=00_Af-S9kjDLrG4DJ9VQEH9830KPdgAYPNaHc5nNuSgF_23og&oe=6A34C3A4",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/514060200_17893751037255675_1325792570813442389_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=MzY2NzE2ODMzOTk0MTU0MTcxNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=TiPrp2CZaqsQ7kNvwFrKytX&_nc_oc=Adp2RmRjr6bkJOWv55Kopsv6ATxpbWAwnbs4IovEMy-tiTCN9qMc8z1mFbCZGw9a43E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Bjg9ZkAJ3gq17XX56PoBhA&_nc_ss=7a22e&oh=00_Af98qfYPZExItXUTVeTnjq-ZpiS_5fd5jBggswNchcD04w&oe=6A34CE05",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/514484674_17893751046255675_492095813972451921_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=MzY2NzE2ODM0MDIxMDA3NzQ2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xLyrfEQGWUwQ7kNvwGY74Yh&_nc_oc=AdqlEXb4KU394Y-N3V2qWGaCi_83M4jlOZkhytJHGzOHOJX9gh6072j1lzbTSdZHXsY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Bjg9ZkAJ3gq17XX56PoBhA&_nc_ss=7a22e&oh=00_Af-XxOquW64zPMUEv7NRp64SvOgl3vb9AIe6QyET0Ff9yw&oe=6A34C1AB"
       ],
       "video_url": null,
       "video_poster": null,
@@ -495,7 +420,7 @@
     }
   ],
   "summary": {
-    "total": 32,
+    "total": 27,
     "enriched": 0,
     "failed": 0
   }
