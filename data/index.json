@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T22:21:37.129Z",
+  "generatedAt": "2026-07-07T00:17:05.560Z",
   "categories": [
     {
       "preset": "전체 추천",
@@ -8,25 +8,25 @@
       "total": 40,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-06T22:22:13.840Z"
+      "fetchedAt": "2026-07-07T00:17:53.154Z"
     },
     {
       "preset": "쇼핑·살림·자취",
       "slug": "_EC_87_BC_ED_95_91_C2_B7_EC_82_B4_EB_A6_BC_C2_B7_EC_9E_90_EC_B7_A8",
       "path": "data/trending/_EC_87_BC_ED_95_91_C2_B7_EC_82_B4_EB_A6_BC_C2_B7_EC_9E_90_EC_B7_A8.json",
-      "total": 15,
+      "total": 24,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-06T22:23:11.735Z"
+      "fetchedAt": "2026-07-07T00:18:58.624Z"
     },
     {
       "preset": "코인·재테크·투자",
       "slug": "_EC_BD_94_EC_9D_B8_C2_B7_EC_9E_AC_ED_85_8C_ED_81_AC_C2_B7_ED_88_AC_EC_9E_90",
       "path": "data/trending/_EC_BD_94_EC_9D_B8_C2_B7_EC_9E_AC_ED_85_8C_ED_81_AC_C2_B7_ED_88_AC_EC_9E_90.json",
-      "total": 38,
+      "total": 37,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-06T22:23:45.076Z"
+      "fetchedAt": "2026-07-07T00:19:42.075Z"
     },
     {
       "preset": "부동산·청약",
@@ -35,52 +35,52 @@
       "total": 40,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-06T22:24:21.983Z"
+      "fetchedAt": "2026-07-07T00:20:27.064Z"
     },
     {
       "preset": "뷰티·패션",
       "slug": "_EB_B7_B0_ED_8B_B0_C2_B7_ED_8C_A8_EC_85_98",
       "path": "data/trending/_EB_B7_B0_ED_8B_B0_C2_B7_ED_8C_A8_EC_85_98.json",
-      "total": 39,
+      "total": 40,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-06T22:25:00.599Z"
+      "fetchedAt": "2026-07-07T00:21:17.250Z"
     },
     {
       "preset": "먹방·요리·맛집",
       "slug": "_EB_A8_B9_EB_B0_A9_C2_B7_EC_9A_94_EB_A6_AC_C2_B7_EB_A7_9B_EC_A7_91",
       "path": "data/trending/_EB_A8_B9_EB_B0_A9_C2_B7_EC_9A_94_EB_A6_AC_C2_B7_EB_A7_9B_EC_A7_91.json",
-      "total": 36,
+      "total": 39,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-06T22:25:38.215Z"
+      "fetchedAt": "2026-07-07T00:22:07.650Z"
     },
     {
       "preset": "운동·헬스·피트니스",
       "slug": "_EC_9A_B4_EB_8F_99_C2_B7_ED_97_AC_EC_8A_A4_C2_B7_ED_94_BC_ED_8A_B8_EB_8B_88_EC_8A_A4",
       "path": "data/trending/_EC_9A_B4_EB_8F_99_C2_B7_ED_97_AC_EC_8A_A4_C2_B7_ED_94_BC_ED_8A_B8_EB_8B_88_EC_8A_A4.json",
-      "total": 28,
+      "total": 32,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-06T22:26:19.058Z"
+      "fetchedAt": "2026-07-07T00:23:09.721Z"
     },
     {
       "preset": "건강·의학",
       "slug": "_EA_B1_B4_EA_B0_95_C2_B7_EC_9D_98_ED_95_99",
       "path": "data/trending/_EA_B1_B4_EA_B0_95_C2_B7_EC_9D_98_ED_95_99.json",
-      "total": 27,
+      "total": 32,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-06T22:26:57.293Z"
+      "fetchedAt": "2026-07-07T00:23:56.926Z"
     },
     {
       "preset": "IT·테크·AI",
       "slug": "IT_C2_B7_ED_85_8C_ED_81_AC_C2_B7AI",
       "path": "data/trending/IT_C2_B7_ED_85_8C_ED_81_AC_C2_B7AI.json",
-      "total": 34,
+      "total": 40,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-06T22:27:36.412Z"
+      "fetchedAt": "2026-07-07T00:24:42.389Z"
     },
     {
       "preset": "게임",
@@ -89,52 +89,52 @@
       "total": 32,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-06T22:28:15.727Z"
+      "fetchedAt": "2026-07-07T00:25:32.554Z"
     },
     {
       "preset": "교육·자기계발",
       "slug": "_EA_B5_90_EC_9C_A1_C2_B7_EC_9E_90_EA_B8_B0_EA_B3_84_EB_B0_9C",
       "path": "data/trending/_EA_B5_90_EC_9C_A1_C2_B7_EC_9E_90_EA_B8_B0_EA_B3_84_EB_B0_9C.json",
-      "total": 36,
+      "total": 40,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-06T22:28:50.179Z"
+      "fetchedAt": "2026-07-07T00:26:20.552Z"
     },
     {
       "preset": "육아·출산",
       "slug": "_EC_9C_A1_EC_95_84_C2_B7_EC_B6_9C_EC_82_B0",
       "path": "data/trending/_EC_9C_A1_EC_95_84_C2_B7_EC_B6_9C_EC_82_B0.json",
-      "total": 36,
+      "total": 40,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-06T22:29:34.171Z"
+      "fetchedAt": "2026-07-07T00:27:18.934Z"
     },
     {
       "preset": "반려동물",
       "slug": "_EB_B0_98_EB_A0_A4_EB_8F_99_EB_AC_BC",
       "path": "data/trending/_EB_B0_98_EB_A0_A4_EB_8F_99_EB_AC_BC.json",
-      "total": 37,
+      "total": 39,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-06T22:30:10.036Z"
+      "fetchedAt": "2026-07-07T00:28:09.152Z"
     },
     {
       "preset": "자동차",
       "slug": "_EC_9E_90_EB_8F_99_EC_B0_A8",
       "path": "data/trending/_EC_9E_90_EB_8F_99_EC_B0_A8.json",
-      "total": 34,
+      "total": 40,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-06T22:30:48.785Z"
+      "fetchedAt": "2026-07-07T00:28:56.432Z"
     },
     {
       "preset": "여행·캠핑·아웃도어",
       "slug": "_EC_97_AC_ED_96_89_C2_B7_EC_BA_A0_ED_95_91_C2_B7_EC_95_84_EC_9B_83_EB_8F_84_EC_96_B4",
       "path": "data/trending/_EC_97_AC_ED_96_89_C2_B7_EC_BA_A0_ED_95_91_C2_B7_EC_95_84_EC_9B_83_EB_8F_84_EC_96_B4.json",
-      "total": 30,
+      "total": 39,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-06T22:31:27.212Z"
+      "fetchedAt": "2026-07-07T00:29:50.511Z"
     },
     {
       "preset": "K-POP·드라마·예능",
@@ -143,7 +143,7 @@
       "total": 40,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-06T22:32:05.286Z"
+      "fetchedAt": "2026-07-07T00:30:42.221Z"
     },
     {
       "preset": "인테리어·홈데코",
@@ -152,16 +152,16 @@
       "total": 40,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-06T22:32:46.152Z"
+      "fetchedAt": "2026-07-07T00:31:34.144Z"
     },
     {
       "preset": "부업·사이드 프로젝트",
       "slug": "_EB_B6_80_EC_97_85_C2_B7_EC_82_AC_EC_9D_B4_EB_93_9C_20_ED_94_84_EB_A1_9C_EC_A0_9D_ED_8A_B8",
       "path": "data/trending/_EB_B6_80_EC_97_85_C2_B7_EC_82_AC_EC_9D_B4_EB_93_9C_20_ED_94_84_EB_A1_9C_EC_A0_9D_ED_8A_B8.json",
-      "total": 37,
+      "total": 40,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-06T22:33:23.857Z"
+      "fetchedAt": "2026-07-07T00:32:17.302Z"
     },
     {
       "preset": "글로벌 가젯·해외 트렌드",
@@ -170,7 +170,7 @@
       "total": 24,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-06T22:34:07.182Z"
+      "fetchedAt": "2026-07-07T00:33:12.892Z"
     }
   ]
 }
