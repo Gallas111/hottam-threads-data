@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T14:14:44.382Z",
+  "generatedAt": "2026-07-16T16:25:56.079Z",
   "categories": [
     {
       "preset": "전체 추천",
@@ -8,7 +8,7 @@
       "total": 0,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-16T14:15:32.422Z"
+      "fetchedAt": "2026-07-16T16:26:41.684Z"
     },
     {
       "preset": "쇼핑·살림·자취",
@@ -17,7 +17,7 @@
       "total": 0,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-16T14:16:20.894Z"
+      "fetchedAt": "2026-07-16T16:27:27.827Z"
     },
     {
       "preset": "코인·재테크·투자",
@@ -26,7 +26,7 @@
       "total": 0,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-16T14:17:08.364Z"
+      "fetchedAt": "2026-07-16T16:28:13.440Z"
     },
     {
       "preset": "부동산·청약",
@@ -35,7 +35,7 @@
       "total": 0,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-16T14:17:57.115Z"
+      "fetchedAt": "2026-07-16T16:28:58.784Z"
     },
     {
       "preset": "뷰티·패션",
@@ -44,7 +44,7 @@
       "total": 0,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-16T14:18:44.454Z"
+      "fetchedAt": "2026-07-16T16:29:44.675Z"
     },
     {
       "preset": "먹방·요리·맛집",
@@ -53,7 +53,7 @@
       "total": 0,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-16T14:19:33.140Z"
+      "fetchedAt": "2026-07-16T16:30:30.890Z"
     },
     {
       "preset": "운동·헬스·피트니스",
@@ -62,7 +62,7 @@
       "total": 0,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-16T14:20:22.848Z"
+      "fetchedAt": "2026-07-16T16:31:15.381Z"
     },
     {
       "preset": "건강·의학",
@@ -71,7 +71,7 @@
       "total": 0,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-16T14:21:09.283Z"
+      "fetchedAt": "2026-07-16T16:32:01.543Z"
     },
     {
       "preset": "IT·테크·AI",
@@ -80,7 +80,7 @@
       "total": 0,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-16T14:21:55.881Z"
+      "fetchedAt": "2026-07-16T16:32:45.934Z"
     },
     {
       "preset": "게임",
@@ -89,7 +89,7 @@
       "total": 0,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-16T14:22:44.984Z"
+      "fetchedAt": "2026-07-16T16:33:31.897Z"
     },
     {
       "preset": "교육·자기계발",
@@ -98,7 +98,7 @@
       "total": 0,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-16T14:23:34.501Z"
+      "fetchedAt": "2026-07-16T16:34:17.321Z"
     },
     {
       "preset": "육아·출산",
@@ -107,7 +107,7 @@
       "total": 0,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-16T14:24:22.644Z"
+      "fetchedAt": "2026-07-16T16:35:03.002Z"
     },
     {
       "preset": "반려동물",
@@ -116,7 +116,7 @@
       "total": 0,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-16T14:25:11.282Z"
+      "fetchedAt": "2026-07-16T16:35:47.556Z"
     },
     {
       "preset": "자동차",
@@ -125,7 +125,7 @@
       "total": 0,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-16T14:25:58.008Z"
+      "fetchedAt": "2026-07-16T16:36:32.029Z"
     },
     {
       "preset": "여행·캠핑·아웃도어",
@@ -134,7 +134,7 @@
       "total": 0,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-16T14:26:46.263Z"
+      "fetchedAt": "2026-07-16T16:37:16.319Z"
     },
     {
       "preset": "K-POP·드라마·예능",
@@ -143,7 +143,7 @@
       "total": 0,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-16T14:27:32.822Z"
+      "fetchedAt": "2026-07-16T16:38:01.183Z"
     },
     {
       "preset": "인테리어·홈데코",
@@ -152,7 +152,7 @@
       "total": 0,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-16T14:28:19.945Z"
+      "fetchedAt": "2026-07-16T16:38:45.816Z"
     },
     {
       "preset": "부업·사이드 프로젝트",
@@ -161,7 +161,7 @@
       "total": 0,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-16T14:29:08.493Z"
+      "fetchedAt": "2026-07-16T16:39:31.281Z"
     },
     {
       "preset": "글로벌 가젯·해외 트렌드",
@@ -170,7 +170,7 @@
       "total": 0,
       "enriched": 0,
       "failed": 0,
-      "fetchedAt": "2026-07-16T14:29:56.844Z"
+      "fetchedAt": "2026-07-16T16:40:17.542Z"
     }
   ]
 }
