@@ -7,94 +7,64 @@
     "리뷰",
     "시승기"
   ],
-  "fetchedAt": "2026-08-15T01:54:21.758Z",
+  "fetchedAt": "2026-08-15T03:11:29.880Z",
   "items": [
-    {
-      "id": "Db9uaMdiSF_",
-      "username": "@imistj01",
-      "permalink": "https://www.threads.com/@imistj01/post/Db9uaMdiSF_",
-      "text": "imistj01 1d 캠핑장에서 이런 에어컨 룸이라니, 완전 신세계 아니냐고ㅋㅋㅋ 야외에서도 쾌적하게 요리하고 쉴 수 있는 공간이 생기니까 캠핑 퀄리티가 달라지네. 덥고 습한 날씨에도 끄떡없을 듯. 캠핑고인물 지린다 Translate 415 35 9 192",
-      "has_image": true,
-      "has_video": true,
-      "thumbnail_url": null,
-      "media_images": [
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.71878-15/771939348_1677063563382429_1723363953165203267_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=Mzk2MjUyNzExNjcyMTUyODg4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=yK-WhGGn3EoQ7kNvwGzEHl5&_nc_oc=Adrmlhu-vud5AL5SsLtSxTGZDQDPt7ycpnF21d_qlqXMq5dPevWJPbHpkunHLcuDXbs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=n2L1F-djLgt00FX4fOqdbw&_nc_ss=7a22e&oh=00_AQEojZy4t7dVcahhrplbZfOXmy54aNO2fAYdm6LiDakIFQ&oe=6A85B0F7",
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/773687401_18131425375657284_6191988017567285100_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk2MjUyNzA4NzM2MjMxMzYxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTI5MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=H0xQpzb4c1QQ7kNvwH9_Nad&_nc_oc=AdoOl1tW_1YaCT_prOMii80AnUrCDG3AKHS7qmIbEsvXD_KTmcSqlsw7oDCDKFhEse0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=n2L1F-djLgt00FX4fOqdbw&_nc_ss=7a22e&oh=00_AQHIyLP4J5eJf7j6ms4s97sCDzwNGiD-gb4M7wEMSEPQSw&oe=6A85B370"
-      ],
-      "video_url": "https://scontent-ord5-2.cdninstagram.com/o1/v/t16/f2/m84/AQPyT_Y6_NgDsrVOIZgvQBnWyy4oJi7GXfMVudwXsOmmfiOUDv4SQRuCcHG8cBThxrW36Nc301XGAGR5ip2Ziir1DK7hvVE8bFmY65M.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_ohc=xnyFPmpOiIQQ7kNvwHgc7BQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0FST1VTRUxfSVRFTS5DMy4xMjc2LmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgxMzE0MjUzOTM2NTcyODQsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDE2NCwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f6ee49ba5e8b1144&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC83NzRFMjY3Qzg3OUI5NTA5RTFDNDMwQjY5MDY0MTFCOV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0U4NDAwRUQ4Qjk2MzZENkVBMURBMjlBMzVDMENFNThFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaIl-Kd7pu1QBUCKAJDMywXQCghysCDEm8YEmRhc2hfYmFzZWxpbmVfMV92MREAde4HZeieAQA&_nc_gid=n2L1F-djLgt00FX4fOqdbw&_nc_zt=28&_nc_ss=7a22e&oh=00_AQHoroMDlbLYv3sHWWucOJ5RnaolL48QfN3hkhgoDZXKQQ&oe=6A81C0E7",
-      "video_poster": null,
-      "_keyword": "자동차"
-    },
-    {
-      "id": "Db9yxr3j5vE",
-      "username": "@iris_papa14",
-      "permalink": "https://www.threads.com/@iris_papa14/post/Db9yxr3j5vE",
-      "text": "iris_papa14 1d 자동차 매연은 어째...? Translate 135 3",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/669667190_18077950175188747_6160853486645847119_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHLjsdZ4CDdvro_H5Te2QVCHn93wc6XrlBj_2cjyF2ckFZvsW_ZjMAm_GCSnmvymJU&_nc_ohc=aT1KZAW9sScQ7kNvwEAjCu3&_nc_gid=n2L1F-djLgt00FX4fOqdbw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFK-sToNg_3672uc-AAxdGXPlBT6FS9nwkzYvxkNU07Ww&oe=6A85A6EF&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "자동차"
-    },
-    {
-      "id": "DEC7RzUzhTK",
-      "username": "@hye0._.jj",
-      "permalink": "https://www.threads.com/@hye0._.jj/post/DEC7RzUzhTK",
-      "text": "hye0._.jj 12/26/24 자동차 정비사 아님 💨 Translate 240 6",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-webp&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEa1_NDgBZQqzGw0CNTsZvt4fs1us7I7h-FMSsayanCOLscOWL7oIj9ANcItMmWgPg&_nc_ohc=WVJV5XJjE2YQ7kNvwFhW_3E&_nc_gid=GU4IPr5A6tRA8iK-in8eFQ&edm=AATz6sIBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AQHw4yIjdsLdBQhHS3kVf22O73pGf7-cz4BTFr1z0ybrTA&oe=6A859F2A&_nc_sid=042462",
-      "media_images": [
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/653576831_18027390359619168_6042053691276822370_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MzUzMTY0NTc0ODE2MzQyNTEyMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=OAKgJQRcqggQ7kNvwG4yS8Y&_nc_oc=AdpFi4i4CVl-e16KtIiXCmGNChLHg4CePTmRNdl6shqvvY--2UjmFsamD3ro-6gUBSI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=n2L1F-djLgt00FX4fOqdbw&_nc_ss=7a22e&oh=00_AQHC_9_XSBpObXbBtMhUBv4nHYvCwXez3PyfXlBURI-paw&oe=6A858DC8",
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/650794853_17927655465237053_6404529691999776893_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzUzMTY0NTc0ODI2NDIzMzQ1MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dCHXl_TKdL0Q7kNvwE3j32A&_nc_oc=Adp8cV6aHrfMMoljZVq0WHLv3j_u1czguygTkgEa-_cwXd2EzwVNcf72qAP0qyF7AE4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=n2L1F-djLgt00FX4fOqdbw&_nc_ss=7a22e&oh=00_AQHzX1YoCF-D30FVqNwzlYzjM0hTTtLyZEodshWOsT-PDQ&oe=6A858D6E",
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/645552383_17888517864325421_614660468769377852_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzUzMTY0NTc0ODQ4MjQwMjY4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OiMEd6WmuZ8Q7kNvwEpNsFx&_nc_oc=Adq5bCDgXWqJFaJw6A9trBv37HK7Xyst3QJ3Yy0e45v9AqDhNn00LLDt5UMfw823oFQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=n2L1F-djLgt00FX4fOqdbw&_nc_ss=7a22e&oh=00_AQERgaQwNkHLnF7bvJQc8ZDEMIqrVd9fWdXrHGIH2GU7Bg&oe=6A85A190"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "자동차"
-    },
-    {
-      "id": "DHz0YcRJfwa",
-      "username": "@hada_jjang",
-      "permalink": "https://www.threads.com/@hada_jjang/post/DHz0YcRJfwa",
-      "text": "hada_jjang 폭삭속았수다 03/30/25 폭삭속았수다 디테일 이건 몰랐네 어업일지 3일 비어있는거…😭😭😭 작가님 정말 Translate 393 4 1 4",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": null,
-      "media_images": [
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.75761-15/486288462_17891452461200071_2548099881124012471_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzU5OTQ1MDkwNTIzNzY1MDQ1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjUzMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=L7q9qRjWWJQQ7kNvwGlgQjJ&_nc_oc=Adqrv6s4PzJKH-1fNfynEqP6pW-fA10ndtPQx0YrXfCpDHtQVwjMs2ae_L2YoFq1LL8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=n2L1F-djLgt00FX4fOqdbw&_nc_ss=7a22e&oh=00_AQHmqaL1lWp8flFdXebHyu95KnR7COqRo8Kbfub3rcosNg&oe=6A85950F"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "자동차"
-    },
-    {
-      "id": "DH0OygzS6gq",
-      "username": "@kin635",
-      "permalink": "https://www.threads.com/@kin635/post/DH0OygzS6gq",
-      "text": "kin635 03/30/25 + 자동차 관련 잡지 Translate 12",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/701084283_17966488038117078_7652434388969136109_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHLjsdZ4CDdvro_H5Te2QVCHn93wc6XrlBj_2cjyF2ckFZvsW_ZjMAm_GCSnmvymJU&_nc_ohc=10w8CO6hS_8Q7kNvwEbqx_f&_nc_gid=n2L1F-djLgt00FX4fOqdbw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEGUlji9fgMaNTICJnJxhYRXxWrnPQyv_4jAlWPEQQYJw&oe=6A859251&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "자동차"
-    },
     {
       "id": "DcAqzSWGUhu",
       "username": "@yoyo_juny",
       "permalink": "https://www.threads.com/@yoyo_juny/post/DcAqzSWGUhu",
-      "text": "yoyo_juny 자동차 19h 요즘 최신 현대차 가격 보면서 궁금한게 하나 생기는데……🙋🏻‍♂️ 플레오스OS랑 디스플레이 커진거 하나만으로 차값이 400~600이상씩 올라가는 게 다들 맞다고 보는거야??😂 이럴거면 플레오스 OS 크게 상관없는 CCNC만 들어간 이전 차량들이 가격도 구성도 나는 괜찮게 보이는데……🤣 의견을 말해줘🙌🏻🙏🏻 Translate 4 13",
+      "text": "yoyo_juny 자동차 20h 요즘 최신 현대차 가격 보면서 궁금한게 하나 생기는데……🙋🏻‍♂️ 플레오스OS랑 디스플레이 커진거 하나만으로 차값이 400~600이상씩 올라가는 게 다들 맞다고 보는거야??😂 이럴거면 플레오스 OS 크게 상관없는 CCNC만 들어간 이전 차량들이 가격도 구성도 나는 괜찮게 보이는데……🤣 의견을 말해줘🙌🏻🙏🏻 Translate 4 14",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/657753424_17902080393402242_734053605997993149_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHLjsdZ4CDdvro_H5Te2QVCHn93wc6XrlBj_2cjyF2ckFZvsW_ZjMAm_GCSnmvymJU&_nc_ohc=N27XS4XZO58Q7kNvwEvO31x&_nc_gid=n2L1F-djLgt00FX4fOqdbw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEB_qvksHMX11O63SBnnCSKwFP7bIPKdkXzPt2r082WJg&oe=6A859CC0&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/657753424_17902080393402242_734053605997993149_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGGtwspwLwTxOZLkrJTSC8J2kx7ZDp_DUsDw8GFkZVU4o8_2t3TKXCTFqmkaMETIVY&_nc_ohc=N27XS4XZO58Q7kNvwH0i2w-&_nc_gid=cEHOpao74Mp5kJJugBZYxQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGPvy3t4tOnTASKX6RFFxhTDMR4DJZvRrpeJ0msNF0hVA&oe=6A859CC0&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/774788174_17923763328402242_3357600547667602782_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk2MzM1MzcyMDY3OTI2MjgwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDAzMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ZzHKr3khE7kQ7kNvwHn5fFs&_nc_oc=AdrNGJLaNKlQE01jhcRTK4BcVZZ3bAbndOs_lsDUd5RGSc5XpwRkqeUO5bEW6TV5Lxw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=n2L1F-djLgt00FX4fOqdbw&_nc_ss=7a22e&oh=00_AQFb6usmFBPqlzeM20wi1wx4sFcmRbdK7d5FFxKc8MIREA&oe=6A85978F",
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/774666083_17923763325402242_2871209769697240709_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk2MzM1MzcyODE2NTUxNTQ1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTM2OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=K9FFnimtKvEQ7kNvwGu5N6l&_nc_oc=Adp-2DkYJ5gz_CoTRx5vbmjZcB7iaatpbI-jdECFsdmqt7HhFkIv9KZm3tJqWzHcLNM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=n2L1F-djLgt00FX4fOqdbw&_nc_ss=7a22e&oh=00_AQH3raHxvpwR1GHm6g5kmyeerW69f3LZTXvf3HcIMbdDdg&oe=6A859A27"
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/774788174_17923763328402242_3357600547667602782_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk2MzM1MzcyMDY3OTI2MjgwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDAzMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ZzHKr3khE7kQ7kNvwFL0Jur&_nc_oc=AdrDleBQbDTPNPLxzXTPPtbs59Njr2puAfjX7M043tKG-k32_tzHW_qePUySO8KyKT8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=cEHOpao74Mp5kJJugBZYxQ&_nc_ss=7a22e&oh=00_AQEt7J4tNa0yvV1GrPonijgvWRk0BA_aIFj0_Fa9mwNT5A&oe=6A85978F",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/774666083_17923763325402242_2871209769697240709_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk2MzM1MzcyODE2NTUxNTQ1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTM2OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=K9FFnimtKvEQ7kNvwG1IyWS&_nc_oc=AdobxP3pf_fm1oAgFD0wbD1XJiNvl0yfV2ackl6Ns9jy5ycitldBgFgxWuH0tOxnrQs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=cEHOpao74Mp5kJJugBZYxQ&_nc_ss=7a22e&oh=00_AQE9Zo4cUgiipFjlaYMlnhukSUfT4y-D5eOVWNFZcalGyQ&oe=6A859A27"
       ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "자동차"
+    },
+    {
+      "id": "DbVoIfqHbjI",
+      "username": "@hy_04.08",
+      "permalink": "https://www.threads.com/@hy_04.08/post/DbVoIfqHbjI",
+      "text": "hy_04.08 자동차 07/28/26 나 예전에 이 차 길에서 보고 람보르기니 후속모델인줄알았다고 글올렸다가 댓글 500개 달림 ㅋᩚ ㅋᩚ ㅋᩚ 근데 지금봐도 람보르기니만큼 멋있는거같은데🙄💩 Translate 82 80 1",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/754036748_18057495470553326_6977585236928871145_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGGtwspwLwTxOZLkrJTSC8J2kx7ZDp_DUsDw8GFkZVU4o8_2t3TKXCTFqmkaMETIVY&_nc_ohc=x8pdyZjmvDoQ7kNvwFX67R2&_nc_gid=cEHOpao74Mp5kJJugBZYxQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQF5qXqP8s3DwWl6NA2d332gQqfIKBGKJCjagnG1sbGJ4g&oe=6A85C6EE&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/756661632_18058924160553326_7035170540480428738_n.webp?_nc_cat=108&ig_cache_key=Mzk1MTIzOTY4NzE5NDYxMjIxNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjQ1MS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OqdMHoLXCgwQ7kNvwHKHoef&_nc_oc=Adpqd5FJNBEaloMJx_QQQIHAU85BryjbawkepWgujfJNsqvYgq-yalbLcO_Njr-fhgE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=cEHOpao74Mp5kJJugBZYxQ&_nc_ss=7a22e&oh=00_AQEuOli5zJnaDiHgmg-Z4ACxuyNjQgYZrSEM8uJ3NM7dQQ&oe=6A85BEF3",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/755373813_18058924163553326_7917750379723567557_n.webp?_nc_cat=110&ig_cache_key=Mzk1MTIzOTY4Nzg2NTY5ODM5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTE0LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=Z3nWZZi6dxYQ7kNvwFtdHI4&_nc_oc=Ado9Rg3qyvYCWcxZ2SWeZ9XHCNUUpCBaMnIzeUz7jkjA77Zj9AbCrWRarax_WOjwueY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=cEHOpao74Mp5kJJugBZYxQ&_nc_ss=7a22e&oh=00_AQEVdFaoLMcY5CeKQH30Sfa4Oh_cuN2nolPxs0lp9MiS7w&oe=6A85B493"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "자동차"
+    },
+    {
+      "id": "DawfQqMk_Lf",
+      "username": "@healthy_piggy_life",
+      "permalink": "https://www.threads.com/@healthy_piggy_life/post/DawfQqMk_Lf",
+      "text": "healthy_piggy_life 자동차 07/14/26 EV6 구매 고민중인데 내연기관차하고 비교했을 때, 전기차 유지비 어때? 우선 차 욕심 없어서 한번사면 계속 끌을거야 (하브 비교군 🚫) Translate 15 15 1 1",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/747718822_18145228240496989_1697666608525245581_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGGtwspwLwTxOZLkrJTSC8J2kx7ZDp_DUsDw8GFkZVU4o8_2t3TKXCTFqmkaMETIVY&_nc_ohc=iEgaXgAaygYQ7kNvwG4eAeN&_nc_gid=cEHOpao74Mp5kJJugBZYxQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEPixFBvC7nhigN3-qzBFa8WTgf1HH6Gxj0QHyJn82HtQ&oe=6A8596B9&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/743995758_18144505705496989_6103175421271542389_n.webp?_nc_cat=110&ig_cache_key=Mzk0MDc4NzE1ODIxMDgzNTE2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjgzLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=GKSaB1t9OUQQ7kNvwHtpez0&_nc_oc=AdquPHpmRW5ryR5ynSp1kB5luc_9eBQ-AcuKhRtxzv2tTggyjjdJOFBp35p1C3XrNVo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=cEHOpao74Mp5kJJugBZYxQ&_nc_ss=7a22e&oh=00_AQHrLErqbePQIfEyVZBRQUkFduG-WxSCWBfMUU5Iqb8xxA&oe=6A8599B9"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "자동차"
+    },
+    {
+      "id": "DcCamqCk8sX",
+      "username": "@gj.hhhhhh",
+      "permalink": "https://www.threads.com/@gj.hhhhhh/post/DcCamqCk8sX",
+      "text": "gj.hhhhhh 보험 4h 손해보험 전속으로 인보험기준 월납 70~120만 자동차 3천~5천만.. 손해사정 5년 경력에 영업은 11년차야. 고객수가 800명 이상이라 계속분 제법 있고 우수인증설계사, 손해보험협회 블루리본이야. 근데 생보상품 판매를 못하니 ga이직을 두달에 한번씩 고민해. 고객님들을 놔두고 가지도 못하겠고.. 스친들은 어떤 방법으로 이직했을까? Translate 23 23",
+      "has_image": false,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/625964871_17850356610668510_7371631751134484186_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGGtwspwLwTxOZLkrJTSC8J2kx7ZDp_DUsDw8GFkZVU4o8_2t3TKXCTFqmkaMETIVY&_nc_ohc=6To8dEf0NC4Q7kNvwGmEhQO&_nc_gid=cEHOpao74Mp5kJJugBZYxQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFzYGOfjWKScmQm0Y6G6iUV-k8Gzg-fDtRHvYpQyO2_7Q&oe=6A859979&_nc_sid=10d13b",
+      "media_images": [],
       "video_url": null,
       "video_poster": null,
       "_keyword": "자동차"
@@ -106,40 +76,9 @@
       "text": "k.geegee 현대자동차 06/02/26 신차 출고할때 이런 리본해주면 좀 부담스럽나요? Translate 585 228 2 5",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/759373278_18610848187057628_3321983591920121771_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gE97rqozumgnJKoyZSb7pyN0LPCK2-KZyuhEYYcl3ohw1HGtU_sZLt4LEk297QmtgE&_nc_ohc=QcaLIyju26oQ7kNvwEBMWSC&_nc_gid=2mgFo0wYkjONQ55OxB6dkg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQETwezqkjfMHcD-OTU-NhvMhmI3sz0l6uJ0SfIWr9dMkg&oe=6A8591FC&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/759373278_18610848187057628_3321983591920121771_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEjE3IgPl56qFiH5DOy02Jt_GNCGngG3YWqBtjFc1aX-ONYttlGeEA93zVYs9Lh1iA&_nc_ohc=QcaLIyju26oQ7kNvwGPDso2&_nc_gid=k_EGa5CAZfqVSUhiQ5yl3g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHl9R56KhAdyhc-roG3C9IzwdbEkR7jt8mqiG7tFjzJVA&oe=6A8591FC&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/712924431_17927702490334853_7563731627888175643_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MzkxMDU0MjU5NzkwMjk0NzQxMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=p3LEcurkdOAQ7kNvwEXT4Ry&_nc_oc=AdopyC669KhLLZFwmsMZwcudBqcEaY9xjDVD2Gdm7sDeNceYqkKA39jf1jL3tmxCXAU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=2mgFo0wYkjONQ55OxB6dkg&_nc_ss=7a22e&oh=00_AQHf7m83navMIFXFV_ISOu2IvXxC2gePZYj-biTnfgAGcQ&oe=6A85992D"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "신차"
-    },
-    {
-      "id": "Dav96H7Ez8i",
-      "username": "@mudaepo0820",
-      "permalink": "https://www.threads.com/@mudaepo0820/post/Dav96H7Ez8i",
-      "text": "mudaepo0820 07/13/26 15년만에 바꾼 신차. 기능이 너무 많아서 공부 필수.ㅋ Translate 164 26 2 2",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/559216403_17892458844343622_7287220666253945233_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gE97rqozumgnJKoyZSb7pyN0LPCK2-KZyuhEYYcl3ohw1HGtU_sZLt4LEk297QmtgE&_nc_ohc=4x1KRi50uAIQ7kNvwHmoUaN&_nc_gid=2mgFo0wYkjONQ55OxB6dkg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQH335j9Gll6vRFmFH2qpAi9yROBKPPRu9g9L-3qRFPvbg&oe=6A859810&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/745045765_17932516467343622_6969767302631163269_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk0MDY0MDQ1MDkxMDgxNzk2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nD3PhRHRPJ8Q7kNvwHcDxoZ&_nc_oc=AdpE5QWYGOgTlzmIgqcvWUVAu9qDCzgaV1AgQxZJuGb7WtEUmWFoZe_dRw0i-AwXH6A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=2mgFo0wYkjONQ55OxB6dkg&_nc_ss=7a22e&oh=00_AQF2bWZyai7xO-Z8U103r5m9YFrbFoiOxdlLONPBZVYVsA&oe=6A85B3FF",
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/747513119_17932516458343622_5389182950978953525_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk0MDY0MDQ0OTIxNjMxOTYxNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=tfnEYBNCriMQ7kNvwGoMd23&_nc_oc=AdoCIqLS4dYsoWftHaHqlwBS40GCL0ZxpkQVuzf24EgU3MvhjXb8odJPuv2RRYz6TcY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=2mgFo0wYkjONQ55OxB6dkg&_nc_ss=7a22e&oh=00_AQH2KO91SweULhxUkuLlO_liltcQWGePeotQF4k4cniAmw&oe=6A858192"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "신차"
-    },
-    {
-      "id": "DcCuwComMmd",
-      "username": "@autonology24",
-      "permalink": "https://www.threads.com/@autonology24/post/DcCuwComMmd",
-      "text": "autonology24 13m 1천만 원도 안 되는 가격에 6기통 승차감을 누릴 수 있다고? 비운의 단종차로 잊혔던 아슬란이 요즘 중고차 시장에서 가성비 대장으로 다시 보이는 중이야. 신차 가격의 반의반 토막도 안 되는 시세라 준중형 사려던 예산으로 덥석 집어 올 수 있거든. 문 열고 들어가면 천연 가죽 시트에 12개 스피커까지 깔려 있어서 감성만큼은 진짜 럭셔리 세단 그 자체야. 정숙한 V6 엔진 소리 들으며 달리면 가성비 끝판왕을 찾았다는 뿌듯함이 밀려와. 다만 연식별 변속기 차이랑 3.0 배기량 세금 부담은 꼭 미리 계산해 봐야겠더라. 남들의 옅은 기억 덕분에 누군가에게는 최고의 실속형 선택지가 된 셈이지. 현대 아슬란 실내 / 사진=현대자동차 Translate",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/541211413_17842875003565827_3888169748006270852_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MTIuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gE97rqozumgnJKoyZSb7pyN0LPCK2-KZyuhEYYcl3ohw1HGtU_sZLt4LEk297QmtgE&_nc_ohc=4DTi88fn0sYQ7kNvwG3ue-n&_nc_gid=2mgFo0wYkjONQ55OxB6dkg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFOZMYF_KsZvckWjgdKZ7KFNScLBIZjQ_tfqmo2yUoqUQ&oe=6A859D8F&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/768592393_17898067830565827_7058785573859777623_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk2MzkzNjIzMzU0MjQzNzI3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=htVM43knq78Q7kNvwGYlv1w&_nc_oc=Adrv6gH5TIh18X-Aixwkjl-ZFMXRAGcyncHx4YvO2G2hX-4IagW2L3bv9-iD0Jrqgjg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=2mgFo0wYkjONQ55OxB6dkg&_nc_ss=7a22e&oh=00_AQHG7JFM76hx6Z97zGKkXLipBMMJdFekLjRT1E4NItxnbA&oe=6A8580D2"
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/712924431_17927702490334853_7563731627888175643_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MzkxMDU0MjU5NzkwMjk0NzQxMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=p3LEcurkdOAQ7kNvwEAIvZs&_nc_oc=Adqz9jgLHJAaHQXshknjLH46PiB4bnJrc03BjsiyUQ_R5OdKQYurOh4ppZPmdwI4XsA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=k_EGa5CAZfqVSUhiQ5yl3g&_nc_ss=7a22e&oh=00_AQHVUQClriCWScMnq5vPoJH52dwGMJu_avnbiEYvN4aLhA&oe=6A85992D"
       ],
       "video_url": null,
       "video_poster": null,
@@ -152,81 +91,112 @@
       "text": "redsun1106 2d 첫 차 사려는데 내부 예쁘고 가성비 있는 차를 원함 1. 벤츠 C200 2. 그랜저 하이브리드 3. 제네시스 GV70 결정 장애 씨게 오는데 어케 결정해? ✅️ 추가 질문: 중고 or 신차 Translate 50 100 2 1",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/641403966_17933177514194390_4152393726913134512_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gE97rqozumgnJKoyZSb7pyN0LPCK2-KZyuhEYYcl3ohw1HGtU_sZLt4LEk297QmtgE&_nc_ohc=WdjdxundqYwQ7kNvwFULzts&_nc_gid=2mgFo0wYkjONQ55OxB6dkg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFztgkllRtU96Mk9e3NuS6nn6OjzGqK8zvNd5m7UmH_lQ&oe=6A858DF5&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/641403966_17933177514194390_4152393726913134512_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gEjE3IgPl56qFiH5DOy02Jt_GNCGngG3YWqBtjFc1aX-ONYttlGeEA93zVYs9Lh1iA&_nc_ohc=WdjdxundqYwQ7kNvwEqdvxi&_nc_gid=k_EGa5CAZfqVSUhiQ5yl3g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGYZojf9R9ixl3_9phpVE-WOvbkLZOViahmsIHZbhtiKg&oe=6A85C635&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
       "_keyword": "신차"
     },
     {
+      "id": "Dav96H7Ez8i",
+      "username": "@mudaepo0820",
+      "permalink": "https://www.threads.com/@mudaepo0820/post/Dav96H7Ez8i",
+      "text": "mudaepo0820 07/13/26 15년만에 바꾼 신차. 기능이 너무 많아서 공부 필수.ㅋ Translate 164 26 2 2",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/559216403_17892458844343622_7287220666253945233_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gEjE3IgPl56qFiH5DOy02Jt_GNCGngG3YWqBtjFc1aX-ONYttlGeEA93zVYs9Lh1iA&_nc_ohc=4x1KRi50uAIQ7kNvwHWYD37&_nc_gid=k_EGa5CAZfqVSUhiQ5yl3g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHAo1wqd8hJ3es1PTkgWHxipmOx-4-VPCg1IhnNDpU6ww&oe=6A859810&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/745045765_17932516467343622_6969767302631163269_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk0MDY0MDQ1MDkxMDgxNzk2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nD3PhRHRPJ8Q7kNvwH9mI0A&_nc_oc=AdopkNX7uQu4h0Y1HBTYsBkqsiZZSpx9u-vZJ6Q7Xoutv-SWRu7qoUaUQpaNSD4eZok&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=k_EGa5CAZfqVSUhiQ5yl3g&_nc_ss=7a22e&oh=00_AQFVhADadGWWKxi3r67EFZj4oKlZ2C-B_0bSCCv3VplMbw&oe=6A85B3FF",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/747513119_17932516458343622_5389182950978953525_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk0MDY0MDQ0OTIxNjMxOTYxNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=tfnEYBNCriMQ7kNvwFmLSwE&_nc_oc=Ado47MNMdqE88-neRNW-cpW4iR2Si_6BSSZXhk8RDzT3HNlCODUl9yc7e0YsSqabng0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=k_EGa5CAZfqVSUhiQ5yl3g&_nc_ss=7a22e&oh=00_AQHOM0DHU6QpmwK6KeOVcgT8LKWWpsNEan9IqF0wmXKOMg&oe=6A85B9D2"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "신차"
+    },
+    {
+      "id": "Db70xO8FHgX",
+      "username": "@vview_log",
+      "permalink": "https://www.threads.com/@vview_log/post/Db70xO8FHgX",
+      "text": "vview_log 스하리1000명프로젝트 2d 결국 중고차 세단 포기하고 스포티지 신차 계약는 했는데 스포티지 가솔린 어때?? 후기좀 알려줘 ㅎㅎ 근데 신차가 너무 비싸긴 한데 시그니처로 했는데 차값이 후덜덜.. 중고 suv 괜찮은거 추천좀 해줘 스친이들 !!!! Translate 7 9 2",
+      "has_image": false,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/527578558_17862835740445163_3493214466165818417_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEjE3IgPl56qFiH5DOy02Jt_GNCGngG3YWqBtjFc1aX-ONYttlGeEA93zVYs9Lh1iA&_nc_ohc=-U6YVRRmwfMQ7kNvwFsZn_x&_nc_gid=k_EGa5CAZfqVSUhiQ5yl3g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFY0seamu19YA2sIKhq_PAad2cP6fvF3MQ1IUvLqUIaRA&oe=6A85B991&_nc_sid=10d13b",
+      "media_images": [],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "신차"
+    },
+    {
+      "id": "DSE8QJsD5AU",
+      "username": "@irei_0213",
+      "permalink": "https://www.threads.com/@irei_0213/post/DSE8QJsD5AU",
+      "text": "irei_0213 신차 12/10/25 6갤 기다려서 드디어 나온 내차ㅠㅠㅎㅎ 너무 신나잖아! Translate 183 43 3",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/765007887_17950569234230732_3803501772145211091_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEjE3IgPl56qFiH5DOy02Jt_GNCGngG3YWqBtjFc1aX-ONYttlGeEA93zVYs9Lh1iA&_nc_ohc=g-mFPO1qjJoQ7kNvwGlnhXV&_nc_gid=k_EGa5CAZfqVSUhiQ5yl3g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFlQSYMSiLxsHhRQZaRa6T6Pw_Fwb4MpNQbgzKsDo5vSw&oe=6A85BD1C&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/588971609_17916482532230732_2958617802898128328_n.webp?_nc_cat=111&ig_cache_key=Mzc4NDQxNDU3OTYwMzI0NzEyNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=kL2EPmpUWKkQ7kNvwHzA5De&_nc_oc=AdrP-03v-R7k5HgnNdlX_zirLYfXkT2DYaijBn_aayW_UAcTm8krXgk_TyHpe6zlI5c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=k_EGa5CAZfqVSUhiQ5yl3g&_nc_ss=7a22e&oh=00_AQHBXykLBriLHxH6PS-tvP1JbEpiyGc9VHSYwoqdz8VTPQ&oe=6A85983F"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "신차"
+    },
+    {
+      "id": "DbkL3XWk8r2",
+      "username": "@s_backro88",
+      "permalink": "https://www.threads.com/@s_backro88/post/DbkL3XWk8r2",
+      "text": "s_backro88 BYD 08/03/26 스치니들 3,750만 원인데 솔직히 디자인 괜찮지 않나요? 옵션도 나쁘지 않음 ㅇㅇ... Translate 214 1.1K 9 13",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/416493145_939185564215005_7791351521067140237_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFRgH05Xry-qq1Maz6IGf0Fu2hZV5GTyouAHDKji4kRu8x9nX61H-46Nuj4zU5PTIY&_nc_ohc=4R3aR0wIgh4Q7kNvwFxSian&_nc_gid=rtBFiLE3hQRzQDridbeb6g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFd5rS1DsHqTWu-z-4cg5BLGima1mKdaBdMq2p3oY8qZQ&oe=6A85A65B&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/762864192_17964282774133904_4882263077190433473_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk1NTMzNzU3NjY0NTI1MzM3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzg0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Q-jpb57HkCMQ7kNvwEPFimn&_nc_oc=AdpKC4lcTSzR7Z1JhnzqaLaKDqd_MBkyVE13-FxF0ctDn_PsW8euWoW4gVEE4FRKKx0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=rtBFiLE3hQRzQDridbeb6g&_nc_ss=7a22e&oh=00_AQGTv7VgncmcczF3Er7XBwTXyTetLSn150EAllOpUa4rfw&oe=6A85B4E4",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/762864419_17964282810133904_2333009819468119325_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk1NTMzODU0NjI2NTY2NjYwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzg0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=4hK_obtRef8Q7kNvwE-ZHEB&_nc_oc=AdpX0n4w6bR_EAzJWmCpNHf-Hd1gkzlGAlEsNwnaIth69r03hX_zXaqcF_mm0QI2edM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=rtBFiLE3hQRzQDridbeb6g&_nc_ss=7a22e&oh=00_AQEPFRBJehu1f4brhMw1ioFK93smWpYLigb7WscYpfchoQ&oe=6A85B4BB",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/763547722_17964282822133904_3120506665030170907_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk1NTMzODU0NTc0NTU4NzU3NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzg0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=k0T19S6frf4Q7kNvwG6HxeD&_nc_oc=AdompzAZ5nmYgL90gUSW8ezY1w-1S-dsAQyHxhbJ5QDEWgAT1MQGKWLqjFQQK2Z1uoU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=rtBFiLE3hQRzQDridbeb6g&_nc_ss=7a22e&oh=00_AQGgzIVI4iviH7Hjj82cu6X1UnUURMTMwu1PV-MPi9HiDQ&oe=6A85C593"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "전기차"
+    },
+    {
       "id": "DTurDizEdag",
       "username": "@j147200",
       "permalink": "https://www.threads.com/@j147200/post/DTurDizEdag",
-      "text": "j147200 전기차 01/20/26 기름값 아끼려다 '수리비 폭탄' 맞을까 봐 무서운 분들... 전기차 20만km 타본 후기 요약해 드림. 충전비는 확실히 혜자인데, 타이어랑 소모품 교체 주기가 거의 빛의 속도임. 결정적으로 배터리 효율 떨어지는 순간 \"아, 이게 유지비 지옥인가?\" 싶을 때가 옴. 전기차는 '기름값'만 안 드는 거지, '공짜'로 굴러가는 차는 아닙니다. Translate 20 26 2",
+      "text": "j147200 전기차 01/20/26 기름값 아끼려다 '수리비 폭탄' 맞을까 봐 무서운 분들... 전기차 20만km 타본 후기 요약해 드림. 충전비는 확실히 혜자인데, 타이어랑 소모품 교체 주기가 거의 빛의 속도임. 결정적으로 배터리 효율 떨어지는 순간 \"아, 이게 유지비 지옥인가?\" 싶을 때가 옴. 전기차는 '기름값'만 안 드는 거지, '공짜'로 굴러가는 차는 아닙니다. Translate 21 26 2",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/500304309_17845167663488806_6809422651091532556_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NTMuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gG3GBWGYLHD0hu8rI8aIbPf4Mx55rF2HdwbQ_SAWpQDMIDyLhT9kRxq8UmTx60gvFs&_nc_ohc=FZykQv5WC-YQ7kNvwF_U9PB&_nc_gid=MqZw_zyktkoqg_eLPEPhfA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFlkdVJaro0iqPZYrOmJFW-tjUfZeVo64rtDF86zD4BwA&oe=6A85AB7C&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/500304309_17845167663488806_6809422651091532556_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NTMuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFRgH05Xry-qq1Maz6IGf0Fu2hZV5GTyouAHDKji4kRu8x9nX61H-46Nuj4zU5PTIY&_nc_ohc=FZykQv5WC-YQ7kNvwE3u18N&_nc_gid=rtBFiLE3hQRzQDridbeb6g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHtbh9Xniu6a6SbnURX-A6HzDXGr9n4LDfvbunznzfFJw&oe=6A85AB7C&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/619376315_17874459198488806_1765138577311877260_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzgxNDE3NTI5Mzk1MTgyNTU2OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuODM0LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=oEhRtGCRflkQ7kNvwEvGhLB&_nc_oc=AdrquYtUwyAH_ejkH0mDku0pz3bOjLjLTrXSa7UetG8mRm7RnNI9UWmGz7UdxU0M4WQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=MqZw_zyktkoqg_eLPEPhfA&_nc_ss=7a22e&oh=00_AQF4Ax-If7sJASbsPNDw7JAWuRIDbW3NC1SPHZEwbCncOw&oe=6A85AB2D"
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/619376315_17874459198488806_1765138577311877260_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzgxNDE3NTI5Mzk1MTgyNTU2OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuODM0LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=oEhRtGCRflkQ7kNvwExeseK&_nc_oc=Adp_bqWw1xtU04CqlgjV7w16qSlklQ58Qck935VyG2MKqR-uZxJaYjHiZmN9MI1oZeM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=rtBFiLE3hQRzQDridbeb6g&_nc_ss=7a22e&oh=00_AQEUj0b0Kj2ORQMZ5vrmF2te0SnPt8pVuEX6Q272MfQRVg&oe=6A85AB2D"
       ],
       "video_url": null,
       "video_poster": null,
       "_keyword": "전기차"
     },
     {
-      "id": "DawfQqMk_Lf",
-      "username": "@healthy_piggy_life",
-      "permalink": "https://www.threads.com/@healthy_piggy_life/post/DawfQqMk_Lf",
-      "text": "healthy_piggy_life 자동차 07/14/26 EV6 구매 고민중인데 내연기관차하고 비교했을 때, 전기차 유지비 어때? 우선 차 욕심 없어서 한번사면 계속 끌을거야 (하브 비교군 🚫) Translate 15 15 1 1",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/747718822_18145228240496989_1697666608525245581_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gG3GBWGYLHD0hu8rI8aIbPf4Mx55rF2HdwbQ_SAWpQDMIDyLhT9kRxq8UmTx60gvFs&_nc_ohc=iEgaXgAaygYQ7kNvwFIAFcg&_nc_gid=MqZw_zyktkoqg_eLPEPhfA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEpCkubAUDWowOKGk3S6ghI5bFWYLJmbstoAiqMRLC3tg&oe=6A8596B9&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/743995758_18144505705496989_6103175421271542389_n.webp?_nc_cat=110&ig_cache_key=Mzk0MDc4NzE1ODIxMDgzNTE2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjgzLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=GKSaB1t9OUQQ7kNvwEP5nAs&_nc_oc=AdqTgrSoEf8uPXASLwlq2w2DtHsG292d9zIhZmmciNETL0DjWOHuNI24ME8L9kS7yks&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=MqZw_zyktkoqg_eLPEPhfA&_nc_ss=7a22e&oh=00_AQHWoyCkWWZ0NmMBgie2S3q_uLuZ_ge567piYkLw8K-qpg&oe=6A8599B9"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "전기차"
-    },
-    {
-      "id": "DOKx_AeD1eZ",
-      "username": "@worrymarketing",
-      "permalink": "https://www.threads.com/@worrymarketing/post/DOKx_AeD1eZ",
-      "text": "worrymarketing 09/04/25 아이오닉9이 보인다. 전기차. 고민했던 찬데... 전기차 지금 타도된다 vs 아직 전기차는 아니다 Translate 22 30",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/539803796_17969678648933261_9222667563339120469_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG3GBWGYLHD0hu8rI8aIbPf4Mx55rF2HdwbQ_SAWpQDMIDyLhT9kRxq8UmTx60gvFs&_nc_ohc=rwfgYhVYGZ4Q7kNvwGWiUI2&_nc_gid=MqZw_zyktkoqg_eLPEPhfA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFMJY7R0dZ6sQ02rqJVL5wPftzFJ0Hw1y6sJcDsTPygdQ&oe=6A858ABA&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/541523575_17898470730271508_2727687349347771311_n.webp?_nc_cat=107&ig_cache_key=MzcxNDAwMDY3MjcyMDM4NzE0Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTg0OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=FA_Psuco1dsQ7kNvwFtz8uf&_nc_oc=AdoxRTJMD-X3wkQqeWoV5N9UcNzd8ke9KSKFuoTgtTKmbwnE9z236-U7jLvcykRDSPo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=MqZw_zyktkoqg_eLPEPhfA&_nc_ss=7a22e&oh=00_AQEBFSG7Q3dy5zyvdp07EgdXHMkqwiqI6G4pnYKV4vABdg&oe=6A85AD51",
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/541521744_17898470727271508_4860200012994947702_n.webp?_nc_cat=108&ig_cache_key=MzcxNDAwMDY3MjcyODc3NDY1NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTg0OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=yucnAi1VraMQ7kNvwHou85z&_nc_oc=Adrq0CuTDnPysh7BFSYxMo7EPb0n4APHZbZLpY7KxjUrCvHzWLyXhYPpXwOQdICqTXw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=MqZw_zyktkoqg_eLPEPhfA&_nc_ss=7a22e&oh=00_AQGt6F26EzP-hlSw2iTfihdleGpMorbBIe5kIPBws3jBmg&oe=6A859576"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "전기차"
-    },
-    {
-      "id": "DY7CbC-mItQ",
-      "username": "@solra.jin",
-      "permalink": "https://www.threads.com/@solra.jin/post/DY7CbC-mItQ",
-      "text": "solra.jin 05/29/26 전기차 추천해줘! 여자혼자 출퇴근용 가격대 상관없음 마구마구 추천바람 Translate 88 98 3 1",
+      "id": "DcC4Iv5Et6H",
+      "username": "@tecbaegd",
+      "permalink": "https://www.threads.com/@tecbaegd/post/DcC4Iv5Et6H",
+      "text": "tecbaegd 8m 전기차 타는 사람들 장거리 갈 때 충전소 미리 다 찾아두냐 아니면 가다가 배터리 보고 그때 찾냐 실제로 타면 충전 계획 많이 신경 쓰임? Translate 1",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/758288778_18140802985514886_570468746691509052_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gG3GBWGYLHD0hu8rI8aIbPf4Mx55rF2HdwbQ_SAWpQDMIDyLhT9kRxq8UmTx60gvFs&_nc_ohc=pK0YKN7gJk4Q7kNvwG5WtoR&_nc_gid=MqZw_zyktkoqg_eLPEPhfA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHe3pBAIUnlJ7Ss2qrOPhuM3mjp4aE9SOVC-8Ejm7Ue-Q&oe=6A859BBE&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/741395707_17954894733174686_7614484830559515978_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MDQuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFRgH05Xry-qq1Maz6IGf0Fu2hZV5GTyouAHDKji4kRu8x9nX61H-46Nuj4zU5PTIY&_nc_ohc=azHGHjiMg3AQ7kNvwEAHW0C&_nc_gid=rtBFiLE3hQRzQDridbeb6g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHcHBQBS00UYgICNdNR7WqOAybQecSy10Ucfwmfm57mPQ&oe=6A85A042&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
       "_keyword": "전기차"
     },
     {
-      "id": "DYoCnDhCTTP",
-      "username": "@k__battery",
-      "permalink": "https://www.threads.com/@k__battery/post/DYoCnDhCTTP",
-      "text": "k__battery 전기차 05/22/26 전기차를 살거면 브랜드 따지기 전에 삼원계 배터리 사라 제발 전기차는 배터리가 전부다. 성능,실내 공간,디자인,전비 등등 모든걸 좌우한다. Translate 177 220 16 62",
+      "id": "DQIZaMyjmP-",
+      "username": "@ajswe147",
+      "permalink": "https://www.threads.com/@ajswe147/post/DQIZaMyjmP-",
+      "text": "ajswe147 10/23/25 전기차 미국 테슬라를 외 사는지 이해가 안됩니다. 중국 전기차가 세계 1등 인데요. 밧데리가 중국이 최고 입니다. BYD 차량 구경 해보세요. 가격 성능 Translate 13 50 12",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/587781919_17932064676113668_8034056161024822228_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gG3GBWGYLHD0hu8rI8aIbPf4Mx55rF2HdwbQ_SAWpQDMIDyLhT9kRxq8UmTx60gvFs&_nc_ohc=-w-N8v41awAQ7kNvwG2jmab&_nc_gid=MqZw_zyktkoqg_eLPEPhfA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGVcXADYTFbaRvHVPsOBWXFqobPtJN_WE_XUBpPt1q6Iw&oe=6A85995C&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/365893742_1299111400696552_3129876708972926965_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFRgH05Xry-qq1Maz6IGf0Fu2hZV5GTyouAHDKji4kRu8x9nX61H-46Nuj4zU5PTIY&_nc_ohc=FJAMhMgE_3AQ7kNvwGT4O1F&_nc_gid=rtBFiLE3hQRzQDridbeb6g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFrM0vvT9_zloJl5URWcu__6STs0qm3ok-DtBcJz-FlOg&oe=6A859062&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/704614256_17966558169113668_1039761213364959996_n.webp?_nc_cat=103&ig_cache_key=MzkwMjM4MDU1NzA0NDYyNjYzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=46uNnUrnDiYQ7kNvwFp54-R&_nc_oc=Adp1qQ2IRvGV45Ic5I9EDEZpFM6KAhV6nWtdT3xSdnC9P9002NF_IAXtBENKPzCSxVQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=MqZw_zyktkoqg_eLPEPhfA&_nc_ss=7a22e&oh=00_AQFTvRG0gxYYiRSDxnVDZL33NFNS1RqDr7c-EhHrjME5VQ&oe=6A85A295"
+        "https://scontent-ams2-1.cdninstagram.com/v/t39.30808-6/559275112_24776319528695593_2133525684175942943_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc0OTM1ODQzNDI0OTUyODMxNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=z5hOgP_KmHwQ7kNvwHMtNMV&_nc_oc=AdqNaDISHD5q2zE0YI0jGD2gSwNtZrRxSZyridqoSNMvjoBMMgEh_4S_m9gwpu-_A5E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=rtBFiLE3hQRzQDridbeb6g&_nc_ss=7a22e&oh=00_AQGcvV0Svlk0RyCeCUiVTblErwtpHEyIJTujCVjPyzqmyg&oe=6A85A857",
+        "https://scontent-ams2-1.cdninstagram.com/v/t39.30808-6/571164498_24776320165362196_5833434913662795499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzc0OTM1ODQzMzY4NzQ0Mjc5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=kZ_XeJjUS3MQ7kNvwEsloAi&_nc_oc=AdoCIq_xAeLduXVp7KUVb0W7Mb59hRcK2toxSbYR1A7mvgIe4ugpjgbaei-t4NhU2sU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=rtBFiLE3hQRzQDridbeb6g&_nc_ss=7a22e&oh=00_AQFp_Ceiw4XCSnWIJnaNEcf9jx63A3aMKaKxm5X0kI__Jg&oe=6A859861"
       ],
       "video_url": null,
       "video_poster": null,
@@ -236,55 +206,47 @@
       "id": "DcAJVGdk8Qa",
       "username": "@_17.20.24",
       "permalink": "https://www.threads.com/@_17.20.24/post/DcAJVGdk8Qa",
-      "text": "_17.20.24 배달 1d 진짜 궁금해서 물어봄 30번 넘게 주문한 몇 년 완전 단골집이었음! 그날 밥 4개 시켰는데 밥이 노랗고 누룽지도 많았는데 그냥 먹었거든? 아들은 한 그릇 다 먹고 고기랑 비벼 먹었고, 나는 덜어주다가 곰팡이처럼 보이는 걸 발견했어 바로 전화했는데 “어제 밥이 하나 들어가서 그런 것 같다” 저녁 8시인데 어제밥을 준다고..? 곰팡이라는데 자꾸 “고객님은 누룽지가 많아서 기분 나쁘셨나 보네요” “저희가 보낼때 확인했는데 곰팡이 아니다” 이렇게 얘기하더라 너무 화나서 리뷰 남길 테니 취소하지 말아달라고 했는데, 전화 끊자마자 바로 취소해서 리뷰도 못 남겼고 그날 새벽에 아들은 분수토하고 나도 여러 번 토했는데, 병원비나 보상받을 생각은 전혀 없음 진짜 안받아도되니까 제발 구청에서 제대로 했음싶더라고? 내가 신고한 것도 돈 때문이 아니라 진짜 좋아했던 단골집이라 너무 충격이었고, 이번 기회에 위생관리를 제대로 했으면 해서였어! 근데 결과는 결국 “시정해달라”는 정도로 끝났네 Translate 2.2K 589 66 62",
+      "text": "_17.20.24 배달 1d 진짜 궁금해서 물어봄 30번 넘게 주문한 몇 년 완전 단골집이었음! 그날 밥 4개 시켰는데 밥이 노랗고 누룽지도 많았는데 그냥 먹었거든? 아들은 한 그릇 다 먹고 고기랑 비벼 먹었고, 나는 덜어주다가 곰팡이처럼 보이는 걸 발견했어 바로 전화했는데 “어제 밥이 하나 들어가서 그런 것 같다” 저녁 8시인데 어제밥을 준다고..? 곰팡이라는데 자꾸 “고객님은 누룽지가 많아서 기분 나쁘셨나 보네요” “저희가 보낼때 확인했는데 곰팡이 아니다” 이렇게 얘기하더라 너무 화나서 리뷰 남길 테니 취소하지 말아달라고 했는데, 전화 끊자마자 바로 취소해서 리뷰도 못 남겼고 그날 새벽에 아들은 분수토하고 나도 여러 번 토했는데, 병원비나 보상받을 생각은 전혀 없음 진짜 안받아도되니까 제발 구청에서 제대로 했음싶더라고? 내가 신고한 것도 돈 때문이 아니라 진짜 좋아했던 단골집이라 너무 충격이었고, 이번 기회에 위생관리를 제대로 했으면 해서였어! 근데 결과는 결국 “시정해달라”는 정도로 끝났네 Translate 2.2K 594 66 62",
       "has_image": true,
       "has_video": true,
-      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/491464479_2202124786886139_7622127728573831197_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGR1UWpyEfrSLU500zi8bHmrYkikqM0K8v19B_146Lk4ZFsBIKiqfOhwyG_wkOJWq0&_nc_ohc=Z1sQ5Tn5ZXsQ7kNvwFANBmM&_nc_gid=e8CU2S3Yqumb2MzsOQqwuQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHpFQF0B5PYpc5IrppuUtKOPYeBQYOT4bTcXIcZ3tXKjg&oe=6A859594&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/491464479_2202124786886139_7622127728573831197_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHDczid2GJR6DIm9VGTDWNa6kHZ2oN5Qt7RIcZ68Ew7u9L3DQC7VPb0m9j3d12QX20&_nc_ohc=Z1sQ5Tn5ZXsQ7kNvwFkMFjZ&_nc_gid=9CzW873ao5PtuovCK2qaUQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGMA6onz84ivfnwfkPqVMsz0K_3EYcGoCKo3XKiQF8Kow&oe=6A859594&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.71878-15/774719401_1960094848030667_2813257667402907537_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk2MzIwNzk1OTAwNjM4MTM0MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=6c2sCS_EXQYQ7kNvwGpVSTG&_nc_oc=AdqMj5yruUcMwwduxn3fG11gBAMOHCKWQdBYnxmaJVZRV-MIyyAlMYL1R9LkxwXZMgE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=e8CU2S3Yqumb2MzsOQqwuQ&_nc_ss=7a22e&oh=00_AQGzp9jB34QRRdBMY4Ipp_q4EMHSz16AiJnYLwovokA50w&oe=6A859BE4",
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/771940674_17906292522466948_1768001551792460402_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=110&ig_cache_key=Mzk2MzIwNzg4NzMzNzg1Nzc0MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=Qr5Ka08RwmEQ7kNvwFmHZp-&_nc_oc=AdqK2MuiumCWkeDc2DJEgZO9sMgrKbA_DawZapLjaAcTVaOZg0xxk6HGdlNMzbAbsOI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=e8CU2S3Yqumb2MzsOQqwuQ&_nc_ss=7a22e&oh=00_AQG14bN_ezfpbAfJn1xXv8aaFuhQxqEzEd6-5ei01dgRFA&oe=6A859FBC",
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/773705174_17906292540466948_4894341281966679855_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzk2MzIwNzg5NzAwMTcwNzc4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=56Qx4iMijcEQ7kNvwFzDf3z&_nc_oc=AdqHG1sg7J_3wofQf_AD2Cni_nmdW9YSxfsZah9UjISosKNlu_LNM4raSFss5UiR_KE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=e8CU2S3Yqumb2MzsOQqwuQ&_nc_ss=7a22e&oh=00_AQHHjACFB-tcmuBgkTUemAJz9PPYklIrvzpC3Fq5MJJ_aQ&oe=6A858F7C",
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/774970386_17906292555466948_7367137100350186879_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=109&ig_cache_key=Mzk2MzIwNzkxMzgyMDc0NDcxNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ZEbIH2TClmIQ7kNvwEqgsxx&_nc_oc=AdrA592Wt0whnE4MrVeW7IWZ7YojSmW4uRTFXdUJlUgUn0IMc_uLZc1_F8R6uf64y5Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=e8CU2S3Yqumb2MzsOQqwuQ&_nc_ss=7a22e&oh=00_AQEnK4HMT0zh3jvHSKclO_dcqUmEhYZJ5Bq6bh52RMFN0Q&oe=6A859485"
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.71878-15/774719401_1960094848030667_2813257667402907537_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk2MzIwNzk1OTAwNjM4MTM0MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=6c2sCS_EXQYQ7kNvwG1IK4G&_nc_oc=AdpqX7GHm4juGLqz0-04TcS6iTNmLWboPFqXEw-wB2ynQqjvGV5tH44RchZ3QTo6mkQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=9CzW873ao5PtuovCK2qaUQ&_nc_ss=7a22e&oh=00_AQGw56HOEsIoB7m5zpl7la2cTojorJM1uLVZWMxBMBAlDQ&oe=6A859BE4",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/771940674_17906292522466948_1768001551792460402_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=110&ig_cache_key=Mzk2MzIwNzg4NzMzNzg1Nzc0MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Qr5Ka08RwmEQ7kNvwFWz4UC&_nc_oc=Adpr5nzJuCzPMsR9DGEtAmFo0zEutTsc2QyQV-vhIJCcleVAFQJ5F3qEVOj5kfwPK5o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=9CzW873ao5PtuovCK2qaUQ&_nc_ss=7a22e&oh=00_AQE1bmrMzZ0zhrANQ17Gp0pz0I4G4Zgn9imAOV4HA4g4CA&oe=6A859FBC",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/773705174_17906292540466948_4894341281966679855_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzk2MzIwNzg5NzAwMTcwNzc4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=56Qx4iMijcEQ7kNvwH-aiRp&_nc_oc=Adow5-rITc8nepn0LGPDbonHDk3TYgL1k6ryng4d-w4EoPINJUF7kRfhAhrBC06XVcA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=9CzW873ao5PtuovCK2qaUQ&_nc_ss=7a22e&oh=00_AQG0zrYwpGmfu45gnXVymPVGLnzp_SNtf2h-QRhYZYCBMg&oe=6A858F7C",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/774970386_17906292555466948_7367137100350186879_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=109&ig_cache_key=Mzk2MzIwNzkxMzgyMDc0NDcxNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ZEbIH2TClmIQ7kNvwEQkHce&_nc_oc=Adp9iNpUT_-esZkpGBQPS9vySTmNrlnV_18yXRQrSYk0-mOac_JXtlTTkTk7yh7yfv4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=9CzW873ao5PtuovCK2qaUQ&_nc_ss=7a22e&oh=00_AQF7AGy2jO_jho3NAYGeLuO2jCobt1WEKPngzWGtH8p7wg&oe=6A859485"
       ],
-      "video_url": "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f2/m84/AQOrnelaXXhsd2ly9rXbZ7ckxXnXc6H3uMg76DAYfckBeceXNzWmNPxoWVDMXeRCtMoRDP6B24lpETQo2J8P0lsLRG9xE2iDQZdRAGs.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_ohc=Tz7DvokbB3gQ7kNvwFynUTP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0FST1VTRUxfSVRFTS5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxNzkwNjI5MjU5NzQ2Njk0OCwiYXNzZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEwMTY0LCJkdXJhdGlvbl9zIjoxNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6a5b9a90064ff9e3&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC82NzRDRDVFNTk4NDJFQkEzNDYzNUJFNzBBQzAwM0RCOF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzY3NDIwN0Y0QjlFMDJFRjEyN0MwQzFGMzgzNDY2RUFDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaInaGYtOvOPxUCKAJDMywXQDAQ5WBBiTcYEmRhc2hfYmFzZWxpbmVfMV92MREAde4HZeieAQA&_nc_gid=e8CU2S3Yqumb2MzsOQqwuQ&_nc_zt=28&_nc_ss=7a22e&oh=00_AQEY-GEfu-Vbj5ROo2V_udU5ap12DtuU5ThjdyYUVaOOJw&oe=6A8199CA",
+      "video_url": "https://scontent-ams2-1.cdninstagram.com/o1/v/t16/f2/m84/AQOrnelaXXhsd2ly9rXbZ7ckxXnXc6H3uMg76DAYfckBeceXNzWmNPxoWVDMXeRCtMoRDP6B24lpETQo2J8P0lsLRG9xE2iDQZdRAGs.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=Tz7DvokbB3gQ7kNvwEXCYm9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0FST1VTRUxfSVRFTS5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxNzkwNjI5MjU5NzQ2Njk0OCwiYXNzZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEwMTY0LCJkdXJhdGlvbl9zIjoxNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6a5b9a90064ff9e3&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC82NzRDRDVFNTk4NDJFQkEzNDYzNUJFNzBBQzAwM0RCOF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzY3NDIwN0Y0QjlFMDJFRjEyN0MwQzFGMzgzNDY2RUFDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaInaGYtOvOPxUCKAJDMywXQDAQ5WBBiTcYEmRhc2hfYmFzZWxpbmVfMV92MREAde4HZeieAQA&_nc_gid=9CzW873ao5PtuovCK2qaUQ&_nc_zt=28&_nc_ss=7a22e&oh=00_AQGcA9NeCsEuz_Y3mikEg-wMTZSwbfjiVcqiHdPwQcJc3g&oe=6A81D20A",
       "video_poster": null,
       "_keyword": "리뷰"
     },
     {
-      "id": "DcCsvP1DKCS",
-      "username": "@rosa4279",
-      "permalink": "https://www.threads.com/@rosa4279/post/DcCsvP1DKCS",
-      "text": "rosa4279 Pittsburgh Korean Food 31m 오늘 큰아이 학교 데려다주냐고 피츠버그로 왔다. 내일 아침에 이사라 하루 일찍 도착. 학교에서 조금 떨어진 곳에 숙소를 잡았는데 저녁을 뭘 먹을까 찾아보다가 구글 리뷰 별 4.9 ⭐️ 있는 한식당 발견!! 호텔에서 가까워서 금방 갈수 있었다. 가보니 정말 외딴곳에 있는 작은 식당이였다. 10-12명 들어가려나?? 그리고 7시에 문을 닫아! 우린 미리 전화해보고 아슬아슬 6:45쯤 도착. 김치찌개랑 제육볶음 그리고 불닭을 시켰는데 사장님이 서비스로 야채전을 해주셨다. 순간 한국에 온줄 알았네! 그냥 집에서 엄마나 할머니가 해주시는 밥상같은 밥집이였다. 사장님 부부 두분이서 일하시는데 정말 정겨우심! 나중에 이쪽에 오면 꼭 다시 가야지! 식당 이름이 Golden Pig 인데 안에 들어가면 돼지 장식이 엄청 많음!! 이유인즉 사장님이 여기 오픈을 손주가 태어나고 얼마 안되서 하셨는데 손주가 금돼지띠! 울 2007년생 아들이랑 똑같음! ㅎㅎ Translate 15 8 1",
-      "has_image": true,
+      "id": "DcCz8y6Ex6P",
+      "username": "@yellowduck_creative",
+      "permalink": "https://www.threads.com/@yellowduck_creative/post/DcCz8y6Ex6P",
+      "text": "yellowduck_creative 45m 제주도 투어 패키지 여행이 있나 여기저기 살펴보고 있는데요, 아버지 장례 후 81세 엄마와 50대 딸, 둘이 가는 여행입니다. 혹시 추천해주실 분 계실까요? 리뷰 올라온 게 잘 없네요... (해외는 싫다고 하십니다. 제주도 가지고 싶다고...) Translate 7 7",
+      "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/471942213_511561101343839_222672533399658837_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGR1UWpyEfrSLU500zi8bHmrYkikqM0K8v19B_146Lk4ZFsBIKiqfOhwyG_wkOJWq0&_nc_ohc=jz3il2oK4eAQ7kNvwFveiKr&_nc_gid=e8CU2S3Yqumb2MzsOQqwuQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFkrnzKBoymZbSs3VqO4gKVgRe0IBf6e1Jn4w5lIMDq4A&oe=6A8597DF&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/773644160_17983962678110866_2279632685847707606_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=111&ig_cache_key=Mzk2MzkyMTY2Njk3ODM3NjA3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=LW6owbq6wXcQ7kNvwGt87TL&_nc_oc=AdqAoSYpjJCa5z8IJ21_SJTm-9Lsxh8AYGsMWq7IkL2MRoR80XkphCZ9cV-nhJuyb-o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=e8CU2S3Yqumb2MzsOQqwuQ&_nc_ss=7a22e&oh=00_AQEcz2SJR7LKy3vxLcC5RMyymYtGsPehSmMQDRD8K2o_NA&oe=6A859FF6",
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/774762020_17983962798110866_5000643705882553038_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=101&ig_cache_key=Mzk2MzkyMTcxOTUwNzg2MDU2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Iizb54BFiUQQ7kNvwHYMldQ&_nc_oc=AdpZJFrKfXk3gmM7lskmysQcgHH8xVwSRaGGd_p7i2zdOt487k9X_ATqKuzZo2CYb90&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=e8CU2S3Yqumb2MzsOQqwuQ&_nc_ss=7a22e&oh=00_AQHUH0jABZnk62bj-nupuHegZt2llHpofNcjyl6UIR2Gmw&oe=6A85AD25",
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/774128454_17983962819110866_6161804147755636733_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=108&ig_cache_key=Mzk2MzkyMTc2NDE3NzE3NzE2NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=522y9g4Z48wQ7kNvwE2QFgn&_nc_oc=Adp_eKlVEIb9lEx_pFwbENZLTlqs3F8A4dsxZ0pGDWy7OYwEaYHa94N0-0zpB6noATI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=e8CU2S3Yqumb2MzsOQqwuQ&_nc_ss=7a22e&oh=00_AQGob3WH3ezgfd5bpkW2enMxSrYXvW1ZwZ6haPScE1-yKg&oe=6A857E6C",
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/773066358_17983962846110866_9160493923488846143_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=106&ig_cache_key=Mzk2MzkyMTc5ODYwNDA1OTkxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=5zKKi7r8sbcQ7kNvwEgH7Ay&_nc_oc=AdpJaO2cU9d72Qrwt5B1cQu9DMKNRs1hjyPhsIbkPx6erGVAiQe6MThfGvNvFDVVuh8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=e8CU2S3Yqumb2MzsOQqwuQ&_nc_ss=7a22e&oh=00_AQHngwXFhaSsz_J7OkCJ6PVdS0tLlH3HQX_hEau-Sdq2fw&oe=6A85B4BB"
-      ],
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/583300009_17913674601243588_801733575473640817_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHDczid2GJR6DIm9VGTDWNa6kHZ2oN5Qt7RIcZ68Ew7u9L3DQC7VPb0m9j3d12QX20&_nc_ohc=O5fnbTxoLyAQ7kNvwGdlrxs&_nc_gid=9CzW873ao5PtuovCK2qaUQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFrdu0LxjEEqJdfMzy4kuCFzjRmHVJg2wlZ3Rs-oS8zDw&oe=6A859B84&_nc_sid=10d13b",
+      "media_images": [],
       "video_url": null,
       "video_poster": null,
       "_keyword": "리뷰"
     },
     {
-      "id": "DZ0gHpjjrRt",
-      "username": "@rascador_dk",
-      "permalink": "https://www.threads.com/@rascador_dk/post/DZ0gHpjjrRt",
-      "text": "rascador_dk 06/20/26 [시승기] 1억 원짜리 프리미엄 전기차라더니 순정 내비게이션도 없고 헤드업 디스플레이까지 빼버린 차가 있습니다. 바로 아메리칸 럭셔리의 정수라고 불리는 캐딜락 리릭 이야기입니다. 처음 이 차의 스펙과 가격을 보고 과연 한국 시장에서 통할까 의문이 들 수밖에 없었습니다. 1억 원이 넘는 거금을 지불하면서 이런 필수 편의 사양이 빠진 점은 솔직히 한국 소비자 입장에서는 단번에 이해하기 힘든 부분이기 때문입니다. 그런데 이 차를 직접 타고 24시간 동안 무려 1,200km를 주행하며 전국 투어를 다녀온 뒤 제 생각은 완전히 뒤집혔습니다. 불편함을 다 씹어 먹을 정도로 도로 위에서 압도적인 존재감을 뿜어내는 미친 무기가 숨어있었기 때문입니다. 👇 Translate 4 4",
+      "id": "DcBfFb_CbiF",
+      "username": "@ulsan_powerfood",
+      "permalink": "https://www.threads.com/@ulsan_powerfood/post/DcBfFb_CbiF",
+      "text": "ulsan_powerfood 울산맛집 13h 시대가 많이 달라졌음 잘은 모르겠지만 인플루언서 분들이 매우 많이 생겨나셨고, 솔직한 후기 보단 맛있고 좋았던 곳 리뷰하는 것이 대중화가 된 것 같더라고 요식업 종사자 분들은 광고도 필수인 시대가 된 듯.. 내 기준 요즘 느끼는 것은, 여전히 광고 없는 리뷰어들이 더 신뢰가 가고, 솔직하고 안 좋은 의견들을 올리는 것은 독이 되고 있다 라는 것 (울산에서 활동하시는 분 중 그런 분이 계신다면 추천 좀 ㅠㅠ) 아, 물론 흔히 포트폴리오라고, 이런 거 없이 주구장창 전문가 마냥 평가하는 분들이 독이 된다는 것 나 또한 좋게 보긴 어려운 요즘이고, (본인도 좋게 보기 힘들고 ㅋㅋ) 뒷광고니 뭐니 이런 것도 큰 문젭니다, 주변 사장님들의 팩트 체크 및 직접 본 것도 있어서 여전히 안 좋은 문화라고 생각함 아무튼 난 맛있는 곳만 올리겠음, 협찬 리뷰 게시글 활동 중 하나도 없는 저는 늘 똑같이 가겠슨! 혼틈 깨끗한 척 입니다, 이상! Translate 17 8 2",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/726977424_17977439781103565_6689719833278908132_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40OTguYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gE8sDHmYvDhZ3B7RVaRimXlHtwK9XDQCWYXh-mHeBIs9hwx9olHNLcVMBsPwzzyfzY&_nc_ohc=Lb5pr0BvUsQQ7kNvwHZCqUT&_nc_gid=3Yb7RW6f2brTWPAEUs6hyA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEe_0rmFTo-f5cCXSW3_4gFQSk0y1qUScuiZZamVdDL1w&oe=6A858A2E&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/530747201_18526198675043774_1333714341383504665_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHDczid2GJR6DIm9VGTDWNa6kHZ2oN5Qt7RIcZ68Ew7u9L3DQC7VPb0m9j3d12QX20&_nc_ohc=LlMzLTRLWNMQ7kNvwEiMHFg&_nc_gid=9CzW873ao5PtuovCK2qaUQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGwf3B_OBU7MIEMuw0YbCKnzrca_2OkMktjm4_53JrWqQ&oe=6A85BE85&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/727393618_17975757309103565_8937212082945923230_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkyMzkwMjQzMzc1OTk5OTkxOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzExLnNkci5yZWd1bGFyX3Bob3RvLkMyIn0%3D&_nc_ohc=JDc8GKMJ2uQQ7kNvwH8Nxk8&_nc_oc=AdrldJKn9TzVGuF5b2S5Bf40SsjBR8IwxJmLFF2ddrOE9LhgLonKneMusjNb_IvwtdM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=3Yb7RW6f2brTWPAEUs6hyA&_nc_ss=7a22e&oh=00_AQE7Gf2AWkeXV7FpOHiAkuonptHL8C7TbqbKPmkdi9GmIw&oe=6A85B51F",
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/724276275_17975757291103565_5464923375148375376_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkyMzkwMjQzMzk4NjQ5MjA5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTY2LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=80VaXoFSe_oQ7kNvwGGzNgi&_nc_oc=AdrJQZTy9q5WWmCcjnThUREhdv4NVsaHvUq53t-fLMn-cmtOxx3DdMIwSAtT764jooA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=3Yb7RW6f2brTWPAEUs6hyA&_nc_ss=7a22e&oh=00_AQFfdN30xLzRrmsPhzkEL6YdoKqCkXRtU0Gwm303o2TIWQ&oe=6A857E2A",
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/725860014_17975757294103565_404022485353039260_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzkyMzkwMjQzMzk0NDU1NzY2NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTY2LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=USjtyJ4d0TwQ7kNvwHjhENJ&_nc_oc=Adq2S62J4tkK7MeEtNEhw7-VkzQR8E3roU_eRBCNPyI0oEn6czjASOCldL6a7LagL0A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=3Yb7RW6f2brTWPAEUs6hyA&_nc_ss=7a22e&oh=00_AQEyhDyewp41-v9ZCfFn3JweK5XSBE-uuB4kk6nDU0cHbQ&oe=6A858CF4",
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/727799618_17975757312103565_9065320483012064072_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzkyMzkwMjQzMzc2ODQzOTQ2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTY2LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=ebwQA_hZH-UQ7kNvwHh2TPX&_nc_oc=Adrx3ofvZgYIkUjqZKckW7zfosaHPQLeTi4PoBl9PJL87CvXptWzw_ylSBSI8G6UWBk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=3Yb7RW6f2brTWPAEUs6hyA&_nc_ss=7a22e&oh=00_AQF7pfVCfPJkYYclkjqQ2YMVk_-7HwBkEQHdPvLiV-zxfQ&oe=6A8596FE"
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/772020789_17901125433551879_9124194216328533596_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk2MzU4NTg2MDE1MDYwNTk1Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Uoo8UcDwXsQQ7kNvwGK0Pw9&_nc_oc=Adohv7866vBlo1B_jvlPoCAtNu1m2Dc-6ZiR58GPAN6dYUAZmuO769yO59FoyXLVGbc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=9CzW873ao5PtuovCK2qaUQ&_nc_ss=7a22e&oh=00_AQFmm-omqq8tVgThp0fbw2x7uasNdHc44wB5MoFGUFqSCw&oe=6A85B2A1"
       ],
       "video_url": null,
       "video_poster": null,
-      "_keyword": "시승기"
+      "_keyword": "리뷰"
     },
     {
       "id": "DRg7LezEycc",
@@ -293,11 +255,29 @@
       "text": "todol_84 에테르노청담 11/26/25 분양가가 200억짜리 아파트가 있네.. 터보형이랑 SF90 시승기 찍으러 에테르노 청담 갔는데. 뷰도 너무 좋고,. 이건 그동안 본 아파트중에서 하드웨어는 1등이다. 호텔 스위트룸 아무리 좋아도 여기 못 따라감.ㄷㄷ Translate 339 26 5 31",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/12918026_260542237624324_177958196_a.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gE8sDHmYvDhZ3B7RVaRimXlHtwK9XDQCWYXh-mHeBIs9hwx9olHNLcVMBsPwzzyfzY&_nc_ohc=k5MUu6Sxn-UQ7kNvwFxIhPh&_nc_gid=3Yb7RW6f2brTWPAEUs6hyA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGpHLJ8pzHQ571877Cu_brcBIbc8DdiydnvCEHXygvaDA&oe=6A858DEF&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/12918026_260542237624324_177958196_a.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHEknuCzsNI0SEuadVZauVSb-w77TE40Q_jh3fuwWtkwGozh6De6Zd9gHw-3RGmpVQ&_nc_ohc=k5MUu6Sxn-UQ7kNvwGGhCNw&_nc_gid=Lw1dQ3tK2mavDClWO3MDfQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQG1vCc5XuD34RXytojGb2jO6eTqPxU121N9R-steWTxOQ&oe=6A85C62F&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/586678000_17932668981110796_8143737709227831117_n.webp?_nc_cat=107&ig_cache_key=Mzc3NDI3Njc1MzU2MTk0NDU5Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTgwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=cQ676AtKY5wQ7kNvwEWdS7A&_nc_oc=AdrzvN735vpipyrKbQf-jwfB7bnuIk_ddoZOrqIuyeZtyv7O_0slDNZhIzFRKu5f7CM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=3Yb7RW6f2brTWPAEUs6hyA&_nc_ss=7a22e&oh=00_AQHfmvkpx3M3Nvio_0OWXtMxEKP4pBMBbaU3at7o59Vqrw&oe=6A858AA6",
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/586406633_17932668978110796_8795517067609470955_n.webp?_nc_cat=104&ig_cache_key=Mzc3NDI3Njc1MzI4NTEzMDcyMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTgwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=LGgTAVeVKq4Q7kNvwExcRVV&_nc_oc=Adozj10UoSq2cNbf26vrmxUx9IJS8Mb7Qoh4sJ6heo3I7LNw1nKgHRm0gpmVCdrUzUY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=3Yb7RW6f2brTWPAEUs6hyA&_nc_ss=7a22e&oh=00_AQHaSHdTB3cITWeZ9jnVQYuoNT26R1oZau3urq9YYSAxuQ&oe=6A8585A3",
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/587502457_17932668963110796_7793264250179299187_n.webp?_nc_cat=108&ig_cache_key=Mzc3NDI3Njc1MzUyODQzNDEyNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTgwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=HRzQgdzZSjUQ7kNvwEvBJWo&_nc_oc=AdpGlsGNQQro-f4ybm29JFMfUOScuzCBi6ZE-VRxwyFly8ZoOj2QQv9VQi9O2uBUFJQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=3Yb7RW6f2brTWPAEUs6hyA&_nc_ss=7a22e&oh=00_AQHq2gZLZqKN4QmkMCwNMvs8dejP1JLSjN60GvMOqDOibQ&oe=6A857E28"
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/586678000_17932668981110796_8143737709227831117_n.webp?_nc_cat=107&ig_cache_key=Mzc3NDI3Njc1MzU2MTk0NDU5Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTgwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=cQ676AtKY5wQ7kNvwGyZTom&_nc_oc=AdrcPGnN_KFk4OO5i043XHg50uUFAaGe9xvet7M_qr232yGofCepY3AqsMYGTfH3o4s&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Lw1dQ3tK2mavDClWO3MDfQ&_nc_ss=7a22e&oh=00_AQHrA6heWs0aOdDD9U1BkGUQ0NpRCyCPBQaM-1g4XnsWfg&oe=6A85C2E6",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/586406633_17932668978110796_8795517067609470955_n.webp?_nc_cat=104&ig_cache_key=Mzc3NDI3Njc1MzI4NTEzMDcyMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTgwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=LGgTAVeVKq4Q7kNvwEliNGE&_nc_oc=AdoXgZH0x43-SxFbqKpjgQjwJZc6b_F4ZM6oW0eUpn-OngXrbqsRSJSO9hLj6eOFAow&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Lw1dQ3tK2mavDClWO3MDfQ&_nc_ss=7a22e&oh=00_AQFA1TkSaYmfn35vfhzc_b_0w0hRdwr3MHCtcioWDoCCpg&oe=6A85BDE3",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/587502457_17932668963110796_7793264250179299187_n.webp?_nc_cat=108&ig_cache_key=Mzc3NDI3Njc1MzUyODQzNDEyNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTgwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=HRzQgdzZSjUQ7kNvwHfPeYa&_nc_oc=Adrnnf4nCLLgqoQhAOybOH-9CqHXZbp47HIpN8g0ICy5PSgKWVlL0lJ-G0ycIhXjKKs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Lw1dQ3tK2mavDClWO3MDfQ&_nc_ss=7a22e&oh=00_AQGkk7LiN_vH28wBlxhiWcpKhy2KoCpbWiUq0VdMXFjC2w&oe=6A85B668"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "시승기"
+    },
+    {
+      "id": "DFNE1TaS6hc",
+      "username": "@ms2873_miko",
+      "permalink": "https://www.threads.com/@ms2873_miko/post/DFNE1TaS6hc",
+      "text": "ms2873_miko 폴스타4시승기 01/24/25 2025.01.24 아들래미 폴스타4 2박3일 시승해보는거 당첨 됐다해서 가지러 센텀 다녀왔엉 백화점 간김에 🍓 모찌듸 같이 모셔간당~ 와우 좋타~~~🤭 폴스타4시승기 Translate 82 33 4",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/358811990_285246454011983_1181735653809958968_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHEknuCzsNI0SEuadVZauVSb-w77TE40Q_jh3fuwWtkwGozh6De6Zd9gHw-3RGmpVQ&_nc_ohc=zPnvYJ2luS8Q7kNvwEHoHEh&_nc_gid=Lw1dQ3tK2mavDClWO3MDfQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQG3O1AFDyIgjYW1jOorCrrvUEB2yuP4yEtZvUQcQbNzOQ&oe=6A85ACD9&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.75761-15/474961374_18065523175845661_15352623208160828_n.webp?_nc_cat=105&ig_cache_key=MzU1MjUxNjkyNTA2ODY4MzgzNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=T3lbz9NuxfAQ7kNvwGrUvLk&_nc_oc=Adrou8EcWfgvBlM0K881h0VFs9mOl7I4H2PQKHZeZFz-w435l0faRxbZ2pKoX2v9E10&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Lw1dQ3tK2mavDClWO3MDfQ&_nc_ss=7a22e&oh=00_AQF2I6tTghB1-3wV1oryC48fBbtVtDBZu9IAQdH5scB1yQ&oe=6A859F6D",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.75761-15/475129233_18065523172845661_3503286355534711707_n.webp?_nc_cat=100&ig_cache_key=MzU1MjUxNjkyNTIxOTkxMzg4Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=njLKK7t0v8cQ7kNvwGQsnc2&_nc_oc=AdqK6ESVDW8fJdVJVzQrjvEIldPhsvQ9ORqN8g5gOHGv6VnZHFNbLo7rZncmxO_wMgI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Lw1dQ3tK2mavDClWO3MDfQ&_nc_ss=7a22e&oh=00_AQE16wHj_OJYWYo5FhJpmISe0slOvqLNl92bygorgzujow&oe=6A85C529",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.75761-15/474849582_18065523151845661_7717600660461654991_n.webp?_nc_cat=108&ig_cache_key=MzU1MjUxNjkyNTA2MDQxODQxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xkHgdVzwwUMQ7kNvwHnjy32&_nc_oc=AdpkSDb6Z664uT66gwXAmZ_sAXxL61t7dibQ1xqZFfKeq8zoFL3J2nnFtodTPfb3hqk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Lw1dQ3tK2mavDClWO3MDfQ&_nc_ss=7a22e&oh=00_AQHoN7Qco9_wcrX4qHCscIpbkl8Gm2iYCMEqgeJe3khYnQ&oe=6A85A867",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.75761-15/472292729_18065523157845661_3450862589616026872_n.webp?_nc_cat=110&ig_cache_key=MzU1MjUxNjkyNTA3NzE2Njc5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=97pJjBelB1oQ7kNvwFQv7wJ&_nc_oc=AdowLz7mG2g3o-fnMrVHWTXGilsLFh2Pp6NuvmH7LVRhe5pkncue3DNujj9aUzssTUw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Lw1dQ3tK2mavDClWO3MDfQ&_nc_ss=7a22e&oh=00_AQHQRzpGu3Msr4-OJVhJ2uLG_bLd3KYILtmTX-d0kbI87Q&oe=6A85A00D"
       ],
       "video_url": null,
       "video_poster": null,
@@ -310,10 +290,28 @@
       "text": "a0228y 시승기 04/15/26 하.. 이쁘긴 한데 혼날것같은데 이쁜데 나한테는 너무 버거운 차인데 그래도 차는 좋더라 뭐 나는 차는 굴러만가면 되는데.. 이쁘더라고.. Translate 22 22",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/468286381_538796935585485_6570358716243401780_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gE8sDHmYvDhZ3B7RVaRimXlHtwK9XDQCWYXh-mHeBIs9hwx9olHNLcVMBsPwzzyfzY&_nc_ohc=Vw9-swl_-ZIQ7kNvwG2WF_4&_nc_gid=3Yb7RW6f2brTWPAEUs6hyA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFOrLiJjwhDKdiLhSLHJWNBUyAfpn5Q0gLTxqz0IXFT7w&oe=6A859408&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/468286381_538796935585485_6570358716243401780_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHEknuCzsNI0SEuadVZauVSb-w77TE40Q_jh3fuwWtkwGozh6De6Zd9gHw-3RGmpVQ&_nc_ohc=Vw9-swl_-ZIQ7kNvwGAybnF&_nc_gid=Lw1dQ3tK2mavDClWO3MDfQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQH-7EgMJM3E8Y9NfLvU4GF92est7FWMxQpLepotTPIonA&oe=6A859408&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/670421577_17956089420110480_6206382488235448023_n.webp?_nc_cat=111&ig_cache_key=Mzg3NTg4NjAzOTMxMTU2ODc0Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=FoykWZPF5TQQ7kNvwFMQ-nb&_nc_oc=Adrz3IRkTcbBP0b-_4D8o356yD-JjAboBr0ZsIsPL0zNPJZiTleHQia750uB5ZM80yE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=3Yb7RW6f2brTWPAEUs6hyA&_nc_ss=7a22e&oh=00_AQEjDqg3d1AezXZOd8xKRdfwCBqDsRMX8r7P8cPxnPloTA&oe=6A85A1E8",
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/670979576_17956089411110480_8745895012260818907_n.webp?_nc_cat=111&ig_cache_key=Mzg3NTg4NjAzODU2NDk1MTY3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ozyThgBJfzkQ7kNvwHpVUSN&_nc_oc=AdqN0hok0Wd0XOwooDlUr25Kkx0Eb5tobN21y5FiKpc-cEsX6c8iEqsmrZ1VVuiCvxI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=3Yb7RW6f2brTWPAEUs6hyA&_nc_ss=7a22e&oh=00_AQFXBS22XRMvJlNJPE-T2UpcLLqxcHUmb6c2Nqi7Ey-raw&oe=6A857DCA"
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/670421577_17956089420110480_6206382488235448023_n.webp?_nc_cat=111&ig_cache_key=Mzg3NTg4NjAzOTMxMTU2ODc0Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=FoykWZPF5TQQ7kNvwF6kLGj&_nc_oc=Adr5SmFWrQEXeyLmvbpgGV-yo3-C7hXTlzWFuk8K0RhyHMFmAx7RxTCWG8gvOdABVVY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Lw1dQ3tK2mavDClWO3MDfQ&_nc_ss=7a22e&oh=00_AQFuaZWPtbVsLZsuJWQ1IJV4PZj5_K5nqdz1a9N36Wjuyg&oe=6A85A1E8",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/670979576_17956089411110480_8745895012260818907_n.webp?_nc_cat=111&ig_cache_key=Mzg3NTg4NjAzODU2NDk1MTY3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ozyThgBJfzkQ7kNvwE1fH0K&_nc_oc=Adqd6hHyH0GLc8qLt6RThBEAbDjR_tpnPfV_PIfLObLrbu0zZKLAxg13JVx2a-YD53c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Lw1dQ3tK2mavDClWO3MDfQ&_nc_ss=7a22e&oh=00_AQFXiGTKIpP18hRJqGXMKrSKy-cFqx0S3braHVsm_yYCtA&oe=6A85B60A"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "시승기"
+    },
+    {
+      "id": "DZ0gHpjjrRt",
+      "username": "@rascador_dk",
+      "permalink": "https://www.threads.com/@rascador_dk/post/DZ0gHpjjrRt",
+      "text": "rascador_dk 06/20/26 [시승기] 1억 원짜리 프리미엄 전기차라더니 순정 내비게이션도 없고 헤드업 디스플레이까지 빼버린 차가 있습니다. 바로 아메리칸 럭셔리의 정수라고 불리는 캐딜락 리릭 이야기입니다. 처음 이 차의 스펙과 가격을 보고 과연 한국 시장에서 통할까 의문이 들 수밖에 없었습니다. 1억 원이 넘는 거금을 지불하면서 이런 필수 편의 사양이 빠진 점은 솔직히 한국 소비자 입장에서는 단번에 이해하기 힘든 부분이기 때문입니다. 그런데 이 차를 직접 타고 24시간 동안 무려 1,200km를 주행하며 전국 투어를 다녀온 뒤 제 생각은 완전히 뒤집혔습니다. 불편함을 다 씹어 먹을 정도로 도로 위에서 압도적인 존재감을 뿜어내는 미친 무기가 숨어있었기 때문입니다. 👇 Translate 4 4",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/726977424_17977439781103565_6689719833278908132_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40OTguYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHEknuCzsNI0SEuadVZauVSb-w77TE40Q_jh3fuwWtkwGozh6De6Zd9gHw-3RGmpVQ&_nc_ohc=Lb5pr0BvUsQQ7kNvwHWRBzK&_nc_gid=Lw1dQ3tK2mavDClWO3MDfQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFT7GgG3-J-yEm4Z9lpZPKc-Z-tvlEL0uRambMA-_q47A&oe=6A85C26E&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/727393618_17975757309103565_8937212082945923230_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkyMzkwMjQzMzc1OTk5OTkxOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzExLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=JDc8GKMJ2uQQ7kNvwEpevf2&_nc_oc=Ado2S2xo7aK9p3czIjS2YkCEqCdwDEGTlm-8n_7fcQnQKSoCe75KdD0Unyl3e1hD4e0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Lw1dQ3tK2mavDClWO3MDfQ&_nc_ss=7a22e&oh=00_AQHIbSBNIv0y5CfocuahlzcfYNRIURf_AmepLGBP1J1hAA&oe=6A85B51F",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/724276275_17975757291103565_5464923375148375376_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkyMzkwMjQzMzk4NjQ5MjA5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTY2LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=80VaXoFSe_oQ7kNvwHYou1J&_nc_oc=AdoknHD7nbmyu2zJCVWCKA36AehDEPRYIUipbunWMIXCkDgJLAgSy2kaqptOaOr62f8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Lw1dQ3tK2mavDClWO3MDfQ&_nc_ss=7a22e&oh=00_AQHb_-c_kAKoFwkju0aawtw2pwohERd786NWkqeLmKPSqA&oe=6A85B66A",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/725860014_17975757294103565_404022485353039260_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzkyMzkwMjQzMzk0NDU1NzY2NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTY2LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=USjtyJ4d0TwQ7kNvwEeR8Ba&_nc_oc=AdqkhhYHBlmfbWmJQY2k5Qh8uLpRNNv_FGvQWKNtGkz-mxXexgmaso2ljiVD2i0J8yU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Lw1dQ3tK2mavDClWO3MDfQ&_nc_ss=7a22e&oh=00_AQFuk8DwnyUu8pbHFTX4cFOO2ii3_STyYZPpIiol29gTpg&oe=6A85C534",
+        "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/727799618_17975757312103565_9065320483012064072_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzkyMzkwMjQzMzc2ODQzOTQ2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTY2LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=ebwQA_hZH-UQ7kNvwFNon2X&_nc_oc=AdouRz8o_RZqkLYxt-AZA0u7ZT_DaG2DWRtV5ShdgoToCzhrroKr1OAq-INCjhxSXR4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Lw1dQ3tK2mavDClWO3MDfQ&_nc_ss=7a22e&oh=00_AQEex0zYcQB-1MsT_aHURxymUXXWAEtbAjnZbIuZ7CMk9Q&oe=6A8596FE"
       ],
       "video_url": null,
       "video_poster": null,
