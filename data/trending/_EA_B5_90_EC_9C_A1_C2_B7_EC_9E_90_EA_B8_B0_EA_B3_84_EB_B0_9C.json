@@ -7,173 +7,127 @@
     "동기부여",
     "성장"
   ],
-  "fetchedAt": "2026-11-26T05:02:44.204Z",
+  "fetchedAt": "2026-11-26T15:07:19.289Z",
   "items": [
-    {
-      "id": "C_4ULiYSOfu",
-      "username": "@tabletalks_kj",
-      "permalink": "https://www.threads.com/@tabletalks_kj/post/C_4ULiYSOfu",
-      "text": "tabletalks_kj 자기계발 09/14/24 <내가 강사로 사는 이유> 가르치는 것은 두 번 배우는 것이다. 자기계발 Translate 239 22 12 3",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/455250189_1524770801460635_5360536499091914451_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGHS7CZ-EKqOZ09vmpxiCLqFnePAmUX2bD2zipScf869yhZgIvxxe9nOeW1La4Aaes&_nc_ohc=kU9SXF3o6-MQ7kNvwGPBJ2H&_nc_gid=O7BF__n7qkHVfHmL6pwNLA&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQt7Ig9TokRV0b76jUuK89v0xJw_ZzZVhglwcrt3OUMEg&oe=6B0DA2BA&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "자기계발"
-    },
-    {
-      "id": "DWMRPIpElwl",
-      "username": "@jeongyunjae17",
-      "permalink": "https://www.threads.com/@jeongyunjae17/post/DWMRPIpElwl",
-      "text": "jeongyunjae17 자기계발/자기개발 03/22/26 다들 자기계발 잘하구 있어? 오늘 부터 쓰레드에서 기록하듯이 올릴건데 별로려나 오늘부터 10페이지씩 읽고 일기도 꼬박 쓸려구 항상 마음만 먹고 실행에 옮긴적 없지만 1년동안 죽도록 노력해봐 살면서해볼려구 Translate 21 7 4",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/607433073_17910311886268085_826068280378164238_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGHS7CZ-EKqOZ09vmpxiCLqFnePAmUX2bD2zipScf869yhZgIvxxe9nOeW1La4Aaes&_nc_ohc=u1rSA7seOOMQ7kNvwFqdAZH&_nc_gid=O7BF__n7qkHVfHmL6pwNLA&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSgmzuT7AolQJ6y4mVsU1Wfo0hKCuWqAlZlw5FJPoSjIQ&oe=6B0D92F6&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/655226660_17920896366268085_7678675413999491505_n.webp?_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=Mzg1ODUzNDc4MTk5OTUzNjk1NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjk5Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6zMOMLGCiWsQ7kNvwFO-FSs&_nc_oc=AdrOzHZVR59QjzcyYJhDW1VzDl0GtugHJ0iVhZ5BN4cJkCnwzTOheomsnW9fd05MMSI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=O7BF__n7qkHVfHmL6pwNLA&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQR9IHLm0KIHKjUi-VYbJfvUf3myUc_RQNfcn0Yk2v2qlA&oe=6B0D7A52",
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/656374751_17920896552268085_808263771221508558_n.webp?_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=Mzg1ODUzMzk1MzA4NzY0MzAzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjk5Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-G5UTiVnnlgQ7kNvwFxyffs&_nc_oc=AdpuzPKjK2E8DCph2G1MPj-7qrT2RFTvQbwzr8zzvodf6YktI3_rFY66s-oR4rPBErc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=O7BF__n7qkHVfHmL6pwNLA&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRBLJdRNc3JvGyAAJJSTxIZme7E8P6AgqGZdBZT5BTA-Q&oe=6B0DABD4",
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/655163052_17920896597268085_2385183060479218288_n.webp?_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=Mzg1ODUzNDE3OTMyODM4NjEwNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjk5Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=X_VBV-MmM6EQ7kNvwHNFLaG&_nc_oc=AdqSBpEMn-AGRB2JojViTkrYEBs4tURLe40KSyJTFPYQpAiU0OrSLCj3lf1E8GmojRA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=O7BF__n7qkHVfHmL6pwNLA&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTfVdivmUp6Z_0SWXTT4bRIz3ZhcR3QqKlFZLv4p93uyg&oe=6B0DA6DD"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "자기계발"
-    },
-    {
-      "id": "DUQndODkmZI",
-      "username": "@runnurse_high",
-      "permalink": "https://www.threads.com/@runnurse_high/post/DUQndODkmZI",
-      "text": "runnurse_high 자기계발 02/02/26 이런 사람이랑 스친하고 싶어👋🏻 1.자기계발 좋아하는 사람 2.기록을 좋아하는 사람 3.늘 비전을 꿈꾸는 사람 4.하고 싶은게 많은 사람 5.독립적으로 살아가는 사람 하나라도 해당 되면 나랑 스친하자! Translate 285 110 53",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/825326759_17888399703684376_1720290278511075965_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40OTguYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGHS7CZ-EKqOZ09vmpxiCLqFnePAmUX2bD2zipScf869yhZgIvxxe9nOeW1La4Aaes&_nc_ohc=Nkg-Kh__be0Q7kNvwFo_-_J&_nc_gid=O7BF__n7qkHVfHmL6pwNLA&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQ3l4xr39SwiG_xoOdQpRXpKDT6wFzXvP7_Lvqn8GfYIw&oe=6B0DA211&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "자기계발"
-    },
     {
       "id": "DgC5Ve2j4vU",
       "username": "@guon1987",
       "permalink": "https://www.threads.com/@guon1987/post/DgC5Ve2j4vU",
-      "text": "guon1987 3d 난 자기계발 책 읽는 거 좋아해 실천하려고 노력중이야 언젠가 사람들에게 동기부여 해주는 책도 써보고 싶어 어떤 자기계발 해봤어? Translate 34 15 3",
+      "text": "guon1987 4d 난 자기계발 책 읽는 거 좋아해 실천하려고 노력중이야 언젠가 사람들에게 동기부여 해주는 책도 써보고 싶어 어떤 자기계발 해봤어? Translate 34 15 3",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/780551082_18101500196199948_3273002607740640159_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGHS7CZ-EKqOZ09vmpxiCLqFnePAmUX2bD2zipScf869yhZgIvxxe9nOeW1La4Aaes&_nc_ohc=fmW83lgKEX4Q7kNvwFt5pxt&_nc_gid=O7BF__n7qkHVfHmL6pwNLA&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQLNFdIfknCfDyMX_wCHIIZOnIrSFmXNOGJgQGECLhnjQ&oe=6B0DA976&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/780551082_18101500196199948_3273002607740640159_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHFkDQnIvNff6PKks7qwiZNPQesi5sGiNEI7f2Vf1NV0pcLXgPWm_hDo-FyzfxFzQI&_nc_ohc=fmW83lgKEX4Q7kNvwFw8RSh&_nc_gid=QuRjaLVrKokQqz38VWdd1g&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRre7-nOMUkTUvoVAp2m_vr--RBZTwGRg_AiSrGzxrtuQ&oe=6B0E19F6&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
       "_keyword": "자기계발"
     },
     {
-      "id": "DK8gIjtzazN",
-      "username": "@5_daily_miracle_",
-      "permalink": "https://www.threads.com/@5_daily_miracle_/post/DK8gIjtzazN",
-      "text": "5_daily_miracle_ 자기계발 06/16/25 자기계발, 뭐부터 시작하냐고? 답은 하나! 체력이다. 운동부터 해. 일단 걷기부터! 체력이 안 되면, 아무것도 안 돼. Translate 133 52 7 1",
+      "id": "DVWFVpRk122",
+      "username": "@79_psj",
+      "permalink": "https://www.threads.com/@79_psj/post/DVWFVpRk122",
+      "text": "79_psj 03/01/26 재산을 빨리 불리는 1 to 10 법칙 1단 알바라도 해라 2년만 독해져라 3끼는 집밥으로 해결하라 4치는 과감히 끊어라 5래 쓸 물건은 좋은 걸로 사라 6개월치 비상금은 필수다 7할은 저축하고 나머지만 써라 8아서 돈 되는 것만 사라 9매 전에 한번더 생각하라 10년뒤 목표를 세워라 #40대일상 #일상 #재산 #자기계발 #혼자서 Translate 648 14 112 183",
+      "has_image": true,
+      "has_video": true,
+      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/789325460_17960069949195652_4086919015258690716_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHFkDQnIvNff6PKks7qwiZNPQesi5sGiNEI7f2Vf1NV0pcLXgPWm_hDo-FyzfxFzQI&_nc_ohc=LyThHCQMRK0Q7kNvwH_SZrg&_nc_gid=QuRjaLVrKokQqz38VWdd1g&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRlBoUy5IZ9adIIhoBu8pdvd7BIdbR5spu5tBWVw4iV-A&oe=6B0E2007&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-ord5-1.cdninstagram.com/v/t51.71878-15/640486906_2064060427783510_992305599350386061_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=Mzg0MzI4MjgwOTY2NzE0OTIzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19hZGRpdGlvbmFsX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=agn4BxgAmJcQ7kNvwE7dcnU&_nc_oc=AdpA0BeWsgDs3fGRyvMfZyg4uuUwTuB3m7iI9bPkj8uIsroXqNeIWVCoAb6Ex80aaTM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=QuRjaLVrKokQqz38VWdd1g&_nc_ss=7a30f&_nc_ct=RQosPBUIFQYlBAAAAA&oh=00_AQTlQ0tnhdDjXkMUA9u9ptFjFAvL1F3nDsVknmlz_3NeAg&oe=6B0E064F"
+      ],
+      "video_url": "https://scontent-ord5-2.cdninstagram.com/o1/v/t16/f2/m69/AQP4xVzGsgKdeDM9_RLJIoUNgZKSiRIpGmKoW69UU5rTFjkm_a-9bIP5ljBByQSqZE4j--fraoeG1AZhMTeGslO1.mp4?strext=1&_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_ohc=4sT0SpsKyN0Q7kNvwG6N-F7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxNzkzMjI5NjExMTE5NTY1MiwiYXNzZXRfYWdlX2RheXMiOjI3MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=7e007dc5279d0785&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRzRnY2liMHB4bzFfUWdEQU85c1FPZFZsRHg2YnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzQ2NEQxMEYzRUIxQzM1MTE3NzIxNTU1RDI5REFGMUFGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaImLi7gdXaPxUCKAJDMywXQBQhysCDEm8YEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeadAQA&_nc_gid=QuRjaLVrKokQqz38VWdd1g&_nc_ss=7a30f&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=Uj9L20lwXKOK1w63g2fOjuWjsoFSYXXGMd-ViN2q4nEc4H6aT9yA8sRjqY4_WNxboEgOK9TKqSzhhNDLObacKUukjf7lGdbBf2sNC73ul7MusA18ulepXBn71lQ&oh=00_AQR1qvQpyvw86LL_d3OsCRAHbaFM1JEo-OL6CzYRJ63hkg&oe=6B0E29F6",
+      "video_poster": null,
+      "_keyword": "자기계발"
+    },
+    {
+      "id": "DT7YoEDmAG7",
+      "username": "@better_nueiz",
+      "permalink": "https://www.threads.com/@better_nueiz/post/DT7YoEDmAG7",
+      "text": "better_nueiz 01/25/26 자기계발 3대장 1. 외모 2. 독서 3. 재테크 가장 쉬운건 Translate 438 26 33 17",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/849771904_17944471602361114_3516105272181023237_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTAuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGHS7CZ-EKqOZ09vmpxiCLqFnePAmUX2bD2zipScf869yhZgIvxxe9nOeW1La4Aaes&_nc_ohc=KKR5avGZvlsQ7kNvwE7CAQK&_nc_gid=O7BF__n7qkHVfHmL6pwNLA&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSaFF3W5MXu3FeUCw5ZfnHs1B1NdNVBLRw8nuZLH4LHAQ&oe=6B0D90E3&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/489538054_1032221085627485_3486925338539402789_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHFkDQnIvNff6PKks7qwiZNPQesi5sGiNEI7f2Vf1NV0pcLXgPWm_hDo-FyzfxFzQI&_nc_ohc=ilDubPlIfnkQ7kNvwFtI-aR&_nc_gid=QuRjaLVrKokQqz38VWdd1g&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQFxJ_v5BMumelJOFoNGb3U5GQf-ITy6aTEqViiYFjxNg&oe=6B0E26E1&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
       "_keyword": "자기계발"
     },
     {
-      "id": "DNr248SUreS",
-      "username": "@turtle_step_",
-      "permalink": "https://www.threads.com/@turtle_step_/post/DNr248SUreS",
-      "text": "turtle_step_ 08/22/25 일단 저장하세요 2시간 넘게 정리한 자료예요. 지난 5년간 진짜로 읽은 돈관련 좋았던 책들 소개합니다. 부동산, 주식/금융 브랜딩&마케팅, 자기계발 등 이제 리포스트하고 읽기 시작하시죠 몇 권이냐고요? 👉 Translate 1.2K 155 492 272",
+      "id": "DgCATQnAn0e",
+      "username": "@dada.book7887",
+      "permalink": "https://www.threads.com/@dada.book7887/post/DgCATQnAn0e",
+      "text": "dada.book7887 스하리 1000명 프로젝트 4d 책 좋아하는 사람! 독서 좋아하는 사람! 글쓰기하는 사람! 자기계발 꾸준히 하는 사람! 나랑 스하리 하자🥰 Translate 145 75 50",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/719463133_18064804541709879_2805550771604690973_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGHS7CZ-EKqOZ09vmpxiCLqFnePAmUX2bD2zipScf869yhZgIvxxe9nOeW1La4Aaes&_nc_ohc=Yl_PmzyGCXcQ7kNvwHwBC0J&_nc_gid=O7BF__n7qkHVfHmL6pwNLA&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQzYdwP9IQFhvpbIIpxn6uin-Uh_oh2FNcgWllS-y8THQ&oe=6B0D9F30&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/862315959_18104926706070620_7256026244247141635_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHFkDQnIvNff6PKks7qwiZNPQesi5sGiNEI7f2Vf1NV0pcLXgPWm_hDo-FyzfxFzQI&_nc_ohc=-r3mBvqWMGsQ7kNvwGaC1Hf&_nc_gid=QuRjaLVrKokQqz38VWdd1g&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSsKeZPAsUyweLfnhwEb3mHsyTyKccP-LjQ6Sb8HNrBBg&oe=6B0E1DD7&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
       "_keyword": "자기계발"
     },
     {
-      "id": "DfoUZylEmo5",
-      "username": "@tidam.flow",
-      "permalink": "https://www.threads.com/@tidam.flow/post/DfoUZylEmo5",
-      "text": "tidam.flow 11/11/26 스레드야, 이런 사람들을 연결해줘. 꾸준함, 성장, 자기계발, 일하는 엄마, 다시 시작하는 커리어. 이런 단어에 마음이 가는 사람. 작심삼일을 여러 번 겪고도 결국 계속하고 있는 사람. 솔직히 말하면, 0에서 시작해서 3684까지 왔는데 결에 맞는 사람들과 더 연결되고 싶어. 오래 가려면 함께 걷는 사람이 있어야 하니까. Translate 342 289 79 1",
+      "id": "DexbW9sE1Pk",
+      "username": "@jung_mi_100",
+      "permalink": "https://www.threads.com/@jung_mi_100/post/DexbW9sE1Pk",
+      "text": "jung_mi_100 독서 10/21/26 돈의 속성 | 김승호 도서관에서 빌려 읽기 시작한 책, 《돈의 속성》 “열심히 산다고 돈을 많이 버는 것이 아니다. 돈을 많이 번다고 부자가 되지도 못한다. 부자가 된다고 행복해지는 것도 아니다. 부는 삶의 목적이 아니라 도구다.” 마음에 오래 남는 문장들. 돈을 많이 버는 것만이 목표가 아니라 돈을 제대로 이해하고 다룰 줄 아는 사람이 되는 것. 그리고 돈에 끌려다니기보다 돈을 통해 내가 원하는 삶을 살아가는 것. 조금 늦더라도 하나씩 배우고 실천해 보기로 했다. 📖 매일 책 한 권 읽기 도전! 책 속에서 배우고, 일상에서 실천하며 오늘보다 조금 더 성장하는 내가 되기를. 🌿 #돈의속성 #김승호 #책스타그램 #독서기록 #매일독서 #하루한권도전 #경제공부 #자기계발 #성장기록 Translate 14 7",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://instagram.faep39-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-webp&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.faep39-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gEVZik_ZFa91tBNuoLz6AbXn19oxX-QLE6hxr5mQ4xIH8fWepMhgSCaLKZBWU-K9YM&_nc_ohc=bGBDcqlxG9IQ7kNvwGv7_eJ&_nc_gid=6Mh0JwG3lOjRdDH4_DKs0w&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQ9MCFo0vWV8ovA4LjXklSDmQsplQNVBIoFqg67uQzbCw&oe=6B0E126A&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/858088280_17953622358272655_1863789165952318506_n.webp?_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAxMzEwOTA2ODI4NTgyNjAyMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=qzS2iUr24YQQ7kNvwFm9YhY&_nc_oc=Adrb-ViBeDPxa3dV2jt8j8N7VxaItgWPSSSLyR3yyGx1bdkpurerODZtGha_fTtVfwY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=QuRjaLVrKokQqz38VWdd1g&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQB2_Pqxs2cPR_0kQTcx6a7lk4A7fFpUknt63MCB1dtHg&oe=6B0E339E"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "자기계발"
+    },
+    {
+      "id": "DeO9-jGD05R",
+      "username": "@randomhuman378",
+      "permalink": "https://www.threads.com/@randomhuman378/post/DeO9-jGD05R",
+      "text": "randomhuman378 10/08/26 예민한 사람이 대수롭지 않게 여기는 법을 배울때 가장 무서워진다. 성취 속도가 남달라지는 듯. Translate 3.5K 94 401 146",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/528603720_17859716208462526_3813102922703040322_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGHS7CZ-EKqOZ09vmpxiCLqFnePAmUX2bD2zipScf869yhZgIvxxe9nOeW1La4Aaes&_nc_ohc=HJEmGr3QeyEQ7kNvwFrd_F3&_nc_gid=O7BF__n7qkHVfHmL6pwNLA&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQTqV6QRxLn5FtOUbG_U2KfISsBvzJ8Oq4omR3bfCMzDQ&oe=6B0D9A14&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/841651351_17926724658204007_6272822260939704776_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHFkDQnIvNff6PKks7qwiZNPQesi5sGiNEI7f2Vf1NV0pcLXgPWm_hDo-FyzfxFzQI&_nc_ohc=9QieYs5duzcQ7kNvwEUbC3d&_nc_gid=QuRjaLVrKokQqz38VWdd1g&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQTwnfem-JqVOPiifhg1iSl72vVihLFUOrw0iwG9YJGoTQ&oe=6B0E3067&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
       "_keyword": "자기계발"
     },
     {
-      "id": "DgLuZlTEvTp",
-      "username": "@melavynkim",
-      "permalink": "https://www.threads.com/@melavynkim/post/DgLuZlTEvTp",
-      "text": "melavynkim 성장 5h 성장한다고 열심히 달렸는데, 정작 돌파구는 멈춰 섰을 때 보인 거 아시죠? 계속 앞으로만 가면 뭔가 나아질 거라 믿고 더 많이 배우고, 더 빨리 실행하고, 더 많이 채워 넣는데 막상 돌아보면 그때그때 흘려보낸 것들이 쌓여서 \"나 지금 뭐 하고 있지?\" 하는 순간이 오더라고요. 멈춰 서서 \"이거 왜 하고 있지?\"를 물었을 때, 비로소 필요 없던 것들이 보이고 진짜 가고 싶던 방향이 선명해지는 걸 요즘 자주 느껴요. 성장은 속도가 아니라 방향이란 걸, 멈춰 본 사람만 알게 되는 것 같아요. vibe-landing-tau.vercel.app 성장 #커리어 #몰입 #방향성 #자기계발 Translate",
-      "has_image": true,
+      "id": "DgKWe5fiA6n",
+      "username": "@dada.book7887",
+      "permalink": "https://www.threads.com/@dada.book7887/post/DgKWe5fiA6n",
+      "text": "dada.book7887 스하리 1000명 프로젝트 1d 책 좋아하는 사람! 독서 좋아하는 사람! 글쓰기하는 사람! 자기계발 꾸준히 하는 사람! 나랑 스하리 하자📚❤️🥰 Translate 81 51 14",
+      "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/559803441_17846321847578908_4023076571348104793_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGHS7CZ-EKqOZ09vmpxiCLqFnePAmUX2bD2zipScf869yhZgIvxxe9nOeW1La4Aaes&_nc_ohc=UsxR2v8xYLsQ7kNvwEPV1kQ&_nc_gid=O7BF__n7qkHVfHmL6pwNLA&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQ_3ov2o6KB8p8aStMdiIGuxqgE4xfkgOTJLPN4nY-fMA&oe=6B0D7461&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/930123937_17914944882578908_3794706230578342839_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=NDAzODUyNTU1OTA0MjY2Nzc1Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNTEyLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=Iw7hdFRH5pcQ7kNvwF5EeIM&_nc_oc=AdqNpd35ZptJDKuNtg3QboVWK978vd3Mf7mPMDF9daL14Lb6bK346vnMl1Y9CoeluD0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=O7BF__n7qkHVfHmL6pwNLA&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQzsm1-BYydxxLPLHR-TI_MKsdq5JLeFOjQ9Pew3H3imw&oe=6B0D88A3"
-      ],
+      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/862315959_18104926706070620_7256026244247141635_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHFkDQnIvNff6PKks7qwiZNPQesi5sGiNEI7f2Vf1NV0pcLXgPWm_hDo-FyzfxFzQI&_nc_ohc=-r3mBvqWMGsQ7kNvwGaC1Hf&_nc_gid=QuRjaLVrKokQqz38VWdd1g&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSsKeZPAsUyweLfnhwEb3mHsyTyKccP-LjQ6Sb8HNrBBg&oe=6B0E1DD7&_nc_sid=10d13b",
+      "media_images": [],
       "video_url": null,
       "video_poster": null,
       "_keyword": "자기계발"
     },
     {
-      "id": "DcNhJblkexm",
-      "username": "@trendspheretalk",
-      "permalink": "https://www.threads.com/@trendspheretalk/post/DcNhJblkexm",
-      "text": "trendspheretalk 08/18/26 이걸 맞춘다면 초딩 산수 시간에 공부 좀 한 사람 인정.. 난 다행히 맞췄어..ㅋㅋㅋㅋ Translate 560 642 6 84",
-      "has_image": true,
+      "id": "Df47DCEmkvW",
+      "username": "@lovejoyyoung",
+      "permalink": "https://www.threads.com/@lovejoyyoung/post/Df47DCEmkvW",
+      "text": "lovejoyyoung 11/18/26 음 있잖아 내가 해보고싶은건 자기계발 서적 독서모임 : 자기개발 진심인사람들 신규 자영업자 모임 : ~ n년차 일단 지금은 이정도. 서로 생각 공유하면서 인사이트도 많이 얻고 서로에게 좋은 긍정적 영향 흠뻑 받는 모임이면 좋겠어 Translate 23 10 2",
+      "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/797337153_18086587475443753_1836712246582023309_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFwBvwNlm8nr1yBwlY5IyNTqN2XbZZvjNLlkI5ZtVzAPb2cSQ2_OBj6jxfbgf00R0k&_nc_ohc=rfSAiTTPO5gQ7kNvwGkDeUB&_nc_gid=Rtv95vizrSHVXPy23iYjDQ&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQLBrC9BiWpacf0kXzJJw-kHCBPiUs7_mfa1d8b4f9qgA&oe=6B0DA3AA&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/780471367_18080462861443753_247275054287668019_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=Mzk2Njk3MjYzMDQxNDc4MTU0Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzczLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=LyfrkJI0TAEQ7kNvwGxKGYm&_nc_oc=AdoeTO1V38NVJEpJXjv_H0Vd4upbP8Ry3ZKV7OZbhLjqlCpmWFfoj_lrqtaKW43HZ0Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=Rtv95vizrSHVXPy23iYjDQ&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQvPRf4kuTjYHbcYKWr7-ZGvnie7_AzKg3NpwMV6AVm8w&oe=6B0DA781"
-      ],
+      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/913634974_18113425487191114_6967502709558145091_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHFkDQnIvNff6PKks7qwiZNPQesi5sGiNEI7f2Vf1NV0pcLXgPWm_hDo-FyzfxFzQI&_nc_ohc=vWTasL-4ZhUQ7kNvwEplbzU&_nc_gid=QuRjaLVrKokQqz38VWdd1g&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSF3mly7IQFd8L3mqK46-WY6zsSCBg2CEXytbGFFq152g&oe=6B0E34A9&_nc_sid=10d13b",
+      "media_images": [],
       "video_url": null,
       "video_poster": null,
-      "_keyword": "공부"
+      "_keyword": "자기계발"
     },
     {
-      "id": "DawQwF3EoJ5",
-      "username": "@s.jjk.c",
-      "permalink": "https://www.threads.com/@s.jjk.c/post/DawQwF3EoJ5",
-      "text": "s.jjk.c 07/13/26 일주일 전에 저를 믿고 한성기업을 매수하신 분들은, 이제 빚은 다 갚으셨겠죠. Translate 366 127 4 12",
+      "id": "DfwGxYcHz9h",
+      "username": "@heestory__k",
+      "permalink": "https://www.threads.com/@heestory__k/post/DfwGxYcHz9h",
+      "text": "heestory__k 감정평가사 11/14/26 대AI시대에 누가 요즘 공부 이렇게 함? 바보같았군 Translate 1.7K 97 70",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/730171287_17944318503237099_2705220416437231206_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFwBvwNlm8nr1yBwlY5IyNTqN2XbZZvjNLlkI5ZtVzAPb2cSQ2_OBj6jxfbgf00R0k&_nc_ohc=XJCsI_wG1ksQ7kNvwE7PaQF&_nc_gid=Rtv95vizrSHVXPy23iYjDQ&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSBchr0kb1s1osNeQqLe7Aoo9gSQLup_05Rc4OHBj1QaA&oe=6B0DA259&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/882387710_17971723296181127_1239303441444255784_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NDQuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGQ7xJAx4G36QO6eijpysU9wMUkuSWMCPXCf8z2kbI9Z2GcV7KQtIU7jk0ma98O3FY&_nc_ohc=YlToozM7DQIQ7kNvwGj_JmD&_nc_gid=NVuX-heqQaM4wyqgl0v-Tw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQT22cE_gO2rW5kf13y6GmLWOtN9LqMCqQSni2A5TXREPA&oe=6B0E0742&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/746452206_17948045853237099_4122888325699578692_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=Mzk0MDcyMzM0NzUyMDkxNDA0MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTAyOS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_8GYEhYIao0Q7kNvwFEmJNs&_nc_oc=AdoZCDhBue23-K47gH64Ig1pbATKhS0pXlkGKmR__yhd1ipWUeQILc_0u6brg9v6mKw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=Rtv95vizrSHVXPy23iYjDQ&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTh67ZJTHiL-Xl4YRKr_94fu225spl4STRb_WWzxnvScg&oe=6B0DA782"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "공부"
-    },
-    {
-      "id": "DgL_--cEg_B",
-      "username": "@ddogoland",
-      "permalink": "https://www.threads.com/@ddogoland/post/DgL_--cEg_B",
-      "text": "ddogoland 2h 50대 중반, 새로운 길을 찾아 온라인 사업 공부에 몰두하고 있어. 혼자 고민하고, 배우고, 씨름하다 보면 문득 외로움이 밀려오네. 앞으로 잘할 수 있을지 걱정도 많지만, 오늘도 커피 한 잔 옆에 두고 열심히 공부 중이야. 스친들, 오늘도 각자의 자리에서 힘내자. ☕ Translate AI content 97 28 5",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/917795976_17953274094357679_537876054415212397_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFwBvwNlm8nr1yBwlY5IyNTqN2XbZZvjNLlkI5ZtVzAPb2cSQ2_OBj6jxfbgf00R0k&_nc_ohc=NtJ2cBqTs1IQ7kNvwEUR_gm&_nc_gid=Rtv95vizrSHVXPy23iYjDQ&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQTU0c1duVRHIUyQ0wz34lxm21bwulI622IOfCCF9BWFiA&oe=6B0D9D34&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/927278445_17954047854357679_2479457309467389996_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=NDAzODYwMjg5NTQ0ODQ3NzYzMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=gPG66bY48yoQ7kNvwGkOk1k&_nc_oc=AdrpNrswgzLH8OWnC4CpJ-HFInwcGNW8lNsJH6NIc3AcFwzZSXJTceazDBn3B27dufw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=Rtv95vizrSHVXPy23iYjDQ&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRQK5ApmLdbFWofqkZRwyUcohAKKKWqP6Eg26B9UYoG9w&oe=6B0D84B1"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "공부"
-    },
-    {
-      "id": "DACcZemTtah",
-      "username": "@threads_buddhist",
-      "permalink": "https://www.threads.com/@threads_buddhist/post/DACcZemTtah",
-      "text": "threads_buddhist 09/17/24 남자들은 공부안함???? Translate 386 29 1 34",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/358044306_981654496360831_9044478488979912918_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjguYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFwBvwNlm8nr1yBwlY5IyNTqN2XbZZvjNLlkI5ZtVzAPb2cSQ2_OBj6jxfbgf00R0k&_nc_ohc=DUoj6_4uObkQ7kNvwHUa1Cp&_nc_gid=Rtv95vizrSHVXPy23iYjDQ&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQREylwUNqXjxVgRSLPitqc1s4pOTaMslrDoeWITgYUg1g&oe=6B0DA1A6&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/619276810_17982901940948667_664372237443839986_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=MzQ1OTQ1MjM1OTkxODE0NzIzMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuOTY4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=3zilw2pzV_QQ7kNvwGV-XLa&_nc_oc=Adpq3EvDKkaWDevU8UZARKAcwL9WEf5ftHXoFuXYbsgtuFs7oKePDUNR2GXAU-wfxXM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=Rtv95vizrSHVXPy23iYjDQ&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRMIqHkZHyPZhVM2H2o44YbgxnLLUDxkV91NLbdz9UTiQ&oe=6B0D8267"
+        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/902621337_17973781095181127_6482193007341699648_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMDc0ODU3MTMyNTAxMDY3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=13aauo8l-mEQ7kNvwG9Fyoi&_nc_oc=Adq3QQYEJVz1ri08P9CiMpRfk3tymVy-iyGCGuCYz9LS5XYGEir5nUmYCPUVB1IrVlY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=NVuX-heqQaM4wyqgl0v-Tw&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRojCfvdTy_atJHWpETX9NYk9db6-CV1xSia5vLSR99Yw&oe=6B0E37C6",
+        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/902621310_17973781437181127_8799502408065018066_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMDc1MDM2NTc0ODk3MjI5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTM5NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=mhvM-w7oETIQ7kNvwGUXF9D&_nc_oc=Adp8Yxv_8z8OCn5bucdwdsyDbO1deMSPt6cD1jgH_4zHhcqEubt948XsTkU_lz0Q9bw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=NVuX-heqQaM4wyqgl0v-Tw&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSaG5v9BXOwXWpbVHENsDSLEZtX6aDum_xKTiUZ8tl2Mg&oe=6B0E02EA"
       ],
       "video_url": null,
       "video_poster": null,
@@ -183,43 +137,12 @@
       "id": "DbcC3H0kj9B",
       "username": "@s.jjk.c",
       "permalink": "https://www.threads.com/@s.jjk.c/post/DbcC3H0kj9B",
-      "text": "s.jjk.c 07/30/26 지난주 저를 믿고 모나미를 매수하신 분들은, 이제 빚은 다 갚으셨겠죠. Translate 162 46 3 11",
+      "text": "s.jjk.c 07/30/26 지난주 저를 믿고 모나미를 매수하신 분들은, 이제 빚은 다 갚으셨겠죠. Translate 164 46 3 11",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/730171287_17944318503237099_2705220416437231206_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFwBvwNlm8nr1yBwlY5IyNTqN2XbZZvjNLlkI5ZtVzAPb2cSQ2_OBj6jxfbgf00R0k&_nc_ohc=XJCsI_wG1ksQ7kNvwE7PaQF&_nc_gid=Rtv95vizrSHVXPy23iYjDQ&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSBchr0kb1s1osNeQqLe7Aoo9gSQLup_05Rc4OHBj1QaA&oe=6B0DA259&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/730171287_17944318503237099_2705220416437231206_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGQ7xJAx4G36QO6eijpysU9wMUkuSWMCPXCf8z2kbI9Z2GcV7KQtIU7jk0ma98O3FY&_nc_ohc=XJCsI_wG1ksQ7kNvwFnvHYe&_nc_gid=NVuX-heqQaM4wyqgl0v-Tw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQTk3Qglr8HoKDSXABnXQqRLH1QSeZhiktcQc7Lzxswvbg&oe=6B0E12D9&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/760352298_17950888155237099_7558996852266314549_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=Mzk1MzA0NzE1Njk4Njg4ODAwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTExNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6GblTDAb1LQQ7kNvwFGCJY7&_nc_oc=AdreTBiM4UOsz0ElNFCtKmFoeJt8_91z3xhhPFTW0vhggRmjdB7sX-FqroDs6o3HTEw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=Rtv95vizrSHVXPy23iYjDQ&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQS4z-ytuIvUmXIABGJXtxxwzSCFfO8yT_wKKDUtjZ94gg&oe=6B0D742D"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "공부"
-    },
-    {
-      "id": "DEeOs6LT0qP",
-      "username": "@magnet241208",
-      "permalink": "https://www.threads.com/@magnet241208/post/DEeOs6LT0qP",
-      "text": "magnet241208 공부 01/06/25 공부는 재능이다 Vs 노력이다 스친이들 생각은 어때? 어떤 글 보다가 공부는 재능이래서 남들 생각이 궁금하네 난 참고로 노력이다!! 공부 Translate 69 237 5",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/472756485_573944835462000_7105871393901881768_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFwBvwNlm8nr1yBwlY5IyNTqN2XbZZvjNLlkI5ZtVzAPb2cSQ2_OBj6jxfbgf00R0k&_nc_ohc=4oUP98yhoLIQ7kNvwFCE0RU&_nc_gid=Rtv95vizrSHVXPy23iYjDQ&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQTDfsO-DiDjHS-7UTdqoYQj-4He39suuyyfEl7b9ahLUQ&oe=6B0DA834&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "공부"
-    },
-    {
-      "id": "DYY-2uxkgWa",
-      "username": "@bangsukism",
-      "permalink": "https://www.threads.com/@bangsukism/post/DYY-2uxkgWa",
-      "text": "bangsukism 05/15/26 저는 우주항공에 미쳐있습니다. 우주항공 미국주식은 로켓랩 +90% 레드와이어 +60% 숫자만 보는 사람은 우주산업에 투자 할 수 없음. 진짜 내 글 읽고 공부 해봐야됨. 놓치고 후회하기전에 내 피드 꼭 읽자. Translate 1.4K 154 82 48",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/481578863_1015957383916149_1984826478653603486_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NDIuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFwBvwNlm8nr1yBwlY5IyNTqN2XbZZvjNLlkI5ZtVzAPb2cSQ2_OBj6jxfbgf00R0k&_nc_ohc=eu5J-gjaViUQ7kNvwFj2qkH&_nc_gid=Rtv95vizrSHVXPy23iYjDQ&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSeXSM4UhK2LGMuap78qFPLjxkT922L8yO_9BAN40Tsdg&oe=6B0D9EB1&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/702240744_17967574755114123_7785642300181868301_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=Mzg5ODEzODg5MTkyMDc4OTkyOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjY0LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=Ql8CkVYytWYQ7kNvwGW_eyC&_nc_oc=AdrwkCcf-dGi1C_63J5HhGR6rMd-Eaqt6wdtxwB6zA13-jO3xUI0zXHyH1IJsC5cwLs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=Rtv95vizrSHVXPy23iYjDQ&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQorxQwY5m-F1kNjQAf3qpjLwRsvgQ1SKe-CYafgOezKA&oe=6B0D8D42",
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/700691969_17967574764114123_7328135505559556612_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=Mzg5ODEzODg5MjU1ODMxMjQzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjY0LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=9HcOz46ZBuYQ7kNvwH8Wkde&_nc_oc=Adr1mY0f5Kh8L4KWtJOV8NwRzKge1m7eLndLsptubdvbgTNQJ7p6Mb25C89EW4EzTic&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=Rtv95vizrSHVXPy23iYjDQ&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSuZwJ6tSM-9hEL89Q-b1KBcWMsyhIrD1d-6t9Lu_DkXg&oe=6B0DA19C",
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/700944388_17967574773114123_3207582645425945422_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=Mzg5ODEzODg5NTA0OTcwMjM2MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=RzM8s05TMLcQ7kNvwG3QyvI&_nc_oc=AdpVV-6QuPGSwY9G_LdznK_YE1VtIkIk_RkRZw12vZWROJIZ8yi3gWqFwtMI3xzklc8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=Rtv95vizrSHVXPy23iYjDQ&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQkbl0A1uH9e4cl6nCfttiuPda4rrzc16jFg30yB6t4mQ&oe=6B0DAAF9",
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/671152800_17967574782114123_8158366174919360724_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=Mzg5ODEzODg5Nzc5MjgxMjIwNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=N9wR8kP58YQQ7kNvwGnuvKw&_nc_oc=AdrbZWr578RUtNfte0H7pXrJ38zawdunySKsaZ8j9NE0jLeHSAOodjZPYh5Iisfxlsg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=Rtv95vizrSHVXPy23iYjDQ&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSv6uTWiHHvE2m7k403YOQYbtpktF1grI4sYhOAL3mQhQ&oe=6B0D79AC"
+        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/760352298_17950888155237099_7558996852266314549_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=Mzk1MzA0NzE1Njk4Njg4ODAwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTExNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6GblTDAb1LQQ7kNvwFc9uq0&_nc_oc=Adp0T6zIDPwWEEtd2TnLleYEbQZc35H3JYXqoRaxsCdysuuTrOeI8X5SlA0K4ZhOBTY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=NVuX-heqQaM4wyqgl0v-Tw&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQS42tCe0EgpthGV2HKBKx4XLW2ZsVJDXEIQLoRDWjuSiA&oe=6B0E1CED"
       ],
       "video_url": null,
       "video_poster": null,
@@ -232,24 +155,96 @@
       "text": "ghil_book_pic 02/21/26 공부머리는 타고나는 걸까? 재능의 영역일까? Translate 304 246 1 10",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/470911328_1744275996424743_1991763416900148064_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFwBvwNlm8nr1yBwlY5IyNTqN2XbZZvjNLlkI5ZtVzAPb2cSQ2_OBj6jxfbgf00R0k&_nc_ohc=fG8Zbvq2uGAQ7kNvwHBK0mn&_nc_gid=Rtv95vizrSHVXPy23iYjDQ&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQ3_QwQBYgP6vCDlIj7mADMgdx3vifJfLJOJKC2dcbABg&oe=6B0DA5BA&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/470911328_1744275996424743_1991763416900148064_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGQ7xJAx4G36QO6eijpysU9wMUkuSWMCPXCf8z2kbI9Z2GcV7KQtIU7jk0ma98O3FY&_nc_ohc=e4bcMfFH7ZkQ7kNvwEuQGca&_nc_gid=NVuX-heqQaM4wyqgl0v-Tw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSnJHn-Hrb9eIgYjLOOJFDGvsKIAti37hiSf_Wkm6eaUQ&oe=6B0E163A&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
       "_keyword": "공부"
     },
     {
-      "id": "DgMH8wxkp9I",
-      "username": "@7273minjoung",
-      "permalink": "https://www.threads.com/@7273minjoung/post/DgMH8wxkp9I",
-      "text": "7273minjoung 1h 서점엔 좋은책들이 많다 ~~독서 세계로 빠져보는것도 좋을것같다^^ Translate 2",
+      "id": "DgFcqXik2F2",
+      "username": "@suo_daechi",
+      "permalink": "https://www.threads.com/@suo_daechi/post/DgFcqXik2F2",
+      "text": "suo_daechi 예비중1국어 3d 예비 중1은 이번 겨울에 다른 건 몰라도 이건 꼭 합시다. 1. 문법 품사 전체 공부 2. 문법 형태소 나누기 공부 3. 합성어, 파생어 파트 공부 아마 내년에 저한테 고마워 할 거에요! 기초가 없는 친구들은 아래 책부터 시작하세요! Translate 337 42 50 91",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/465803688_448654511583110_1431911737838554670_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gEkrpqfvkBa9L882OZ0qG2zAhUQN88BB4wJ3DzgxEcvmMLz70SQ00GClH7nW0uzjmk&_nc_ohc=qAWWDpF-UHwQ7kNvwFqcPXQ&_nc_gid=KVWc7g9mqDw4AYzt2ASKSQ&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQTGmaFOopB2QQptJWwvCLgjKeJqpj3mS-5Q1LjAqIHzfA&oe=6B0D8B8D&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/553364146_17904643080253255_566902239152598520_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGQ7xJAx4G36QO6eijpysU9wMUkuSWMCPXCf8z2kbI9Z2GcV7KQtIU7jk0ma98O3FY&_nc_ohc=3_rCELi0KCkQ7kNvwEwqy4A&_nc_gid=NVuX-heqQaM4wyqgl0v-Tw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQYyC3M2DBIo8tc0D_w9WUd2nHGl_29qv7EJMpFerwhCw&oe=6B0E1302&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/930975875_17978921544169769_3151260421198289062_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=NDAzODYzNzkxMzM0ODY4NDk3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=H1NSu4MXKqYQ7kNvwFWYAEp&_nc_oc=Adqt3KQd6X41RyDq27zqjG02AqK8XPQo8XlUPRjT25C8n5gMrhgJbwI-sJHhEXG1Qt0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=KVWc7g9mqDw4AYzt2ASKSQ&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTu7C0nDu1tF7hAf9zK9nkCzjEdRrhF8TD6BkzWBYv9rw&oe=6B0D740B",
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/928923429_17978921559169769_4290797418671778371_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=NDAzODYzNzkxMjk1NDM5NDQ4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Xa7fRfBRPNYQ7kNvwE_cNLw&_nc_oc=Ado5W2zr3lM-Xk9iuzAZNFX1X5py2-XiuLcHAe0fA64OIAUeNaYxYmN6ITzRbfc7mn4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=KVWc7g9mqDw4AYzt2ASKSQ&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQStmAJ5sMfSPrqSf9Ml9cHdCnWW0MihZPpa8gRdXVL_yg&oe=6B0D97DE",
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/928438617_17978921577169769_5717967051206575791_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=NDAzODYzNzkxNDUzMTQzNjk1Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=3c8T3Q7RD24Q7kNvwEwcpzK&_nc_oc=AdpDgnFPlXsKpWJkEg7vXmG4c5CxeXLgeYrSf7-emw3Vb4ch144YuLxY23DClrwe-nA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=KVWc7g9mqDw4AYzt2ASKSQ&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTNenldNLf19RCYjdcc7PRFMwy05iiEc8q4gPqUPbhzfw&oe=6B0D94E9"
+        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/921183257_17964503652253255_3355711121239762010_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=NDAzNjc1ODY5NzgwMzk5NzU1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNDQ0LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=-1nTf3lUuOYQ7kNvwHYZ0Fu&_nc_oc=AdoqLrLIHHZ_UXVfxifnDL2eFR5oOZjwzOkIM9oh2IG-z9H3y0fT-eQ0QXA3BkOgfG0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=NVuX-heqQaM4wyqgl0v-Tw&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQT7m-Ehwo_slLqNeOyJfKmel5etToVn7VderpChlNODtw&oe=6B0E0E43"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "공부"
+    },
+    {
+      "id": "DLKam0tyGdw",
+      "username": "@gommini.ai",
+      "permalink": "https://www.threads.com/@gommini.ai/post/DLKam0tyGdw",
+      "text": "gommini.ai 06/21/25 공부는 노력 VS 재능?! Translate 119 171 1 1",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/804364469_17943711879301740_4960367424850971714_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGQ7xJAx4G36QO6eijpysU9wMUkuSWMCPXCf8z2kbI9Z2GcV7KQtIU7jk0ma98O3FY&_nc_ohc=zxEHvZoUlBIQ7kNvwF0XE49&_nc_gid=NVuX-heqQaM4wyqgl0v-Tw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQS4t4j_SW2_WduKRSq8e2X6ELGtm_0GDEvuNOMnFsIulw&oe=6B0E13B8&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-ord5-2.cdninstagram.com/v/t51.75761-15/511192593_17883717222301740_3878638486300030143_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=MzY1OTg1NDY2NDM0NDAzNzIzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTUzNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=P5WNrY4gao4Q7kNvwEZWv8h&_nc_oc=AdoUInYgWNtDWm0_Prx2Yfd9Rrnkdb4fB49HBHHr7tFCZNIdSuHKE6p4MdXpg55Vgx8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=NVuX-heqQaM4wyqgl0v-Tw&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQShkt2Ot4OfqURvHCW2lPkmO8JKib7Vtwg5UzsdoZ_hpA&oe=6B0E3371"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "공부"
+    },
+    {
+      "id": "Df3WuL-FAsw",
+      "username": "@lunacooks.kr",
+      "permalink": "https://www.threads.com/@lunacooks.kr/post/Df3WuL-FAsw",
+      "text": "lunacooks.kr 11/17/26 오늘의 경제 공부 📖 가치주와 성장주 가치주는 기업의 이익이나 자산에 비해 주가가 낮게 평가된 주식, 성장주는 앞으로의 성장이 기대되는 주식이다. 나는 꾸준히 돈을 버는 기업에 오래 투자하고 싶다. 그래서 이름보다 내용을 살펴보려고 한다. 여러 해 동안 이익을 냈는지, 실제로 현금이 들어오는지, 불황에도 버틸 힘이 있는지. 좋은 기업이라도 너무 비싸게 사는 건 아닌지 함께 확인해야겠다. 장기투자는 사놓고 잊는 게 아니라, 처음 투자한 이유가 여전히 맞는지 꾸준히 살피는 일. #경제공부 #장기투자 #독서기록 #균형의루틴 Translate 14 4 1",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/360032205_302574252208945_6408417019197831634_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGQ7xJAx4G36QO6eijpysU9wMUkuSWMCPXCf8z2kbI9Z2GcV7KQtIU7jk0ma98O3FY&_nc_ohc=UCWASL7gw08Q7kNvwFXOM_1&_nc_gid=NVuX-heqQaM4wyqgl0v-Tw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRyJKnqwU3qw6l6w6sjdwnaod7-QhwLclsJ5DDOldWQhw&oe=6B0E1244&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/912519735_17999189010103083_8449509289497986276_n.webp?_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMjc5MTkyMjMwNTQwMzY5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjgwMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=FAcAYJtZvh8Q7kNvwE0oLED&_nc_oc=AdpObFW8cQJnYzrko_jrUHO3pZDQGugbG15gfmAkfRqzB5BIKUiZyxs4D_hW0s35zWk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=NVuX-heqQaM4wyqgl0v-Tw&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTdeSWBskTrVf4S1zRqQ4_v2n0I5HnISL4dEMx3_gE27Q&oe=6B0E0FD6"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "공부"
+    },
+    {
+      "id": "DUqH3hektvh",
+      "username": "@bae_ma100",
+      "permalink": "https://www.threads.com/@bae_ma100/post/DUqH3hektvh",
+      "text": "bae_ma100 Investing 02/12/26 <재테크 찐초보 로드맵> 재테크 초보라도 처음부터 돈 주고 공부하지 마세요 재테크 공부 어디서부터 시작해야 할지 모르겠고 뭘 어떻게 해야 할지도 막막하죠 저도 그랬습니다 아무것도 모르니까 첫걸음 떼는 것조차 어렵더라고요 그래서 진짜 쉬운 로드맵 하나 제시해볼게요 당연히 여기있는 방법들은 전부다 무료입니다 Translate 677 79 283 199",
+      "has_image": false,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/682857692_17882342571552065_8618935579215186743_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGQ7xJAx4G36QO6eijpysU9wMUkuSWMCPXCf8z2kbI9Z2GcV7KQtIU7jk0ma98O3FY&_nc_ohc=X1xiwzy3xkoQ7kNvwHtL1pT&_nc_gid=NVuX-heqQaM4wyqgl0v-Tw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRUBck8e2b_bU-3UP0qG-fFo1mhI-LwQR239uF3Bcb29A&oe=6B0E305B&_nc_sid=10d13b",
+      "media_images": [],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "공부"
+    },
+    {
+      "id": "DgNYjUEkgdP",
+      "username": "@master.kim77",
+      "permalink": "https://www.threads.com/@master.kim77/post/DgNYjUEkgdP",
+      "text": "master.kim77 Investing 2m 2026.11.26 매매일지 [지니언스] 손절되었습니다. 공부 목적으로 안내드렸고 단기적인 뷰이기 때문에 정확한 손절라인에 잘랐습니다. 오늘 매매 복기 하겠습니다. 1. 신고가 매매이기때문에 오를 여력은 있었지만 정해진 원칙지킴 2. 수급이 같이 들어오면 오를자리라고 판단했지만 오늘이 날이 아니었고 코스피가 오후에 흐르면서 같이 한몫함 3. 일부러 오늘은 가격찍어누른것같음 결론 : 기회는 많기에 미련에 속지말자. 이 복기를 통해서 더 단단해져서 확률 올려보겠습니다! 연속 5번 맞추고 한번 틀렸네요 내일도 화이팅해보겠습니다. 매주 금요일마다 성과검증하여 확률 올려드릴 예정입니다. Translate",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/925844983_17950557483092562_4694188377080585225_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGQ7xJAx4G36QO6eijpysU9wMUkuSWMCPXCf8z2kbI9Z2GcV7KQtIU7jk0ma98O3FY&_nc_ohc=31GHqHz7K9IQ7kNvwFHl4nz&_nc_gid=NVuX-heqQaM4wyqgl0v-Tw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRg4ev-_h50V9QYvn061tFzkxEQa-7oD6d5QkjzTkXmjg&oe=6B0E08B9&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/930975883_17950962390092562_3853495025010740675_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=NDAzODk5MjQyMDY3MDY3MDY3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTE3MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=JEGGufzp408Q7kNvwFAdidP&_nc_oc=Adq1rrUDQGuFYS3ALd4igmHurN7c5o2W7FzvLiMw2ruQsmhXvcgWEfR5FYXQgzUpY8g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=NVuX-heqQaM4wyqgl0v-Tw&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQS8SSAEbvb9GSq-9QgqVbZ00wKsBH0w84qbR82OTVgfcg&oe=6B0E2EA5"
+      ],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "공부"
+    },
+    {
+      "id": "DgMCmQOkkp2",
+      "username": "@reading_all_mine",
+      "permalink": "https://www.threads.com/@reading_all_mine/post/DgMCmQOkkp2",
+      "text": "reading_all_mine 12h - 🔲 조용히 잘 사는 사람들의 특징 1. 좋은 일이 생겨도 반드시 알리지 않는다 (혼자 간직하는 기쁨) 2. 일상유지에 상당한 공을 들인다 (집정돈, 청결, 제때먹는 밥) 3. 남몰래 축적하는 것이 있다 (돈, 지식, 기술, 기록) 4. 혼자서도 즐길 수 있는 세계가 있다 (글쓰기, 독서, 산책, 음악) - Translate 2.4K 195 271 105",
+      "has_image": true,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/462705925_831979855682806_6188035242014549103_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gF3eJkA8hhzlPHR2Yxh0oxZNMmhyzLqFPKD4Iy0kjGYb3jzJVZp2lXVT6Wec2guM9U&_nc_ohc=FVuZoMWOvEsQ7kNvwHPh5K5&_nc_gid=ol9hGMOyd3tkaFH-HCxQ2A&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRR6TzZF6BzG47qwDRzHSn9xnEk6QVUR2DhJ-8wjY833w&oe=6B0E162E&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/930207668_17957978592335829_1548833622789356576_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=NDAzODYxMjA5NzE1MTI2Mzk2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=jXMDJMOxMJcQ7kNvwFnbewt&_nc_oc=Adr-8S941dKSRhs_JgsWQyeU9CxYdM5nZ8mFump3HHxo0l3PGYRhuSX-MFqkTKQDnU8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=ol9hGMOyd3tkaFH-HCxQ2A&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlAgAAAA&oh=00_AQQLCrF5NWRxwlh_CGhcwsmPQ5oMFVsaOPEdnGRHtg4QtQ&oe=6B0E0657",
+        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/924854585_17957978616335829_1292155896056023540_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=NDAzODYxMjEzNDI4NzQzNzYzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=giuhM-w-rq8Q7kNvwHDNsln&_nc_oc=AdqDAdfh9_WB-2oJ6lrAhSEp1QQAxLPwFxUUnRCMqyis-4Kp6mvJSrPuK-2D4N9mi0M&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=ol9hGMOyd3tkaFH-HCxQ2A&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlAgAAAA&oh=00_AQQ-Gy9I7ThKwCfZI8gpGdJb2wVFB0W7LeXuLwhZB2IFZw&oe=6B0E2F95"
       ],
       "video_url": null,
       "video_poster": null,
@@ -262,22 +257,69 @@
       "text": "kimmt.99 10/06/24 10배 나은 삶을 살게 만들어주는 것 1. 명상 2. 감사하는 마음 3. 독서 4. 유산소 운동(특히 러닝) 매일은 아니더라도 자주 실천하려고 노력하고 있습니다. Translate 303 81 117",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/640932087_17936297061177477_5016441433282224094_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEkrpqfvkBa9L882OZ0qG2zAhUQN88BB4wJ3DzgxEcvmMLz70SQ00GClH7nW0uzjmk&_nc_ohc=4VKQcnvgACsQ7kNvwE-mYNP&_nc_gid=KVWc7g9mqDw4AYzt2ASKSQ&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQTZG_Frqy1ElstIC1EVFL8ogRgzOs3bEVMdKKeKFRlDaQ&oe=6B0D866F&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/640932087_17936297061177477_5016441433282224094_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gF3eJkA8hhzlPHR2Yxh0oxZNMmhyzLqFPKD4Iy0kjGYb3jzJVZp2lXVT6Wec2guM9U&_nc_ohc=4VKQcnvgACsQ7kNvwFczz6P&_nc_gid=ol9hGMOyd3tkaFH-HCxQ2A&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSigNNhcBd-TSjG7_7DuZrgSmlDB_hZ6zYQ-kewXWk0CQ&oe=6B0E2F2F&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
       "_keyword": "독서"
     },
     {
-      "id": "DgKUHU8GA5h",
-      "username": "@02dobrother",
-      "permalink": "https://www.threads.com/@02dobrother/post/DgKUHU8GA5h",
-      "text": "02dobrother 루틴의힘 18h 새벽루틴이 삶을 자동화 하는 방식 1. 성공한 사람들은 운동, 독서, 글쓰기를 강조 2. \"'새벽을 어떻게 보내느냐\"는 성공으로 가는 중요한 역할 3. 새벽루틴은 쉽고 간결한 루틴으로 시작 4. 침구개기, 세수, 명상, 물한잔 마시기등 간단한 행동 5. 새벽루틴은 우리 마음에 긍정의 씨앗을 뿌리는것 6. 새벽루틴후 머리가 깨끗하게 초기화 됨 7. 새벽 루틴은 나를 잡아주는 중요한 역할 8. 하루를 상쾌한 마음으로 시작 9. 새벽 나만의 신세계를 만들자 - LUCA*루카 (Routine Archive) Translate 36 12 9",
+      "id": "DgNNTCmkip0",
+      "username": "@gitonomy",
+      "permalink": "https://www.threads.com/@gitonomy/post/DgNNTCmkip0",
+      "text": "gitonomy 독서 1h 나는 읽고싶은 책 고를때 항상 스레드 참고하는편! 올해 읽은 책은 이정돈데, 다들 재밌게 읽은 책 더더더 추천해주라!! 💎📚 스릴러 / 반전 / 사랑 / 철학이나 인문학 인생에 도움되는책 같은거 좋아해 !! • 종의기원 • 홍학의자리 • 악의 • 녹나무와파수꾼 • 1984 • 프레임 • 곰탕 • 아몬드 • 가공범 • 용의자x의 헌신 • 모순 • 희망 • 돈의속성 • 내면근력 • 찰리멍거 바이블 • 빵충사육일기 Translate 16 4 2",
+      "has_image": false,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/917827915_17872262847675481_2743428410810988852_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gF3eJkA8hhzlPHR2Yxh0oxZNMmhyzLqFPKD4Iy0kjGYb3jzJVZp2lXVT6Wec2guM9U&_nc_ohc=dUEAIPU1sfMQ7kNvwGHhQxB&_nc_gid=ol9hGMOyd3tkaFH-HCxQ2A&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQTOoAmYR2e_42-culIlFSVLL8JwL89yszU14xzweGN2tA&oe=6B0E0DA3&_nc_sid=10d13b",
+      "media_images": [],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "독서"
+    },
+    {
+      "id": "DcuhzSKEj3l",
+      "username": "@yunzzang.s",
+      "permalink": "https://www.threads.com/@yunzzang.s/post/DcuhzSKEj3l",
+      "text": "yunzzang.s 독서 09/01/26 오늘은 나의 인생책 📖 '알로하 나의 엄마들 ' 나는 원래 책 안 좋아해.. (독서랑은 거리가 매우 멀었던 사람 🙋‍♀️저요) 그러다 이책을 선물받아서 어쩔 수 없이 펼쳤는데 이렇게 재밌어도 되는거야? 그날 바로 다 읽고 아쉬웠던 기억이 있어 좋은책 만나면 아껴 읽고 싶잖아~ 다음장이 궁금한데 줄어드는 건 아쉽고..😂 잘 만들어진 연극한편 본듯한 그때의 여운을 잊을 수가 없다 밝은밤 재밌었다던 스치니들에게 추천할게♡ #밝은밤이취향이었다면 #강추 #알로하,나의엄마들 Translate Memories · Josephine Alexandra 45 26 2",
+      "has_image": true,
+      "has_video": true,
+      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/756529262_18080510429309913_4083627214722790139_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gF3eJkA8hhzlPHR2Yxh0oxZNMmhyzLqFPKD4Iy0kjGYb3jzJVZp2lXVT6Wec2guM9U&_nc_ohc=2QDpE_AociAQ7kNvwHeD0ig&_nc_gid=ol9hGMOyd3tkaFH-HCxQ2A&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQBB9DxcTv1Gs9kGU-CnS3CjKyboeeD-On4oxUF1ZPAuQ&oe=6B0E2911&_nc_sid=10d13b",
+      "media_images": [
+        "https://media4.giphy.com/media/v1.Y2lkPTcyZjQyZTEyNGJvcnMyeWtxMWZpN2kwbXh6Zmttcm5rOTAzNGMwOXJieW5xbXgwZiZlcD12MV9naWZzX2dpZklkJmN0PXM/L0ZhO0YWanyEYF7RTE/200.gif",
+        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/789594301_18090790424309913_7376039108181606356_n.webp?_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=Mzk3NjI2NDE4MDczOTIyNzEwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nAo_NpsR7bwQ7kNvwHE2-VX&_nc_oc=Ado3Z2zZJwrr2j3wVo-YeTryUOcZ18IzO20RW76zkE_a_IeDNe4kc-9ra-ULZ4kQuJ4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=ol9hGMOyd3tkaFH-HCxQ2A&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTntEf3_ZpwJkw_jxwYQHruWZUlMsmScpboF4YTz96ZTg&oe=6B0E0B2F"
+      ],
+      "video_url": "blob:https://www.threads.com/a67be9e0-10be-4971-84eb-17414b6b6e6d",
+      "video_poster": null,
+      "_keyword": "독서"
+    },
+    {
+      "id": "DgL1a-eFI9C",
+      "username": "@lucia_e0417",
+      "permalink": "https://www.threads.com/@lucia_e0417/post/DgL1a-eFI9C",
+      "text": "lucia_e0417 14h [아침루틴] 벽돌책 10쪽씩 읽기 Day 20 🧱🎉 어느덧 아침 독서 루틴 20일 차를 맞았습니다! 🏆 목요일 아침에도 어김없이 책을 펼쳤습니다. '하루 딱 10쪽만'이라는 약속을 20일 동안 매일 지키고 있습니다😁😁 거창한 계획이 아니어도 매일 아침 10분, 묵묵히 쌓아 올린 시간들이 모여 꽤 든든한 성취감이 되었습니다. 20일 완주를 스스로 축하하며 오늘 하루도 기분 좋게 시작해 봅니다! ☕️🤍 #아침루틴 #벽돌책읽기 #나를채우는시간 #행복한미용사민정 Translate 9 6",
+      "has_image": true,
+      "has_video": true,
+      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/484581985_624501550421161_1038940335688152354_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gF3eJkA8hhzlPHR2Yxh0oxZNMmhyzLqFPKD4Iy0kjGYb3jzJVZp2lXVT6Wec2guM9U&_nc_ohc=_YYAKoUrbZEQ7kNvwFUSg_h&_nc_gid=ol9hGMOyd3tkaFH-HCxQ2A&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQR4u_tbwL2H413JzSK9BUyY4vjy6NsMaTSnVCWMWn-n5Q&oe=6B0E1E96&_nc_sid=10d13b",
+      "media_images": [
+        "https://scontent-ord5-1.cdninstagram.com/v/t51.71878-15/928055860_1173148302323272_3003679321744104369_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=NDAzODU1NjQ0MTExNTkyMjI0Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19maXJzdF9mcmFtZV90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=3KdC6BOSUEUQ7kNvwG5HrQk&_nc_oc=AdrNgd8jE3upZc-YoTVkJUAK6v5qdGvRr9nlcKkeNAVg95C5QCF1AVXOlhf5-CFqKK4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=ol9hGMOyd3tkaFH-HCxQ2A&_nc_ss=7a30f&_nc_ct=RQosPBUIFQolBAAAAA&oh=00_AQRlzk-elnflC9rVnn8X0ik1dbd9zzAI0qR9RLoFpe_wsw&oe=6B0E1492"
+      ],
+      "video_url": "https://scontent-ord5-2.cdninstagram.com/o1/v/t2/f2/m86/AQO_fG8ywfPKYlL04CXeir6R8M-luAK--ez0tfDcJZMfbkFcOYPk5GxM0wz60UxSpFXIxb_RsF82K-nIQiMQkoLlw-Uio9r5UAe4qoc.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_ohc=enh-sjQYEd0Q7kNvwGs4kbp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6OTEwNzc2MDM4Nzg5OTI1LCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=52e203837f5a1494&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zQTdFNUQ1QzYwQ0E0MkI1Qjk1RTg4QjcyMUVERjE0Nl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzg3QUJDMTJGOTZFNTRDNTA5MUMzMTMyMjhFNDBCMUY5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbKzJikkpaeAxUCKAJDMywXQDDdsi0OVgQYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeadAQA&_nc_gid=ol9hGMOyd3tkaFH-HCxQ2A&_nc_ss=7a30f&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRkDOnRKKDheeiOe7Dl56QBwUT0N_LU6IJ1zdZF4ykndQ&oe=6B0A23D6",
+      "video_poster": null,
+      "_keyword": "독서"
+    },
+    {
+      "id": "DV-9OfoD4Dm",
+      "username": "@arena10004",
+      "permalink": "https://www.threads.com/@arena10004/post/DV-9OfoD4Dm",
+      "text": "arena10004 03/17/26 5학년 담임입니다. 아침 시간에 매일 책 읽힙니다. 고학년 친구들 이 책 한 번 읽게 해 보세요. 아묻따 추천드려봅니다. Translate 2.7K 217 407 691",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/770543759_18105301433031036_7684460232963206897_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEkrpqfvkBa9L882OZ0qG2zAhUQN88BB4wJ3DzgxEcvmMLz70SQ00GClH7nW0uzjmk&_nc_ohc=Z10CpzJad5gQ7kNvwEr6l0R&_nc_gid=KVWc7g9mqDw4AYzt2ASKSQ&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQTr5ZxlZT5coG089TNhRM2n11ajKReln4XRx2AltVFMyA&oe=6B0D7F78&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/613515750_17948786451076010_1319330508743089090_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gF3eJkA8hhzlPHR2Yxh0oxZNMmhyzLqFPKD4Iy0kjGYb3jzJVZp2lXVT6Wec2guM9U&_nc_ohc=JVkDd6cKMw4Q7kNvwELNJEN&_nc_gid=ol9hGMOyd3tkaFH-HCxQ2A&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQTagz6CCIpM4eGD71uvYsyXMheaU9pWyuSBHgNarh61xg&oe=6B0E3189&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/932152391_18120020498031036_5781662752407408474_n.webp?_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=NDAzODEyODQ4MDM0MDY3NjE5Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuOTAwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=vXH3qtzHifAQ7kNvwH2HXLv&_nc_oc=AdrxJmJePt3AavKxd2-6u5G4k34xit1ZM6v4bvoahVPTbbpxzFXd_XZkERIogrhAG9s&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=KVWc7g9mqDw4AYzt2ASKSQ&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTGsJuR95OCt1ZRsUdFWa4ZT7Yd1Yg_4r0-dlT4t50npA&oe=6B0D8BC6"
+        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/652774940_17956092183076010_4117020902442194621_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=Mzg1NDc4NzI5OTQyNzQ3NTk4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuODcyLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=9hxlg-WKFqEQ7kNvwHrG2si&_nc_oc=AdoO2ogeGIKAtk3O_3uM4N48eGQHbQmdzqP7eIN6xune-r5_hxKs5mZ7TzXo2CnvVmA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=ol9hGMOyd3tkaFH-HCxQ2A&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQScIyl95AcnKaYac_ODe2_S0_5guJ7wAlw_uPwEgDzg5A&oe=6B0E0BA1",
+        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/652104070_17956092195076010_4233146174776623959_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=Mzg1NDc4NzMwMDEzMjA3MzU2OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuODYzLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=ojH2hmQeqewQ7kNvwHFxf9_&_nc_oc=Adqfe-mN3zEakJ0DnC29uMSKntomxiVGw9TAKvja3kqGoEpOYFoYRO-IqDgvw93Nb6U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=ol9hGMOyd3tkaFH-HCxQ2A&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQT9ZhoaF4ZuzSNCQIflA-jVSTAS2vEEnmQrBMw5reCzQ&oe=6B0E260B",
+        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/652767565_17956092168076010_4067815266008171576_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=Mzg1NDc4NzI5OTgxMzMyNTcxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDcyLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=i9T-69HZKoYQ7kNvwEHdl7d&_nc_oc=AdolAmLVDFqEUOfw2rt4EFHErQxH3CBev0aqyjnJY5jOzMBqA3-44bCsd-28YZB6GK4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=ol9hGMOyd3tkaFH-HCxQ2A&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTXQoe2A24ZXsbRic0ZBVDVyxeQOFJdkqeTYEfC0qodyA&oe=6B0E2B26",
+        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/652337710_17956092204076010_1163462369205739233_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=Mzg1NDc4NzI5OTQxOTA0Nzc5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTg4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=1Wd6VMYzM_kQ7kNvwFvpx08&_nc_oc=AdoRceHgwq-130y4Zld92J-V5ifE11YIXWwtwNL_vbXUk-PTEFNs-ZMKjQhFGYT7N6w&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=ol9hGMOyd3tkaFH-HCxQ2A&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSoxGEyhqBuHGw8BvyjdMEzHBG9nxERViEsqn9BQWpwCg&oe=6B0E28BB"
       ],
       "video_url": null,
       "video_poster": null,
@@ -290,216 +332,188 @@
       "text": "alafca 07/08/26 6월도 7월도 매일매일 책읽기 습관중📖📚 오늘도 조금씩 성장하는 하루!! #독서#자기계발#건강#성장하는삶#책추천 Translate 30",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/581211949_17844687855609822_5695338586691836640_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEkrpqfvkBa9L882OZ0qG2zAhUQN88BB4wJ3DzgxEcvmMLz70SQ00GClH7nW0uzjmk&_nc_ohc=n72QyvuZSsgQ7kNvwG0-pBT&_nc_gid=KVWc7g9mqDw4AYzt2ASKSQ&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQTvyDE68NKaJ4SSKGz76S03xUwJkpwDl3pNUoG9RbzZOA&oe=6B0D7448&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/581211949_17844687855609822_5695338586691836640_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gF3eJkA8hhzlPHR2Yxh0oxZNMmhyzLqFPKD4Iy0kjGYb3jzJVZp2lXVT6Wec2guM9U&_nc_ohc=n72QyvuZSsgQ7kNvwEzk6nl&_nc_gid=ol9hGMOyd3tkaFH-HCxQ2A&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRdmexv_9sGW0WJRQ6p1WK3MyynanH2kPSqCD_q9_fQzQ&oe=6B0E1D08&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/741643341_18327388546283372_768668317722081564_n.webp?_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=MzkzNjc5NDc1MDMyOTQwMjIxOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=huGUKx7DwPcQ7kNvwGeGpu0&_nc_oc=AdoR-x1nEm_XOKCc_z33E6WXikTL2OFYhCZBovjO_vDU71XsFGlf-gwJwn3JtTauDiA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=KVWc7g9mqDw4AYzt2ASKSQ&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQT_VjbwQP5CWQWDVw4TFxGxwqCdvDVPe4L-7U_VtTvNZQ&oe=6B0D854D",
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/740742227_18327388555283372_3344967424002943405_n.webp?_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=MzkzNjc5NDc1MDYxNDU4NzA0Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=JdCaW63MLsMQ7kNvwELkh2Q&_nc_oc=AdpEU4d-OhlPUK9TsyyVhXaXwoHF2A4y7U11kWcZnwDnoms8n8_fs2CaW5bhJBMNQq0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=KVWc7g9mqDw4AYzt2ASKSQ&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTnBoGTEzhzN_r4sP0qMcIyO1g7kWZz6OPiNPcg9qMGRQ&oe=6B0D755B",
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/742345978_18327388567283372_4412631123624247989_n.webp?_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=MzkzNjc5NDc1MDgzMjcyMDIxMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nWDeuVzqJjoQ7kNvwGP__lQ&_nc_oc=AdqPaP5rXR96yZVkdM_1IrxD0nbpEyj8ZdfkGRjPe-GiFRKMKvLaHRoNLmxYKtQW6_4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=KVWc7g9mqDw4AYzt2ASKSQ&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRJFNOvhqbGGSvg8ZC6bNGO_D5bgZStFIuAwKkKVwYtNQ&oe=6B0D76E0",
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/740326201_18327388579283372_1423586315557658524_n.webp?_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=MzkzNjc5NDc1MDYyMjk2NjY4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Bz6vfiPsZB4Q7kNvwH72odG&_nc_oc=AdoBvoH0SrlUp4jNRW0_fc6T1Qb6CMYB5M9xlDSi962bIpeSWN5qMNpeOCGxviRMm5A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=KVWc7g9mqDw4AYzt2ASKSQ&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTZJMORdZAIpMvK7XI3dnmKKnSw1qaN5wbZSI0dcUzCyA&oe=6B0D8DCC"
+        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/741643341_18327388546283372_768668317722081564_n.webp?_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=MzkzNjc5NDc1MDMyOTQwMjIxOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=huGUKx7DwPcQ7kNvwFIRRwr&_nc_oc=AdpmaSP13eAyAGBqS3ptjavXfd1_If5P8EL-wr2l81UeUIU3x7KNjJ1RorlJVOuF5GY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=ol9hGMOyd3tkaFH-HCxQ2A&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTnko8oWyYkbYo7s8CpvVVjAyVXrRWiYtgewrnegZQ9Lg&oe=6B0E2E0D",
+        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/740742227_18327388555283372_3344967424002943405_n.webp?_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=MzkzNjc5NDc1MDYxNDU4NzA0Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=oqRWZDbdsAEQ7kNvwGAfKZW&_nc_oc=AdoAh0wohq2S-jLYgWfGNNzaY41i3JdNgKDJmfUfQ9yHz7d9TaMDzyEt30c8TqBgpJg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=ol9hGMOyd3tkaFH-HCxQ2A&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSd_6PuX71X6GP4W4QGByQog9jkNVW33jTZ7AH3Ze1rpg&oe=6B0E1E1B",
+        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/742345978_18327388567283372_4412631123624247989_n.webp?_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=MzkzNjc5NDc1MDgzMjcyMDIxMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nWDeuVzqJjoQ7kNvwFYy0kb&_nc_oc=Adrj8lQBFjIy2xqiMVca5s70FQfJTyA3h7sC8Av9oQBcGtY7ofX8KXLKPF0FMKcZ0o4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=ol9hGMOyd3tkaFH-HCxQ2A&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQROtLcNgeo1kpNFCUo1lAKFKF7by7NTj7QN-ycapk-08A&oe=6B0E1FA0",
+        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/740326201_18327388579283372_1423586315557658524_n.webp?_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=MzkzNjc5NDc1MDYyMjk2NjY4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Bz6vfiPsZB4Q7kNvwHEIsEy&_nc_oc=Adq9fgLA9rbgK9smuZy6x-I3pVmOEhg9CHYyTkWN1tS7Nk57ixc_uR28XUnyH18rjBw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=ol9hGMOyd3tkaFH-HCxQ2A&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSP9U9xzshXkaAn27EYLVb-E2xAAX4XzVZHsW_e5qOe9A&oe=6B0E368C"
       ],
       "video_url": null,
       "video_poster": null,
       "_keyword": "독서"
     },
     {
-      "id": "DgL1a-eFI9C",
-      "username": "@lucia_e0417",
-      "permalink": "https://www.threads.com/@lucia_e0417/post/DgL1a-eFI9C",
-      "text": "lucia_e0417 4h [아침루틴] 벽돌책 10쪽씩 읽기 Day 20 🧱🎉 어느덧 아침 독서 루틴 20일 차를 맞았습니다! 🏆 목요일 아침에도 어김없이 책을 펼쳤습니다. '하루 딱 10쪽만'이라는 약속을 20일 동안 매일 지키고 있습니다😁😁 거창한 계획이 아니어도 매일 아침 10분, 묵묵히 쌓아 올린 시간들이 모여 꽤 든든한 성취감이 되었습니다. 20일 완주를 스스로 축하하며 오늘 하루도 기분 좋게 시작해 봅니다! ☕️🤍 #아침루틴 #벽돌책읽기 #나를채우는시간 #행복한미용사민정 Translate 8 6",
-      "has_image": true,
-      "has_video": true,
-      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/484581985_624501550421161_1038940335688152354_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEkrpqfvkBa9L882OZ0qG2zAhUQN88BB4wJ3DzgxEcvmMLz70SQ00GClH7nW0uzjmk&_nc_ohc=_YYAKoUrbZEQ7kNvwGM4eQK&_nc_gid=KVWc7g9mqDw4AYzt2ASKSQ&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQR7O1QtA1zX1bate-E_InFiPqPvAkpbRB1f-QaocDymPg&oe=6B0D75D6&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.71878-15/928055860_1173148302323272_3003679321744104369_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=NDAzODU1NjQ0MTExNTkyMjI0Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19maXJzdF9mcmFtZV90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=MXM2Atz2S70Q7kNvwFiEsIc&_nc_oc=Adqj9zDH5pbg8s99CzoLGPb0uG6CEvA604lt4RtR8mP0T2c_Bi0Nlz7LkHAG_zA8hh8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=KVWc7g9mqDw4AYzt2ASKSQ&_nc_ss=7a30f&_nc_ct=RQosPBUIFQolBAAAAA&oh=00_AQQZZ97ebbwss2XQmnmFj6mbGGI8XJla3w8-0vosJsQ4Hg&oe=6B0DA412"
-      ],
-      "video_url": "https://scontent-ord5-2.cdninstagram.com/o1/v/t2/f2/m86/AQO_fG8ywfPKYlL04CXeir6R8M-luAK--ez0tfDcJZMfbkFcOYPk5GxM0wz60UxSpFXIxb_RsF82K-nIQiMQkoLlw-Uio9r5UAe4qoc.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_ohc=D4fPZW6_cY8Q7kNvwGHEkL8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6OTEwNzc2MDM4Nzg5OTI1LCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=52e203837f5a1494&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zQTdFNUQ1QzYwQ0E0MkI1Qjk1RTg4QjcyMUVERjE0Nl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzg3QUJDMTJGOTZFNTRDNTA5MUMzMTMyMjhFNDBCMUY5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbKzJikkpaeAxUCKAJDMywXQDDdsi0OVgQYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeadAQA&_nc_gid=KVWc7g9mqDw4AYzt2ASKSQ&_nc_ss=7a30f&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQ0cO3K3ASyXlTd3pIWdvLdRYkvszW3QZUDQ5GFBmhP3w&oe=6B09B356",
-      "video_poster": null,
-      "_keyword": "독서"
-    },
-    {
-      "id": "DWua11bkxyY",
-      "username": "@leeyunyoung58",
-      "permalink": "https://www.threads.com/@leeyunyoung58/post/DWua11bkxyY",
-      "text": "leeyunyoung58 04/04/26 내가 책을 읽는 이유 1. 질문하기 위해서 2. 생각하기 위해서 3. 실천하기 위해서 독서란, 지식의 축적이 아니라 의식의 확장이다. Translate 99 30 6",
+      "id": "DZuehb0kvLK",
+      "username": "@grow.with.soo",
+      "permalink": "https://www.threads.com/@grow.with.soo/post/DZuehb0kvLK",
+      "text": "grow.with.soo 06/18/26 결과는 결국 버틴 사람이 만든다. #자기계발 #동기부여 #성장 #마인드셋 #습관 Translate 32 4 6",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/671181118_17859800631685200_5500560016890734953_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NTYuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEkrpqfvkBa9L882OZ0qG2zAhUQN88BB4wJ3DzgxEcvmMLz70SQ00GClH7nW0uzjmk&_nc_ohc=e6IxiAyTefAQ7kNvwGSuVfd&_nc_gid=KVWc7g9mqDw4AYzt2ASKSQ&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRZf7hMEY9RMxMo41VRB774IuQn7qFhHEaZynxYujCjjQ&oe=6B0DA3C4&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/742833405_18134414344537851_5390520482409765629_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEZWA9yd4ie6cbUeQ1kEKNzvkQbVFf94NI7EJ-CMqE_b1yt_8zzf3SgUgonztU11N8&_nc_ohc=YsFEjq0oc7gQ7kNvwES2H8U&_nc_gid=o4OVFxCmbz4Vd5XbJYjCtg&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQR9eRVD5riqg7n8qE5y5LlJwJ4f5_bNI58iVUxFmjZ6NQ&oe=6B0E2B38&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/661206751_17856851496685200_8223848443004497821_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=Mzg2ODE0NzE3ODY3MDMzMzA4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTYyOS5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=3QsFZTqm1qsQ7kNvwEdngtU&_nc_oc=Ado_mli4cDSHMd9IxWKncUce_vFeC2h3c2NumGRgvP_SdICKo19waZt89jcrMhkRQ6U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=KVWc7g9mqDw4AYzt2ASKSQ&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlAgAAAA&oh=00_AQRxaBFWolKNgimJAfik2WyqGW1lfKwmz-sgI2YDCo0hww&oe=6B0DA8D5"
+        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/725924375_18131885713537851_5040227437345967588_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=MzkyMjIwNjU2NDQ5NzQyMTAwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=bln01WAXgAIQ7kNvwG38S01&_nc_oc=Adqmlta9msvpPKD4ROdvv_dGy4kK5BhrMkZKs3u0I2gSOW-VbeP9_pPOnYhA0o-7U7Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=o4OVFxCmbz4Vd5XbJYjCtg&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQkB0ygXda4IX7IiDTj7mOJbr1uKw9bsjtjGqRNptKTJw&oe=6B0E1561"
       ],
       "video_url": null,
       "video_poster": null,
-      "_keyword": "독서"
-    },
-    {
-      "id": "DcqT5J6lDkN",
-      "username": "@sonysonybin",
-      "permalink": "https://www.threads.com/@sonysonybin/post/DcqT5J6lDkN",
-      "text": "sonysonybin 독서 기록 08/30/26 스레드 추천으로 읽은 홍학의 자리. 단숨에 다 읽었다. 마지막 반전은 정말 생각지도 못했다. 스레드 순기능이네. Translate 38 10 2",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/408382786_871208984809574_5857523374225488821_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gEkrpqfvkBa9L882OZ0qG2zAhUQN88BB4wJ3DzgxEcvmMLz70SQ00GClH7nW0uzjmk&_nc_ohc=jyZoo9LbUL0Q7kNvwEDiyS3&_nc_gid=KVWc7g9mqDw4AYzt2ASKSQ&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQT0ufVbopKHzsSsrkWGbFtwSCsFDk2anpN6YmPOVFULNw&oe=6B0D8738&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/791197013_17974299105107911_2796349171515685944_n.webp?_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=Mzk3NTA3NzExMTY0ODIzNzgzNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjExMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=FqrMBRVZd5cQ7kNvwF1S8X2&_nc_oc=AdpDBvM9I33dAGp3WjvKPozk_S795zmzRixvkO9VuVpEn6KyQpYd4kdZDw5z-pjGUo8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=KVWc7g9mqDw4AYzt2ASKSQ&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQS_ov5Ef_T79V4Cb_Sqzquz6ytK30gh3sfg1UJ9XDNg7Q&oe=6B0D7D11"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "독서"
-    },
-    {
-      "id": "DgMSpPPk_nE",
-      "username": "@vnfl2000",
-      "permalink": "https://www.threads.com/@vnfl2000/post/DgMSpPPk_nE",
-      "text": "vnfl2000 독서 9m 뭐든지 의심받고 의심할 만한 세상이 왔다. 나는야 전업 작가가 꿈인 사람. 신춘문예든, 공모든 투고든 내가 쓴 글임을 증명해야 한다. 너희는 어떻게 증명하고 있니? Translate",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://instagram.fpbc1-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-webp&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fpbc1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gExoER_FrPc7wbzdLdBYyhgc-1Ukum5acnPwTaTTXySB1AEVNlyhEKQn0SZ8QyRpRk&_nc_ohc=bGBDcqlxG9IQ7kNvwFp-uYP&_nc_gid=D7kwY6LbdC6SAYBF4_c9KA&edm=AL4D0a4BAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSP-aS3X5gi3hq2AeoEPjoWlORiT5VeTFC1WNAB_HI0nw&oe=6B0DA1EA&_nc_sid=9e8221",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "독서"
+      "_keyword": "동기부여"
     },
     {
       "id": "DfW-2xJkncO",
       "username": "@willingnessact",
       "permalink": "https://www.threads.com/@willingnessact/post/DfW-2xJkncO",
-      "text": "willingnessact 11/05/26 임상심리사입니다. 제발 부탁입니다. 무기력할 때 동기부여 영상, 자기계발 책 같은 것 쫓지 마세요. 억지로 의지 끌어올리기, 빽빽한 계획표보다 진짜!!! 중요한 건 따로 있습니다. 상담실에서 첫 상담 때 딱 보입니다. 하루 종일 누워만 있다는 사람과 힘들어도 조금씩 움직이는 사람. 그 결정적 차이가 어디서 오는지 아십니까? Translate 274 14 48 31",
+      "text": "willingnessact 11/05/26 임상심리사입니다. 제발 부탁입니다. 무기력할 때 동기부여 영상, 자기계발 책 같은 것 쫓지 마세요. 억지로 의지 끌어올리기, 빽빽한 계획표보다 진짜!!! 중요한 건 따로 있습니다. 상담실에서 첫 상담 때 딱 보입니다. 하루 종일 누워만 있다는 사람과 힘들어도 조금씩 움직이는 사람. 그 결정적 차이가 어디서 오는지 아십니까? Translate 274 14 48",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/627768415_18020119736638072_7725695078659758697_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHVgXTuzCEUUMS9xIuCXcZ1vIat_j9LNt_ILu9QJoLVcZ6t1dD-RrPQMmc_heaRX2k&_nc_ohc=a7LKbW5dR2oQ7kNvwEXYC81&_nc_gid=iQ3KXu3H6iyOAw68VFz-Bg&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQT6RVTLCkWnT-aCyn999zwqwareKbQJaY62NF3p6iTDWg&oe=6B0D7B8A&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/627768415_18020119736638072_7725695078659758697_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEZWA9yd4ie6cbUeQ1kEKNzvkQbVFf94NI7EJ-CMqE_b1yt_8zzf3SgUgonztU11N8&_nc_ohc=a7LKbW5dR2oQ7kNvwFuOXSx&_nc_gid=o4OVFxCmbz4Vd5XbJYjCtg&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQTfuiiEAnSnG6BRFA7zB_GOVEpeV1hMtVJINUo40TgouA&oe=6B0E244A&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
       "_keyword": "동기부여"
     },
     {
-      "id": "DXgXNs8E34w",
-      "username": "@lifeccing",
-      "permalink": "https://www.threads.com/@lifeccing/post/DXgXNs8E34w",
-      "text": "lifeccing 동기부여 04/24/26 동기부여는 허상이고, 실행만이 중요하다 이 말 어떻게 생각해?? 스치니들은 매일 스스로 동기부여 해 ? 안해? 한다면 어떻게 해? Translate 29 41 3",
+      "id": "DCachDbz2Pm",
+      "username": "@mingyeol.pen",
+      "permalink": "https://www.threads.com/@mingyeol.pen/post/DCachDbz2Pm",
+      "text": "mingyeol.pen 11/15/24 남편이 500만원 지원해준대!! 주언규님의 라이브를 봤어. 유튜브 강의였는데 비즈니스PT 관련된 내용이야. 작년 초반에 진짜 하고 싶었지만 나는 전업주부야. 가끔 들어오는 일정하지 않은 내 수입으로는 매달 50만원이라는 돈은 부담스러워. 그래서 선뜻하지 못했어. 어제 라이브을 보고 남편과 밤에 이야기을 했지. 난 해보고 싶다는 이야기도 하지 않았는데도 내 마음을 알았는지 해보라는거야! 남편이 말하길 “하고 싶은거 있을 때 다 해보라”는거야. 나이가 많으면 하고 싶은게 없고 열정이 없어져서 못 한다는 거야. 감동이었어. 그리고 지원받는다는거에 대한 부담을 느낄까봐 해보고 잘 안되고 뭐든 배울거라는거야. 유튜버나 동기부여, 강의 하는 사람들 중 남편이 유일하게 인정하는 사람이 주언규님 @sinsaimdang.official 약간은 고지식하고 FM인 남편은 사람을 잘 안 믿고 인정하지 않거든. 그런 사람이 인정하고 해보라고 하니 의욕이 뿜뿜되는거야!! 그런데 문제는… Translate 14 5 1",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/358812123_244517971705291_469495912576385454_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHVgXTuzCEUUMS9xIuCXcZ1vIat_j9LNt_ILu9QJoLVcZ6t1dD-RrPQMmc_heaRX2k&_nc_ohc=dLuhzKnHLcsQ7kNvwGm_gjH&_nc_gid=iQ3KXu3H6iyOAw68VFz-Bg&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRwPrhXAXEwkO1PPDoQ-bra9yIb2ypRm-IW2ig3p2veMQ&oe=6B0DABBB&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/784617572_17983635651102262_5829028404073411115_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MDAuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gEZWA9yd4ie6cbUeQ1kEKNzvkQbVFf94NI7EJ-CMqE_b1yt_8zzf3SgUgonztU11N8&_nc_ohc=7-uuSWlLj44Q7kNvwE4-a2A&_nc_gid=o4OVFxCmbz4Vd5XbJYjCtg&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRnrODjWRJS5e0weIgpK9Xkfh6f_NXLuMFsiPevXXWvPA&oe=6B0E11EC&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
       "_keyword": "동기부여"
     },
     {
-      "id": "DgKmK5oILfB",
-      "username": "@minkil3747486",
-      "permalink": "https://www.threads.com/@minkil3747486/post/DgKmK5oILfB",
-      "text": "minkil3747486 15h 나이가 든다. 이제 더 이상 노동의 시간은 줄어든다. 즉 힘으로 돈을 버는 시간이 줄어든다는 것이다. 그러면 당연히 수입이 줄어든다. 나이가 들수록 부유해지는 것이 아니라 더 춥고 배고픈 시절이 온다. 끔찍하다. 나는 더 쉽게 자동으로 벌 수 있는 시스템을 배우려고 한다. 그게 뭔지는 모르지만 공부한다. 반드시 알게 될 날이 올 것이다. 더 자유롭고 더 편안한 생활이 나를 기다린다. 나는 믿는다. #자기계발 #동기부여 Translate 3",
+      "id": "DfJQAkfk2Ze",
+      "username": "@coldwo__o",
+      "permalink": "https://www.threads.com/@coldwo__o/post/DfJQAkfk2Ze",
+      "text": "coldwo__o 10/31/26 대학생 시절 멘토링 및 과외 많이 했습니다 오늘도 인비절라인 교정중인 중학생 환자 장치 잘껴보자 동기부여 완료 Translate 16 7 2 2",
       "has_image": true,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/819031192_18088597034437404_8073124697094927889_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHVgXTuzCEUUMS9xIuCXcZ1vIat_j9LNt_ILu9QJoLVcZ6t1dD-RrPQMmc_heaRX2k&_nc_ohc=e7plSgVty0IQ7kNvwFq-EbR&_nc_gid=iQ3KXu3H6iyOAw68VFz-Bg&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQUbhaKPo_F7Nk4xt_i_Ika9T6npDqmC2Dj7nKqJwlzxQ&oe=6B0D9AEA&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/581627775_18494129551078454_207966445333913679_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MTMuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gEZWA9yd4ie6cbUeQ1kEKNzvkQbVFf94NI7EJ-CMqE_b1yt_8zzf3SgUgonztU11N8&_nc_ohc=WhmG7wxDmu8Q7kNvwHYw1Nk&_nc_gid=o4OVFxCmbz4Vd5XbJYjCtg&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRioXXt23DVDQoF-7GPb6Qfp8dl-tvGFGTHHzAk5yJxXg&oe=6B0E317C&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/927938049_18103093316437404_1889743344733665162_n.webp?_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=NDAzODIwNzg5MDcyOTc3NzA4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xISjtozv8u4Q7kNvwEdwpHd&_nc_oc=AdoISWv_h_GRtJVD5XC8oG4pq4oGdWInMd53TPh8-ApvXIny-Dv0NMXo50KrGm8nzz0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=iQ3KXu3H6iyOAw68VFz-Bg&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSMOj5L7KWgi2CD9zENmPig4ID7AGSo5356FpbwVzaquA&oe=6B0DA05D"
+        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/871063062_17981204145125413_577540680818653733_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=NDAxOTgxNDU1MDMzMzUxNTM1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNDMyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=e17h76bY8lAQ7kNvwGcB_hX&_nc_oc=AdrgUDB3zc5G_FinkHSuAVtYum527tXPT5BypS6jpK1hHYS6_84wiv9yM-k-Yy15jfE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=o4OVFxCmbz4Vd5XbJYjCtg&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQepZC626hlA1l6oWTa8g_Mmx4wz2kjN2Ckh7CKBmbo3A&oe=6B0E1A2E"
       ],
       "video_url": null,
       "video_poster": null,
       "_keyword": "동기부여"
     },
     {
-      "id": "DgLgSqLk4zl",
-      "username": "@jglory199",
-      "permalink": "https://www.threads.com/@jglory199/post/DgLgSqLk4zl",
-      "text": "jglory199 스레드긍정효과 7h 스레드 덕분에 오늘도 6시 칼기상~!!^^ 성경책 읽고 / 책 읽다가(돈의속성) 출근하기!🤩 스치니들의 모닝루틴 열심이 나에게 긍정적 동기부여 되는 중~🧐 정말 대단하고 멋져들~👍 모두를 위해 기도할게~🙏🎀 나처럼 스레드 하고나서 달라진거 있어? Translate 4 4 2",
+      "id": "Df8cEBfAG-W",
+      "username": "@myl6001",
+      "permalink": "https://www.threads.com/@myl6001/post/Df8cEBfAG-W",
+      "text": "myl6001 6d 내 고향 충남 부여 궁남지에 눈이 쌓이고 있다네요. 실시간으로! Translate 131 12 3",
       "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/927393643_18088169594348561_663612223738890839_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHVgXTuzCEUUMS9xIuCXcZ1vIat_j9LNt_ILu9QJoLVcZ6t1dD-RrPQMmc_heaRX2k&_nc_ohc=sOtaNiApS1MQ7kNvwHlLqNU&_nc_gid=iQ3KXu3H6iyOAw68VFz-Bg&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRxz0dCuxStY--VtoFFA_zXYlFj0Kl39dbCkjMMTOnk2w&oe=6B0D917C&_nc_sid=10d13b",
+      "has_video": true,
+      "thumbnail_url": "https://instagram.fdps4-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-webp&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fdps4-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gFRJCsFQaJ29lN8cjmKadpRQ66hKZYlmL3XFQmqBZ3TvjlLbGZeztelFgvKvdYbr_Di0NoYWU2F1i-nXdSHxNf9&_nc_ohc=bGBDcqlxG9IQ7kNvwEARoWb&_nc_gid=yUiIjGXLMRSKfbKPf4pSmA&edm=AL4D0a4BAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQS9cCPEdKRdQny4yaaNPA_SlRQCAv-uU61WfcS_yXNFfg&oe=6B0E126A&_nc_sid=9e8221",
       "media_images": [
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/929799806_18088573010348561_97527623036227699_n.webp?_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=NDAzODQ2MzUxMDU5ODA5NDA1Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ObL3nfb3lYYQ7kNvwEp-3u5&_nc_oc=AdqpaG3SHKnu_KAadlqlCV316nZojgTLE69-GLvVzeSMvG1tiUS4v-1aZ3SIJYFCQ58&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=iQ3KXu3H6iyOAw68VFz-Bg&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSQ-K8NXVRwC_rEB28hC378YobgfFDC8DOtvjYrhtfd-w&oe=6B0D8CA2"
+        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/915797616_17958219639277638_2394627916350363110_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=NDAzNDIyMjc4Nzk5MTIwMzczNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTkyMC5zZHIudmlkZW9fZmlyc3RfZnJhbWVfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=enEjsx_he7gQ7kNvwEUCijp&_nc_oc=AdrYwTTKmz0tkeu1FsSmTN7hPwew5jsde4I0q7gmnHse9s8tw9ssa5F3TiOvLPMAM8Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=o4OVFxCmbz4Vd5XbJYjCtg&_nc_ss=7a30f&_nc_ct=RQosPBUIFQolBAAAAA&oh=00_AQTMzbD3cyZP_2nW2eU1C0q2MHvWCxiZbW1rgyboZUA70g&oe=6B0E1487"
       ],
-      "video_url": null,
+      "video_url": "https://scontent-ord5-1.cdninstagram.com/o1/v/t2/f2/m366/AQP56FHuJwTxGl-gNy0cNSfZe5hc-kp4hLIeW5rpcnwyW7gOkByxb306bctjHw37TfVHwyDsNkMyCwo-BPcoyn6o92iXCzGHKFDl7BpPSAsBYw.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_ohc=GRprn4yohdQQ7kNvwHVjc2G&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExODU4MzA3NDA3NzYwNzMsImFzc2V0X2FnZV9kYXlzIjo2LCJ2aV91c2VjYXNlX2lkIjoxMDEyMywiZHVyYXRpb25fcyI6MzYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=af9b1ed10b4ea5c1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81NUEyMEFGQTFBNkM0NUE5OTk0NDRFN0ZGREZFOEEzM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0M3QzBFNDcwODk4MTQ3QUZBNUUyQTQyMzU4OTEwQTk4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaS0orBt6CbBBUCKAJDMywXQEJZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHXqB2WWngEA&_nc_gid=o4OVFxCmbz4Vd5XbJYjCtg&_nc_ss=7a30f&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=Une8chQWbidxxIJmIPv0O0hS3WK-WDntbZzPeuTSKlzkUnZmkxt9cOBrZsP9Ecj2Dgc93spA6CjEmp2t49ijBkd7QurmHfUezL5Sr01L2UAIZ6CcnwmCDJh8S3o&oh=00_AQRVNKruvGAD5Z4nlNZK8HPmmVqAgcWskOn8XaKOtUB33w&oe=6B0E1E0A",
       "video_poster": null,
       "_keyword": "동기부여"
     },
     {
-      "id": "DG5ljyMSXpq",
-      "username": "@j___hyun___j",
-      "permalink": "https://www.threads.com/@j___hyun___j/post/DG5ljyMSXpq",
-      "text": "j___hyun___j 스하리 1000명 프로젝트 03/07/25 스하리1000명프로젝트 동기부여가 필요해?! 나 팔로우 해놓고 언제든지 찾아와! 내목소리로 직접 동기부여 해줄게!🙋 . . 뒷삭 하지말구 꾸준히 같이 성장해가자 바로 반하리 갈게! 딱기다려🤝🤝 다 눌러줄게! 믿으면 복이 오고 다 잘될거야 Translate 38 44 28",
+      "id": "Dft5bOKD1M2",
+      "username": "@dr.jinyeong",
+      "permalink": "https://www.threads.com/@dr.jinyeong/post/Dft5bOKD1M2",
+      "text": "dr.jinyeong 11/14/26 병원 원장님들, 직원분들 칭찬을 아끼지 마세요. 칭찬은 가장 강력한 동기부여 중 하나거든요. 그리고, 막연한 칭찬보다는 어떤 행동이 도움이 됐는지 설명하는게 좋습니다. 예를 들어 보자면, Translate 14 2 1",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/482671046_663040289447238_4704230439453354711_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHVgXTuzCEUUMS9xIuCXcZ1vIat_j9LNt_ILu9QJoLVcZ6t1dD-RrPQMmc_heaRX2k&_nc_ohc=4tKU-ennrI0Q7kNvwFbw_ZI&_nc_gid=iQ3KXu3H6iyOAw68VFz-Bg&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQAcVQYwNjBSsXIY6DxZN_cCUAtlvzbW6gOfZ5zlBlwGQ&oe=6B0DA798&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/848014633_18130970002700949_1504036746279290643_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41OTAuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEZWA9yd4ie6cbUeQ1kEKNzvkQbVFf94NI7EJ-CMqE_b1yt_8zzf3SgUgonztU11N8&_nc_ohc=5FXc7EO64uUQ7kNvwE9JteX&_nc_gid=o4OVFxCmbz4Vd5XbJYjCtg&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSB4TC6UhCXdqTIv5Ys8x5Z3iUcymU-1YLnOvXqGbd64A&oe=6B0E2C17&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
       "_keyword": "동기부여"
     },
     {
-      "id": "DHIfA9wBGXv",
-      "username": "@jinnn_hae",
-      "permalink": "https://www.threads.com/@jinnn_hae/post/DHIfA9wBGXv",
-      "text": "jinnn_hae 03/13/25 ⭐️제일 기분 좋은 알람⭐️ 님들은 폰에서 어떤 알람 봤을때 기분 좋아 ?? Translate 94 91 4 1",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/494147250_17876575632319417_651557800321204801_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHVgXTuzCEUUMS9xIuCXcZ1vIat_j9LNt_ILu9QJoLVcZ6t1dD-RrPQMmc_heaRX2k&_nc_ohc=-Cutlch0a40Q7kNvwEE9twL&_nc_gid=iQ3KXu3H6iyOAw68VFz-Bg&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRQFkWtHtWIf_DY2GJCZPlWuNA9kUGq5KMsXlZ6U_mUUw&oe=6B0D8638&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.75761-15/483902791_17870873349319417_8935961876695642954_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=MzU4NzI1MzUwODk0NjI5MDE1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTEyNS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=RTT1-75vd40Q7kNvwGIfPG5&_nc_oc=AdrrKATZSQe0GO9W87Sr1XfK8owbuXIM5pZUGgRup-Fl4Em32VMUqd48D5_wlOrcfyk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=iQ3KXu3H6iyOAw68VFz-Bg&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTMoPG_jZaH9PWMB2YGHlgOSAYiD9FrFuGgnsIGsVlkFg&oe=6B0D9412"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "동기부여"
-    },
-    {
-      "id": "DX3kELnFO2j",
-      "username": "@joyel_jin",
-      "permalink": "https://www.threads.com/@joyel_jin/post/DX3kELnFO2j",
-      "text": "joyel_jin 05/03/26 제정신이면 수치스러워 지원하겠어? Translate 2K 95 55 11",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/488185115_1386067305938047_948931502759181612_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHVgXTuzCEUUMS9xIuCXcZ1vIat_j9LNt_ILu9QJoLVcZ6t1dD-RrPQMmc_heaRX2k&_nc_ohc=V_h2qw1q5L8Q7kNvwExpaSZ&_nc_gid=iQ3KXu3H6iyOAw68VFz-Bg&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRklG6t1s6ipnmhyWbmeYp4mCngh-gqzI5jv1uY04xYOQ&oe=6B0D9B6A&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/682740892_17951574489131813_3232178339511064495_n.webp?_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=Mzg4ODczNTQyMDI3Njg2MjM3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuOTI4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=mwO9zA3S_1cQ7kNvwEm60Tm&_nc_oc=AdoalTqLBO7aU_vCiAXNM1m11klJGq25GMWziG8SaklPpNcfJIDsUFQGycW9gZBW4jQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=iQ3KXu3H6iyOAw68VFz-Bg&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRJyHwGcYIz_cAaL5qyQiJ825W1h7kyPpr4t1ULtbLzeA&oe=6B0D75EA"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "동기부여"
-    },
-    {
-      "id": "DgLrY_8k_vt",
-      "username": "@tiger_balance",
-      "permalink": "https://www.threads.com/@tiger_balance/post/DgLrY_8k_vt",
-      "text": "tiger_balance 5h 다들 굿모닝🐯 육아할 때 정말 손목이... 너덜너덜... 너무 아프지? 우리 TFCC 손목보호대는 일상용 손목보호대로써 판매 중인데 육아할 때 사용하신 후기를 보니 육아용품 전용으로 한번 색깔을 바꿔서 만들어 봐야하나~ 생각이 드는 아침이야😃 심지어 지난 번에는 감아쓰는 랩 형태 두꺼운 손목보호대를 육아할 때 쓰신다고 로고 빼달라는 요청을 받기도 했어 😎 제대로 된 육아 전용으로 손목 단단히 고정되는 손목보호대도 출시 하면 잘 팔릴까??? 스치니들 생각은 어때??👀 반하리 스하리 대환영🐯 같이 성장 하자 !! 의리의리 !! 뒷삭 절대 없음✖️ Translate 25 14 23",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/481091778_946879150889439_8389984120336533690_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NDAuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGr6tLFmzO8_4OLNh5h3AWeTWweH0jlxvL72XdKQn9Ub9RCJWAtzbtPfoA5cEeZrGE&_nc_ohc=ysZaP9nb2P0Q7kNvwEn-Pz_&_nc_gid=ss-TCg-JGZW6vDW5jqF9Ag&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQwG5lnC_7N4zjNTiGzzO0Kc50JYtZ3mHUHKwx5pX-_jw&oe=6B0D7469&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/930878082_17932218948435951_6002270819843299690_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=NDAzODUxMjMyNDc5NzI2NjkyNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=cV3sArWCL7sQ7kNvwG2Nxxz&_nc_oc=AdqM90m7bUM-qvq9otym6YoBAS922c0XopF1TLlQr6PTQvWmasUVKt0uJqB-aif997w&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=ss-TCg-JGZW6vDW5jqF9Ag&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSvBN5k-l4jneL-rJ38_acVis_qa3UxFQ8573GM8x5chw&oe=6B0D7512"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "성장"
-    },
-    {
-      "id": "DgF2Mg6k8m2",
-      "username": "@onega900",
-      "permalink": "https://www.threads.com/@onega900/post/DgF2Mg6k8m2",
-      "text": "onega900 2d 젠슨 황의 엔비디아 복귀는 AI 산업의 새로운 판도가 시작되는 신호일지도 모릅니다. 제가 전부터 말씀드렸듯이, 눈앞의 반도체에만 집중하지 마세요. 진짜 발굴할 만한 기회는 스마트 제조 산업에 있습니다. 그리고 제가 주목하는 다음 성장 분야는 바로 휴머노이드 로봇 산업입니다. 지금부터 미리 준비한다면, 2027년에는 서울에 빌라 한 채를 마련할 기회가 생길지도 모릅니다. Translate 9 2",
+      "id": "DgMIguKAcjs",
+      "username": "@nanhandamyunhanda",
+      "permalink": "https://www.threads.com/@nanhandamyunhanda/post/DgMIguKAcjs",
+      "text": "nanhandamyunhanda 11h 동기부여는 전문성이 필요 없는 비즈니스다 사람들은 동기부여를 하려면 억만장자가 되거나 권위를 갖춰야 된다고 생각하는데 사실 동기부여 전문가는 의사나 변호사 같은 전문직이 아니다 Translate 5 5 1",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/900732935_18100233980252200_5122037880533923860_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGr6tLFmzO8_4OLNh5h3AWeTWweH0jlxvL72XdKQn9Ub9RCJWAtzbtPfoA5cEeZrGE&_nc_ohc=nGyvSvCS5FIQ7kNvwHknd-X&_nc_gid=ss-TCg-JGZW6vDW5jqF9Ag&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQG0GtA8IZ8ck10iWwCgZVDHFgiQAg4AKy63eeMAWfTLg&oe=6B0DA7BE&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/926947707_18110902277257215_8492271204755415878_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEZWA9yd4ie6cbUeQ1kEKNzvkQbVFf94NI7EJ-CMqE_b1yt_8zzf3SgUgonztU11N8&_nc_ohc=ussHDsKjmzMQ7kNvwG6wqZA&_nc_gid=o4OVFxCmbz4Vd5XbJYjCtg&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSwuJECYYThEfZr8minx3qXFGhi_Z_ehHkBqqZ0_v7DUw&oe=6B0E1D86&_nc_sid=10d13b",
+      "media_images": [],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "동기부여"
+    },
+    {
+      "id": "DgKzN2emhVB",
+      "username": "@durbinb74870",
+      "permalink": "https://www.threads.com/@durbinb74870/post/DgKzN2emhVB",
+      "text": "durbinb74870 1d 4.3 % GDP growth. Almost unheard of. 52 35 1",
+      "has_image": false,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/587785580_17842135287637932_4528205785986344614_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFOz1_WQJW3s3r9kJNzd_cu7sGMMWDfTHYs0J8iy2v3dFwahBN8C0lRR2X3QQIDCfE&_nc_ohc=0kotWoLjyKQQ7kNvwHSsL3a&_nc_gid=vBX02bey5qYoCLyZ-hv_Gw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQPsMhicvgdYHqqSNKpVwd2U5KTwsMMbT0COs_AIMWRAA&oe=6B0E22CE&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
       "_keyword": "성장"
     },
     {
-      "id": "DbufVInGRqm",
-      "username": "@jakyun_kim",
-      "permalink": "https://www.threads.com/@jakyun_kim/post/DbufVInGRqm",
-      "text": "jakyun_kim 08/06/26 스치니들 이제겨우 2백명 조금 넘었다 언제 천명 만명 돼나 ㅜㅜ 다들 도와줘 스하리 ㅡ 반하리 무조건 뒤삭 그런거 할줄 몰라 늦어도 반하리 무조건 가고 의리있게 같이 성장 하자 다들 스하리 해줘 Translate 139 119 105",
-      "has_image": true,
+      "id": "DgNYNmWEY5I",
+      "username": "@jefftoppall",
+      "permalink": "https://www.threads.com/@jefftoppall/post/DgNYNmWEY5I",
+      "text": "jefftoppall 6m Top line growth does not mean widely shared benefits",
+      "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/576496524_17844127983610032_4921054961200657020_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGr6tLFmzO8_4OLNh5h3AWeTWweH0jlxvL72XdKQn9Ub9RCJWAtzbtPfoA5cEeZrGE&_nc_ohc=eKAGG_YmiB8Q7kNvwESxaDk&_nc_gid=ss-TCg-JGZW6vDW5jqF9Ag&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSrtE4SrXO_pcco2cYIUZWJQMJ3Tn6Itrg8BmB85JajSQ&oe=6B0D888D&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/766241317_17886260967610032_7298718935278952386_n.webp?_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=Mzk1ODIzODIzODcyNzIwMTcyMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=2CPntSPHmQgQ7kNvwFoi-iu&_nc_oc=AdqoefJxXNwNzj1RvfizXbwtxEV1EF9XigR3o0XTiP6f6hhM4joQaqgqbaUnpdpXOFk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=ss-TCg-JGZW6vDW5jqF9Ag&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRUJ0bcqbLKl0Y1QqKvHaKFaElXEU7hBECYnCUqNTNHZA&oe=6B0DA25A",
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/766287808_17886260994610032_8987227141802442286_n.webp?_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=Mzk1ODIzODIzODY1MTYzNTM1Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=15GFxRkdDocQ7kNvwEd8laj&_nc_oc=AdoWGWYNS-LJPwoNYTFWvZW0-9DIkQZkQAq11_rFqxDSVp6Paru_srY7PdKMI2ltd6g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=ss-TCg-JGZW6vDW5jqF9Ag&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQY5pQEIxTPEHdHysvYiRCj9piHni_eClTtO33WtMzq_Q&oe=6B0D9CE2",
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/768962950_17886260985610032_1157916516679427382_n.webp?_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=Mzk1ODIzODIzOTM4OTgwNDYwMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=BLlvnIaPvwEQ7kNvwH-h4KQ&_nc_oc=AdrtuJyDXHUMXEvkBhAdDlWq1d3vEySSeNKPXyPyMtrYc_be8gBjZfrsHspG1N--tKQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=ss-TCg-JGZW6vDW5jqF9Ag&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQS9WT3-5p8t-B8qD1cPxvBsvKRWSWEfDeG3_L80o3Dcwg&oe=6B0D7B39",
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/769025539_17886260976610032_986516385888607337_n.webp?_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=Mzk1ODIzODIzOTE5Njg0NzgxNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_TOIkdK3UFYQ7kNvwGYgxvD&_nc_oc=AdpAc8NLRtyZUTMYBXifGklIEu_mKAjjbrqw8h4DUIYtMvsYXW3su2-4eaoMF_Ltb8I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=ss-TCg-JGZW6vDW5jqF9Ag&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQ6XAkFmCE6HWrkhjWxSe4dGX0p6c9lVr5XTiT_HJVRxQ&oe=6B0D9EF2"
-      ],
+      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/523029699_17916017595112815_3413132150932680574_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFOz1_WQJW3s3r9kJNzd_cu7sGMMWDfTHYs0J8iy2v3dFwahBN8C0lRR2X3QQIDCfE&_nc_ohc=IGm_C2UofpUQ7kNvwFlAY6a&_nc_gid=vBX02bey5qYoCLyZ-hv_Gw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQgW9DC7WRtXE9XfA-ea6DEJToi-oUR56xsvy8PNiWhog&oe=6B0E305B&_nc_sid=10d13b",
+      "media_images": [],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "성장"
+    },
+    {
+      "id": "DgNVLQYEvNT",
+      "username": "@no1_motoshop",
+      "permalink": "https://www.threads.com/@no1_motoshop/post/DgNVLQYEvNT",
+      "text": "no1_motoshop 스하리 1000명 프로젝트 32m 우와 100명 글 올린지 얼마안됐는데 벌써 200명되기 4명전이야!!😍 지금 시간이 늦었지만 화력 보여줄수 있어? 난 뒷삭없고 조금 늦어도 반하리 무조건 가🤟 나랑 맞팔하고 소통할래? Translate 23 31 18",
+      "has_image": false,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/854624218_18131589967803655_6703232215247966653_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFOz1_WQJW3s3r9kJNzd_cu7sGMMWDfTHYs0J8iy2v3dFwahBN8C0lRR2X3QQIDCfE&_nc_ohc=y-U5_9b-E_0Q7kNvwFbgyMi&_nc_gid=vBX02bey5qYoCLyZ-hv_Gw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQROif2r2bfu3aZyx6iGjysHqIlsoX96j-s2LxhcyjIZwg&oe=6B0E15BF&_nc_sid=10d13b",
+      "media_images": [],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "성장"
+    },
+    {
+      "id": "DgM7DYRk0ac",
+      "username": "@daily_vibe_log",
+      "permalink": "https://www.threads.com/@daily_vibe_log/post/DgM7DYRk0ac",
+      "text": "daily_vibe_log 4h 스레드 혼자 크는것 보다 같이 크는게 빠르지🔥 스하리=반하리 나 리포도 잘 한다구!!!🫶 Translate 42 36 26",
+      "has_image": false,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/641291331_18050180777505974_6942343748107866746_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFOz1_WQJW3s3r9kJNzd_cu7sGMMWDfTHYs0J8iy2v3dFwahBN8C0lRR2X3QQIDCfE&_nc_ohc=X04aQP3VleoQ7kNvwFrvpIF&_nc_gid=vBX02bey5qYoCLyZ-hv_Gw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQTaNawl5DL1hx71YmU3gzrfV7Z93s5FyLicqdxu9wLaeQ&oe=6B0E2450&_nc_sid=10d13b",
+      "media_images": [],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "성장"
+    },
+    {
+      "id": "DgNUZoIkiPA",
+      "username": "@marketernana7",
+      "permalink": "https://www.threads.com/@marketernana7/post/DgNUZoIkiPA",
+      "text": "marketernana7 스하리 1000명 프로젝트 39m 스하리로 만난 사람들끼리 서로 리포까지 챙겨주면 얼마나 좋아ㅋㅋ 혼자만 성장하는 것보다 같이 올라가는 게 더 재밌잖아! 의리 있는 사람들 모여🔥 Translate 26 24 22",
+      "has_image": false,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/754960222_18141663064498491_2062612368594379715_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFOz1_WQJW3s3r9kJNzd_cu7sGMMWDfTHYs0J8iy2v3dFwahBN8C0lRR2X3QQIDCfE&_nc_ohc=sSavxiHjh4kQ7kNvwHtda3P&_nc_gid=vBX02bey5qYoCLyZ-hv_Gw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRVKXAY-twHhIYvocYEw4EgX8P5pSArGudFGAQI-xFjRA&oe=6B0E2D34&_nc_sid=10d13b",
+      "media_images": [],
+      "video_url": null,
+      "video_poster": null,
+      "_keyword": "성장"
+    },
+    {
+      "id": "DgHeBUNE1ny",
+      "username": "@mkk_app",
+      "permalink": "https://www.threads.com/@mkk_app/post/DgHeBUNE1ny",
+      "text": "mkk_app 2d 게임 출시한지 한달 반 됐는데, 20일에 100만원 정도 벌리는 상황인데… 잘 성장 중인건가? 앞으로 쭉 밀고 가도 되겄지? Translate 159 40 7 1",
+      "has_image": false,
+      "has_video": false,
+      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/896222490_17920247874282058_58880073692843490_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzQuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFOz1_WQJW3s3r9kJNzd_cu7sGMMWDfTHYs0J8iy2v3dFwahBN8C0lRR2X3QQIDCfE&_nc_ohc=-Ns5OgdOhg8Q7kNvwE9Y-B2&_nc_gid=vBX02bey5qYoCLyZ-hv_Gw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSl2Z7bh7CRPtFdZ1k8-ig7CqR2JVEyoJJP9NbcaIbhRg&oe=6B0E25C9&_nc_sid=10d13b",
+      "media_images": [],
       "video_url": null,
       "video_poster": null,
       "_keyword": "성장"
@@ -508,69 +522,25 @@
       "id": "Df6rVnxDfvY",
       "username": "@seoritae.myeongga_official",
       "permalink": "https://www.threads.com/@seoritae.myeongga_official/post/Df6rVnxDfvY",
-      "text": "seoritae.myeongga_official 서리태 6d 11월, 서리태 수확을 하고 6개월간의 서리태 성장 과정을 되돌아보니 2026년을 뜻깊게 마무리한 기분이에요☺️ 우린 이제 이 서리태를 가지고 다시 새로운 연구를 시작해요🔬 서리태의 성장을 지켜봐주세요!!! Translate 4 2",
+      "text": "seoritae.myeongga_official 서리태 11/19/26 11월, 서리태 수확을 하고 6개월간의 서리태 성장 과정을 되돌아보니 2026년을 뜻깊게 마무리한 기분이에요☺️ 우린 이제 이 서리태를 가지고 다시 새로운 연구를 시작해요🔬 서리태의 성장을 지켜봐주세요!!! Translate 4 2",
       "has_image": true,
       "has_video": true,
-      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/783509142_18092755724160633_6882824597724259213_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41ODcuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGr6tLFmzO8_4OLNh5h3AWeTWweH0jlxvL72XdKQn9Ub9RCJWAtzbtPfoA5cEeZrGE&_nc_ohc=2plHTNIG9XIQ7kNvwGv90Ou&_nc_gid=ss-TCg-JGZW6vDW5jqF9Ag&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRVZd8YFTyYjtI_AbGawp8elWotVkWoZvOED6Uly2mLQQ&oe=6B0D7BB9&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/783509142_18092755724160633_6882824597724259213_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41ODcuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFOz1_WQJW3s3r9kJNzd_cu7sGMMWDfTHYs0J8iy2v3dFwahBN8C0lRR2X3QQIDCfE&_nc_ohc=2plHTNIG9XIQ7kNvwFz5y6I&_nc_gid=vBX02bey5qYoCLyZ-hv_Gw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQoZl2m3EuqAqF2CzgOcvsgMJnXJmQ6hf2mKHLMJBc4VQ&oe=6B0E2479&_nc_sid=10d13b",
       "media_images": [
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.71878-15/913097536_1114610478246687_3799363233280050276_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMzcyNzAxODA3MTYyMDU2OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19maXJzdF9mcmFtZV90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=kBmcTJrPMr0Q7kNvwEBPjot&_nc_oc=AdorpicuTy6Tx4eaPYi7PZhDAtdkKbTbqrhoFVDd_5zkGIwd4wmQNYpCkRkFksMEKM4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=ss-TCg-JGZW6vDW5jqF9Ag&_nc_ss=7a30f&_nc_ct=RQosPBUIFQolBAAAAA&oh=00_AQTJ2OtD3orH7JmiNgKMjb7umDNK6xqez-gMrFgCy-NtLA&oe=6B0D90B6"
+        "https://scontent-ord5-2.cdninstagram.com/v/t51.71878-15/913097536_1114610478246687_3799363233280050276_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMzcyNzAxODA3MTYyMDU2OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19maXJzdF9mcmFtZV90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=kBmcTJrPMr0Q7kNvwFk4l7P&_nc_oc=AdqYS0oVnRn2SZoiBCz6cA07MewB2Htl3prVWkKLe1SdsRvdt1O4krkBQujwXtuMn24&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=vBX02bey5qYoCLyZ-hv_Gw&_nc_ss=7a30f&_nc_ct=RQosPBUIFQolBAAAAA&oh=00_AQRrssuzlHjZ6YkKt7DYbvNvZzxv--i92sSOaWyW2TyPjA&oe=6B0E3976"
       ],
-      "video_url": "https://scontent-ord5-2.cdninstagram.com/o1/v/t16/f2/m84/AQM0KBbo2gyCLB5YiWzhwAbvrXvp8NRYDYXCm5FuO_gWYq19Z3S1FCTXMINVJbxUuga0WzETpWjZIEK8xEbRbObUHmi7_CleuUjK6NU.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_ohc=Q-A0AcgOVicQ7kNvwFqeG_x&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxNzk2MTQ0NjAwNzA1MDA4MywiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTY0LCJkdXJhdGlvbl9zIjoxOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=21ad4422df38810e&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC82RDJDNUU0OUE1RDg0NTQ5OTkzMDhEOTE1QjBFQjI3NV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0JBM0RBNjBBMUZBRTQ3Q0RBNEI1MkI1Mjk2QzM3QkJEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbGvbiO4fXnPxUCKAJDMywXQDIIcrAgxJwYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeieAQA&_nc_gid=ss-TCg-JGZW6vDW5jqF9Ag&_nc_ss=7a30f&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSebQQcYUqfgaSQD7VieXsVqGJBXLHSLKDGdWZd8xWfGA&oe=6B09819B",
+      "video_url": "https://scontent-ord5-2.cdninstagram.com/o1/v/t16/f2/m84/AQM0KBbo2gyCLB5YiWzhwAbvrXvp8NRYDYXCm5FuO_gWYq19Z3S1FCTXMINVJbxUuga0WzETpWjZIEK8xEbRbObUHmi7_CleuUjK6NU.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_ohc=Q-A0AcgOVicQ7kNvwGT6w5y&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxNzk2MTQ0NjAwNzA1MDA4MywiYXNzZXRfYWdlX2RheXMiOjcsInZpX3VzZWNhc2VfaWQiOjEwMTY0LCJkdXJhdGlvbl9zIjoxOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=21ad4422df38810e&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC82RDJDNUU0OUE1RDg0NTQ5OTkzMDhEOTE1QjBFQjI3NV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0JBM0RBNjBBMUZBRTQ3Q0RBNEI1MkI1Mjk2QzM3QkJEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbGvbiO4fXnPxUCKAJDMywXQDIIcrAgxJwYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeieAQA&_nc_gid=vBX02bey5qYoCLyZ-hv_Gw&_nc_ss=7a30f&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSjDDecGIQVwNM6K2judEVLGPr0UBQXhMmj3OXSeyWpVA&oe=6B0A2A5B",
       "video_poster": null,
       "_keyword": "성장"
     },
     {
-      "id": "DgMCeEpE3Ml",
-      "username": "@ai_beat_note",
-      "permalink": "https://www.threads.com/@ai_beat_note/post/DgMCeEpE3Ml",
-      "text": "ai_beat_note 2h '전년 대비 300% 성장!' 이거 분모가 10이면 30된 거임 ㅋㅋ 성장률보다 절대 숫자를 먼저 봐야 함. 난 숫자 볼 때 분모부터 확인함 '300% 성장'에 속아본 적 있어? 스하라~ Translate 4 3 1",
+      "id": "DgLyLn7ksjd",
+      "username": "@fmpl_master",
+      "permalink": "https://www.threads.com/@fmpl_master/post/DgLyLn7ksjd",
+      "text": "fmpl_master 스하리 1000명 프로젝트 14h 조회수는 11만인데 팔로워는 아직 198명이다. ㅋㅋ 스하리 1,000명 프로젝트, 110명에서 시작해 어느덧 198명. 스레드에서는 실패기보단 각 종 실험과 항ㅅ께 아직 성장 중. 숫자만 늘리기보다 서로의 일상을 응원하는 좋은 스친을 만나고 싶다. 과연 내 200번째 스친은 누가 될까? Translate 126 185 93",
       "has_image": false,
       "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/929283665_18135310801779063_4072745986415882947_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGr6tLFmzO8_4OLNh5h3AWeTWweH0jlxvL72XdKQn9Ub9RCJWAtzbtPfoA5cEeZrGE&_nc_ohc=5-dtHFIzKwAQ7kNvwHwmZOb&_nc_gid=ss-TCg-JGZW6vDW5jqF9Ag&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQvzprIwlqITmxrhfi2yusK4Fy2Qppeq5EMnzETqSYk7Q&oe=6B0D9E99&_nc_sid=10d13b",
-      "media_images": [],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "성장"
-    },
-    {
-      "id": "Df1b2symsBU",
-      "username": "@gihyeonsug141",
-      "permalink": "https://www.threads.com/@gihyeonsug141/post/Df1b2symsBU",
-      "text": "gihyeonsug141 스하리 1000명 프로젝트 11/17/26 다들 스레드가 그렇게 재밌다고 해서 저도 드디어 시작해 봅니다. 첫 목표는 1,000명의 스친 만들기! 아직은 혼자 말하는 기분이라 조금 쑥스럽네요. 피드에서 마주치면 반갑게 인사 건네주세요. 앞으로 유용한 정보와 저의 갓생 성장 기록을 꾸준히 공유할게요. 편하게 스친해요🔥 Translate 147 110 96",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://instagram.fsyq1-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-webp&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fsyq1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gGZeLL_JU0xdxqKJXYCgf0ElTKf1WlxZrLhBCWhkUWdmxE2M4RpriA2oB8w-rEsHZI&_nc_ohc=bGBDcqlxG9IQ7kNvwHcZ02h&_nc_gid=CLZPmSsMvRU3S3nTl1NAcA&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSJnba06pAJ-lo4emH51KnpXjv9GVmYvs-j8u_CZ4Bv1w&oe=6B0D69AA&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/914174640_18109012610287024_463812286632570725_n.webp?_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMjI1MTQ3MzY1MDk2NDk1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUxMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=4JKj6JUHEqsQ7kNvwHI_sj1&_nc_oc=Adp5npFkz5LdVi_B9w4BRgDhuymGxu2SJniDqwidnSa_N8POhcN-d2A2-Jzqc1JTgHE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=ss-TCg-JGZW6vDW5jqF9Ag&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRhHtMrOvV39SMY6bHWE0qaOLO_A_SupXkOqZzfBXFIQg&oe=6B0D744E",
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/910506240_18109012601287024_2060871734311124144_n.webp?_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMjI1MTQ3MDk0MTMyNDIxNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUxMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xA0GDCBxrwIQ7kNvwE9D_Ai&_nc_oc=AdoPgtSg3nKpOaiRher9LCZCaMTdRFSry-jDyW2krKqKIs6SQrktrNyQ9BuQjJY10bE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=ss-TCg-JGZW6vDW5jqF9Ag&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQHZY2WKnjEpxpiN3mlFzfx9wAu-EMrPFW9kGii405YFQ&oe=6B0D7AC5"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "성장"
-    },
-    {
-      "id": "DfGN63Jk_bi",
-      "username": "@metaphoet",
-      "permalink": "https://www.threads.com/@metaphoet/post/DfGN63Jk_bi",
-      "text": "metaphoet Investing 10/29/26 저는 인텔 주가가 200달러에 도달했을 때 그것도 전부가 아닌 보유 수량의 7분의 2 또는 7분의 3 정도만 분할로 익절할 계획입니다 제 계획에는 변함이 없습니다 제가 가고자 하는 목표가 명확하기 때문에 이번 인텔 실적 발표에서도 제가 생각하는 인텔의 성장 방향이 흔들릴 만한 부분이 없었기 때문에 지금 인텔 주식을 중간에 매도할 이유가 없습니다 저는 앞으로 인텔의 EMIB-T 패키징에서 본격적으로 매출이 발생하는 것도 제 눈으로 직접 확인하고 애플 칩이 인텔 파운드리 공장에서 실제로 생산되는 모습도 확인할 생각입니다 그 과정에서 주가는 끊임없이 오르내리겠지만 제가 투자한 이유와 목표가 여전하다면 오늘처럼 주가가 요동치는 것은 저에게는 의미 없는 잡음입니다 여전히 저는 인텔 주식을 단 한 주도 팔 생각이 없습니다 😄 Translate 139 62 5",
-      "has_image": true,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/912057495_17995290750099405_1299521409238929692_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGr6tLFmzO8_4OLNh5h3AWeTWweH0jlxvL72XdKQn9Ub9RCJWAtzbtPfoA5cEeZrGE&_nc_ohc=bmn2YfUsGKgQ7kNvwGfZk6h&_nc_gid=ss-TCg-JGZW6vDW5jqF9Ag&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQjt__I7UfIts6OTTtb9nZ5T8jNIf8C7naNpvuCMA3img&oe=6B0D78FA&_nc_sid=10d13b",
-      "media_images": [
-        "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/863830354_17992249923099405_6284103698269808474_n.webp?_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODk2MDkzNzAyNTUzMzY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=tcrsvzTB5yQQ7kNvwEt4tzc&_nc_oc=Adqg0GgOwg-SmOKkwyhGIDRgt_HSoQPtiv9WFGQc0g9ztiAiZ3Tdxsh74WQIafGxWHE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=ss-TCg-JGZW6vDW5jqF9Ag&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQm4OpW_QjQT52iJM6dWsGhuaBD9AcyiqjkT850W__smA&oe=6B0D9A54"
-      ],
-      "video_url": null,
-      "video_poster": null,
-      "_keyword": "성장"
-    },
-    {
-      "id": "DZco9VAGRp2",
-      "username": "@today.is.newday",
-      "permalink": "https://www.threads.com/@today.is.newday/post/DZco9VAGRp2",
-      "text": "today.is.newday 06/11/26 \"오늘을 담는 성장 디자이너\" 윤미 강사 자기소개 할께. 🌱 심리상담사 ✍️ 아티스트웨이 안내자 📝 블로그 1일 2포스팅 📖 전자책《오늘도 숨을 고르는 중입니다》저자 😊 MBTI : ENFJ 📌 좋아하는 문장 \"자신이 정말 하고 싶은 것이란 곧 정말 하게 되어 있는 것이다.\" 이곳에서 🌱 상담하면서 느낀 것 ✍️ 글쓰기와 자기이해 🎨 아티스트웨이와 창조성 💛 오늘을 살아갈 힘 📚 배움과 성장의 기록을 담아보려고. 우리의 오늘이 조금 더 단단해질 수 있도록, \"상담과 글쓰기, 창조성을 연결해서 성장 이야기를 전하는 사람이야\" 반가워:) Translate 217 108 63 1",
-      "has_image": false,
-      "has_video": false,
-      "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/719851961_18124254382574732_5050901209690932139_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGr6tLFmzO8_4OLNh5h3AWeTWweH0jlxvL72XdKQn9Ub9RCJWAtzbtPfoA5cEeZrGE&_nc_ohc=fPSqKNh0dE4Q7kNvwHEema1&_nc_gid=ss-TCg-JGZW6vDW5jqF9Ag&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSqCiGESVlPf44e2I2axoCezlydUR3hpsOV2lr4778tUg&oe=6B0D89A7&_nc_sid=10d13b",
+      "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/727577105_18111286306759851_7521819786005931033_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFOz1_WQJW3s3r9kJNzd_cu7sGMMWDfTHYs0J8iy2v3dFwahBN8C0lRR2X3QQIDCfE&_nc_ohc=r4lZKHY6FoMQ7kNvwGHSoH8&_nc_gid=vBX02bey5qYoCLyZ-hv_Gw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQT8qHBlLbv7yX8zMPqU53zvAOezJpgvVtGfjxc0zrglcw&oe=6B0E34DB&_nc_sid=10d13b",
       "media_images": [],
       "video_url": null,
       "video_poster": null,
@@ -578,7 +548,7 @@
     }
   ],
   "summary": {
-    "total": 39,
+    "total": 38,
     "enriched": 0,
     "failed": 0
   }
